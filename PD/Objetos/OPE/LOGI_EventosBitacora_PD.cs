@@ -122,8 +122,8 @@ namespace PD.Objetos.OPE
                 otemp.enviado = 0;
                 DateTime primerdiames = new DateTime();
 
-                if (DateTime.Now.Day==1)
-                    primerdiames= new DateTime(DateTime.Now.Year, DateTime.Now.Month, 1).AddMonths(-1);
+                if (DateTime.Now.Day == 1)
+                    primerdiames = new DateTime(DateTime.Now.Year, DateTime.Now.Month, 1).AddMonths(-1);
                 else
                     primerdiames = new DateTime(DateTime.Now.Year, DateTime.Now.Month, 1);
 
