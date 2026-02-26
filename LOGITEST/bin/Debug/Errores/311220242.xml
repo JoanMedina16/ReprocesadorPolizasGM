@@ -1,0 +1,999 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:07:37 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:08:01 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:08:59 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>31/12/2024 02:09:18 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.NuevaBitacoraERROR(LOGI_ConexionSql_AD&amp; oConnection, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 33
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 84. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>INSERT INTO lm_tms_bitacora(servicio,documento_tms,mensaje,errores,socio,rfcsocio,fechadocto,subtotal,total,factura,pathenviado,facturaref,uuid,url,estatus)
+            VALUES(@servicio,@documento_tms,@mensaje,1,@socio,@rfcsocio,@fechadocto,@subtotal,@total,@factura,@pathenviado,@facturaref,@uuid,@url,1)</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:09:50 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:10:16 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:10:34 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:10:54 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:11:11 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:12:50 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:13:09 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:13:30 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>31/12/2024 02:13:51 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.NuevaBitacoraERROR(LOGI_ConexionSql_AD&amp; oConnection, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 33
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 84. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>INSERT INTO lm_tms_bitacora(servicio,documento_tms,mensaje,errores,socio,rfcsocio,fechadocto,subtotal,total,factura,pathenviado,facturaref,uuid,url,estatus)
+            VALUES(@servicio,@documento_tms,@mensaje,1,@socio,@rfcsocio,@fechadocto,@subtotal,@total,@factura,@pathenviado,@facturaref,@uuid,@url,1)</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:13:58 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:14:04 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:14:08 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:14:09 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:14:13 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:14:21 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:15:25 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>31/12/2024 02:15:41 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.NuevaBitacoraERROR(LOGI_ConexionSql_AD&amp; oConnection, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 33
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 84. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>INSERT INTO lm_tms_bitacora(servicio,documento_tms,mensaje,errores,socio,rfcsocio,fechadocto,subtotal,total,factura,pathenviado,facturaref,uuid,url,estatus)
+            VALUES(@servicio,@documento_tms,@mensaje,1,@socio,@rfcsocio,@fechadocto,@subtotal,@total,@factura,@pathenviado,@facturaref,@uuid,@url,1)</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:16:04 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>31/12/2024 02:16:10 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.NuevaBitacoraERROR(LOGI_ConexionSql_AD&amp; oConnection, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 33
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 84. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>INSERT INTO lm_tms_bitacora(servicio,documento_tms,mensaje,errores,socio,rfcsocio,fechadocto,subtotal,total,factura,pathenviado,facturaref,uuid,url,estatus)
+            VALUES(@servicio,@documento_tms,@mensaje,1,@socio,@rfcsocio,@fechadocto,@subtotal,@total,@factura,@pathenviado,@facturaref,@uuid,@url,1)</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>31/12/2024 02:16:18 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.NuevaBitacoraERROR(LOGI_ConexionSql_AD&amp; oConnection, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 33
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 84. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>INSERT INTO lm_tms_bitacora(servicio,documento_tms,mensaje,errores,socio,rfcsocio,fechadocto,subtotal,total,factura,pathenviado,facturaref,uuid,url,estatus)
+            VALUES(@servicio,@documento_tms,@mensaje,1,@socio,@rfcsocio,@fechadocto,@subtotal,@total,@factura,@pathenviado,@facturaref,@uuid,@url,1)</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>31/12/2024 02:16:26 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.NuevaBitacoraERROR(LOGI_ConexionSql_AD&amp; oConnection, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 33
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 84. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>INSERT INTO lm_tms_bitacora(servicio,documento_tms,mensaje,errores,socio,rfcsocio,fechadocto,subtotal,total,factura,pathenviado,facturaref,uuid,url,estatus)
+            VALUES(@servicio,@documento_tms,@mensaje,1,@socio,@rfcsocio,@fechadocto,@subtotal,@total,@factura,@pathenviado,@facturaref,@uuid,@url,1)</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:16:59 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:17:10 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:18:14 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:19:10 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:23:38 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:24:21 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:25:29 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>31/12/2024 02:25:42 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.NuevaBitacoraERROR(LOGI_ConexionSql_AD&amp; oConnection, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 33
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 84. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>INSERT INTO lm_tms_bitacora(servicio,documento_tms,mensaje,errores,socio,rfcsocio,fechadocto,subtotal,total,factura,pathenviado,facturaref,uuid,url,estatus)
+            VALUES(@servicio,@documento_tms,@mensaje,1,@socio,@rfcsocio,@fechadocto,@subtotal,@total,@factura,@pathenviado,@facturaref,@uuid,@url,1)</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:26:46 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>31/12/2024 02:26:53 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.NuevaBitacoraERROR(LOGI_ConexionSql_AD&amp; oConnection, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 33
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 84. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>INSERT INTO lm_tms_bitacora(servicio,documento_tms,mensaje,errores,socio,rfcsocio,fechadocto,subtotal,total,factura,pathenviado,facturaref,uuid,url,estatus)
+            VALUES(@servicio,@documento_tms,@mensaje,1,@socio,@rfcsocio,@fechadocto,@subtotal,@total,@factura,@pathenviado,@facturaref,@uuid,@url,1)</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>31/12/2024 02:26:59 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.NuevaBitacoraERROR(LOGI_ConexionSql_AD&amp; oConnection, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 33
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 84. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>INSERT INTO lm_tms_bitacora(servicio,documento_tms,mensaje,errores,socio,rfcsocio,fechadocto,subtotal,total,factura,pathenviado,facturaref,uuid,url,estatus)
+            VALUES(@servicio,@documento_tms,@mensaje,1,@socio,@rfcsocio,@fechadocto,@subtotal,@total,@factura,@pathenviado,@facturaref,@uuid,@url,1)</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>31/12/2024 02:27:04 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.NuevaBitacoraERROR(LOGI_ConexionSql_AD&amp; oConnection, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 33
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 84. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>INSERT INTO lm_tms_bitacora(servicio,documento_tms,mensaje,errores,socio,rfcsocio,fechadocto,subtotal,total,factura,pathenviado,facturaref,uuid,url,estatus)
+            VALUES(@servicio,@documento_tms,@mensaje,1,@socio,@rfcsocio,@fechadocto,@subtotal,@total,@factura,@pathenviado,@facturaref,@uuid,@url,1)</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:28:00 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>31/12/2024 02:28:09 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.NuevaBitacoraERROR(LOGI_ConexionSql_AD&amp; oConnection, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 33
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 84. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>INSERT INTO lm_tms_bitacora(servicio,documento_tms,mensaje,errores,socio,rfcsocio,fechadocto,subtotal,total,factura,pathenviado,facturaref,uuid,url,estatus)
+            VALUES(@servicio,@documento_tms,@mensaje,1,@socio,@rfcsocio,@fechadocto,@subtotal,@total,@factura,@pathenviado,@facturaref,@uuid,@url,1)</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>31/12/2024 02:28:24 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.NuevaBitacoraERROR(LOGI_ConexionSql_AD&amp; oConnection, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 33
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 84. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>INSERT INTO lm_tms_bitacora(servicio,documento_tms,mensaje,errores,socio,rfcsocio,fechadocto,subtotal,total,factura,pathenviado,facturaref,uuid,url,estatus)
+            VALUES(@servicio,@documento_tms,@mensaje,1,@socio,@rfcsocio,@fechadocto,@subtotal,@total,@factura,@pathenviado,@facturaref,@uuid,@url,1)</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>31/12/2024 02:28:45 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.NuevaBitacoraERROR(LOGI_ConexionSql_AD&amp; oConnection, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 33
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 84. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>INSERT INTO lm_tms_bitacora(servicio,documento_tms,mensaje,errores,socio,rfcsocio,fechadocto,subtotal,total,factura,pathenviado,facturaref,uuid,url,estatus)
+            VALUES(@servicio,@documento_tms,@mensaje,1,@socio,@rfcsocio,@fechadocto,@subtotal,@total,@factura,@pathenviado,@facturaref,@uuid,@url,1)</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>31/12/2024 02:28:54 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.NuevaBitacoraERROR(LOGI_ConexionSql_AD&amp; oConnection, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 33
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 84. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>INSERT INTO lm_tms_bitacora(servicio,documento_tms,mensaje,errores,socio,rfcsocio,fechadocto,subtotal,total,factura,pathenviado,facturaref,uuid,url,estatus)
+            VALUES(@servicio,@documento_tms,@mensaje,1,@socio,@rfcsocio,@fechadocto,@subtotal,@total,@factura,@pathenviado,@facturaref,@uuid,@url,1)</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>31/12/2024 02:29:21 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.NuevaBitacoraERROR(LOGI_ConexionSql_AD&amp; oConnection, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 33
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 84. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>INSERT INTO lm_tms_bitacora(servicio,documento_tms,mensaje,errores,socio,rfcsocio,fechadocto,subtotal,total,factura,pathenviado,facturaref,uuid,url,estatus)
+            VALUES(@servicio,@documento_tms,@mensaje,1,@socio,@rfcsocio,@fechadocto,@subtotal,@total,@factura,@pathenviado,@facturaref,@uuid,@url,1)</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:29:44 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:30:58 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:32:02 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:32:23 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:56:10 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:57:08 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:57:57 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:59:24 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>31/12/2024 02:59:34 a. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+</errores>

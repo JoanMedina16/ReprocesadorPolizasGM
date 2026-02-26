@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>112325</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:54:17.8218057-06:00</Fecha>
+      <Evento>Folio: LM/MID103609 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>1339</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112326</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:54:20.5488002-06:00</Fecha>
+      <Evento>Folio: LM/MTY2101 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>1340</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112327</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:54:22.2026891-06:00</Fecha>
+      <Evento>Folio: LM/VMT4759 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>1341</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112416</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:55:39.5918942-06:00</Fecha>
+      <Evento>Folio: 44899 El movimiento factura de proveedor ya cuenta con un registro de diario. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>1428</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112459</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:55:39.6685243-06:00</Fecha>
+      <Evento>Folio: 53363 El movimiento factura de proveedor ya cuenta con un registro de diario. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>1471</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112581</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:55:39.711098-06:00</Fecha>
+      <Evento>Folio: 16135 El movimiento factura de proveedor ya cuenta con un registro de diario. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>1593</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112724</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:55:39.7516591-06:00</Fecha>
+      <Evento>Folio: 18691 El movimiento factura de proveedor ya cuenta con un registro de diario. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>1732</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113725</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:55:39.7930148-06:00</Fecha>
+      <Evento>Folio: 17479 El movimiento factura de proveedor ya cuenta con un registro de diario. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>2723</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>114513</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:55:39.9481611-06:00</Fecha>
+      <Evento>Folio: 931 El movimiento factura de proveedor ya cuenta con un registro de diario. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>3509</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>114524</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:55:39.9968551-06:00</Fecha>
+      <Evento>Folio: 932 El movimiento factura de proveedor ya cuenta con un registro de diario. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>3520</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>115962</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:55:40.045729-06:00</Fecha>
+      <Evento>Folio: 24682 El movimiento factura de proveedor ya cuenta con un registro de diario. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>4952</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>116702</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:55:40.0883814-06:00</Fecha>
+      <Evento>Folio: 24683 El movimiento factura de proveedor ya cuenta con un registro de diario. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>5691</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>117402</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:55:40.129066-06:00</Fecha>
+      <Evento>Folio: 24681 El movimiento factura de proveedor ya cuenta con un registro de diario. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>6391</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118297</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:55:40.3731063-06:00</Fecha>
+      <Evento>Folio: 4824 El movimiento factura de proveedor ya cuenta con un registro de diario. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>7278</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118312</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:55:40.6073945-06:00</Fecha>
+      <Evento>Folio: 4826 El movimiento factura de proveedor ya cuenta con un registro de diario. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>7292</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>119410</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:55:40.649313-06:00</Fecha>
+      <Evento>Folio: 927 El movimiento factura de proveedor ya cuenta con un registro de diario. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>8379</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>119515</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:55:40.6915065-06:00</Fecha>
+      <Evento>Folio: 329564 El movimiento factura de proveedor ya cuenta con un registro de diario. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>8484</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>119628</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:55:40.7447875-06:00</Fecha>
+      <Evento>Folio: 3056 El movimiento factura de proveedor ya cuenta con un registro de diario. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>8597</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120873</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-27T15:55:40.7870241-06:00</Fecha>
+      <Evento>Folio: 2493 El movimiento factura de proveedor ya cuenta con un registro de diario. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>9838</NumPoliza>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-01-27T15:55:09.7282015-06:00</FechaCreacion>
+  <TotalRegistros>19</TotalRegistros>
+</RegistrosPolizas>

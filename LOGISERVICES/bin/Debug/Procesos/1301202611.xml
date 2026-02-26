@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>13/01/2026 11:29:27 a. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>13/01/2026 11:30:03 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>13/01/2026 11:30:24 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>13/01/2026 11:30:44 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 17/12/2025 hasta 17/12/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>13/01/2026 11:36:20 a. m.</fecha>
+    <descripcion>Se han encontrado un total de 30 movimientos para el período seleccionado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>13/01/2026 11:36:46 a. m.</fecha>
+    <descripcion>Se encontraron un total de 26 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>13/01/2026 11:37:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105034-LM/MID-17386-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17386 . IdPoliza: 120885</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>13/01/2026 11:45:07 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105035-LM/MID-17387-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17387 . IdPoliza: 120886</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>13/01/2026 11:55:29 a. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>13/01/2026 11:55:33 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>13/01/2026 11:58:40 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>13/01/2026 11:58:43 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 17/12/2025 hasta 17/12/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>13/01/2026 11:59:52 a. m.</fecha>
+    <descripcion>Se han encontrado un total de 30 movimientos para el período seleccionado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>13/01/2026 11:59:58 a. m.</fecha>
+    <descripcion>Se encontraron un total de 26 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>113049</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:09.079063-06:00</Fecha>
+      <Evento>Folio: LM/MID103711 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2057</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113050</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:10.2927444-06:00</Fecha>
+      <Evento>Folio: LM/CHL57044 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2058</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113051</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:11.0567613-06:00</Fecha>
+      <Evento>Folio: LM/CHL57045 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2059</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113052</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:12.2183582-06:00</Fecha>
+      <Evento>Folio: LM/CHL57046 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2060</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113053</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:13.0167552-06:00</Fecha>
+      <Evento>Folio: LM/CHL57047 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2061</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113054</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:13.9377295-06:00</Fecha>
+      <Evento>Folio: LM/CHL57048 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2062</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113055</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:14.7276795-06:00</Fecha>
+      <Evento>Folio: LM/CHL57049 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2063</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113057</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:15.5409333-06:00</Fecha>
+      <Evento>Folio: LM/CHL57051 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2065</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113058</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:16.3938973-06:00</Fecha>
+      <Evento>Folio: LM/CHL57052 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2066</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113059</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:17.0961529-06:00</Fecha>
+      <Evento>Folio: LM/CHL57053 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2067</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113060</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:17.8416476-06:00</Fecha>
+      <Evento>Folio: LM/CHL57054 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2068</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113062</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:18.7968895-06:00</Fecha>
+      <Evento>Folio: LM/MID103712 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2070</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113063</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:19.6952089-06:00</Fecha>
+      <Evento>Folio: LM/CUN41860 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2071</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113064</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:20.4803407-06:00</Fecha>
+      <Evento>Folio: LM/CHL57056 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2072</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113067</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:21.4669585-06:00</Fecha>
+      <Evento>Folio: LM/CUN41861 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2075</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113068</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:22.4318201-06:00</Fecha>
+      <Evento>Folio: LM/MID103713 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2076</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113069</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:23.4635654-06:00</Fecha>
+      <Evento>Folio: LM/MID103714 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2077</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113070</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:24.4859632-06:00</Fecha>
+      <Evento>Folio: LM/MID103715 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2078</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113071</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:25.4181916-06:00</Fecha>
+      <Evento>Folio: LM/MID103716 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2079</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113072</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:26.4176386-06:00</Fecha>
+      <Evento>Folio: LM/MID103717 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2080</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113073</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:27.3237971-06:00</Fecha>
+      <Evento>Folio: LM/CUN41862 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2081</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113074</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:28.2191217-06:00</Fecha>
+      <Evento>Folio: LM/MID103718 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2082</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113075</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:29.1507781-06:00</Fecha>
+      <Evento>Folio: LM/MID103719 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2083</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113076</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:37.0672047-06:00</Fecha>
+      <Evento>Folio: LM/CUN41863 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2084</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113077</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:38.0044941-06:00</Fecha>
+      <Evento>Folio: LM/MID103720 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2085</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113108</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:44.9125803-06:00</Fecha>
+      <Evento>Folio: LM/CHL57074 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2116</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113109</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:46.4283646-06:00</Fecha>
+      <Evento>Folio: LM/YUC26910 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2117</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113110</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:47.5657189-06:00</Fecha>
+      <Evento>Folio: LM/VHL28317 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2118</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113111</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:48.7794459-06:00</Fecha>
+      <Evento>Folio: LM/VHL28318 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2119</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113112</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:50.0082765-06:00</Fecha>
+      <Evento>Folio: LM/VHL28319 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2120</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113113</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:51.5447567-06:00</Fecha>
+      <Evento>Folio: LM/VHS16809 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2121</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113114</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:52.7830413-06:00</Fecha>
+      <Evento>Folio: LM/VHL28320 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2122</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113115</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:53.6746857-06:00</Fecha>
+      <Evento>Folio: LM/VHL28321 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2123</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113116</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:54.5920955-06:00</Fecha>
+      <Evento>Folio: LM/VHL28322 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2124</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113117</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:55.4435939-06:00</Fecha>
+      <Evento>Folio: LM/VHL28323 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2125</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113118</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:56.5235909-06:00</Fecha>
+      <Evento>Folio: LM/MID103724 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2126</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113120</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:57.3126407-06:00</Fecha>
+      <Evento>Folio: LM/CHL57075 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2128</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113122</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:58.3625858-06:00</Fecha>
+      <Evento>Folio: LM/CHL57076 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2130</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113124</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:59.3783377-06:00</Fecha>
+      <Evento>Folio: LM/CHL57077 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2132</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113126</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:00.4164176-06:00</Fecha>
+      <Evento>Folio: LM/CHL57078 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2134</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113128</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:01.5735565-06:00</Fecha>
+      <Evento>Folio: LM/CHL57079 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2136</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113130</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:02.3320261-06:00</Fecha>
+      <Evento>Folio: LM/CHL57080 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2138</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113132</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:03.1829198-06:00</Fecha>
+      <Evento>Folio: LM/CHL57081 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2140</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113133</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:04.2010079-06:00</Fecha>
+      <Evento>Folio: LM/MID103725 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2141</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113136</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:06.1691746-06:00</Fecha>
+      <Evento>Folio: LM/MID103726 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2144</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113137</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:07.1625398-06:00</Fecha>
+      <Evento>Folio: LM/CHL57083 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2145</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113108</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:44.9125803-06:00</Fecha>
+      <Evento>Folio: LM/CHL57074 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2116</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113109</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:46.4283646-06:00</Fecha>
+      <Evento>Folio: LM/YUC26910 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2117</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113110</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:47.5657189-06:00</Fecha>
+      <Evento>Folio: LM/VHL28317 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2118</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113111</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:48.7794459-06:00</Fecha>
+      <Evento>Folio: LM/VHL28318 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2119</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113112</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:50.0082765-06:00</Fecha>
+      <Evento>Folio: LM/VHL28319 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2120</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113113</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:51.5447567-06:00</Fecha>
+      <Evento>Folio: LM/VHS16809 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2121</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113114</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:52.7830413-06:00</Fecha>
+      <Evento>Folio: LM/VHL28320 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2122</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113115</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:53.6746857-06:00</Fecha>
+      <Evento>Folio: LM/VHL28321 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2123</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113116</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:54.5920955-06:00</Fecha>
+      <Evento>Folio: LM/VHL28322 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2124</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113117</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:55.4435939-06:00</Fecha>
+      <Evento>Folio: LM/VHL28323 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2125</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113118</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:56.5235909-06:00</Fecha>
+      <Evento>Folio: LM/MID103724 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2126</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113120</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:57.3126407-06:00</Fecha>
+      <Evento>Folio: LM/CHL57075 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2128</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113122</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:58.3625858-06:00</Fecha>
+      <Evento>Folio: LM/CHL57076 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2130</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113124</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:59.3783377-06:00</Fecha>
+      <Evento>Folio: LM/CHL57077 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2132</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113126</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:00.4164176-06:00</Fecha>
+      <Evento>Folio: LM/CHL57078 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2134</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113128</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:01.5735565-06:00</Fecha>
+      <Evento>Folio: LM/CHL57079 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2136</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113130</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:02.3320261-06:00</Fecha>
+      <Evento>Folio: LM/CHL57080 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2138</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113132</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:03.1829198-06:00</Fecha>
+      <Evento>Folio: LM/CHL57081 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2140</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113133</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:04.2010079-06:00</Fecha>
+      <Evento>Folio: LM/MID103725 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2141</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113136</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:06.1691746-06:00</Fecha>
+      <Evento>Folio: LM/MID103726 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2144</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113137</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:07.1625398-06:00</Fecha>
+      <Evento>Folio: LM/CHL57083 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2145</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113159</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:11.5683554-06:00</Fecha>
+      <Evento>Folio: LM/YUC26920 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2167</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113160</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:12.4181438-06:00</Fecha>
+      <Evento>Folio: LM/YUC26921 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2168</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113161</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:13.3221528-06:00</Fecha>
+      <Evento>Folio: LM/YUC26922 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2169</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113162</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:14.2794023-06:00</Fecha>
+      <Evento>Folio: LM/YUC26923 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2170</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113163</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:15.0787156-06:00</Fecha>
+      <Evento>Folio: LM/YUC26924 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2171</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113166</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:15.8275519-06:00</Fecha>
+      <Evento>Folio: LM/YUC26926 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2174</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113167</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:16.6348843-06:00</Fecha>
+      <Evento>Folio: LM/YUC26927 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2175</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113168</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:17.4162764-06:00</Fecha>
+      <Evento>Folio: LM/YUC26928 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2176</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113169</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:18.3664582-06:00</Fecha>
+      <Evento>Folio: LM/YUC26929 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2177</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113170</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:19.1410154-06:00</Fecha>
+      <Evento>Folio: LM/YUC26930 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2178</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113171</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:19.9319934-06:00</Fecha>
+      <Evento>Folio: LM/YUC26931 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2179</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113172</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:20.6948214-06:00</Fecha>
+      <Evento>Folio: LM/YUC26932 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2180</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113173</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:21.4279948-06:00</Fecha>
+      <Evento>Folio: LM/VMI24271 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2181</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113174</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:22.5117231-06:00</Fecha>
+      <Evento>Folio: LM/YUC26933 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2182</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113175</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:26.0337977-06:00</Fecha>
+      <Evento>Folio: LM/YUC26934 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2183</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113176</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:29.8947495-06:00</Fecha>
+      <Evento>Folio: LM/YUC26935 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2184</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113177</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:30.746191-06:00</Fecha>
+      <Evento>Folio: LM/YUC26936 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2185</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113178</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:31.9245931-06:00</Fecha>
+      <Evento>Folio: LM/MID103729 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2186</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113179</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:32.8482293-06:00</Fecha>
+      <Evento>Folio: LM/YUC26937 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2187</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113180</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:33.8196917-06:00</Fecha>
+      <Evento>Folio: LM/YUC26938 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2188</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113181</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:34.6697839-06:00</Fecha>
+      <Evento>Folio: LM/YUC26939 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2189</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113182</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:35.5304045-06:00</Fecha>
+      <Evento>Folio: LM/YUC26940 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2190</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113184</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:38.1625926-06:00</Fecha>
+      <Evento>Folio: LM/MID103731 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2192</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113185</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:39.0431086-06:00</Fecha>
+      <Evento>Folio: LM/YUC26941 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2193</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113186</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:39.9392124-06:00</Fecha>
+      <Evento>Folio: LM/CHL57086 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2194</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113187</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:40.849253-06:00</Fecha>
+      <Evento>Folio: LM/CHL57087 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2195</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113188</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:41.8507946-06:00</Fecha>
+      <Evento>Folio: LM/CHL57088 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2196</NumPoliza>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-01-28T16:32:40.4439757-06:00</FechaCreacion>
+  <TotalRegistros>94</TotalRegistros>
+</RegistrosPolizas>

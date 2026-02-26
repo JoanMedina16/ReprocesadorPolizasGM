@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/11/2024 05:24:33 a. m.</fecha>
+    <descripcion>f|Se debe especificar el id de registro.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/11/2024 05:25:34 a. m.</fecha>
+    <descripcion>f|Se debe especificar el id de registro.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

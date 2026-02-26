@@ -1,0 +1,48 @@
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\INFO\bin\Debug\INFO.dll
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\INFO\bin\Debug\INFO.pdb
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.csproj.AssemblyReference.cache
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.csproj.CoreCompileInputs.cache
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.dll
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.pdb
+C:\Users\csantiagob\Desktop\MATRIZ DE APROBACION\IntegracionesD365_Desarrollo_dos\INFO\bin\Debug\INFO.dll
+C:\Users\csantiagob\Desktop\MATRIZ DE APROBACION\IntegracionesD365_Desarrollo_dos\INFO\bin\Debug\INFO.pdb
+C:\Users\csantiagob\Desktop\MATRIZ DE APROBACION\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.csproj.AssemblyReference.cache
+C:\Users\csantiagob\Desktop\MATRIZ DE APROBACION\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.csproj.CoreCompileInputs.cache
+C:\Users\csantiagob\Desktop\MATRIZ DE APROBACION\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.dll
+C:\Users\csantiagob\Desktop\MATRIZ DE APROBACION\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.pdb
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\INFO\bin\Debug\INFO.dll
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\INFO\bin\Debug\INFO.pdb
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.csproj.AssemblyReference.cache
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.csproj.CoreCompileInputs.cache
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.dll
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.pdb
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\INFO\bin\Debug\INFO.dll
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\INFO\bin\Debug\INFO.pdb
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.csproj.CoreCompileInputs.cache
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.dll
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.pdb
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.csproj.AssemblyReference.cache
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\INFO\bin\Debug\INFO.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\INFO\bin\Debug\INFO.pdb
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.csproj.AssemblyReference.cache
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.csproj.CoreCompileInputs.cache
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\INFO\obj\Debug\INFO.pdb
+C:\Ftes\Logistica\logiservices\reprocesador\INFO\bin\Debug\INFO.dll
+C:\Ftes\Logistica\logiservices\reprocesador\INFO\bin\Debug\INFO.pdb
+C:\Ftes\Logistica\logiservices\reprocesador\INFO\obj\Debug\INFO.csproj.AssemblyReference.cache
+C:\Ftes\Logistica\logiservices\reprocesador\INFO\obj\Debug\INFO.csproj.CoreCompileInputs.cache
+C:\Ftes\Logistica\logiservices\reprocesador\INFO\obj\Debug\INFO.dll
+C:\Ftes\Logistica\logiservices\reprocesador\INFO\obj\Debug\INFO.pdb
+C:\Ftes\logiservices\reprocesador\INFO\bin\Debug\INFO.dll
+C:\Ftes\logiservices\reprocesador\INFO\bin\Debug\INFO.pdb
+C:\Ftes\logiservices\reprocesador\INFO\obj\Debug\INFO.csproj.AssemblyReference.cache
+C:\Ftes\logiservices\reprocesador\INFO\obj\Debug\INFO.csproj.CoreCompileInputs.cache
+C:\Ftes\logiservices\reprocesador\INFO\obj\Debug\INFO.dll
+C:\Ftes\logiservices\reprocesador\INFO\obj\Debug\INFO.pdb
+C:\Repositorio\Logi\reprocesador\INFO\bin\Debug\INFO.dll
+C:\Repositorio\Logi\reprocesador\INFO\bin\Debug\INFO.pdb
+C:\Repositorio\Logi\reprocesador\INFO\obj\Debug\INFO.csproj.AssemblyReference.cache
+C:\Repositorio\Logi\reprocesador\INFO\obj\Debug\INFO.csproj.CoreCompileInputs.cache
+C:\Repositorio\Logi\reprocesador\INFO\obj\Debug\INFO.dll
+C:\Repositorio\Logi\reprocesador\INFO\obj\Debug\INFO.pdb

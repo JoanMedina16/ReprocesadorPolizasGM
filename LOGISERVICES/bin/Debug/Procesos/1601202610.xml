@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>16/01/2026 10:16:50 a. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>16/01/2026 10:16:53 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>16/01/2026 10:17:04 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 10:17:12 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 17/12/2025 hasta 17/12/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 10:17:22 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS. </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 10:17:42 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 17/12/2025 hasta 17/12/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 10:18:55 a. m.</fecha>
+    <descripcion>Se han encontrado un total de 30 movimientos para el período seleccionado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 10:18:57 a. m.</fecha>
+    <descripcion>Se encontraron un total de 30 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 10:19:00 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103347-LM/MID-15770-EMBOTELLADORAS BEPENSA para el registro LM.CPMID15770 . IdPoliza: 110981</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 10:26:26 a. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 883563A0-2CB2-4894-B1FE-7AFFFAB615A2, folio:103347 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 10:27:24 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103347" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641897330</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 10:27:30 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103348-LM/MID-15771-EMBOTELLADORAS BEPENSA para el registro LM.CPMID15771 . IdPoliza: 110982</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 10:30:35 a. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 8C318AA9-A9E9-451E-B10E-4B5F0517B90B, folio:103348 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 10:30:38 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103348" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641901829</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 10:30:41 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA MTY2094-LM/MTY-588-NUEVA WAL MART DE MEXICO para el registro LM.CPMTY304 . IdPoliza: 110983</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 10:31:52 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MTY2094" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641898166</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 10:31:53 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VMT4751-LM/MTY-589-NUEVA WAL MART DE MEXICO para el registro LM.VMTY284 . IdPoliza: 110984</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

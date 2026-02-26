@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 01:11:54 p. m.</fecha>
+    <descripcion>Message: No está autorizado a cambiar la propiedad 'ConnectionString'. El estado actual de la conexión es abierta.. StackTrace:    en System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   en System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\Repositorio\Logi\reprocesador\AD\LOGI_ConexionSql_AD.cs:línea 38
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void ConnectionString_Set(System.Data.Common.DbConnectionPoolKey)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+</errores>

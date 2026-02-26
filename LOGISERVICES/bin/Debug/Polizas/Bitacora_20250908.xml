@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>113078</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:32:39.0382525-06:00</Fecha>
+      <Evento>Folio: LM/CUN41864 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2086</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113183</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T16:33:36.9956464-06:00</Fecha>
+      <Evento>Folio: LM/MID103730 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2191</NumPoliza>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-01-28T16:32:39.0382525-06:00</FechaCreacion>
+  <TotalRegistros>2</TotalRegistros>
+</RegistrosPolizas>

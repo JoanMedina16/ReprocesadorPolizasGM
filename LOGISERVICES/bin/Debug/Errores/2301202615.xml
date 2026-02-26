@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>23/01/2026 03:34:28 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_Documentos_PD.cs:línea 39
+   en System.Collections.Generic.List`1.ForEach(Action`1 action)
+   en PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_Documentos_PD.cs:línea 37. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+</errores>

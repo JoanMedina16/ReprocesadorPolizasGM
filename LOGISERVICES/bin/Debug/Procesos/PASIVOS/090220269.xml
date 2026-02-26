@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:35:27 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 01/02/2026 hasta 01/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:35:43 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 02/02/2026 hasta 02/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:35:46 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 03/02/2026 hasta 03/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:35:48 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 04/02/2026 hasta 04/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:35:50 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 05/02/2026 hasta 05/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:35:52 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 06/02/2026 hasta 06/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:35:56 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 07/02/2026 hasta 07/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:36:42 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 01/02/2026 hasta 01/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:36:43 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 02/02/2026 hasta 02/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:36:44 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 03/02/2026 hasta 03/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:36:45 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 04/02/2026 hasta 04/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:36:46 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 05/02/2026 hasta 05/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:36:48 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 06/02/2026 hasta 06/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:36:49 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 07/02/2026 hasta 07/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:37:05 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 01/02/2026 hasta 01/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:37:17 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 02/02/2026 hasta 02/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:37:18 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 03/02/2026 hasta 03/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:37:22 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 04/02/2026 hasta 04/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:37:24 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 05/02/2026 hasta 05/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:37:26 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 06/02/2026 hasta 06/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 09:37:40 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 07/02/2026 hasta 07/02/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

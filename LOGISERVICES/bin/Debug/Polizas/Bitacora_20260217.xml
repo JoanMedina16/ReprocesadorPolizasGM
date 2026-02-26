@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>155329</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-19T11:01:44.8407679-06:00</Fecha>
+      <Evento>Folio: LM/QE83951 No se ha creado la Póliza</Evento>
+      <NumPoliza>1653</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>155333</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-19T11:01:46.9224196-06:00</Fecha>
+      <Evento>Folio: LM/QE83954 No se ha creado la Póliza</Evento>
+      <NumPoliza>1657</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>155329</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-19T11:02:11.8612916-06:00</Fecha>
+      <Evento>Folio: LM/QE83951 No se ha creado la Póliza</Evento>
+      <NumPoliza>1653</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>155333</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-19T11:02:13.9550676-06:00</Fecha>
+      <Evento>Folio: LM/QE83954 No se ha creado la Póliza</Evento>
+      <NumPoliza>1657</NumPoliza>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-02-19T11:01:44.8407679-06:00</FechaCreacion>
+  <TotalRegistros>4</TotalRegistros>
+</RegistrosPolizas>

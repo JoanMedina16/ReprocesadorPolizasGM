@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>113868</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-28T11:14:03.1005273-06:00</Fecha>
+      <Evento>Folio: 44903 El código del diario D365 no se ha configurado. Núm.Poliza 2866 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>2866</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>116492</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-28T11:14:03.3307215-06:00</Fecha>
+      <Evento>Folio: 18308 El código del diario D365 no se ha configurado. Núm.Poliza 5482 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>5482</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>116497</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-28T11:14:03.5639081-06:00</Fecha>
+      <Evento>Folio: 18309 El código del diario D365 no se ha configurado. Núm.Poliza 5487 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>5487</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>117028</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-28T11:14:03.7806698-06:00</Fecha>
+      <Evento>Folio: 36 El código del diario D365 no se ha configurado. Núm.Poliza 6017 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>6017</NumPoliza>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-01-28T11:07:56.6284528-06:00</FechaCreacion>
+  <TotalRegistros>4</TotalRegistros>
+</RegistrosPolizas>

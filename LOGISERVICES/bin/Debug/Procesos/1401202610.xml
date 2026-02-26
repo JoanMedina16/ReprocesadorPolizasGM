@@ -1,0 +1,2083 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:01:42 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:01:47 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:01:48 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 17/12/2025 hasta 17/12/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:02:05 a. m.</fecha>
+    <descripcion>Se han encontrado un total de 30 movimientos para el período seleccionado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:02:07 a. m.</fecha>
+    <descripcion>Se encontraron un total de 26 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:02:12 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105034-LM/MID-17386-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17386 . IdPoliza: 120885</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:03:12 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105035-LM/MID-17387-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17387 . IdPoliza: 120886</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:04:38 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105036-LM/MID-17388-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17388 . IdPoliza: 120887</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:10:00 a. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:10:02 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:10:12 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:10:13 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 17/12/2025 hasta 17/12/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:11:56 a. m.</fecha>
+    <descripcion>Se han encontrado un total de 30 movimientos para el período seleccionado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:12:03 a. m.</fecha>
+    <descripcion>Se encontraron un total de 26 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:12:42 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105034-LM/MID-17386-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17386 . IdPoliza: 120885</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:17:06 a. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:17:16 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:17:26 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:17:27 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 17/12/2025 hasta 17/12/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:17:41 a. m.</fecha>
+    <descripcion>Se han encontrado un total de 30 movimientos para el período seleccionado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:17:47 a. m.</fecha>
+    <descripcion>Se encontraron un total de 26 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:17:56 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105034-LM/MID-17386-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17386 . IdPoliza: 120885</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:20:05 a. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:20:10 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:20:19 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:20:19 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 17/12/2025 hasta 17/12/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:20:31 a. m.</fecha>
+    <descripcion>Se han encontrado un total de 30 movimientos para el período seleccionado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:20:34 a. m.</fecha>
+    <descripcion>Se encontraron un total de 26 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:20:40 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105034-LM/MID-17386-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17386 . IdPoliza: 120885</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:25:00 a. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:25:04 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:25:12 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:25:12 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 17/12/2025 hasta 17/12/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:25:21 a. m.</fecha>
+    <descripcion>Se han encontrado un total de 30 movimientos para el período seleccionado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:25:23 a. m.</fecha>
+    <descripcion>Se encontraron un total de 26 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:26:00 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105034-LM/MID-17386-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17386 . IdPoliza: 120885</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:27:52 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105035-LM/MID-17387-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17387 . IdPoliza: 120886</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:28:00 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105036-LM/MID-17388-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17388 . IdPoliza: 120887</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:28:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105037-LM/MID-17389-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17389 . IdPoliza: 120888</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:28:17 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105038-LM/MID-17390-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17390 . IdPoliza: 120889</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:28:32 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105039-LM/MID-17391-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17391 . IdPoliza: 120890</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:28:51 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105040-LM/MID-17392-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17392 . IdPoliza: 120891</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:29:01 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105041-LM/MID-17393-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17393 . IdPoliza: 120892</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:29:04 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHS17067-LM/ARR-11506-NUEVA WAL MART DE MEXICO para el registro LM.CPVHS4058 . IdPoliza: 120893</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:29:09 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105042-LM/MID-17394-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17394 . IdPoliza: 120894</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:29:16 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58054-LM/MEXII-30343-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15873 . IdPoliza: 120895</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:29:24 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58055-LM/MEXII-30344-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15874 . IdPoliza: 120896</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:29:36 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58056-LM/MEXII-30345-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15875 . IdPoliza: 120897</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:29:37 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58057-LM/MEXII-30346-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15876 . IdPoliza: 120898</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:29:41 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58058-LM/MEXII-30347-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15877 . IdPoliza: 120899</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:29:42 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105043-LM/MID-17395-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17395 . IdPoliza: 120900</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:29:44 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105044-LM/MID-17396-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17396 . IdPoliza: 120901</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:29:45 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105045-LM/MID-17397-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17397 . IdPoliza: 120902</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:29:55 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105046-LM/MID-17398-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17398 . IdPoliza: 120903</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:29:58 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105047-LM/MID-17399-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17399 . IdPoliza: 120904</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:30:01 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58059-LM/MEXII-30348-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15878 . IdPoliza: 120905</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:30:01 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHS17068-LM/ARR-11507-NUEVA WAL MART DE MEXICO para el registro LM.CPVHS4059 . IdPoliza: 120910</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:30:02 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105048-LM/MID-17400-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17400 . IdPoliza: 120911</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:30:02 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58061-LM/MEXII-30367-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15891 . IdPoliza: 120912</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:30:02 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58062-LM/MEXII-30366-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15890 . IdPoliza: 120913</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:36:29 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58063-LM/MEXII-30365-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15889 . IdPoliza: 120914</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:05 a. m.</fecha>
+    <descripcion>Se encontraron un total de 25 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:06 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58064-LM/MEXII-30356-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15880 . IdPoliza: 120915</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:08 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58065-LM/MEXII-30357-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15881 . IdPoliza: 120916</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:09 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58066-LM/MEXII-30358-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15882 . IdPoliza: 120917</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:09 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58067-LM/MEXII-30359-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15883 . IdPoliza: 120918</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58070-LM/MEXII-30363-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15887 . IdPoliza: 120921</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:11 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58071-LM/MEXII-30364-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15888 . IdPoliza: 120922</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:11 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105049-LM/MID-17401-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17401 . IdPoliza: 120923</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:12 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58072-LM/MEXII-30340-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15870 . IdPoliza: 120924</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:37 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58073-LM/MEXII-30341-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15871 . IdPoliza: 120925</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:37 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58074-LM/MEXII-30342-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15872 . IdPoliza: 120926</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:37 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58075-LM/MEXII-30362-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15886 . IdPoliza: 120927</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:38 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58076-LM/MEXII-30369-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15892 . IdPoliza: 120928</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:40 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58077-LM/MEXII-30325-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15858 . IdPoliza: 120932</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:40 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58078-LM/MEXII-30370-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15893 . IdPoliza: 120933</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:40 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58079-LM/MEXII-30371-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15894 . IdPoliza: 120934</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:40 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58080-LM/MEXII-30372-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15895 . IdPoliza: 120935</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:40 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42492-LM/CUN-7901-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7901 . IdPoliza: 120936</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:41 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42493-LM/CUN-7902-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7902 . IdPoliza: 120937</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:41 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105050-LM/MID-17402-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17402 . IdPoliza: 120938</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:41 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58081-LM/MEXII-30350-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15879 . IdPoliza: 120939</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:41 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42494-LM/CUN-7903-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7903 . IdPoliza: 120940</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:42 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42495-LM/CUN-7906-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7906 . IdPoliza: 120941</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:42 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58082-LM/MEXII-29830-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15607 . IdPoliza: 120942</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:42 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58083-LM/MEXII-29833-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15608 . IdPoliza: 120943</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:37:42 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58084-LM/MEXII-29834-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15609 . IdPoliza: 120944</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:38:27 a. m.</fecha>
+    <descripcion>Se encontraron un total de 29 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:38:28 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58085-LM/MEXII-29836-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15610 . IdPoliza: 120945</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:02 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58086-LM/MEXII-29838-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15612 . IdPoliza: 120946</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:04 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105051-LM/MID-17403-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17403 . IdPoliza: 120947</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:09 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58087-LM/MEXII-29842-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15616 . IdPoliza: 120948</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42496-LM/CUN-7562-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7562 . IdPoliza: 120949</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42497-LM/CUN-7565-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7565 . IdPoliza: 120950</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:11 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42498-LM/CUN-7780-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7780 . IdPoliza: 120951</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:11 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105052-LM/MID-17404-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17404 . IdPoliza: 120953</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:13 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42499-LM/CUN-7789-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7789 . IdPoliza: 120954</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:16 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105053-LM/MID-17405-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17405 . IdPoliza: 120955</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:19 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42500-LM/CUN-7805-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7805 . IdPoliza: 120956</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:33 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42501-LM/CUN-7815-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7815 . IdPoliza: 120965</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:36 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42502-LM/CUN-7904-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7904 . IdPoliza: 120966</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:51 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHS17069-LM/ARR-11457-NUEVA WAL MART DE MEXICO para el registro LM.CPVHS4046 . IdPoliza: 120967</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:51 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58088-LM/MEXII-29839-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15613 . IdPoliza: 120968</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:52 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHL28794-LM/ARR-11456-NUEVA WAL MART DE MEXICO para el registro LM.VVHS7410 . IdPoliza: 120972</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:52 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58090-LM/MEXII-29841-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15615 . IdPoliza: 120970</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:56 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHS17070-LM/ARR-11455-NUEVA WAL MART DE MEXICO para el registro LM.CPVHS4045 . IdPoliza: 120973</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:56 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHL28795-LM/ARR-11463-NUEVA WAL MART DE MEXICO para el registro LM.VVHS7412 . IdPoliza: 120974</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:58 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHS17071-LM/ARR-11464-NUEVA WAL MART DE MEXICO para el registro LM.CPVHS4051 . IdPoliza: 120975</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:58 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58091-LM/MEXII-29840-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15614 . IdPoliza: 120976</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:58 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58092-LM/MEXII-29844-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15618 . IdPoliza: 120977</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:58 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHL28796-LM/ARR-11465-NUEVA WAL MART DE MEXICO para el registro LM.VVHS7413 . IdPoliza: 120978</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:58 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58093-LM/MEXII-29855-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15622 . IdPoliza: 120979</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:58 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHL28797-LM/ARR-11466-NUEVA WAL MART DE MEXICO para el registro LM.VVHS7414 . IdPoliza: 120980</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:58 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHL28798-LM/ARR-11467-NUEVA WAL MART DE MEXICO para el registro LM.VVHS7415 . IdPoliza: 120981</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:58 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHL28799-LM/ARR-11468-NUEVA WAL MART DE MEXICO para el registro LM.VVHS7416 . IdPoliza: 120982</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:58 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHL28800-LM/ARR-11469-NUEVA WAL MART DE MEXICO para el registro LM.VVHS7417 . IdPoliza: 120983</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:39:58 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHL28801-LM/ARR-11474-NUEVA WAL MART DE MEXICO para el registro LM.VVHS7418 . IdPoliza: 120984</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:20 a. m.</fecha>
+    <descripcion>Se encontraron un total de 27 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:22 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHL28802-LM/ARR-11475-NUEVA WAL MART DE MEXICO para el registro LM.VVHS7419 . IdPoliza: 120985</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:22 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHL28803-LM/ARR-11476-NUEVA WAL MART DE MEXICO para el registro LM.VVHS7420 . IdPoliza: 120986</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:22 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27266-LM/MIDCG-10720-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6010 . IdPoliza: 120990</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:22 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27267-LM/MIDCG-10752-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6036 . IdPoliza: 120991</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:22 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27268-LM/MIDCG-10753-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6037 . IdPoliza: 120992</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:22 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42503-LM/CUN-6223-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN6223 . IdPoliza: 120993</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:22 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27269-LM/MIDCG-10754-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6038 . IdPoliza: 120994</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:22 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27270-LM/MIDCG-10756-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6040 . IdPoliza: 120995</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:22 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58094-LM/MEXII-30361-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15885 . IdPoliza: 120996</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:22 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27271-LM/MIDCG-10757-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6041 . IdPoliza: 120998</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:22 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VMI24662-LM/MIDCG-10817-NUEVA WAL MART DE MEXICO para el registro LM.VYUC4748 . IdPoliza: 120999</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:22 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72426-LM/MEXII-30065-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14330 . IdPoliza: 121000</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:22 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72427-LM/MEXII-30063-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14329 . IdPoliza: 121001</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:22 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27272-LM/MIDCG-10796-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6051 . IdPoliza: 121002</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:22 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72428-LM/MEXII-30062-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14328 . IdPoliza: 121003</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:23 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27273-LM/MIDCG-10793-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6048 . IdPoliza: 121004</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:23 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42504-LM/CUN-7269-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7269 . IdPoliza: 121005</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:23 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27274-LM/MIDCG-10798-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6053 . IdPoliza: 121006</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:23 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72429-LM/MEXII-30061-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14327 . IdPoliza: 121007</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:23 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27275-LM/MIDCG-10799-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6054 . IdPoliza: 121008</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:23 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27276-LM/MIDCG-10800-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6055 . IdPoliza: 121009</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:23 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42505-LM/CUN-7280-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7280 . IdPoliza: 121010</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:23 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42506-LM/CUN-7287-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7287 . IdPoliza: 121013</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:23 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42507-LM/CUN-7322-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7322 . IdPoliza: 121014</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:23 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42508-LM/CUN-7324-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7324 . IdPoliza: 121015</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:23 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42509-LM/CUN-7327-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7327 . IdPoliza: 121016</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:23 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72430-LM/MEXII-30059-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14326 . IdPoliza: 121017</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:41 a. m.</fecha>
+    <descripcion>Se encontraron un total de 27 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:43 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42510-LM/CUN-7336-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7336 . IdPoliza: 121018</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:43 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VMI24663-LM/MIDCG-10802-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6057 . IdPoliza: 121020</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:43 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72431-LM/MEXII-30058-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14325 . IdPoliza: 121021</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:43 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VMI24664-LM/MIDCG-10803-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6058 . IdPoliza: 121022</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:43 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72432-LM/MEXII-30057-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14324 . IdPoliza: 121023</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:43 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27278-LM/MIDCG-10804-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6059 . IdPoliza: 121024</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:43 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42511-LM/CUN-7353-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7353 . IdPoliza: 121025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:43 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN42512-LM/CUN-7905-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7905 . IdPoliza: 121026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:43 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72433-LM/MEXII-30055-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14323 . IdPoliza: 121027</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:43 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VMI24665-LM/MIDCG-10806-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6061 . IdPoliza: 121028</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:43 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72434-LM/MEXII-30052-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14321 . IdPoliza: 121030</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:43 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72435-LM/MEXII-30050-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14320 . IdPoliza: 121031</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:44 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72436-LM/MEXII-30049-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14319 . IdPoliza: 121032</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:44 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72437-LM/MEXII-30048-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14318 . IdPoliza: 121033</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:44 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72438-LM/MEXII-30047-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14317 . IdPoliza: 121034</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:44 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VMI24666-LM/MIDCG-10867-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6091 . IdPoliza: 121035</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:44 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72439-LM/MEXII-30046-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14316 . IdPoliza: 121036</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:44 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27280-LM/MIDCG-10868-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6092 . IdPoliza: 121037</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:44 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72440-LM/MEXII-30044-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14315 . IdPoliza: 121038</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:44 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72441-LM/MEXII-30042-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14314 . IdPoliza: 121039</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:44 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105054-LM/MID-17267-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17267 . IdPoliza: 121040</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:44 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27281-LM/MIDCG-10869-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6093 . IdPoliza: 121041</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:44 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27282-LM/MIDCG-10870-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6094 . IdPoliza: 121043</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:44 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105056-LM/MID-17269-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17269 . IdPoliza: 121045</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:44 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105057-LM/MID-17271-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17271 . IdPoliza: 121046</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:44 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27283-LM/MIDCG-10871-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6095 . IdPoliza: 121047</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:40:45 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHS17072-LM/ARR-11515-NUEVA WAL MART DE MEXICO para el registro LM.CPVHS4062 . IdPoliza: 121048</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:07 a. m.</fecha>
+    <descripcion>Se encontraron un total de 25 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72442-LM/MEXII-30040-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14313 . IdPoliza: 121049</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105058-LM/MID-17411-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17411 . IdPoliza: 121050</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHL28804-LM/ARR-11497-NUEVA WAL MART DE MEXICO para el registro LM.VVHS7439 . IdPoliza: 121051</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72443-LM/MEXII-30034-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14312 . IdPoliza: 121053</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72444-LM/MEXII-30029-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14311 . IdPoliza: 121054</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHL28805-LM/ARR-11498-NUEVA WAL MART DE MEXICO para el registro LM.VVHS7440 . IdPoliza: 121055</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72445-LM/MEXII-30025-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14310 . IdPoliza: 121057</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHL28806-LM/ARR-11501-NUEVA WAL MART DE MEXICO para el registro LM.VVHS7443 . IdPoliza: 121058</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72446-LM/MEXII-30022-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14309 . IdPoliza: 121059</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105060-LM/MID-17412-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17412 . IdPoliza: 121064</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58095-LM/MEXII-30210-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15806 . IdPoliza: 121065</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27284-LM/MIDCG-10872-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6096 . IdPoliza: 121067</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58096-LM/MEXII-30214-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15808 . IdPoliza: 121068</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHL28807-LM/ARR-11502-NUEVA WAL MART DE MEXICO para el registro LM.VVHS7444 . IdPoliza: 121069</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27285-LM/MIDCG-10873-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6097 . IdPoliza: 121070</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58097-LM/MEXII-30216-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15809 . IdPoliza: 121071</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:11 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHL28808-LM/ARR-11503-NUEVA WAL MART DE MEXICO para el registro LM.VVHS7445 . IdPoliza: 121072</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:11 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27286-LM/MIDCG-10874-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6098 . IdPoliza: 121073</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:11 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58098-LM/MEXII-30218-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15810 . IdPoliza: 121074</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:11 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VMI24667-LM/MIDCG-10875-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6099 . IdPoliza: 121075</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:11 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58099-LM/MEXII-30219-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15811 . IdPoliza: 121076</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:11 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHL28809-LM/ARR-11504-NUEVA WAL MART DE MEXICO para el registro LM.VVHS7446 . IdPoliza: 121078</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:11 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27287-LM/MIDCG-10876-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6100 . IdPoliza: 121079</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:11 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VCH72447-LM/MEXII-30053-NUEVA WAL MART DE MEXICO para el registro LM.VCHL14322 . IdPoliza: 121080</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:11 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA YUC27288-LM/MIDCG-10879-NUEVA WAL MART DE MEXICO para el registro LM.CPYUC6103 . IdPoliza: 121082</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:28 a. m.</fecha>
+    <descripcion>Se encontraron un total de 29 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:41:29 a. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL58100-LM/MEXII-30228-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL15815 . IdPoliza: 121083</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:42:23 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:42:23 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 18/12/2025 hasta 18/12/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 10:42:49 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS. </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:55:47 a. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:55:49 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:59:29 a. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>14/01/2026 10:59:32 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

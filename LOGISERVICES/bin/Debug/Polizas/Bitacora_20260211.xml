@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>153923</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:24:27.5381266-06:00</Fecha>
+      <Evento>Folio: LM/QE83749 No se ha creado la Póliza</Evento>
+      <NumPoliza>257</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154174</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:27:21.8385688-06:00</Fecha>
+      <Evento>Folio: LM/QE83756 No se ha creado la Póliza</Evento>
+      <NumPoliza>508</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154176</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:27:22.7116934-06:00</Fecha>
+      <Evento>Folio: LM/QE83757 No se ha creado la Póliza</Evento>
+      <NumPoliza>510</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>153923</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:27:51.8795983-06:00</Fecha>
+      <Evento>Folio: LM/QE83749 No se ha creado la Póliza</Evento>
+      <NumPoliza>257</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154174</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:29:40.6774742-06:00</Fecha>
+      <Evento>Folio: LM/QE83756 No se ha creado la Póliza</Evento>
+      <NumPoliza>508</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154176</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:29:41.8920563-06:00</Fecha>
+      <Evento>Folio: LM/QE83757 No se ha creado la Póliza</Evento>
+      <NumPoliza>510</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154273</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:34:39.3766741-06:00</Fecha>
+      <Evento>Folio: LM/QE83781 No se ha creado la Póliza</Evento>
+      <NumPoliza>607</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154273</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:35:33.6968346-06:00</Fecha>
+      <Evento>Folio: LM/QE83781 No se ha creado la Póliza</Evento>
+      <NumPoliza>607</NumPoliza>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-02-13T15:24:27.5381266-06:00</FechaCreacion>
+  <TotalRegistros>8</TotalRegistros>
+</RegistrosPolizas>

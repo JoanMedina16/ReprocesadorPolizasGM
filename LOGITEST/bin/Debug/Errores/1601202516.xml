@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>16/01/2025 04:37:36 p. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>16/01/2025 04:38:00 p. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>16/01/2025 04:38:02 p. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>16/01/2025 04:38:08 p. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>16/01/2025 04:39:29 p. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>16/01/2025 04:39:32 p. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>16/01/2025 04:39:35 p. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>16/01/2025 04:39:36 p. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>16/01/2025 04:39:39 p. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>16/01/2025 04:39:41 p. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>16/01/2025 04:39:46 p. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>16/01/2025 04:39:52 p. m.</fecha>
+    <descripcion>Message: Length of the data to decrypt is invalid.. StackTrace:    at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.StreamReader.Dispose(Boolean disposing)
+   at System.IO.TextReader.Dispose()
+   at PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Herramientas\LOGI_Rijndael_PD.cs:line 90
+   at PD.Tablas.D365.LOGI_Documentos_PD.&lt;&gt;c.&lt;ListaDocumentos&gt;b__6_0(LOGI_Documentos_INFO x) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 39
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) in C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Documentos_PD.cs:line 37. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] TransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+</errores>

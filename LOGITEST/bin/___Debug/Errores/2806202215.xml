@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_Polizas_PD.cs</clase>
+    <modulo>Polizas D365</modulo>
+    <fecha>28/06/2022 15:20:05</fecha>
+    <descripcion>Message: No se ha podido actualizar el documento. StackTrace:    en PD.Tablas.D365.LOGI_Polizas_PD.Creaerror(String sUsuarioID, String mensaje, String FolioAsiento, String sJSON, String sResponse, String sURLEndPoint) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_PD.cs:línea 393. InnerException . Source: PD. Data: System.Collections.ListDictionaryInternal. TargetSite: System.String Creaerror(System.String, System.String, System.String, System.String, System.String, System.String)</descripcion>
+    <otros_datos>UPDATE lm_transacc SET intento = 1 , urlweb = 'https://srvbsd365dev21aea5a9d95c65664bdevaos.cloudax.dynamics.com//soap/services/BBICxCServices' , peticion = '{
+  &amp;quot;Encabezado&amp;quot;: {
+    &amp;quot;CodCliente&amp;quot;: &amp;quot;CL001001_0000&amp;quot;,
+    &amp;quot;Compania&amp;quot;: &amp;quot;LOG&amp;quot;,
+    &amp;quot;Descripcion&amp;quot;: &amp;quot;CXC FACTURA VE7249-JUGOS DEL VALLE S.A.P.I DE C.V.&amp;quot;,
+    &amp;quot;DesctoPago&amp;quot;: &amp;quot;&amp;quot;,
+    &amp;quot;DimSucursal&amp;quot;: &amp;quot;EMX003&amp;quot;,
+    &amp;quot;Docto&amp;quot;: &amp;quot;VE7249&amp;quot;,
+    &amp;quot;Factura&amp;quot;: &amp;quot;VE7249&amp;quot;,
+    &amp;quot;FechaDocto&amp;quot;: &amp;quot;2022-06-28T15:10:46&amp;quot;,
+    &amp;quot;FechaFactura&amp;quot;: &amp;quot;2022-06-28T00:00:00&amp;quot;,
+    &amp;quot;FechaVencimiento&amp;quot;: &amp;quot;2022-07-28T15:10:46&amp;quot;,
+    &amp;quot;Folio&amp;quot;: 7249,
+    &amp;quot;IdFactReferencia&amp;quot;: 0,
+    &amp;quot;IdRegistro&amp;quot;: &amp;quot;LM.FV42022062829&amp;quot;,
+    &amp;quot;ImpuestosInc&amp;quot;: 1,
+    &amp;quot;MetodoPagoSAT&amp;quot;: &amp;quot;PPD&amp;quot;,
+    &amp;quot;Moneda&amp;quot;: &amp;quot;MXN&amp;quot;,
+    &amp;quot;NombreDiario&amp;quot;: &amp;quot;684CARFACT&amp;quot;,
+    &amp;quot;Orden&amp;quot;: &amp;quot;4536987123&amp;quot;,
+    &amp;quot;Parcialidad&amp;quot;: 0,
+    &amp;quot;Referencia&amp;quot;: &amp;quot;2020001236&amp;quot;,
+    &amp;quot;Serie&amp;quot;: &amp;quot;VE&amp;quot;,
+    &amp;quot;XMLFactura&amp;quot;: &amp;quot;&amp;alt;?xml version=\&amp;quot;1.0\&amp;quot; encoding=\&amp;quot;UTF-8\&amp;quot;?&amp;gt;\r\n&amp;alt;cfdi:Comprobante xmlns:xsi=\&amp;quot;http://www.w3.org/2001/XMLSchema-instance\&amp;quot; xsi:schemaLocation=\&amp;quot;http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd\&amp;quot; Version=\&amp;quot;3.3\&amp;quot; Serie=\&amp;quot;VE\&amp;quot; Folio=\&amp;quot;7249\&amp;quot; Fecha=\&amp;quot;2022-06-28T15:10:46\&amp;quot; Sello=\&amp;quot;gBFIn0m0qctQEIoI0tHIomoPItotkdaIZ4/fKI4OplMZaaWubzbtU3pjXb8ngBrJTpNt+ms6c7moW7asD+ozF7/aLfKte+vz2ie3Q0T7BTll8+E2QLUkaoWIK/OqozPXYm36u6A0ghwHrJuV7vAvRPJv5fYUe5OqH2EWzDtzaS0kvQtFlO34xLtN6F8lJ7awJcr0Ia/2oN+imZ/kU4CjCMlvM7QXEFzKquQ2t6WNiR80qjWV6Ubt/LmlHLAaclj0TVxkEqPsUiAGqpXOiMLPoGalqc+q+Ayv7VIMV77h9hWlMq1O1c/JbqnIYIksETVd3aFgsYZ750RjImumhUExbQ==\&amp;quot; FormaPago=\&amp;quot;99\&amp;quot; NoCertificado=\&amp;quot;00001000000505667410\&amp;quot; Certificado=\&amp;quot;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\&amp;quot; CondicionesDePago=\&amp;quot;CONTADO\&amp;quot; SubTotal=\&amp;quot;5000.00\&amp;quot; Moneda=\&amp;quot;MXN\&amp;quot; TipoCambio=\&amp;quot;1\&amp;quot; Total=\&amp;quot;5600.00\&amp;quot; TipoDeComprobante=\&amp;quot;I\&amp;quot; MetodoPago=\&amp;quot;PPD\&amp;quot; LugarExpedicion=\&amp;quot;97160\&amp;quot; xmlns:cfdi=\&amp;quot;http://www.sat.gob.mx/cfd/3\&amp;quot;&amp;gt;\r\n  &amp;alt;cfdi:Emisor Rfc=\&amp;quot;LMA0402275Q6\&amp;quot; Nombre=\&amp;quot;LOGÍSTICA DEL MAYAB, SA DE CV\&amp;quot; RegimenFiscal=\&amp;quot;624\&amp;quot; /&amp;gt;\r\n  &amp;alt;cfdi:Receptor Rfc=\&amp;quot;JVA780420DM3\&amp;quot; Nombre=\&amp;quot;JUGOS DEL VALLE S.A.P.I DE C.V.\&amp;quot; UsoCFDI=\&amp;quot;G03\&amp;quot; /&amp;gt;\r\n  &amp;alt;cfdi:Conceptos&amp;gt;\r\n    &amp;alt;cfdi:Concepto ClaveProdServ=\&amp;quot;78101802\&amp;quot; Cantidad=\&amp;quot;1\&amp;quot; ClaveUnidad=\&amp;quot;E48\&amp;quot; Unidad=\&amp;quot;No Aplica\&amp;quot; Descripcion=\&amp;quot;[1] FLETES (VIAJES SEGUN RELACION ANEXA)\&amp;quot; ValorUnitario=\&amp;quot;5000.00\&amp;quot; Importe=\&amp;quot;5000.00\&amp;quot;&amp;gt;\r\n      &amp;alt;cfdi:Impuestos&amp;gt;\r\n        &amp;alt;cfdi:Traslados&amp;gt;\r\n          &amp;alt;cfdi:Traslado Base=\&amp;quot;5000.00\&amp;quot; Impuesto=\&amp;quot;002\&amp;quot; TipoFactor=\&amp;quot;Tasa\&amp;quot; TasaOCuota=\&amp;quot;0.160000\&amp;quot; Importe=\&amp;quot;800.00\&amp;quot; /&amp;gt;\r\n        &amp;alt;/cfdi:Traslados&amp;gt;\r\n        &amp;alt;cfdi:Retenciones&amp;gt;\r\n          &amp;alt;cfdi:Retencion Base=\&amp;quot;5000.00\&amp;quot; Impuesto=\&amp;quot;002\&amp;quot; TasaOCuota=\&amp;quot;0.040000\&amp;quot; TipoFactor=\&amp;quot;Tasa\&amp;quot; Importe=\&amp;quot;200.00\&amp;quot; /&amp;gt;\r\n        &amp;alt;/cfdi:Retenciones&amp;gt;\r\n      &amp;alt;/cfdi:Impuestos&amp;gt;\r\n    &amp;alt;/cfdi:Concepto&amp;gt;\r\n  &amp;alt;/cfdi:Conceptos&amp;gt;\r\n  &amp;alt;cfdi:Impuestos TotalImpuestosRetenidos=\&amp;quot;200.00\&amp;quot; TotalImpuestosTrasladados=\&amp;quot;800.00\&amp;quot;&amp;gt;\r\n    &amp;alt;cfdi:Retenciones&amp;gt;\r\n      &amp;alt;cfdi:Retencion Importe=\&amp;quot;200.00\&amp;quot; Impuesto=\&amp;quot;002\&amp;quot; /&amp;gt;\r\n    &amp;alt;/cfdi:Retenciones&amp;gt;\r\n    &amp;alt;cfdi:Traslados&amp;gt;\r\n      &amp;alt;cfdi:Traslado Importe=\&amp;quot;800.00\&amp;quot; TasaOCuota=\&amp;quot;0.160000\&amp;quot; Impuesto=\&amp;quot;002\&amp;quot; TipoFactor=\&amp;quot;Tasa\&amp;quot; /&amp;gt;\r\n    &amp;alt;/cfdi:Traslados&amp;gt;\r\n  &amp;alt;/cfdi:Impuestos&amp;gt;\r\n  &amp;alt;cfdi:Complemento&amp;gt;\r\n    &amp;alt;tfd:TimbreFiscalDigital xmlns:xsi=\&amp;quot;http://www.w3.org/2001/XMLSchema-instance\&amp;quot; xsi:schemaLocation=\&amp;quot;http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd\&amp;quot; Version=\&amp;quot;1.1\&amp;quot; UUID=\&amp;quot;EC8C6138-5CF6-4E07-8917-0B24B80CA020\&amp;quot; FechaTimbrado=\&amp;quot;2022-06-28T15:10:56\&amp;quot; RfcProvCertif=\&amp;quot;SPR190613I52\&amp;quot; SelloCFD=\&amp;quot;gBFIn0m0qctQEIoI0tHIomoPItotkdaIZ4/fKI4OplMZaaWubzbtU3pjXb8ngBrJTpNt+ms6c7moW7asD+ozF7/aLfKte+vz2ie3Q0T7BTll8+E2QLUkaoWIK/OqozPXYm36u6A0ghwHrJuV7vAvRPJv5fYUe5OqH2EWzDtzaS0kvQtFlO34xLtN6F8lJ7awJcr0Ia/2oN+imZ/kU4CjCMlvM7QXEFzKquQ2t6WNiR80qjWV6Ubt/LmlHLAaclj0TVxkEqPsUiAGqpXOiMLPoGalqc+q+Ayv7VIMV77h9hWlMq1O1c/JbqnIYIksETVd3aFgsYZ750RjImumhUExbQ==\&amp;quot; NoCertificadoSAT=\&amp;quot;30001000000400002495\&amp;quot; SelloSAT=\&amp;quot;ecUVvX5+JPU3ddxVPHM1EpYfxxVKRalOyeyxlU4ElKx7wh2SwZz13Jtyy8MiVryR+sY44cDO1h8IDxzfrWQzZR/vZfu3l8hht1wAhCIcgIbRHWDWLpR5JWCF9oCho3dFsl/x6AA2gkyz5QPQceATe03iCZ5B32AgzjW4UF10iuR5FUu9iK8JtKfq/MntqKceFEANzs8O30euqOeXVgEOTvoGhKL96Os7VRRXjncj7FucWGLM8ySRJGRSibO1G2jsq/F11bCZpvRMMAp007/LgwiPHvuOAAcGhgl+wlsoXmE12i7uigStJ9yWGCGHbHvJ4bfP5eJpEigeSlbwl+Docg==\&amp;quot; xmlns:tfd=\&amp;quot;http://www.sat.gob.mx/TimbreFiscalDigital\&amp;quot; /&amp;gt;\r\n  &amp;alt;/cfdi:Complemento&amp;gt;\r\n  &amp;alt;cfdi:Addenda&amp;gt;\r\n    &amp;alt;Documento&amp;gt;\r\n      &amp;alt;FacturaFemsa&amp;gt;\r\n        &amp;alt;noVersAdd&amp;gt;1&amp;alt;/noVersAdd&amp;gt;\r\n        &amp;alt;claseDoc&amp;gt;1&amp;alt;/claseDoc&amp;gt;\r\n        &amp;alt;noSociedad&amp;gt;\r\n        &amp;alt;/noSociedad&amp;gt;\r\n        &amp;alt;noProveedor&amp;gt;67&amp;alt;/noProveedor&amp;gt;\r\n        &amp;alt;noPedido&amp;gt;\r\n        &amp;alt;/noPedido&amp;gt;\r\n        &amp;alt;moneda&amp;gt;MXN&amp;alt;/moneda&amp;gt;\r\n        &amp;alt;noEntrada&amp;gt;\r\n        &amp;alt;/noEntrada&amp;gt;\r\n        &amp;alt;noRemision&amp;gt;\r\n        &amp;alt;/noRemision&amp;gt;\r\n        &amp;alt;noSocio&amp;gt;\r\n        &amp;alt;/noSocio&amp;gt;\r\n        &amp;alt;centroCostos&amp;gt;\r\n        &amp;alt;/centroCostos&amp;gt;\r\n        &amp;alt;iniPerLiq&amp;gt;\r\n        &amp;alt;/iniPerLiq&amp;gt;\r\n        &amp;alt;finPerLiq&amp;gt;\r\n        &amp;alt;/finPerLiq&amp;gt;\r\n        &amp;alt;retencion1&amp;gt;\r\n        &amp;alt;/retencion1&amp;gt;\r\n        &amp;alt;retencion2&amp;gt;\r\n        &amp;alt;/retencion2&amp;gt;\r\n        &amp;alt;retencion3&amp;gt;\r\n        &amp;alt;/retencion3&amp;gt;\r\n        &amp;alt;email&amp;gt;\r\n        &amp;alt;/email&amp;gt;\r\n      &amp;alt;/FacturaFemsa&amp;gt;\r\n    &amp;alt;/Documento&amp;gt;\r\n  &amp;alt;/cfdi:Addenda&amp;gt;\r\n&amp;alt;/cfdi:Comprobante&amp;gt;&amp;quot;,
+    &amp;quot;SinComprobante&amp;quot;: 0,
+    &amp;quot;SistemaOrigen&amp;quot;: 0,
+    &amp;quot;Subtotal&amp;quot;: 5800.00,
+    &amp;quot;Texto&amp;quot;: &amp;quot;Factura VE7249&amp;quot;,
+    &amp;quot;TipoCambio&amp;quot;: 1.0,
+    &amp;quot;TipoFact&amp;quot;: 0,
+    &amp;quot;TipoRelacionUUID&amp;quot;: 6,
+    &amp;quot;Total&amp;quot;: 5600.00,
+    &amp;quot;UUID&amp;quot;: &amp;quot;EC8C6138-5CF6-4E07-8917-0B24B80CA020&amp;quot;,
+    &amp;quot;UsoCFDI&amp;quot;: &amp;quot;G03&amp;quot;
+  },
+  &amp;quot;Lineas&amp;quot;: [
+    {
+      &amp;quot;CodImpuesto&amp;quot;: &amp;quot;IVA16T&amp;quot;,
+      &amp;quot;Credito&amp;quot;: 5600.00,
+      &amp;quot;CuentaContable&amp;quot;: &amp;quot;DHB001001&amp;quot;,
+      &amp;quot;Debito&amp;quot;: 0.0,
+      &amp;quot;DimArea&amp;quot;: &amp;quot;&amp;quot;,
+      &amp;quot;DimCeco&amp;quot;: &amp;quot;B903&amp;quot;,
+      &amp;quot;DimDepto&amp;quot;: &amp;quot;&amp;quot;,
+      &amp;quot;Vehiculo&amp;quot;: &amp;quot;1431&amp;quot;,
+      &amp;quot;DimFilTer&amp;quot;: &amp;quot;T001&amp;quot;,
+      &amp;quot;DimSucursal&amp;quot;: &amp;quot;EMX003&amp;quot;,
+      &amp;quot;GrupoImpuestos&amp;quot;: &amp;quot;CLFLETES&amp;quot;,
+      &amp;quot;GrupoImpuestosArt&amp;quot;: &amp;quot;FLETES&amp;quot;,
+      &amp;quot;Texto&amp;quot;: &amp;quot;FLETE-VE7249-JUGOS DEL VALLE S.A.P.I DE C.V.&amp;quot;
+    }
+  ]
+}' , respuesta = 'f|Debe especificarse la condición de pago.Error en el encabezado. Error al grabar la factura.' , mensaje = 'f|Debe especificarse la condición de pago.Error en el encabezado. Error al grabar la factura.' , FechaModificacion = GETDATE() WHERE FolioAsiento = 'LM.FV42022062829'</otros_datos>
+  </error>
+</errores>

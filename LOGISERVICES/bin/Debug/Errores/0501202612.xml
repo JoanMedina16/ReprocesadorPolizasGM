@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>05/01/2026 12:18:20 p. m.</fecha>
+    <descripcion>Message: El encabezado 'Accept' se debe modificar con la propiedad o método adecuados.
+Nombre del parámetro: name. StackTrace:    en System.Net.WebHeaderCollection.ThrowOnRestrictedHeader(String headerName)
+   en System.Net.WebHeaderCollection.Add(String name, String value)
+   en D365API.HttpHelper.GetWithJsonBody(String url, Object bodyObject, Dictionary`2 headers) en C:\Repositorio\Logi\reprocesador\D365API\Class1.cs:línea 39
+   en D365API.GMTApi.Consume(LOGI_ConfiguracionD365_INFO oConfig, LOGI_Credencial_D365 oCreds, DateTime date) en C:\Repositorio\Logi\reprocesador\D365API\GMTApi.cs:línea 48
+   en D365API.LOGI_TMSConnection_D365.DescargaEjecutaMovimientosIngreso(String sFechaInicio, String sFechaFinal, Boolean bLeeTXT, Boolean bCreaArchivoJSON, Int32 ProFacturas, Int32 ProCancelacionFacturas, Int32 ProNotasCredito, Int32 ProMovimientosBancarios, Int32 ProPasivos) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 184. InnerException . Source: System. Data: System.Collections.ListDictionaryInternal. TargetSite: Void ThrowOnRestrictedHeader(System.String)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>WINSERVICES</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object=&gt; CATCH</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>05/01/2026 12:37:53 p. m.</fecha>
+    <descripcion>Message: No se puede enviar contenido textual con este tipo de verbo.. StackTrace:    en System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   en System.Net.HttpWebRequest.GetRequestStream(TransportContext&amp; context)
+   en System.Net.HttpWebRequest.GetRequestStream()
+   en D365API.ueba.GetWithJsonBody(String url, String jsonBody) en C:\Repositorio\Logi\reprocesador\D365API\ueba.cs:línea 29
+   en LOGISERVICES.Service1.TimerSincronizaIngresoReposicionD365_Object(Object state). InnerException . Source: System. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CheckProtocol(Boolean)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+</errores>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>13/01/2026 04:01:25 p. m.</fecha>
+    <descripcion>Message: 'Newtonsoft.Json.Linq.JObject' no contiene una definición para 'Encabezado'.. StackTrace:    en CallSite.Target(Closure , CallSite , Object )
+   en System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   en D365API.LOGI_TMSConnection_D365.CreaLoteIngresosD365(List`1 lstLote, String sDiarioContable, String sMetodoAPI, String&amp; sresponse, Boolean bCreaArchivoJSON) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2173
+   en D365API.LOGI_TMSConnection_D365.Proceso(DateTime date, String cnx, String Proceso, Int32 ProFacturas, Int32 ProCancelacionFacturas, Int32 ProNotasCredito, Int32 ProMovimientosBancarios, Int32 ProPasivos) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 256
+   en D365API.LOGI_TMSConnection_D365.DescargaEjecutaMovimientosIngreso(String cnxBitacora, String sFechaInicio, String sFechaFinal, Boolean bLeeTXT, Boolean bCreaArchivoJSON, Int32 ProFacturas, Int32 ProCancelacionFacturas, Int32 ProNotasCredito, Int32 ProMovimientosBancarios, Int32 ProPasivos) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 386. InnerException . Source: Anonymously Hosted DynamicMethods Assembly. Data: System.Collections.ListDictionaryInternal. TargetSite: System.Object CallSite.Target(System.Runtime.CompilerServices.Closure, System.Runtime.CompilerServices.CallSite, System.Object)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+</errores>

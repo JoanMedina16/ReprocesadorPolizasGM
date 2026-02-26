@@ -1,0 +1,2135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>149940</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:41.0028361-06:00</Fecha>
+      <Evento>Folio: LM/CUN45147 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>149</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149941</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:41.5796677-06:00</Fecha>
+      <Evento>Folio: LM/CUN45148 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>150</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149942</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:42.1158825-06:00</Fecha>
+      <Evento>Folio: LM/CUN45149 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>151</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149943</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:42.6893329-06:00</Fecha>
+      <Evento>Folio: LM/CUN45150 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>152</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149944</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:43.2382062-06:00</Fecha>
+      <Evento>Folio: LM/CUN45151 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>153</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149945</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:43.7792149-06:00</Fecha>
+      <Evento>Folio: LM/CUN45152 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>154</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149946</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:44.3840126-06:00</Fecha>
+      <Evento>Folio: LM/CUN45153 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>155</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149947</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:44.9231389-06:00</Fecha>
+      <Evento>Folio: LM/CUN45154 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>156</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149948</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:45.4992222-06:00</Fecha>
+      <Evento>Folio: LM/CUN45155 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>157</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149949</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:46.050757-06:00</Fecha>
+      <Evento>Folio: LM/CUN45156 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>158</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149950</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:46.5912863-06:00</Fecha>
+      <Evento>Folio: LM/CUN45157 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>159</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149951</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:47.2109178-06:00</Fecha>
+      <Evento>Folio: LM/CUN45158 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>160</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149952</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:47.8092855-06:00</Fecha>
+      <Evento>Folio: LM/CUN45159 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>161</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149953</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:48.4087562-06:00</Fecha>
+      <Evento>Folio: LM/CUN45160 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>162</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149954</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:48.9683579-06:00</Fecha>
+      <Evento>Folio: LM/CUN45161 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>163</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149955</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:49.5793004-06:00</Fecha>
+      <Evento>Folio: LM/CUN45162 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>164</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149956</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:50.1919683-06:00</Fecha>
+      <Evento>Folio: LM/CUN45163 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>165</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149957</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:50.8132697-06:00</Fecha>
+      <Evento>Folio: LM/CUN45164 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>166</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149958</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:51.4154379-06:00</Fecha>
+      <Evento>Folio: LM/CUN45165 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>167</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149959</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:52.0148167-06:00</Fecha>
+      <Evento>Folio: LM/CUN45166 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>168</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149960</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:52.6093997-06:00</Fecha>
+      <Evento>Folio: LM/CUN45167 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>169</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149961</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:53.1660434-06:00</Fecha>
+      <Evento>Folio: LM/CUN45168 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>170</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149962</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:53.7271132-06:00</Fecha>
+      <Evento>Folio: LM/CUN45169 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>171</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149963</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:54.3284167-06:00</Fecha>
+      <Evento>Folio: LM/CUN45170 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>172</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149964</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:54.8852134-06:00</Fecha>
+      <Evento>Folio: LM/CUN45171 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>173</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149965</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:55.3325312-06:00</Fecha>
+      <Evento>Folio: LM/QE83397 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>174</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149966</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:55.7951602-06:00</Fecha>
+      <Evento>Folio: LM/QE83398 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>175</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149967</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:56.3507643-06:00</Fecha>
+      <Evento>Folio: LM/MID111117 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>176</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149968</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:56.9309701-06:00</Fecha>
+      <Evento>Folio: LM/MID111118 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>177</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149969</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:16:57.5055274-06:00</Fecha>
+      <Evento>Folio: LM/MID111119 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>178</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149970</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:11.265311-06:00</Fecha>
+      <Evento>Folio: LM/MID111120 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>179</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149971</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:11.8449033-06:00</Fecha>
+      <Evento>Folio: LM/MID111121 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>180</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149972</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:12.3904402-06:00</Fecha>
+      <Evento>Folio: LM/MID111122 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>181</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149973</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:12.9482598-06:00</Fecha>
+      <Evento>Folio: LM/MID111123 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>182</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149974</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:13.5767054-06:00</Fecha>
+      <Evento>Folio: LM/MID111124 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>183</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149975</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:14.1628067-06:00</Fecha>
+      <Evento>Folio: LM/MID111125 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>184</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149976</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:14.7492417-06:00</Fecha>
+      <Evento>Folio: LM/MID111126 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>185</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149977</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:15.3506891-06:00</Fecha>
+      <Evento>Folio: LM/MID111127 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>186</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149978</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:15.9368751-06:00</Fecha>
+      <Evento>Folio: LM/MID111128 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>187</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149979</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:16.5017121-06:00</Fecha>
+      <Evento>Folio: LM/MID111129 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>188</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149980</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:17.0453749-06:00</Fecha>
+      <Evento>Folio: LM/MID111130 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>189</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149981</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:17.598148-06:00</Fecha>
+      <Evento>Folio: LM/MID111131 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>190</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149982</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:18.1517252-06:00</Fecha>
+      <Evento>Folio: LM/MID111132 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>191</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149983</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:18.7509722-06:00</Fecha>
+      <Evento>Folio: LM/MID111133 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>192</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149984</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:19.3560129-06:00</Fecha>
+      <Evento>Folio: LM/MID111134 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>193</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149985</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:19.9341237-06:00</Fecha>
+      <Evento>Folio: LM/MID111135 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>194</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149986</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:20.4992932-06:00</Fecha>
+      <Evento>Folio: LM/MID111136 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>195</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149987</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:21.0493271-06:00</Fecha>
+      <Evento>Folio: LM/MID111137 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>196</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149988</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:21.6026283-06:00</Fecha>
+      <Evento>Folio: LM/MID111138 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>197</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149989</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:22.1604227-06:00</Fecha>
+      <Evento>Folio: LM/MID111139 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>198</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149990</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:22.7432103-06:00</Fecha>
+      <Evento>Folio: LM/MID111140 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>199</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149991</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:23.2962224-06:00</Fecha>
+      <Evento>Folio: LM/MID111141 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>200</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149992</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:23.8885479-06:00</Fecha>
+      <Evento>Folio: LM/MID111142 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>201</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149993</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:24.4333896-06:00</Fecha>
+      <Evento>Folio: LM/MID111143 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>202</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149994</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:25.1878695-06:00</Fecha>
+      <Evento>Folio: LM/MID111144 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>203</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149995</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:25.7677908-06:00</Fecha>
+      <Evento>Folio: LM/MID111145 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>204</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149996</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:26.3428375-06:00</Fecha>
+      <Evento>Folio: LM/MID111146 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>205</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149997</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:26.8921297-06:00</Fecha>
+      <Evento>Folio: LM/MID111147 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>206</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149998</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:27.4381098-06:00</Fecha>
+      <Evento>Folio: LM/MID111148 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>207</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149999</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:27.9798635-06:00</Fecha>
+      <Evento>Folio: LM/MID111149 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>208</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150001</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:40.7507752-06:00</Fecha>
+      <Evento>Folio: LM/MID111150 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>210</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150002</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:41.3540865-06:00</Fecha>
+      <Evento>Folio: LM/MID111151 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>211</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150003</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:41.8986995-06:00</Fecha>
+      <Evento>Folio: LM/MID111152 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>212</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150004</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:42.4628416-06:00</Fecha>
+      <Evento>Folio: LM/MID111153 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>213</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150005</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:43.008462-06:00</Fecha>
+      <Evento>Folio: LM/MID111154 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>214</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150006</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:43.5654369-06:00</Fecha>
+      <Evento>Folio: LM/MID111155 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>215</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150008</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:44.6563294-06:00</Fecha>
+      <Evento>Folio: LM/CUN45172 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>217</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150009</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:45.2384171-06:00</Fecha>
+      <Evento>Folio: LM/MID111157 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>218</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150010</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:45.792833-06:00</Fecha>
+      <Evento>Folio: LM/MID111158 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>219</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150011</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:46.4701923-06:00</Fecha>
+      <Evento>Folio: LM/MID111159 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>220</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150012</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:47.0752103-06:00</Fecha>
+      <Evento>Folio: LM/MID111160 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>221</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150013</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:47.6271714-06:00</Fecha>
+      <Evento>Folio: LM/MID111161 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>222</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150014</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:48.1921166-06:00</Fecha>
+      <Evento>Folio: LM/MID111162 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>223</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150015</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:48.7805588-06:00</Fecha>
+      <Evento>Folio: LM/CUN45173 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>224</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150016</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:49.3728307-06:00</Fecha>
+      <Evento>Folio: LM/MID111163 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>225</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150017</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:49.9540383-06:00</Fecha>
+      <Evento>Folio: LM/MID111164 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>226</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150018</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:50.495622-06:00</Fecha>
+      <Evento>Folio: LM/CUN45174 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>227</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150019</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:51.0621737-06:00</Fecha>
+      <Evento>Folio: LM/MID111165 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>228</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150020</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:51.6156834-06:00</Fecha>
+      <Evento>Folio: LM/CUN45175 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>229</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150021</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:52.2035097-06:00</Fecha>
+      <Evento>Folio: LM/MID111166 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>230</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150022</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:52.8106963-06:00</Fecha>
+      <Evento>Folio: LM/MID111167 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>231</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150025</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:53.3655231-06:00</Fecha>
+      <Evento>Folio: LM/CUN45177 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>234</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150026</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:53.9075703-06:00</Fecha>
+      <Evento>Folio: LM/CUN45178 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>235</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150027</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:54.5702252-06:00</Fecha>
+      <Evento>Folio: LM/CUN45179 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>236</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150028</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:55.1482225-06:00</Fecha>
+      <Evento>Folio: LM/MID111168 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>237</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150029</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:17:55.8553569-06:00</Fecha>
+      <Evento>Folio: LM/MID111169 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>238</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150030</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:07.0228126-06:00</Fecha>
+      <Evento>Folio: LM/CUN45180 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>239</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150031</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:07.5949805-06:00</Fecha>
+      <Evento>Folio: LM/CUN45181 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>240</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150032</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:08.1577595-06:00</Fecha>
+      <Evento>Folio: LM/MID111170 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>241</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150033</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:08.761117-06:00</Fecha>
+      <Evento>Folio: LM/CUN45182 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>242</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150034</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:09.350114-06:00</Fecha>
+      <Evento>Folio: LM/MID111171 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>243</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150035</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:09.9327885-06:00</Fecha>
+      <Evento>Folio: LM/CUN45183 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>244</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150036</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:10.5177856-06:00</Fecha>
+      <Evento>Folio: LM/CUN45184 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>245</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150037</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:11.0740718-06:00</Fecha>
+      <Evento>Folio: LM/CUN45185 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>246</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150038</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:11.7150883-06:00</Fecha>
+      <Evento>Folio: LM/MID111172 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>247</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150039</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:12.2624437-06:00</Fecha>
+      <Evento>Folio: LM/CUN45186 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>248</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150040</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:12.905327-06:00</Fecha>
+      <Evento>Folio: LM/MID111173 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>249</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150041</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:13.7680059-06:00</Fecha>
+      <Evento>Folio: LM/CUN45187 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>250</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150042</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:14.4079978-06:00</Fecha>
+      <Evento>Folio: LM/CUN45188 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>251</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150043</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:15.0160209-06:00</Fecha>
+      <Evento>Folio: LM/CUN45189 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>252</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150044</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:15.5930028-06:00</Fecha>
+      <Evento>Folio: LM/MID111174 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>253</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150045</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:16.1519993-06:00</Fecha>
+      <Evento>Folio: LM/MID111175 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>254</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150046</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:16.7339-06:00</Fecha>
+      <Evento>Folio: LM/MID111176 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>255</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150047</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:17.3193322-06:00</Fecha>
+      <Evento>Folio: LM/MID111177 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>256</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150048</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:17.9544338-06:00</Fecha>
+      <Evento>Folio: LM/MID111178 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>257</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150049</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:18.5193482-06:00</Fecha>
+      <Evento>Folio: LM/MID111179 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>258</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150050</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:19.0829158-06:00</Fecha>
+      <Evento>Folio: LM/MID111180 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>259</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150051</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:19.6607903-06:00</Fecha>
+      <Evento>Folio: LM/MID111181 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>260</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150052</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:20.2801922-06:00</Fecha>
+      <Evento>Folio: LM/MID111182 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>261</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150053</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:20.8266102-06:00</Fecha>
+      <Evento>Folio: LM/MID111183 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>262</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150054</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:21.375599-06:00</Fecha>
+      <Evento>Folio: LM/MID111184 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>263</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150055</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:21.9179286-06:00</Fecha>
+      <Evento>Folio: LM/MID111185 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>264</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150056</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:22.4818457-06:00</Fecha>
+      <Evento>Folio: LM/MID111186 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>265</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150057</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:23.1891004-06:00</Fecha>
+      <Evento>Folio: LM/MID111187 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>266</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150058</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:23.7868405-06:00</Fecha>
+      <Evento>Folio: LM/MID111188 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>267</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150059</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:24.3401834-06:00</Fecha>
+      <Evento>Folio: LM/MID111189 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>268</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150062</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:40.7329168-06:00</Fecha>
+      <Evento>Folio: LM/MID111191 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>271</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150063</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:41.3103407-06:00</Fecha>
+      <Evento>Folio: LM/MID111192 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>272</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150064</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:41.8634934-06:00</Fecha>
+      <Evento>Folio: LM/MID111193 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>273</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150065</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:42.4241107-06:00</Fecha>
+      <Evento>Folio: LM/MID111194 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>274</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150066</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:43.0386029-06:00</Fecha>
+      <Evento>Folio: LM/MID111195 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>275</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150068</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:44.1617587-06:00</Fecha>
+      <Evento>Folio: LM/QE83399 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>277</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150070</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:44.7127299-06:00</Fecha>
+      <Evento>Folio: LM/MID111197 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>279</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150071</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:45.3129517-06:00</Fecha>
+      <Evento>Folio: LM/MID111198 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>280</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150072</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:45.9111679-06:00</Fecha>
+      <Evento>Folio: LM/MID111199 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>281</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150073</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:46.4601169-06:00</Fecha>
+      <Evento>Folio: LM/MID111200 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>282</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150074</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:47.0258432-06:00</Fecha>
+      <Evento>Folio: LM/MID111201 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>283</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150076</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:48.0904266-06:00</Fecha>
+      <Evento>Folio: LM/CUN45190 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>285</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150077</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:48.6286933-06:00</Fecha>
+      <Evento>Folio: LM/CUN45191 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>286</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150078</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:49.18488-06:00</Fecha>
+      <Evento>Folio: LM/CUN45192 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>287</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150079</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:49.7769228-06:00</Fecha>
+      <Evento>Folio: LM/CUN45193 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>288</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150080</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:50.3457043-06:00</Fecha>
+      <Evento>Folio: LM/CUN45194 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>289</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150081</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:50.9209932-06:00</Fecha>
+      <Evento>Folio: LM/CUN45195 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>290</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150082</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:51.4830964-06:00</Fecha>
+      <Evento>Folio: LM/CUN45196 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>291</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150083</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:52.0367675-06:00</Fecha>
+      <Evento>Folio: LM/CUN45197 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>292</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150084</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:52.6181602-06:00</Fecha>
+      <Evento>Folio: LM/CUN45198 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>293</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150085</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:53.1939765-06:00</Fecha>
+      <Evento>Folio: LM/CUN45199 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>294</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150086</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:53.7567392-06:00</Fecha>
+      <Evento>Folio: LM/CUN45200 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>295</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150087</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:54.3438747-06:00</Fecha>
+      <Evento>Folio: LM/CUN45201 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>296</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150088</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:54.9098254-06:00</Fecha>
+      <Evento>Folio: LM/CUN45202 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>297</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150089</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:18:55.4576635-06:00</Fecha>
+      <Evento>Folio: LM/CUN45203 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>298</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150090</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:03.1059111-06:00</Fecha>
+      <Evento>Folio: LM/CUN45204 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>299</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150091</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:03.6519816-06:00</Fecha>
+      <Evento>Folio: LM/CUN45205 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>300</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150092</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:04.2811438-06:00</Fecha>
+      <Evento>Folio: LM/CUN45206 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>301</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150093</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:04.8482201-06:00</Fecha>
+      <Evento>Folio: LM/CUN45207 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>302</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150094</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:05.3991254-06:00</Fecha>
+      <Evento>Folio: LM/CUN45208 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>303</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150095</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:06.0067349-06:00</Fecha>
+      <Evento>Folio: LM/CUN45209 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>304</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150096</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:06.5280577-06:00</Fecha>
+      <Evento>Folio: LM/CUN45210 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>305</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150098</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:07.5495142-06:00</Fecha>
+      <Evento>Folio: LM/QE83400 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>307</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150099</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:09.553527-06:00</Fecha>
+      <Evento>Folio: LM/CUN45211 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>308</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150100</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:12.7427391-06:00</Fecha>
+      <Evento>Folio: LM/CUN45212 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>309</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150101</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:13.3062134-06:00</Fecha>
+      <Evento>Folio: LM/CUN45213 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>310</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149940</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:20.486488-06:00</Fecha>
+      <Evento>Folio: LM/CUN45147 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>149</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149941</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:20.6997368-06:00</Fecha>
+      <Evento>Folio: LM/CUN45148 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>150</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149942</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:20.9820463-06:00</Fecha>
+      <Evento>Folio: LM/CUN45149 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>151</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149943</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:21.1600832-06:00</Fecha>
+      <Evento>Folio: LM/CUN45150 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>152</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149944</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:21.3380619-06:00</Fecha>
+      <Evento>Folio: LM/CUN45151 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>153</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149945</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:21.5226375-06:00</Fecha>
+      <Evento>Folio: LM/CUN45152 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>154</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149946</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:21.7102021-06:00</Fecha>
+      <Evento>Folio: LM/CUN45153 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>155</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149947</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:21.8994075-06:00</Fecha>
+      <Evento>Folio: LM/CUN45154 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>156</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149948</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:22.1227945-06:00</Fecha>
+      <Evento>Folio: LM/CUN45155 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>157</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149949</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:22.3039525-06:00</Fecha>
+      <Evento>Folio: LM/CUN45156 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>158</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149950</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:22.4989778-06:00</Fecha>
+      <Evento>Folio: LM/CUN45157 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>159</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149951</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:22.7028662-06:00</Fecha>
+      <Evento>Folio: LM/CUN45158 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>160</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149952</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:22.8868376-06:00</Fecha>
+      <Evento>Folio: LM/CUN45159 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>161</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149953</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:23.0826075-06:00</Fecha>
+      <Evento>Folio: LM/CUN45160 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>162</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149954</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:23.3075523-06:00</Fecha>
+      <Evento>Folio: LM/CUN45161 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>163</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149955</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:23.5009027-06:00</Fecha>
+      <Evento>Folio: LM/CUN45162 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>164</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149956</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:23.6849459-06:00</Fecha>
+      <Evento>Folio: LM/CUN45163 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>165</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149957</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:23.8809786-06:00</Fecha>
+      <Evento>Folio: LM/CUN45164 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>166</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149958</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:24.0798886-06:00</Fecha>
+      <Evento>Folio: LM/CUN45165 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>167</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149959</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:24.2780186-06:00</Fecha>
+      <Evento>Folio: LM/CUN45166 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>168</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149960</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:24.4754905-06:00</Fecha>
+      <Evento>Folio: LM/CUN45167 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>169</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149961</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:24.6685169-06:00</Fecha>
+      <Evento>Folio: LM/CUN45168 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>170</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149962</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:24.8718206-06:00</Fecha>
+      <Evento>Folio: LM/CUN45169 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>171</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149963</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:25.0656471-06:00</Fecha>
+      <Evento>Folio: LM/CUN45170 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>172</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149964</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:25.2483417-06:00</Fecha>
+      <Evento>Folio: LM/CUN45171 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>173</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149965</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:25.433784-06:00</Fecha>
+      <Evento>Folio: LM/QE83397 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>174</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149966</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:25.6329977-06:00</Fecha>
+      <Evento>Folio: LM/QE83398 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>175</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149967</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:25.8306667-06:00</Fecha>
+      <Evento>Folio: LM/MID111117 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>176</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149968</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:26.03073-06:00</Fecha>
+      <Evento>Folio: LM/MID111118 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>177</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149969</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:26.2168423-06:00</Fecha>
+      <Evento>Folio: LM/MID111119 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>178</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149970</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:29.6860558-06:00</Fecha>
+      <Evento>Folio: LM/MID111120 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>179</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149971</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:29.8730585-06:00</Fecha>
+      <Evento>Folio: LM/MID111121 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>180</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149972</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:30.0684467-06:00</Fecha>
+      <Evento>Folio: LM/MID111122 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>181</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149973</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:30.2707448-06:00</Fecha>
+      <Evento>Folio: LM/MID111123 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>182</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149974</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:30.4622369-06:00</Fecha>
+      <Evento>Folio: LM/MID111124 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>183</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149975</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:30.6537753-06:00</Fecha>
+      <Evento>Folio: LM/MID111125 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>184</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149976</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:30.8421679-06:00</Fecha>
+      <Evento>Folio: LM/MID111126 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>185</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149977</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:31.0448133-06:00</Fecha>
+      <Evento>Folio: LM/MID111127 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>186</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149978</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:31.2479319-06:00</Fecha>
+      <Evento>Folio: LM/MID111128 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>187</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149979</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:31.4420964-06:00</Fecha>
+      <Evento>Folio: LM/MID111129 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>188</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149980</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:31.6339586-06:00</Fecha>
+      <Evento>Folio: LM/MID111130 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>189</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149981</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:31.8268919-06:00</Fecha>
+      <Evento>Folio: LM/MID111131 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>190</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149982</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:32.0092359-06:00</Fecha>
+      <Evento>Folio: LM/MID111132 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>191</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149983</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:32.2003122-06:00</Fecha>
+      <Evento>Folio: LM/MID111133 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>192</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149984</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:32.4029559-06:00</Fecha>
+      <Evento>Folio: LM/MID111134 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>193</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149985</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:32.5906806-06:00</Fecha>
+      <Evento>Folio: LM/MID111135 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>194</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149986</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:32.77599-06:00</Fecha>
+      <Evento>Folio: LM/MID111136 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>195</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149987</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:32.9748592-06:00</Fecha>
+      <Evento>Folio: LM/MID111137 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>196</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149988</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:33.1738492-06:00</Fecha>
+      <Evento>Folio: LM/MID111138 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>197</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149989</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:33.3668959-06:00</Fecha>
+      <Evento>Folio: LM/MID111139 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>198</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149990</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:33.5507089-06:00</Fecha>
+      <Evento>Folio: LM/MID111140 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>199</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149991</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:33.7588936-06:00</Fecha>
+      <Evento>Folio: LM/MID111141 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>200</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149992</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:33.9867914-06:00</Fecha>
+      <Evento>Folio: LM/MID111142 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>201</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149993</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:34.1874823-06:00</Fecha>
+      <Evento>Folio: LM/MID111143 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>202</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149994</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:34.3756305-06:00</Fecha>
+      <Evento>Folio: LM/MID111144 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>203</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149995</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:34.5610863-06:00</Fecha>
+      <Evento>Folio: LM/MID111145 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>204</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149996</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:34.7457266-06:00</Fecha>
+      <Evento>Folio: LM/MID111146 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>205</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149997</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:34.9505137-06:00</Fecha>
+      <Evento>Folio: LM/MID111147 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>206</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149998</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:35.1612374-06:00</Fecha>
+      <Evento>Folio: LM/MID111148 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>207</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149999</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:35.3420186-06:00</Fecha>
+      <Evento>Folio: LM/MID111149 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>208</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150001</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:39.146274-06:00</Fecha>
+      <Evento>Folio: LM/MID111150 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>210</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150002</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:39.3483344-06:00</Fecha>
+      <Evento>Folio: LM/MID111151 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>211</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150003</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:39.5318394-06:00</Fecha>
+      <Evento>Folio: LM/MID111152 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>212</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150004</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:39.7227692-06:00</Fecha>
+      <Evento>Folio: LM/MID111153 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>213</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150005</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:39.926048-06:00</Fecha>
+      <Evento>Folio: LM/MID111154 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>214</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150006</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:40.1142931-06:00</Fecha>
+      <Evento>Folio: LM/MID111155 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>215</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150008</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:40.4868869-06:00</Fecha>
+      <Evento>Folio: LM/CUN45172 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>217</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150009</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:40.6927584-06:00</Fecha>
+      <Evento>Folio: LM/MID111157 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>218</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150010</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:40.9000287-06:00</Fecha>
+      <Evento>Folio: LM/MID111158 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>219</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150011</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:41.1056705-06:00</Fecha>
+      <Evento>Folio: LM/MID111159 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>220</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150012</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:41.3026855-06:00</Fecha>
+      <Evento>Folio: LM/MID111160 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>221</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150013</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:41.4989277-06:00</Fecha>
+      <Evento>Folio: LM/MID111161 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>222</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150014</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:41.7047234-06:00</Fecha>
+      <Evento>Folio: LM/MID111162 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>223</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150015</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:41.8852863-06:00</Fecha>
+      <Evento>Folio: LM/CUN45173 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>224</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150016</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:42.0769741-06:00</Fecha>
+      <Evento>Folio: LM/MID111163 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>225</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150017</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:42.2739197-06:00</Fecha>
+      <Evento>Folio: LM/MID111164 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>226</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150018</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:42.4588484-06:00</Fecha>
+      <Evento>Folio: LM/CUN45174 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>227</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150019</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:42.6542541-06:00</Fecha>
+      <Evento>Folio: LM/MID111165 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>228</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150020</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:42.8605933-06:00</Fecha>
+      <Evento>Folio: LM/CUN45175 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>229</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150021</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:43.0620333-06:00</Fecha>
+      <Evento>Folio: LM/MID111166 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>230</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150022</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:43.2554428-06:00</Fecha>
+      <Evento>Folio: LM/MID111167 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>231</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150025</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:43.4540158-06:00</Fecha>
+      <Evento>Folio: LM/CUN45177 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>234</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150026</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:43.6539987-06:00</Fecha>
+      <Evento>Folio: LM/CUN45178 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>235</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150027</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:43.860351-06:00</Fecha>
+      <Evento>Folio: LM/CUN45179 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>236</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150028</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:44.0592814-06:00</Fecha>
+      <Evento>Folio: LM/MID111168 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>237</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150029</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:44.2530384-06:00</Fecha>
+      <Evento>Folio: LM/MID111169 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>238</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150030</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:47.7771973-06:00</Fecha>
+      <Evento>Folio: LM/CUN45180 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>239</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150031</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:47.97087-06:00</Fecha>
+      <Evento>Folio: LM/CUN45181 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>240</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150032</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:48.1652546-06:00</Fecha>
+      <Evento>Folio: LM/MID111170 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>241</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150033</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:48.3458057-06:00</Fecha>
+      <Evento>Folio: LM/CUN45182 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>242</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150034</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:48.5460903-06:00</Fecha>
+      <Evento>Folio: LM/MID111171 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>243</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150035</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:48.7418817-06:00</Fecha>
+      <Evento>Folio: LM/CUN45183 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>244</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150036</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:48.929982-06:00</Fecha>
+      <Evento>Folio: LM/CUN45184 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>245</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150037</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:49.117171-06:00</Fecha>
+      <Evento>Folio: LM/CUN45185 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>246</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150038</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:49.3075728-06:00</Fecha>
+      <Evento>Folio: LM/MID111172 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>247</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150039</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:49.5033236-06:00</Fecha>
+      <Evento>Folio: LM/CUN45186 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>248</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150040</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:49.7119566-06:00</Fecha>
+      <Evento>Folio: LM/MID111173 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>249</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150041</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:49.8990795-06:00</Fecha>
+      <Evento>Folio: LM/CUN45187 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>250</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150042</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:50.0942083-06:00</Fecha>
+      <Evento>Folio: LM/CUN45188 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>251</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150043</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:50.2937541-06:00</Fecha>
+      <Evento>Folio: LM/CUN45189 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>252</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150044</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:50.4932892-06:00</Fecha>
+      <Evento>Folio: LM/MID111174 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>253</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150045</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:50.7092973-06:00</Fecha>
+      <Evento>Folio: LM/MID111175 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>254</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150046</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:50.9056121-06:00</Fecha>
+      <Evento>Folio: LM/MID111176 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>255</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150047</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:51.1066307-06:00</Fecha>
+      <Evento>Folio: LM/MID111177 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>256</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150048</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:51.3066353-06:00</Fecha>
+      <Evento>Folio: LM/MID111178 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>257</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150049</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:51.5046512-06:00</Fecha>
+      <Evento>Folio: LM/MID111179 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>258</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150050</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:51.7184801-06:00</Fecha>
+      <Evento>Folio: LM/MID111180 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>259</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150051</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:51.9211102-06:00</Fecha>
+      <Evento>Folio: LM/MID111181 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>260</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150052</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:52.1133948-06:00</Fecha>
+      <Evento>Folio: LM/MID111182 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>261</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150053</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:52.3111208-06:00</Fecha>
+      <Evento>Folio: LM/MID111183 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>262</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150054</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:52.5151532-06:00</Fecha>
+      <Evento>Folio: LM/MID111184 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>263</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150055</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:52.7237806-06:00</Fecha>
+      <Evento>Folio: LM/MID111185 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>264</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150056</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:52.9148557-06:00</Fecha>
+      <Evento>Folio: LM/MID111186 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>265</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150057</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:53.107693-06:00</Fecha>
+      <Evento>Folio: LM/MID111187 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>266</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150058</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:53.316441-06:00</Fecha>
+      <Evento>Folio: LM/MID111188 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>267</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150059</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:53.5032246-06:00</Fecha>
+      <Evento>Folio: LM/MID111189 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>268</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150062</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:56.8449331-06:00</Fecha>
+      <Evento>Folio: LM/MID111191 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>271</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150063</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:57.048407-06:00</Fecha>
+      <Evento>Folio: LM/MID111192 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>272</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150064</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:57.2629726-06:00</Fecha>
+      <Evento>Folio: LM/MID111193 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>273</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150065</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:57.4519325-06:00</Fecha>
+      <Evento>Folio: LM/MID111194 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>274</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150066</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:57.6630682-06:00</Fecha>
+      <Evento>Folio: LM/MID111195 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>275</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150068</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:58.0602134-06:00</Fecha>
+      <Evento>Folio: LM/QE83399 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>277</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150070</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:58.2611927-06:00</Fecha>
+      <Evento>Folio: LM/MID111197 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>279</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150071</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:58.4807617-06:00</Fecha>
+      <Evento>Folio: LM/MID111198 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>280</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150072</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:58.7927937-06:00</Fecha>
+      <Evento>Folio: LM/MID111199 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>281</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150073</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:58.9907493-06:00</Fecha>
+      <Evento>Folio: LM/MID111200 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>282</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150074</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:59.189172-06:00</Fecha>
+      <Evento>Folio: LM/MID111201 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>283</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150076</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:59.6072478-06:00</Fecha>
+      <Evento>Folio: LM/CUN45190 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>285</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150077</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:19:59.9269792-06:00</Fecha>
+      <Evento>Folio: LM/CUN45191 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>286</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150078</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:00.1428854-06:00</Fecha>
+      <Evento>Folio: LM/CUN45192 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>287</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150079</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:00.3418548-06:00</Fecha>
+      <Evento>Folio: LM/CUN45193 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>288</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150080</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:00.5341545-06:00</Fecha>
+      <Evento>Folio: LM/CUN45194 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>289</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150081</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:00.7257263-06:00</Fecha>
+      <Evento>Folio: LM/CUN45195 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>290</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150082</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:00.9706763-06:00</Fecha>
+      <Evento>Folio: LM/CUN45196 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>291</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150083</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:01.1906267-06:00</Fecha>
+      <Evento>Folio: LM/CUN45197 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>292</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150084</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:01.39428-06:00</Fecha>
+      <Evento>Folio: LM/CUN45198 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>293</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150085</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:01.5957919-06:00</Fecha>
+      <Evento>Folio: LM/CUN45199 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>294</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150086</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:01.8026701-06:00</Fecha>
+      <Evento>Folio: LM/CUN45200 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>295</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150087</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:02.012696-06:00</Fecha>
+      <Evento>Folio: LM/CUN45201 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>296</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150088</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:02.2918146-06:00</Fecha>
+      <Evento>Folio: LM/CUN45202 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>297</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150089</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:02.4881762-06:00</Fecha>
+      <Evento>Folio: LM/CUN45203 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>298</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150090</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:04.3205369-06:00</Fecha>
+      <Evento>Folio: LM/CUN45204 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>299</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150091</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:04.5370417-06:00</Fecha>
+      <Evento>Folio: LM/CUN45205 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>300</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150092</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:04.7430115-06:00</Fecha>
+      <Evento>Folio: LM/CUN45206 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>301</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150093</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:04.9384973-06:00</Fecha>
+      <Evento>Folio: LM/CUN45207 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>302</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150094</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:05.1519035-06:00</Fecha>
+      <Evento>Folio: LM/CUN45208 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>303</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150095</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:05.3626654-06:00</Fecha>
+      <Evento>Folio: LM/CUN45209 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>304</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150096</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:05.6599506-06:00</Fecha>
+      <Evento>Folio: LM/CUN45210 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>305</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150098</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:06.1396576-06:00</Fecha>
+      <Evento>Folio: LM/QE83400 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>307</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150099</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:06.3705793-06:00</Fecha>
+      <Evento>Folio: LM/CUN45211 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>308</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150100</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:06.5706789-06:00</Fecha>
+      <Evento>Folio: LM/CUN45212 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>309</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150101</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:20:06.7650891-06:00</Fecha>
+      <Evento>Folio: LM/CUN45213 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>310</NumPoliza>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-02-13T15:16:41.0028361-06:00</FechaCreacion>
+  <TotalRegistros>304</TotalRegistros>
+</RegistrosPolizas>

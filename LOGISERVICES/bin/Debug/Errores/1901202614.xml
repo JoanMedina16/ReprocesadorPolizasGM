@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>WINSERVICES</usuario_id>
+    <metodo>OnStart =&gt; Error al inicializar timers de procesos</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>19/01/2026 02:28:59 p. m.</fecha>
+    <descripcion>Message: Ya se agregó un elemento con la misma clave.. StackTrace:    en System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   en System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   en System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   en LOGISERVICES.Service1.OnStart(String[] args) en C:\Repositorio\Logi\reprocesador\LOGISERVICES\Service1.cs:línea 209. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Void ThrowArgumentException(System.ExceptionResource)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>WINSERVICES</usuario_id>
+    <metodo>OnStart =&gt; Error al inicializar timers de procesos</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>19/01/2026 02:31:58 p. m.</fecha>
+    <descripcion>Message: Ya se agregó un elemento con la misma clave.. StackTrace:    en System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   en System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   en System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   en LOGISERVICES.Service1.OnStart(String[] args). InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Void ThrowArgumentException(System.ExceptionResource)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+</errores>

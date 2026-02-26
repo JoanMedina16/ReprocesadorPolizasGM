@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>149800</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:11:47.157613-06:00</Fecha>
+      <Evento>Folio: LM/MID111022 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>9</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149800</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:13:43.8232247-06:00</Fecha>
+      <Evento>Folio: LM/MID111022 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>9</NumPoliza>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-02-13T15:11:47.157613-06:00</FechaCreacion>
+  <TotalRegistros>2</TotalRegistros>
+</RegistrosPolizas>

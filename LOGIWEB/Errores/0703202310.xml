@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>LOGI_Loginusuario_PD.cs</usuario_id>
+    <metodo>ValidaLoginUsuario</metodo>
+    <clase>Login usuario</clase>
+    <modulo>
+    </modulo>
+    <fecha>07/03/2023 10:36:50 a. m.</fecha>
+    <descripcion>Message: Login failed for user 'jfloresu'.. StackTrace:    en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Tablas.LOGI_Loginusuario_PD.ValidaLoginUsuario(LOGI_Usuarios_INFO&amp; oUsuario, LOGI_Usuarios_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\LOGI_Loginusuario_PD.cs:línea 39. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void .ctor(System.Data.ProviderBase.DbConnectionPoolIdentity, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SqlCredential, System.Object, System.String, System.Security.SecureString, Boolean, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SessionData, System.Data.ProviderBase.DbConnectionPool, System.String, Boolean, System.Data.SqlClient.SqlAuthenticationProviderManager)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Loginusuario_PD.cs</usuario_id>
+    <metodo>ValidaLoginUsuario</metodo>
+    <clase>Login usuario</clase>
+    <modulo>
+    </modulo>
+    <fecha>07/03/2023 10:37:01 a. m.</fecha>
+    <descripcion>Message: Login failed for user 'jfloresu'.. StackTrace:    en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Tablas.LOGI_Loginusuario_PD.ValidaLoginUsuario(LOGI_Usuarios_INFO&amp; oUsuario, LOGI_Usuarios_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\LOGI_Loginusuario_PD.cs:línea 39. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void .ctor(System.Data.ProviderBase.DbConnectionPoolIdentity, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SqlCredential, System.Object, System.String, System.Security.SecureString, Boolean, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SessionData, System.Data.ProviderBase.DbConnectionPool, System.String, Boolean, System.Data.SqlClient.SqlAuthenticationProviderManager)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Loginusuario_PD.cs</usuario_id>
+    <metodo>ValidaLoginUsuario</metodo>
+    <clase>Login usuario</clase>
+    <modulo>
+    </modulo>
+    <fecha>07/03/2023 10:37:12 a. m.</fecha>
+    <descripcion>Message: Login failed for user 'jfloresu'.. StackTrace:    en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Tablas.LOGI_Loginusuario_PD.ValidaLoginUsuario(LOGI_Usuarios_INFO&amp; oUsuario, LOGI_Usuarios_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\LOGI_Loginusuario_PD.cs:línea 39. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void .ctor(System.Data.ProviderBase.DbConnectionPoolIdentity, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SqlCredential, System.Object, System.String, System.Security.SecureString, Boolean, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SessionData, System.Data.ProviderBase.DbConnectionPool, System.String, Boolean, System.Data.SqlClient.SqlAuthenticationProviderManager)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>07/03/2023 10:37:25 a. m.</fecha>
+    <descripcion>Message: Login failed for user 'jfloresu'.. StackTrace:    en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 35. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Boolean TryGetConnection(System.Data.Common.DbConnection, UInt32, Boolean, Boolean, System.Data.Common.DbConnectionOptions, System.Data.ProviderBase.DbConnectionInternal ByRef)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Loginusuario_PD.cs</usuario_id>
+    <metodo>ValidaLoginUsuario</metodo>
+    <clase>Login usuario</clase>
+    <modulo>
+    </modulo>
+    <fecha>07/03/2023 10:37:37 a. m.</fecha>
+    <descripcion>Message: Login failed for user 'jfloresu'.. StackTrace:    en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Tablas.LOGI_Loginusuario_PD.ValidaLoginUsuario(LOGI_Usuarios_INFO&amp; oUsuario, LOGI_Usuarios_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\LOGI_Loginusuario_PD.cs:línea 39. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void .ctor(System.Data.ProviderBase.DbConnectionPoolIdentity, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SqlCredential, System.Object, System.String, System.Security.SecureString, Boolean, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SessionData, System.Data.ProviderBase.DbConnectionPool, System.String, Boolean, System.Data.SqlClient.SqlAuthenticationProviderManager)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Loginusuario_PD.cs</usuario_id>
+    <metodo>ValidaLoginUsuario</metodo>
+    <clase>Login usuario</clase>
+    <modulo>
+    </modulo>
+    <fecha>07/03/2023 10:37:44 a. m.</fecha>
+    <descripcion>Message: Login failed for user 'jfloresu'.. StackTrace:    en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Tablas.LOGI_Loginusuario_PD.ValidaLoginUsuario(LOGI_Usuarios_INFO&amp; oUsuario, LOGI_Usuarios_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\LOGI_Loginusuario_PD.cs:línea 39. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Boolean TryGetConnection(System.Data.Common.DbConnection, UInt32, Boolean, Boolean, System.Data.Common.DbConnectionOptions, System.Data.ProviderBase.DbConnectionInternal ByRef)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Loginusuario_PD.cs</usuario_id>
+    <metodo>ValidaLoginUsuario</metodo>
+    <clase>Login usuario</clase>
+    <modulo>
+    </modulo>
+    <fecha>07/03/2023 10:39:05 a. m.</fecha>
+    <descripcion>Message: Login failed for user 'jfloresu'.. StackTrace:    en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Tablas.LOGI_Loginusuario_PD.ValidaLoginUsuario(LOGI_Usuarios_INFO&amp; oUsuario, LOGI_Usuarios_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\LOGI_Loginusuario_PD.cs:línea 39. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void .ctor(System.Data.ProviderBase.DbConnectionPoolIdentity, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SqlCredential, System.Object, System.String, System.Security.SecureString, Boolean, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SessionData, System.Data.ProviderBase.DbConnectionPool, System.String, Boolean, System.Data.SqlClient.SqlAuthenticationProviderManager)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Loginusuario_PD.cs</usuario_id>
+    <metodo>ValidaLoginUsuario</metodo>
+    <clase>Login usuario</clase>
+    <modulo>
+    </modulo>
+    <fecha>07/03/2023 10:39:14 a. m.</fecha>
+    <descripcion>Message: Login failed for user 'jfloresu'.. StackTrace:    en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Tablas.LOGI_Loginusuario_PD.ValidaLoginUsuario(LOGI_Usuarios_INFO&amp; oUsuario, LOGI_Usuarios_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\LOGI_Loginusuario_PD.cs:línea 39. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void .ctor(System.Data.ProviderBase.DbConnectionPoolIdentity, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SqlCredential, System.Object, System.String, System.Security.SecureString, Boolean, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SessionData, System.Data.ProviderBase.DbConnectionPool, System.String, Boolean, System.Data.SqlClient.SqlAuthenticationProviderManager)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Loginusuario_PD.cs</usuario_id>
+    <metodo>ValidaLoginUsuario</metodo>
+    <clase>Login usuario</clase>
+    <modulo>
+    </modulo>
+    <fecha>07/03/2023 10:39:18 a. m.</fecha>
+    <descripcion>Message: Login failed for user 'jfloresu'.. StackTrace:    en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Tablas.LOGI_Loginusuario_PD.ValidaLoginUsuario(LOGI_Usuarios_INFO&amp; oUsuario, LOGI_Usuarios_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\LOGI_Loginusuario_PD.cs:línea 39. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void .ctor(System.Data.ProviderBase.DbConnectionPoolIdentity, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SqlCredential, System.Object, System.String, System.Security.SecureString, Boolean, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SessionData, System.Data.ProviderBase.DbConnectionPool, System.String, Boolean, System.Data.SqlClient.SqlAuthenticationProviderManager)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>2</usuario_id>
+    <metodo>Listarequisiones</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>07/03/2023 10:41:55 a. m.</fecha>
+    <descripcion>Message: No está autorizado a cambiar la propiedad 'ConnectionString'. El estado actual de la conexión es abierta.. StackTrace:    en System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   en System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 38
+   en AD.Tablas.CAT.LOGI_Permisos_AD.RecuperaMatrizByPerfil(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstMatriz, Int32 iPerfilID, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\CAT\LOGI_Roles_AD.cs:línea 205
+   en PD.Tablas.D365.LOGI_Requisiciones_PD.Listarequisiones(Int32 PerfilID, List`1&amp; lstRequisiciones, LOGI_Requisicion_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Requisiciones_PD.cs:línea 42. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void ConnectionString_Set(System.Data.Common.DbConnectionPoolKey)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>2</usuario_id>
+    <metodo>Listarequisiones</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>07/03/2023 10:45:20 a. m.</fecha>
+    <descripcion>Message: No se ha encontrado la configuración de la matriz de cuentas. StackTrace:    en PD.Tablas.D365.LOGI_Requisiciones_PD.Listarequisiones(Int32 PerfilID, List`1&amp; lstRequisiciones, LOGI_Requisicion_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Requisiciones_PD.cs:línea 56. InnerException . Source: PD. Data: System.Collections.ListDictionaryInternal. TargetSite: System.String Listarequisiones(Int32, System.Collections.Generic.List`1[INFO.Tablas.D365.LOGI_Requisicion_INFO] ByRef, INFO.Tablas.D365.LOGI_Requisicion_INFO)</descripcion>
+    <otros_datos>select * from cat_matriz_rol WHERE rolid = '2'</otros_datos>
+  </error>
+  <error>
+    <usuario_id>105</usuario_id>
+    <metodo>Listarequisiones</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>07/03/2023 10:46:51 a. m.</fecha>
+    <descripcion>Message: No se ha encontrado la configuración de la matriz de cuentas. StackTrace:    en PD.Tablas.D365.LOGI_Requisiciones_PD.Listarequisiones(Int32 PerfilID, List`1&amp; lstRequisiciones, LOGI_Requisicion_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Requisiciones_PD.cs:línea 56. InnerException . Source: PD. Data: System.Collections.ListDictionaryInternal. TargetSite: System.String Listarequisiones(Int32, System.Collections.Generic.List`1[INFO.Tablas.D365.LOGI_Requisicion_INFO] ByRef, INFO.Tablas.D365.LOGI_Requisicion_INFO)</descripcion>
+    <otros_datos>select * from cat_matriz_rol WHERE rolid = '105'</otros_datos>
+  </error>
+  <error>
+    <usuario_id>105</usuario_id>
+    <metodo>Listarequisiones</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>07/03/2023 10:47:52 a. m.</fecha>
+    <descripcion>Message: No se ha encontrado la configuración de la matriz de cuentas. StackTrace:    en PD.Tablas.D365.LOGI_Requisiciones_PD.Listarequisiones(Int32 PerfilID, List`1&amp; lstRequisiciones, LOGI_Requisicion_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Requisiciones_PD.cs:línea 56. InnerException . Source: PD. Data: System.Collections.ListDictionaryInternal. TargetSite: System.String Listarequisiones(Int32, System.Collections.Generic.List`1[INFO.Tablas.D365.LOGI_Requisicion_INFO] ByRef, INFO.Tablas.D365.LOGI_Requisicion_INFO)</descripcion>
+    <otros_datos>select * from cat_matriz_rol WHERE rolid = '105'</otros_datos>
+  </error>
+</errores>

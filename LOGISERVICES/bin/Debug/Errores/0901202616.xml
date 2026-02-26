@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/01/2026 04:00:41 p. m.</fecha>
+    <descripcion>Message: Internal Server Error. StackTrace: 
+Server stack trace: 
+   en System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc&amp; rpc)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   en System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   en D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCService.cargarFactura(cargarFactura request)
+   en D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCServiceClient.D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCService.cargarFactura(cargarFactura request)
+   en D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCServiceClient.cargarFactura(CallContext CallContext, BBICargarFacturaCxCContract _contrato, String&amp; result)
+   en D365API.LOGI_TMSConnection_D365.CreaLoteIngresosD365(List`1 lstLote, String sDiarioContable, String sMetodoAPI, String&amp; sresponse, Boolean bCreaArchivoJSON). InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Void HandleReturnMessage(System.Runtime.Remoting.Messaging.IMessage, System.Runtime.Remoting.Messaging.IMessage)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+</errores>

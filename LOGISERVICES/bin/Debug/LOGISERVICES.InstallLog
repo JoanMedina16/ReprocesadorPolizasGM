@@ -1,0 +1,117 @@
+﻿Instalando ensamblado 'C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.InstallLog
+   assemblypath = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+   logtoconsole = 
+Deshaciendo ensamblado 'C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.InstallLog
+   assemblypath = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+   logtoconsole = 
+Instalando ensamblado 'C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.InstallLog
+   assemblypath = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+   logtoconsole = 
+Deshaciendo ensamblado 'C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.InstallLog
+   assemblypath = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+   logtoconsole = 
+Instalando ensamblado 'C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.InstallLog
+   assemblypath = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+   logtoconsole = 
+Instalando el servicio Operaciones Logística...
+Creando el origen de EventLog Operaciones Logística en el registro Application...
+Deshaciendo ensamblado 'C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.InstallLog
+   assemblypath = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+   logtoconsole = 
+Restaurando el registro de eventos al estado anterior para el origen Operaciones Logística.
+Instalando ensamblado 'C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.InstallLog
+   assemblypath = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+   logtoconsole = 
+Instalando el servicio Operaciones Logística...
+Creando el origen de EventLog Operaciones Logística en el registro Application...
+Deshaciendo ensamblado 'C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.InstallLog
+   assemblypath = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+   logtoconsole = 
+Restaurando el registro de eventos al estado anterior para el origen Operaciones Logística.
+Instalando ensamblado 'C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.InstallLog
+   assemblypath = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+   logtoconsole = 
+Instalando el servicio Operaciones Logística...
+El servicio Operaciones Logística se ha instalado correctamente.
+Creando el origen de EventLog Operaciones Logística en el registro Application...
+Confirmando ensamblado 'C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.InstallLog
+   assemblypath = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+   logtoconsole = 
+Desinstalando ensamblado 'C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.InstallLog
+   assemblypath = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+   logtoconsole = 
+Quitando el origen de EventLog Operaciones Logística.
+Se está quitando el servicio Operaciones Logística del sistema...
+El servicio Operaciones Logística se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.InstallLog
+   assemblypath = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+   logtoconsole = 
+Instalando el servicio Operaciones Logística...
+El servicio Operaciones Logística se ha instalado correctamente.
+Creando el origen de EventLog Operaciones Logística en el registro Application...
+Confirmando ensamblado 'C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.InstallLog
+   assemblypath = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+   logtoconsole = 
+Desinstalando ensamblado 'C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.InstallLog
+   assemblypath = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+   logtoconsole = 
+Quitando el origen de EventLog Operaciones Logística.
+Se está quitando el servicio Operaciones Logística del sistema...
+El servicio Operaciones Logística se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.InstallLog
+   assemblypath = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+   logtoconsole = 
+Instalando el servicio Operaciones Logística...
+El servicio Operaciones Logística se ha instalado correctamente.
+Creando el origen de EventLog Operaciones Logística en el registro Application...
+Confirmando ensamblado 'C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe'.
+Los parámetros afectados son:
+   i = 
+   logfile = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.InstallLog
+   assemblypath = C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+   logtoconsole = 

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ListadetallePoliza</metodo>
+    <clase>LOGI_Polizas_detalle_PD.cs</clase>
+    <modulo>Polizas detalle D365</modulo>
+    <fecha>12/10/2022 16:23:21</fecha>
+    <descripcion>Message: El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index. StackTrace:    en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.get_Item(Int32 index)
+   en PD.Tablas.D365.LOGI_Polizas_detalle_PD.&lt;&gt;c__DisplayClass7_0.&lt;ListadetallePoliza&gt;b__13(LOGI_Polizas_detalle_INFO x) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_detalle_PD.cs:línea 138
+   en System.Collections.Generic.List`1.ForEach(Action`1 action)
+   en PD.Tablas.D365.LOGI_Polizas_detalle_PD.ListadetallePoliza(String sConnectionEquiv, String sUsuarioID, LOGI_Polizas_detalle_INFO oParam, List`1&amp; lstDetalle) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_detalle_PD.cs:línea 135. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Void ThrowArgumentOutOfRangeException(System.ExceptionArgument, System.ExceptionResource)</descripcion>
+    <otros_datos>SELECT * FROM cat_impuesto_logi  WHERE IdImpuesto = 'NOAFECTOA' AND bActivo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ListadetallePoliza</metodo>
+    <clase>LOGI_Polizas_detalle_PD.cs</clase>
+    <modulo>Polizas detalle D365</modulo>
+    <fecha>12/10/2022 16:23:37</fecha>
+    <descripcion>Message: El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index. StackTrace:    en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.get_Item(Int32 index)
+   en PD.Tablas.D365.LOGI_Polizas_detalle_PD.&lt;&gt;c__DisplayClass7_0.&lt;ListadetallePoliza&gt;b__13(LOGI_Polizas_detalle_INFO x) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_detalle_PD.cs:línea 138
+   en System.Collections.Generic.List`1.ForEach(Action`1 action)
+   en PD.Tablas.D365.LOGI_Polizas_detalle_PD.ListadetallePoliza(String sConnectionEquiv, String sUsuarioID, LOGI_Polizas_detalle_INFO oParam, List`1&amp; lstDetalle) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_detalle_PD.cs:línea 135. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Void ThrowArgumentOutOfRangeException(System.ExceptionArgument, System.ExceptionResource)</descripcion>
+    <otros_datos>SELECT * FROM cat_impuesto_logi  WHERE IdImpuesto = 'NOAFECTOA' AND bActivo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ListadetallePoliza</metodo>
+    <clase>LOGI_Polizas_detalle_PD.cs</clase>
+    <modulo>Polizas detalle D365</modulo>
+    <fecha>12/10/2022 16:23:50</fecha>
+    <descripcion>Message: El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index. StackTrace:    en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.get_Item(Int32 index)
+   en PD.Tablas.D365.LOGI_Polizas_detalle_PD.&lt;&gt;c__DisplayClass7_0.&lt;ListadetallePoliza&gt;b__13(LOGI_Polizas_detalle_INFO x) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_detalle_PD.cs:línea 138
+   en System.Collections.Generic.List`1.ForEach(Action`1 action)
+   en PD.Tablas.D365.LOGI_Polizas_detalle_PD.ListadetallePoliza(String sConnectionEquiv, String sUsuarioID, LOGI_Polizas_detalle_INFO oParam, List`1&amp; lstDetalle) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_detalle_PD.cs:línea 135. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Void ThrowArgumentOutOfRangeException(System.ExceptionArgument, System.ExceptionResource)</descripcion>
+    <otros_datos>SELECT * FROM cat_impuesto_logi  WHERE IdImpuesto = 'NOAFECTOA' AND bActivo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ListadetallePoliza</metodo>
+    <clase>LOGI_Polizas_detalle_PD.cs</clase>
+    <modulo>Polizas detalle D365</modulo>
+    <fecha>12/10/2022 16:26:31</fecha>
+    <descripcion>Message: El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index. StackTrace:    en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.get_Item(Int32 index)
+   en PD.Tablas.D365.LOGI_Polizas_detalle_PD.&lt;&gt;c__DisplayClass7_0.&lt;ListadetallePoliza&gt;b__13(LOGI_Polizas_detalle_INFO x) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_detalle_PD.cs:línea 138
+   en System.Collections.Generic.List`1.ForEach(Action`1 action)
+   en PD.Tablas.D365.LOGI_Polizas_detalle_PD.ListadetallePoliza(String sConnectionEquiv, String sUsuarioID, LOGI_Polizas_detalle_INFO oParam, List`1&amp; lstDetalle) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_detalle_PD.cs:línea 135. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Void ThrowArgumentOutOfRangeException(System.ExceptionArgument, System.ExceptionResource)</descripcion>
+    <otros_datos>SELECT * FROM cat_impuesto_logi  WHERE IdImpuesto = 'NOAFECTOA' AND bActivo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ListadetallePoliza</metodo>
+    <clase>LOGI_Polizas_detalle_PD.cs</clase>
+    <modulo>Polizas detalle D365</modulo>
+    <fecha>12/10/2022 16:27:28</fecha>
+    <descripcion>Message: El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index. StackTrace:    en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.get_Item(Int32 index)
+   en PD.Tablas.D365.LOGI_Polizas_detalle_PD.&lt;&gt;c__DisplayClass7_0.&lt;ListadetallePoliza&gt;b__13(LOGI_Polizas_detalle_INFO x) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_detalle_PD.cs:línea 138
+   en System.Collections.Generic.List`1.ForEach(Action`1 action)
+   en PD.Tablas.D365.LOGI_Polizas_detalle_PD.ListadetallePoliza(String sConnectionEquiv, String sUsuarioID, LOGI_Polizas_detalle_INFO oParam, List`1&amp; lstDetalle) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_detalle_PD.cs:línea 135. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Void ThrowArgumentOutOfRangeException(System.ExceptionArgument, System.ExceptionResource)</descripcion>
+    <otros_datos>SELECT * FROM cat_impuesto_logi  WHERE IdImpuesto = 'NOAFECTOA' AND bActivo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ListadetallePoliza</metodo>
+    <clase>LOGI_Polizas_detalle_PD.cs</clase>
+    <modulo>Polizas detalle D365</modulo>
+    <fecha>12/10/2022 16:27:53</fecha>
+    <descripcion>Message: El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index. StackTrace:    en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.get_Item(Int32 index)
+   en PD.Tablas.D365.LOGI_Polizas_detalle_PD.&lt;&gt;c__DisplayClass7_0.&lt;ListadetallePoliza&gt;b__13(LOGI_Polizas_detalle_INFO x) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_detalle_PD.cs:línea 138
+   en System.Collections.Generic.List`1.ForEach(Action`1 action)
+   en PD.Tablas.D365.LOGI_Polizas_detalle_PD.ListadetallePoliza(String sConnectionEquiv, String sUsuarioID, LOGI_Polizas_detalle_INFO oParam, List`1&amp; lstDetalle) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_detalle_PD.cs:línea 135. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Void ThrowArgumentOutOfRangeException(System.ExceptionArgument, System.ExceptionResource)</descripcion>
+    <otros_datos>SELECT * FROM cat_impuesto_logi  WHERE IdImpuesto = 'NOAFECTOA' AND bActivo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ListadetallePoliza</metodo>
+    <clase>LOGI_Polizas_detalle_PD.cs</clase>
+    <modulo>Polizas detalle D365</modulo>
+    <fecha>12/10/2022 16:30:17</fecha>
+    <descripcion>Message: El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index. StackTrace:    en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.get_Item(Int32 index)
+   en PD.Tablas.D365.LOGI_Polizas_detalle_PD.&lt;&gt;c__DisplayClass7_0.&lt;ListadetallePoliza&gt;b__13(LOGI_Polizas_detalle_INFO x) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_detalle_PD.cs:línea 138
+   en System.Collections.Generic.List`1.ForEach(Action`1 action)
+   en PD.Tablas.D365.LOGI_Polizas_detalle_PD.ListadetallePoliza(String sConnectionEquiv, String sUsuarioID, LOGI_Polizas_detalle_INFO oParam, List`1&amp; lstDetalle) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_detalle_PD.cs:línea 135. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Void ThrowArgumentOutOfRangeException(System.ExceptionArgument, System.ExceptionResource)</descripcion>
+    <otros_datos>SELECT * FROM cat_impuesto_logi  WHERE IdImpuesto = 'NOAFECTOA' AND bActivo = 1</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ActualizaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>12/10/2022 16:50:46</fecha>
+    <descripcion>Message: Invalid column name 'cuentaviatico'.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 101
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ActualizaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 231
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ActualizaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 75. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>UPDATE lm_config_d365 SET cianombre = 'Logística del Mayab, SA de CV' , ciad365 = '+KhdLtYxoDmhq+xiTaBe4Q==' , aprobador = 'QAR8//2E3HLv64Dh9W0aMA==' , URLApi = 'lCkBrKp3v9mU5FJPRtONnauUbQkJIZN3R5TnEGsfJG8InjBVj0LAYeOiiBYweW6qZKQV7APSTAhQeiEyPpMSIA==' , URLApilogin = 'hkvnibfEnPb5BwzOLIjR3xXskcmU/5MCBoQEGtkL/6bOReo/IggscuGFPc7hixUIP4kxzD93wm60TdkV9BABqQ==' , intentos = 5 , enviohorad365 = 0 , enviomind365 = 10 , enviosegd365 = 0 , usuariod365 = 'Y1u9GkuIzKkFpOyqgcArigd7WY+2QXf1aeKlZXCrDIY=' , passusrd365 = 'GmlP5dBuHqy+6yLzon+d7Q==' , clientID = '2ad88395-b77d-4561-9441-d0e40824f9bc' , Conexion_eqv = 'Mogtw3j2pzuy24R4RkBDozy3c+4IDrmD87sjSX3RNibxyYLxrrXq7gTaycjub6EdWCsSoTI6hpkt2gNQIiBjmkkwoa+JYO3CEHvDhgZhkb5ieceYINRthO/XCfPx2+NqmujDYele5L+dBvjNsgrWaS+nzZHH4n77tKTjhXedTlwK3GtKOPnMMQi6Ae1ctx1C' , Servidor_eqv = '10.20.128.149' , Usuario_eqv = 'usr_pbasbil' , Password_eqv = 'desarrollo' , catalogo_eqv = 'BIL' , plantilla = 'C:\OPERACIONES\PLANTILLA DISPERSIONES' , cuenta_liq1 = 'BAF001006' , cuenta_liq2 = 'BAF001006' , aprobadordisp = 'vKl+kxtLg8d0gHgyWJ2KTw==' , diariodisp = '368DISOPER' , diariofondo = '350FFOPER' , sincd365 = 1 , cuentaviatico = 'ACA002003' WHERE cia = 67</otros_datos>
+  </error>
+</errores>

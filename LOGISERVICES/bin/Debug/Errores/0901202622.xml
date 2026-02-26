@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/01/2026 10:03:29 p. m.</fecha>
+    <descripcion>Message: Could not convert string to integer: SIN FOLIO 000007. Path 'Result[0].Encabezado[1].Folio', line 1, position 32933.. StackTrace:    en Newtonsoft.Json.JsonReader.ReadInt32String(String s)
+   en Newtonsoft.Json.JsonTextReader.FinishReadQuotedNumber(ReadType readType)
+   en Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   en Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   en Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   en Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   en Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   en Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   en D365API.LOGI_TMSConnection_D365.Proceso(DateTime date, String cnx, String Proceso, Int32 ProFacturas, Int32 ProCancelacionFacturas, Int32 ProNotasCredito, Int32 ProMovimientosBancarios, Int32 ProPasivos)
+   en D365API.LOGI_TMSConnection_D365.DescargaEjecutaMovimientosIngreso(String cnxBitacora, String sFechaInicio, String sFechaFinal, Boolean bLeeTXT, Boolean bCreaArchivoJSON, Int32 ProFacturas, Int32 ProCancelacionFacturas, Int32 ProNotasCredito, Int32 ProMovimientosBancarios, Int32 ProPasivos). InnerException . Source: Newtonsoft.Json. Data: System.Collections.ListDictionaryInternal. TargetSite: System.Nullable`1[System.Int32] ReadInt32String(System.String)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/01/2026 10:14:16 p. m.</fecha>
+    <descripcion>Message: No se ha podido leer el archivo XML. ERROR Referencia a objeto no establecida como instancia de un objeto.. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLoteIngresosD365(List`1 lstLote, String sDiarioContable, String sMetodoAPI, String&amp; sresponse, Boolean bCreaArchivoJSON). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLoteIngresosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String, System.String, System.String ByRef, Boolean)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/01/2026 10:20:15 p. m.</fecha>
+    <descripcion>Message: Could not convert string to integer: SIN FOLIO 000007. Path 'Result[0].Encabezado[1].Folio', line 1, position 32933.. StackTrace:    en Newtonsoft.Json.JsonReader.ReadInt32String(String s)
+   en Newtonsoft.Json.JsonTextReader.FinishReadQuotedNumber(ReadType readType)
+   en Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   en Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   en Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   en Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   en Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   en Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   en Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   en D365API.LOGI_TMSConnection_D365.Proceso(DateTime date, String cnx, String Proceso, Int32 ProFacturas, Int32 ProCancelacionFacturas, Int32 ProNotasCredito, Int32 ProMovimientosBancarios, Int32 ProPasivos)
+   en D365API.LOGI_TMSConnection_D365.DescargaEjecutaMovimientosIngreso(String cnxBitacora, String sFechaInicio, String sFechaFinal, Boolean bLeeTXT, Boolean bCreaArchivoJSON, Int32 ProFacturas, Int32 ProCancelacionFacturas, Int32 ProNotasCredito, Int32 ProMovimientosBancarios, Int32 ProPasivos). InnerException . Source: Newtonsoft.Json. Data: System.Collections.ListDictionaryInternal. TargetSite: System.Nullable`1[System.Int32] ReadInt32String(System.String)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/01/2026 10:27:56 p. m.</fecha>
+    <descripcion>Message: No se ha encontrado la información de la unidad,valida la configuración de sucursal, centro de costo y equivalencia.. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365=&gt;CATCH</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/01/2026 10:28:02 p. m.</fecha>
+    <descripcion>Message: Referencia a objeto no establecida como instancia de un objeto.. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+</errores>

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_Polizas_PD.cs</clase>
+    <modulo>Polizas D365</modulo>
+    <fecha>15/09/2022 10:02:01</fecha>
+    <descripcion>Message: Incorrect syntax near 'cargarFacturaCG'.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 101
+   en AD.Tablas.D365.LOGI_Transacciones_AD.ActualizaTransaccion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_Transacciones_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_Transacciones_AD.cs:línea 164
+   en PD.Tablas.D365.LOGI_Polizas_PD.Creaerror(String sUsuarioID, String mensaje, String FolioAsiento, String sJSON, String sResponse, String sURLEndPoint) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_PD.cs:línea 219. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>UPDATE lm_transacc SET intento = 1 , urlweb = 'https://srvbsd365dev21aea5a9d95c65664bdevaos.cloudax.dynamics.com//soap/services/BBICxPServices' , peticion = '{
+  &amp;quot;Encabezado&amp;quot;: {
+    &amp;quot;AprobadoPor&amp;quot;: &amp;quot;000199&amp;quot;,
+    &amp;quot;Compania&amp;quot;: &amp;quot;LOG&amp;quot;,
+    &amp;quot;Descripcion&amp;quot;: &amp;quot;Comprobación de viaticos para entrada LM.CVI92022091415&amp;quot;,
+    &amp;quot;DimFilTer&amp;quot;: &amp;quot;T001&amp;quot;,
+    &amp;quot;DimSucursal&amp;quot;: &amp;quot;YUC001&amp;quot;,
+    &amp;quot;Docto&amp;quot;: &amp;quot;LM.CVI92022091415&amp;quot;,
+    &amp;quot;CuentaContable&amp;quot;: &amp;quot;BAF001006&amp;quot;,
+    &amp;quot;Factura&amp;quot;: &amp;quot;LM.CVI92022091415&amp;quot;,
+    &amp;quot;FechaDocto&amp;quot;: &amp;quot;0001-01-01T00:00:00&amp;quot;,
+    &amp;quot;FechaFactura&amp;quot;: &amp;quot;2022-09-14T00:00:00&amp;quot;,
+    &amp;quot;FechaVencimiento&amp;quot;: &amp;quot;0001-01-01T00:00:00&amp;quot;,
+    &amp;quot;Folio&amp;quot;: 0,
+    &amp;quot;IdFactReferencia&amp;quot;: 0,
+    &amp;quot;IdRegistro&amp;quot;: &amp;quot;LM.CVI92022091415&amp;quot;,
+    &amp;quot;ImpuestosInc&amp;quot;: 1,
+    &amp;quot;Moneda&amp;quot;: &amp;quot;MXN&amp;quot;,
+    &amp;quot;NombreDiario&amp;quot;: &amp;quot;346FACAX&amp;quot;,
+    &amp;quot;SinComprobante&amp;quot;: 0,
+    &amp;quot;SistemaOrigen&amp;quot;: 0,
+    &amp;quot;TipoCuenta&amp;quot;: 0,
+    &amp;quot;Subtotal&amp;quot;: 277.76,
+    &amp;quot;Texto&amp;quot;: &amp;quot;Viaticos para LM.CVI92022091415&amp;quot;,
+    &amp;quot;TipoCambio&amp;quot;: 1.0,
+    &amp;quot;TipoFact&amp;quot;: 0,
+    &amp;quot;Total&amp;quot;: 315.00
+  },
+  &amp;quot;Facturas&amp;quot;: [
+    {
+      &amp;quot;Vehiculo&amp;quot;: &amp;quot;15152&amp;quot;,
+      &amp;quot;RFC&amp;quot;: &amp;quot;OFA160616KE9&amp;quot;,
+      &amp;quot;XMLFactura&amp;quot;: &amp;quot;&amp;alt;?xml version=\&amp;quot;1.0\&amp;quot; encoding=\&amp;quot;UTF-8\&amp;quot;?&amp;gt;&amp;alt;cfdi:Comprobante xmlns:cfdi=\&amp;quot;http://www.sat.gob.mx/cfd/4\&amp;quot; xmlns:xsi=\&amp;quot;http://www.w3.org/2001/XMLSchema-instance\&amp;quot; Certificado=\&amp;quot;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\&amp;quot; Exportacion=\&amp;quot;01\&amp;quot; Fecha=\&amp;quot;2022-08-10T16:17:48\&amp;quot; Folio=\&amp;quot;2022186\&amp;quot; FormaPago=\&amp;quot;01\&amp;quot; LugarExpedicion=\&amp;quot;97143\&amp;quot; MetodoPago=\&amp;quot;PUE\&amp;quot; Moneda=\&amp;quot;MXN\&amp;quot; NoCertificado=\&amp;quot;00001000000505090136\&amp;quot; Sello=\&amp;quot;e0FoVNgCs6+XfL/CavfAbJimn6SMlqWp5/Pky/ScitzwVrMjc1VAsEj7y7pXL9lKYBCYZuKDflU16DQJ+icpwoRn314Ql/qJMMn+zW/JD4cQtSeYr1aDFSDQNwMIT9PF3y941hBjupf0cUGIELu3kNhW42PugRMvtQtOTzkI0I+sPRX/avWabwktcbwKTKDgPEd6FkELUyom0o5mjtvRdE2L2V6f4KyEAa7+UBXOtS9BxgLNnj0NN5vQ94rK/AULirNN+Uw+kRnsvYiK18882CcsYsPQ3iTgCuAhcTB/bdscAjeg8BcWKsZFIq+VCrDoMhchrPgjQtXiLygT/2PxGg==\&amp;quot; Serie=\&amp;quot;MDFALEAKF\&amp;quot; SubTotal=\&amp;quot;232.76\&amp;quot; TipoCambio=\&amp;quot;1\&amp;quot; TipoDeComprobante=\&amp;quot;I\&amp;quot; Total=\&amp;quot;270.00\&amp;quot; Version=\&amp;quot;4.0\&amp;quot; xsi:schemaLocation=\&amp;quot;http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd\&amp;quot;&amp;gt;&amp;alt;cfdi:Emisor Nombre=\&amp;quot;OPERADORA DE FRANQUICIAS AGN\&amp;quot; RegimenFiscal=\&amp;quot;601\&amp;quot; Rfc=\&amp;quot;OFA160616KE9\&amp;quot;/&amp;gt;&amp;alt;cfdi:Receptor DomicilioFiscalReceptor=\&amp;quot;97160\&amp;quot; Nombre=\&amp;quot;LOGISTICA DEL MAYAB\&amp;quot; RegimenFiscalReceptor=\&amp;quot;601\&amp;quot; Rfc=\&amp;quot;LMA0402275Q6\&amp;quot; UsoCFDI=\&amp;quot;G03\&amp;quot;/&amp;gt;&amp;alt;cfdi:Conceptos&amp;gt;&amp;alt;cfdi:Concepto Cantidad=\&amp;quot;1\&amp;quot; ClaveProdServ=\&amp;quot;90101500\&amp;quot; ClaveUnidad=\&amp;quot;E48\&amp;quot; Descripcion=\&amp;quot;CONSUMO DE ALIMENTOS\&amp;quot; Importe=\&amp;quot;232.76\&amp;quot; NoIdentificacion=\&amp;quot;16\&amp;quot; ObjetoImp=\&amp;quot;02\&amp;quot; Unidad=\&amp;quot;UNIDAD DE SERVICIO\&amp;quot; ValorUnitario=\&amp;quot;232.76\&amp;quot;&amp;gt;&amp;alt;cfdi:Impuestos&amp;gt;&amp;alt;cfdi:Traslados&amp;gt;&amp;alt;cfdi:Traslado Base=\&amp;quot;232.76\&amp;quot; Importe=\&amp;quot;37.24\&amp;quot; Impuesto=\&amp;quot;002\&amp;quot; TasaOCuota=\&amp;quot;0.160000\&amp;quot; TipoFactor=\&amp;quot;Tasa\&amp;quot;/&amp;gt;&amp;alt;/cfdi:Traslados&amp;gt;&amp;alt;/cfdi:Impuestos&amp;gt;&amp;alt;/cfdi:Concepto&amp;gt;&amp;alt;/cfdi:Conceptos&amp;gt;&amp;alt;cfdi:Impuestos TotalImpuestosTrasladados=\&amp;quot;37.24\&amp;quot;&amp;gt;&amp;alt;cfdi:Traslados&amp;gt;&amp;alt;cfdi:Traslado Base=\&amp;quot;232.76\&amp;quot; Importe=\&amp;quot;37.24\&amp;quot; Impuesto=\&amp;quot;002\&amp;quot; TasaOCuota=\&amp;quot;0.160000\&amp;quot; TipoFactor=\&amp;quot;Tasa\&amp;quot;/&amp;gt;&amp;alt;/cfdi:Traslados&amp;gt;&amp;alt;/cfdi:Impuestos&amp;gt;&amp;alt;cfdi:Complemento&amp;gt;&amp;alt;tfd:TimbreFiscalDigital FechaTimbrado=\&amp;quot;2022-08-10T16:18:25\&amp;quot; NoCertificadoSAT=\&amp;quot;00001000000504204971\&amp;quot; RfcProvCertif=\&amp;quot;PPD101129EA3\&amp;quot; SelloCFD=\&amp;quot;e0FoVNgCs6+XfL/CavfAbJimn6SMlqWp5/Pky/ScitzwVrMjc1VAsEj7y7pXL9lKYBCYZuKDflU16DQJ+icpwoRn314Ql/qJMMn+zW/JD4cQtSeYr1aDFSDQNwMIT9PF3y941hBjupf0cUGIELu3kNhW42PugRMvtQtOTzkI0I+sPRX/avWabwktcbwKTKDgPEd6FkELUyom0o5mjtvRdE2L2V6f4KyEAa7+UBXOtS9BxgLNnj0NN5vQ94rK/AULirNN+Uw+kRnsvYiK18882CcsYsPQ3iTgCuAhcTB/bdscAjeg8BcWKsZFIq+VCrDoMhchrPgjQtXiLygT/2PxGg==\&amp;quot; SelloSAT=\&amp;quot;eSmZ+aC4DMPhEcXecVSaQ8MT5sB1Hxm/ESP/GMMYC+aZ9k6swqTEy6WQt9i0Q3XBvB85c0Xl8luVV38fnL+IU5LC1X2n5hCFJtmjFBhM4Ol8ROR7SlFk2CaYPDo3IAWhyLPqgt53ytlnuLa2W45NEc/55yyn2KOASXixKaiH+/M7fTXOjVJMhGrsRqbGiNOUTgUuQaQuGsWcmo3iGnxAqvjC8Y6m89oHn4Pg+oBXlkIBbFEgEFyjkXesechMsLNjGl5PN5M0F/YfLcFoclfSvRUkqoao+sKXRRnk06mAgkCZO/RhTzv8m5raJ1ai0V9F4LwvBXDQX07owQghQ+2x5Q==\&amp;quot; UUID=\&amp;quot;B107AF91-0F49-408A-A21E-4DADFA881517\&amp;quot; Version=\&amp;quot;1.1\&amp;quot; xsi:schemaLocation=\&amp;quot;http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd\&amp;quot; xmlns:tfd=\&amp;quot;http://www.sat.gob.mx/TimbreFiscalDigital\&amp;quot;/&amp;gt;&amp;alt;/cfdi:Complemento&amp;gt;&amp;alt;/cfdi:Comprobante&amp;gt;&amp;quot;,
+      &amp;quot;UUID&amp;quot;: &amp;quot;B107AF91-0F49-408A-A21E-4DADFA881517&amp;quot;,
+      &amp;quot;Lineas&amp;quot;: [
+        {
+          &amp;quot;SinComprobante&amp;quot;: 0,
+          &amp;quot;FechaDocto&amp;quot;: &amp;quot;0001-01-01T00:00:00&amp;quot;,
+          &amp;quot;CodImpuesto&amp;quot;: &amp;quot;IVA8%RFNAP&amp;quot;,
+          &amp;quot;Credito&amp;quot;: 0.0,
+          &amp;quot;CuentaContable&amp;quot;: &amp;quot;ELA468001&amp;quot;,
+          &amp;quot;Debito&amp;quot;: 270.00,
+          &amp;quot;DimArea&amp;quot;: &amp;quot;SE&amp;quot;,
+          &amp;quot;DimCeco&amp;quot;: &amp;quot;B903&amp;quot;,
+          &amp;quot;DimDepto&amp;quot;: &amp;quot;SE05&amp;quot;,
+          &amp;quot;DimFilTer&amp;quot;: &amp;quot;T001&amp;quot;,
+          &amp;quot;Vehiculo&amp;quot;: &amp;quot;15152&amp;quot;,
+          &amp;quot;DimSucursal&amp;quot;: &amp;quot;YUC001&amp;quot;,
+          &amp;quot;Texto&amp;quot;: &amp;quot;T445 Peajes&amp;quot;
+        }
+      ],
+      &amp;quot;FechaVencimiento&amp;quot;: &amp;quot;0001-01-01T00:00:00&amp;quot;,
+      &amp;quot;Docto&amp;quot;: &amp;quot;MDFALEAKF2022186&amp;quot;,
+      &amp;quot;Factura&amp;quot;: &amp;quot;MDFALEAKF2022186&amp;quot;,
+      &amp;quot;Texto&amp;quot;: &amp;quot;T445 Peajes&amp;quot;,
+      &amp;quot;NombreProveedor&amp;quot;: &amp;quot;OPERADORA DE FRANQUICIAS AGN&amp;quot;,
+      &amp;quot;SinComprobante&amp;quot;: 0,
+      &amp;quot;TipoOperacion&amp;quot;: 85,
+      &amp;quot;TipoProveedor&amp;quot;: 4,
+      &amp;quot;FechaDocto&amp;quot;: &amp;quot;2022-08-10T16:17:48&amp;quot;
+    },
+    {
+      &amp;quot;Vehiculo&amp;quot;: &amp;quot;15152&amp;quot;,
+      &amp;quot;RFC&amp;quot;: &amp;quot;CCO8605231N4&amp;quot;,
+      &amp;quot;XMLFactura&amp;quot;: &amp;quot;&amp;alt;?xml version=\&amp;quot;1.0\&amp;quot; encoding=\&amp;quot;utf-8\&amp;quot; ?&amp;gt;\n&amp;alt;cfdi:Comprobante Version=\&amp;quot;4.0\&amp;quot; Serie=\&amp;quot;CAN\&amp;quot; Folio=\&amp;quot;385430207\&amp;quot; Fecha=\&amp;quot;2022-08-23T13:31:34\&amp;quot; Sello=\&amp;quot;G9NA0zPDCsWBVhLeJYz+FlFMnYDzQeQFu6cWiLO2f7LFC7k9g1aAKG7gnOqAnjg9pK414Wvxg5/XPdwzLdhgbi5Y42lmSoMhRR8UuCBLq14A8yf/NJPH+yHQjAD4KK7Rvw/+JHI22th1sUUBv6bdvu8Pv+9E1cz644tI0DhFBFnni3xO85xOs9cNa9NNrj9RKlkCDYIYxLAFxlVafLAfuedroUsE9e4pmIvheZ8DUPc6zs9leWV0A7vyph42iEwjXAse3Hhci8jWRi1MnLk2NMbr6M7ZAb3PABA9WVpqzm2UWBzLXq7wYT7s9cLTOt5x2WqmT7ZjmnD0gl8Jf1y5Tw==\&amp;quot; FormaPago=\&amp;quot;01\&amp;quot; NoCertificado=\&amp;quot;00001000000506505905\&amp;quot; Certificado=\&amp;quot;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\&amp;quot; SubTotal=\&amp;quot;45.00\&amp;quot; Moneda=\&amp;quot;MXN\&amp;quot; Total=\&amp;quot;45.00\&amp;quot; TipoDeComprobante=\&amp;quot;I\&amp;quot; Exportacion=\&amp;quot;01\&amp;quot; MetodoPago=\&amp;quot;PUE\&amp;quot; LugarExpedicion=\&amp;quot;77517\&amp;quot; xsi:schemaLocation=\&amp;quot;http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd\&amp;quot; xmlns:cfdi=\&amp;quot;http://www.sat.gob.mx/cfd/4\&amp;quot; xmlns:xsi=\&amp;quot;http://www.w3.org/2001/XMLSchema-instance\&amp;quot; xmlns:pago20=\&amp;quot;http://www.sat.gob.mx/Pagos20\&amp;quot; xmlns:implocal=\&amp;quot;http://www.sat.gob.mx/implocal\&amp;quot; xmlns:cartaporte20=\&amp;quot;http://www.sat.gob.mx/CartaPorte20\&amp;quot;&amp;gt;\n  &amp;alt;cfdi:Emisor Rfc=\&amp;quot;CCO8605231N4\&amp;quot; Nombre=\&amp;quot;CADENA COMERCIAL OXXO\&amp;quot; RegimenFiscal=\&amp;quot;623\&amp;quot;/&amp;gt;\n  &amp;alt;cfdi:Receptor Rfc=\&amp;quot;LMA0402275Q6\&amp;quot; Nombre=\&amp;quot;LOGISTICA DEL MAYAB\&amp;quot; DomicilioFiscalReceptor=\&amp;quot;97160\&amp;quot; RegimenFiscalReceptor=\&amp;quot;624\&amp;quot; UsoCFDI=\&amp;quot;G03\&amp;quot;/&amp;gt;\n  &amp;alt;cfdi:Conceptos&amp;gt;\n    &amp;alt;cfdi:Concepto ClaveProdServ=\&amp;quot;50131701\&amp;quot; Cantidad=\&amp;quot;1.000000\&amp;quot; ClaveUnidad=\&amp;quot;EA\&amp;quot; Unidad=\&amp;quot;EA\&amp;quot; Descripcion=\&amp;quot;YOGHURT PARA BEBER YOPLAIT 330 GR BOTE: FRESA\&amp;quot; ValorUnitario=\&amp;quot;16.50\&amp;quot; Importe=\&amp;quot;16.50\&amp;quot; ObjetoImp=\&amp;quot;02\&amp;quot;&amp;gt;\n      &amp;alt;cfdi:Impuestos&amp;gt;\n        &amp;alt;cfdi:Traslados&amp;gt;\n          &amp;alt;cfdi:Traslado Base=\&amp;quot;16.50\&amp;quot; Impuesto=\&amp;quot;002\&amp;quot; TipoFactor=\&amp;quot;Tasa\&amp;quot; TasaOCuota=\&amp;quot;0.000000\&amp;quot; Importe=\&amp;quot;0.00\&amp;quot;/&amp;gt;\n        &amp;alt;/cfdi:Traslados&amp;gt;\n      &amp;alt;/cfdi:Impuestos&amp;gt;\n    &amp;alt;/cfdi:Concepto&amp;gt;\n    &amp;alt;cfdi:Concepto ClaveProdServ=\&amp;quot;50131700\&amp;quot; Cantidad=\&amp;quot;1.000000\&amp;quot; ClaveUnidad=\&amp;quot;EA\&amp;quot; Unidad=\&amp;quot;EA\&amp;quot; Descripcion=\&amp;quot;VAINILLA CAPUCCINO CAFE OLE 281ML BOTELLA\&amp;quot; ValorUnitario=\&amp;quot;28.50\&amp;quot; Importe=\&amp;quot;28.50\&amp;quot; ObjetoImp=\&amp;quot;02\&amp;quot;&amp;gt;\n      &amp;alt;cfdi:Impuestos&amp;gt;\n        &amp;alt;cfdi:Traslados&amp;gt;\n          &amp;alt;cfdi:Traslado Base=\&amp;quot;28.50\&amp;quot; Impuesto=\&amp;quot;002\&amp;quot; TipoFactor=\&amp;quot;Tasa\&amp;quot; TasaOCuota=\&amp;quot;0.000000\&amp;quot; Importe=\&amp;quot;0.00\&amp;quot;/&amp;gt;\n        &amp;alt;/cfdi:Traslados&amp;gt;\n      &amp;alt;/cfdi:Impuestos&amp;gt;\n    &amp;alt;/cfdi:Concepto&amp;gt;\n  &amp;alt;/cfdi:Conceptos&amp;gt;\n  &amp;alt;cfdi:Impuestos TotalImpuestosTrasladados=\&amp;quot;0.00\&amp;quot;&amp;gt;\n    &amp;alt;cfdi:Traslados&amp;gt;\n      &amp;alt;cfdi:Traslado Base=\&amp;quot;45.00\&amp;quot; Impuesto=\&amp;quot;002\&amp;quot; TipoFactor=\&amp;quot;Tasa\&amp;quot; TasaOCuota=\&amp;quot;0.000000\&amp;quot; Importe=\&amp;quot;0.00\&amp;quot;/&amp;gt;\n    &amp;alt;/cfdi:Traslados&amp;gt;\n  &amp;alt;/cfdi:Impuestos&amp;gt;\n  &amp;alt;cfdi:Complemento&amp;gt;\n        &amp;alt;tfd:TimbreFiscalDigital xmlns:tfd=\&amp;quot;http://www.sat.gob.mx/TimbreFiscalDigital\&amp;quot; xsi:schemaLocation=\&amp;quot;http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd\&amp;quot; Version=\&amp;quot;1.1\&amp;quot; UUID=\&amp;quot;28a5abb0-dbaa-415b-bb49-0913db60d435\&amp;quot; RfcProvCertif=\&amp;quot;SNF171020F3A\&amp;quot; FechaTimbrado=\&amp;quot;2022-08-23T13:31:35\&amp;quot; SelloCFD=\&amp;quot;G9NA0zPDCsWBVhLeJYz+FlFMnYDzQeQFu6cWiLO2f7LFC7k9g1aAKG7gnOqAnjg9pK414Wvxg5/XPdwzLdhgbi5Y42lmSoMhRR8UuCBLq14A8yf/NJPH+yHQjAD4KK7Rvw/+JHI22th1sUUBv6bdvu8Pv+9E1cz644tI0DhFBFnni3xO85xOs9cNa9NNrj9RKlkCDYIYxLAFxlVafLAfuedroUsE9e4pmIvheZ8DUPc6zs9leWV0A7vyph42iEwjXAse3Hhci8jWRi1MnLk2NMbr6M7ZAb3PABA9WVpqzm2UWBzLXq7wYT7s9cLTOt5x2WqmT7ZjmnD0gl8Jf1y5Tw==\&amp;quot; NoCertificadoSAT=\&amp;quot;00001000000414211380\&amp;quot; SelloSAT=\&amp;quot;PhbRYHmwcOBHEqtYz+rEFe/X3lPoXTkXJLxtXrJZRExIQUeh3MAfigvZdeewuZSkArTu1mf2VP0UFcnzt3tTFkCeDm/41livswxxqY9f+yehMvyGXbchpwWjqOrQUpHM/zgvhYZCEpJ79Kmu6k3SWD8ESZ8Ro45ET5Z/fTdUSUnu5Z6d10XWcrGrTQuOHc4pu1EYfPE6sD1yKKNjFBPhfCzIuTq/igH6rFkxktAGN1s34gLZyj1NIgORvYzoS5n/9oea3hPzzFrSqoXf9waq9wtiWaDlQ/RA/pWB0lFJV9gAtc6rzXh0fQbE+wQRrc9S8/74+3HTHC8NreDeG2vaKQ==\&amp;quot;/&amp;gt;\n    &amp;alt;/cfdi:Complemento&amp;gt;&amp;alt;cfdi:Addenda&amp;gt;\n    &amp;alt;ns:diverza version=\&amp;quot;1.1\&amp;quot; xmlns:ns=\&amp;quot;http://www.diverza.com/ns/addenda/diverza/1\&amp;quot;&amp;gt;\n      &amp;alt;ns:generales tipoDocumento=\&amp;quot;Factura\&amp;quot;/&amp;gt;\n      &amp;alt;ns:clavesDescripcion c_TipoDeComprobante=\&amp;quot;Ingreso\&amp;quot; c_MetodoPago=\&amp;quot;PAGO EN UNA SOLA EXHIBICION\&amp;quot; c_RegimenFiscal=\&amp;quot;Opcional para Grupos de Sociedades\&amp;quot; c_UsoCFDI=\&amp;quot;Gastos en general\&amp;quot;/&amp;gt;\n      &amp;alt;ns:receptor&amp;gt;\n        &amp;alt;ns:domicilioFiscalR calle=\&amp;quot;SN PC 14335 ENTRE ANILLO PERIFERICO Y VIA FFCC TI PACABTUN MERIDA\&amp;quot; ciudad=\&amp;quot;MERIDA\&amp;quot; municipio=\&amp;quot;MERIDA\&amp;quot; estado=\&amp;quot;YUCATAN\&amp;quot; pais=\&amp;quot;MC)xico\&amp;quot;/&amp;gt;\n      &amp;alt;/ns:receptor&amp;gt;\n    &amp;alt;/ns:diverza&amp;gt;\n  &amp;alt;/cfdi:Addenda&amp;gt;\n&amp;alt;/cfdi:Comprobante&amp;gt;&amp;quot;,
+      &amp;quot;UUID&amp;quot;: &amp;quot;28a5abb0-dbaa-415b-bb49-0913db60d435&amp;quot;,
+      &amp;quot;Lineas&amp;quot;: [
+        {
+          &amp;quot;SinComprobante&amp;quot;: 0,
+          &amp;quot;FechaDocto&amp;quot;: &amp;quot;0001-01-01T00:00:00&amp;quot;,
+          &amp;quot;Credito&amp;quot;: 0.0,
+          &amp;quot;CuentaContable&amp;quot;: &amp;quot;ELA468001&amp;quot;,
+          &amp;quot;Debito&amp;quot;: 45.00,
+          &amp;quot;DimArea&amp;quot;: &amp;quot;SE&amp;quot;,
+          &amp;quot;DimCeco&amp;quot;: &amp;quot;B903&amp;quot;,
+          &amp;quot;DimDepto&amp;quot;: &amp;quot;SE05&amp;quot;,
+          &amp;quot;DimFilTer&amp;quot;: &amp;quot;T001&amp;quot;,
+          &amp;quot;Vehiculo&amp;quot;: &amp;quot;15152&amp;quot;,
+          &amp;quot;DimSucursal&amp;quot;: &amp;quot;YUC001&amp;quot;,
+          &amp;quot;Texto&amp;quot;: &amp;quot;T445 Peajes&amp;quot;
+        }
+      ],
+      &amp;quot;FechaVencimiento&amp;quot;: &amp;quot;0001-01-01T00:00:00&amp;quot;,
+      &amp;quot;Docto&amp;quot;: &amp;quot;CAN385430207&amp;quot;,
+      &amp;quot;Factura&amp;quot;: &amp;quot;CAN385430207&amp;quot;,
+      &amp;quot;Texto&amp;quot;: &amp;quot;T445 Peajes&amp;quot;,
+      &amp;quot;NombreProveedor&amp;quot;: &amp;quot;CADENA COMERCIAL OXXO&amp;quot;,
+      &amp;quot;SinComprobante&amp;quot;: 0,
+      &amp;quot;TipoOperacion&amp;quot;: 85,
+      &amp;quot;TipoProveedor&amp;quot;: 4,
+      &amp;quot;FechaDocto&amp;quot;: &amp;quot;2022-08-23T13:31:34&amp;quot;
+    }
+  ]
+}' , respuesta = 'ERROR: Fault was thrown by the service for request c93846e0-feb6-4aff-b385-66cd7e624579. Exception details:
+Type: Microsoft.Dynamics.Framework.Services.ServicesException
+Message: Entry point security access denied to current user for operation 'cargarFacturaCG' on service 'BBICargarFacturaCxPService'.' , mensaje = 'Fault was thrown by the service for request c93846e0-feb6-4aff-b385-66cd7e624579. Exception details:
+Type: Microsoft.Dynamics.Framework.Services.ServicesException
+Message: Entry point security access denied to current user for operation 'cargarFacturaCG' on service 'BBICargarFacturaCxPService'.' , FechaModificacion = GETDATE() WHERE FolioAsiento = 'LM.CVI92022091415'</otros_datos>
+  </error>
+</errores>

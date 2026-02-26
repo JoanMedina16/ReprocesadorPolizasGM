@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:04:39 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/TAB005-H130250 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:04:39 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/TAB005-H130249 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:04:39 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/TAB005-H130247 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:04:39 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/TAB005-H130246 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:04:39 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/TAB005-VHA44861 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:19:45 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/YUC001-B14421 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:19:45 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/EMX003-OU6239 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:19:46 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/QUI001-FAC901 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:19:53 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/YUC007-FAC902 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:19:56 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/QUI001-FAC903 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:19:56 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/QUI001-FAC906 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:19:57 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/YUC001-FAC907 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:19:57 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/YUC001-FAC908 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:19:58 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/QUI001-FAC909 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:20:04 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/YUC001-FAC910 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:20:05 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/QUI001-FAC911 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:20:05 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/YUC001-FAC912 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:20:05 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/QUI001-FAC913 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:20:06 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/YUC007-FAC916 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:20:06 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/YUC001-FAC917 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:20:06 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/QUI001-FAC905 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:20:06 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/QUI001-FAC914 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:20:34 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/EMX003-CUA4788 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:20:34 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/EMX003-CUA4789 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:20:35 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/EMX003-CUA4790 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:20:37 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/EMX003-CUA4797 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 02:20:37 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/EMX003-CUA4798 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

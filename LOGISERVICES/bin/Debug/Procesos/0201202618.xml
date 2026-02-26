@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>02/01/2026 06:06:44 p. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>02/01/2026 06:06:46 p. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>02/01/2026 06:07:31 p. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>02/01/2026 06:07:46 p. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 18/12/2025 hasta 18/12/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>02/01/2026 06:25:12 p. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>02/01/2026 06:25:15 p. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>02/01/2026 06:25:48 p. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>02/01/2026 06:25:50 p. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>02/01/2026 06:26:09 p. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>02/01/2026 06:26:11 p. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>02/01/2026 06:27:10 p. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>02/01/2026 06:27:14 p. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>02/01/2026 06:28:12 p. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>02/01/2026 06:28:22 p. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 18/12/2025 hasta 18/12/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

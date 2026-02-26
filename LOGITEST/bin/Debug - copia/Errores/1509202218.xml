@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_Polizas_PD.cs</clase>
+    <modulo>Polizas D365</modulo>
+    <fecha>15/09/2022 18:21:58</fecha>
+    <descripcion>Message: Incorrect syntax near 'UNH'.
+The label 'cfdi' has already been declared. Label names must be unique within a query batch or stored procedure.
+The identifier that starts with '
+    }
+  ]
+}' , respuesta = 'f|El nombre de diario 684CARFACT no existe.Error en el encabezado. Error al grabar la factura.' ' is too long. Maximum length is 128.
+Unclosed quotation mark after the character string '
+    }
+  ]
+}' , respuesta = 'f|El nombre de diario 684CARFACT no existe.Error en el encabezado. Error al grabar la factura.' ,'.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 101
+   en AD.Tablas.D365.LOGI_Transacciones_AD.ActualizaTransaccion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_Transacciones_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_Transacciones_AD.cs:línea 164
+   en PD.Tablas.D365.LOGI_Polizas_PD.Creaerror(String sUsuarioID, String mensaje, String FolioAsiento, String sJSON, String sResponse, String sURLEndPoint) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_PD.cs:línea 219. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>UPDATE lm_transacc SET intento = 1 , urlweb = 'https://srvbsd365dev21aea5a9d95c65664bdevaos.cloudax.dynamics.com//soap/services/BBICxCServices' , peticion = '{
+  &amp;quot;Encabezado&amp;quot;: {
+    &amp;quot;CodCliente&amp;quot;: &amp;quot;CL000240_0000&amp;quot;,
+    &amp;quot;Compania&amp;quot;: &amp;quot;LOG&amp;quot;,
+    &amp;quot;Descripcion&amp;quot;: &amp;quot;CXC FACTURA VE17044-NUEVA WAL MART DE MEXICO S. DE R.L. DE &amp;quot;,
+    &amp;quot;DesctoPago&amp;quot;: &amp;quot;&amp;quot;,
+    &amp;quot;DimSucursal&amp;quot;: &amp;quot;YUC007&amp;quot;,
+    &amp;quot;Docto&amp;quot;: &amp;quot;VE17044&amp;quot;,
+    &amp;quot;Factura&amp;quot;: &amp;quot;VE17044&amp;quot;,
+    &amp;quot;FechaDocto&amp;quot;: &amp;quot;2022-09-15T18:04:01&amp;quot;,
+    &amp;quot;FechaFactura&amp;quot;: &amp;quot;2022-09-15T00:00:00&amp;quot;,
+    &amp;quot;FechaVencimiento&amp;quot;: &amp;quot;2022-10-15T18:04:01&amp;quot;,
+    &amp;quot;Folio&amp;quot;: 17044,
+    &amp;quot;IdFactReferencia&amp;quot;: 0,
+    &amp;quot;IdRegistro&amp;quot;: &amp;quot;LM.FV4202209152&amp;quot;,
+    &amp;quot;ImpuestosInc&amp;quot;: 1,
+    &amp;quot;MetodoPagoSAT&amp;quot;: &amp;quot;PPD&amp;quot;,
+    &amp;quot;Moneda&amp;quot;: &amp;quot;MXN&amp;quot;,
+    &amp;quot;NombreDiario&amp;quot;: &amp;quot;684CARFACT&amp;quot;,
+    &amp;quot;Orden&amp;quot;: &amp;quot;NA&amp;quot;,
+    &amp;quot;Parcialidad&amp;quot;: 0,
+    &amp;quot;Referencia&amp;quot;: &amp;quot;NA&amp;quot;,
+    &amp;quot;Serie&amp;quot;: &amp;quot;VE&amp;quot;,
+    &amp;quot;XMLFactura&amp;quot;: &amp;quot;&amp;alt;?xml version=\&amp;quot;1.0\&amp;quot; encoding=\&amp;quot;UTF-8\&amp;quot;?&amp;gt;\r\n&amp;alt;cfdi:Comprobante xmlns:xsi=\&amp;quot;http://www.w3.org/2001/XMLSchema-instance\&amp;quot; xsi:schemaLocation=\&amp;quot;http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd\&amp;quot; Version=\&amp;quot;3.3\&amp;quot; Serie=\&amp;quot;VE\&amp;quot; Folio=\&amp;quot;17044\&amp;quot; Fecha=\&amp;quot;2022-09-15T18:04:01\&amp;quot; Sello=\&amp;quot;Jn84BWxxnUWYqGtWKC6dmx7anCMZgcSOg+sUIEAj1NrvioAJVUwG8a1BZOXKqdAg2A9hsUIqpWHdsOMGCc3qDNuZDVUK17Vknf+ZxO951Ku9d6wDqd7LRmcXAUivhSvIykH2kRrmLE8CbZ993rJITlyHlvJRxwZ3iJ0xegNIlz9hVEpI/SjYaY6SEjdZG5ddbrKXfWUuNOKd3u/u47Wzx0r3FWjXeT586tmA8pDY+ORK3xdWhabImdwpFO+hvYXjricM4rwHFAIWSirGISnsDju2bU1p9gd1BWLupq2bwynM/OG3VWfI0birwMIjj0ErEYXfJcJhNCeh0VV/XsrKIA==\&amp;quot; FormaPago=\&amp;quot;99\&amp;quot; NoCertificado=\&amp;quot;00001000000505667410\&amp;quot; Certificado=\&amp;quot;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\&amp;quot; CondicionesDePago=\&amp;quot;CONTADO\&amp;quot; SubTotal=\&amp;quot;100.00\&amp;quot; Moneda=\&amp;quot;MXN\&amp;quot; TipoCambio=\&amp;quot;1\&amp;quot; Total=\&amp;quot;112.00\&amp;quot; TipoDeComprobante=\&amp;quot;I\&amp;quot; MetodoPago=\&amp;quot;PPD\&amp;quot; LugarExpedicion=\&amp;quot;97160\&amp;quot; xmlns:cfdi=\&amp;quot;http://www.sat.gob.mx/cfd/3\&amp;quot;&amp;gt;\r\n  &amp;alt;cfdi:Emisor Rfc=\&amp;quot;LMA0402275Q6\&amp;quot; Nombre=\&amp;quot;LOGÍSTICA DEL MAYAB, SA DE CV\&amp;quot; RegimenFiscal=\&amp;quot;624\&amp;quot; /&amp;gt;\r\n  &amp;alt;cfdi:Receptor Rfc=\&amp;quot;NWM9709244W4\&amp;quot; Nombre=\&amp;quot;NUEVA WAL MART DE MEXICO S. DE R.L. DE C.V.\&amp;quot; UsoCFDI=\&amp;quot;G03\&amp;quot; /&amp;gt;\r\n  &amp;alt;cfdi:Conceptos&amp;gt;\r\n    &amp;alt;cfdi:Concepto ClaveProdServ=\&amp;quot;78101802\&amp;quot; Cantidad=\&amp;quot;1\&amp;quot; ClaveUnidad=\&amp;quot;E48\&amp;quot; Unidad=\&amp;quot;No Aplica\&amp;quot; Descripcion=\&amp;quot;[1] FLETES (VIAJES SEGUN RELACION ANEXA)\&amp;quot; ValorUnitario=\&amp;quot;100.00\&amp;quot; Importe=\&amp;quot;100.00\&amp;quot;&amp;gt;\r\n      &amp;alt;cfdi:Impuestos&amp;gt;\r\n        &amp;alt;cfdi:Traslados&amp;gt;\r\n          &amp;alt;cfdi:Traslado Base=\&amp;quot;100.00\&amp;quot; Impuesto=\&amp;quot;002\&amp;quot; TipoFactor=\&amp;quot;Tasa\&amp;quot; TasaOCuota=\&amp;quot;0.160000\&amp;quot; Importe=\&amp;quot;16.00\&amp;quot; /&amp;gt;\r\n        &amp;alt;/cfdi:Traslados&amp;gt;\r\n        &amp;alt;cfdi:Retenciones&amp;gt;\r\n          &amp;alt;cfdi:Retencion Base=\&amp;quot;100.00\&amp;quot; Impuesto=\&amp;quot;002\&amp;quot; TasaOCuota=\&amp;quot;0.040000\&amp;quot; TipoFactor=\&amp;quot;Tasa\&amp;quot; Importe=\&amp;quot;4.00\&amp;quot; /&amp;gt;\r\n        &amp;alt;/cfdi:Retenciones&amp;gt;\r\n      &amp;alt;/cfdi:Impuestos&amp;gt;\r\n    &amp;alt;/cfdi:Concepto&amp;gt;\r\n  &amp;alt;/cfdi:Conceptos&amp;gt;\r\n  &amp;alt;cfdi:Impuestos TotalImpuestosRetenidos=\&amp;quot;4.00\&amp;quot; TotalImpuestosTrasladados=\&amp;quot;16.00\&amp;quot;&amp;gt;\r\n    &amp;alt;cfdi:Retenciones&amp;gt;\r\n      &amp;alt;cfdi:Retencion Importe=\&amp;quot;4.00\&amp;quot; Impuesto=\&amp;quot;002\&amp;quot; /&amp;gt;\r\n    &amp;alt;/cfdi:Retenciones&amp;gt;\r\n    &amp;alt;cfdi:Traslados&amp;gt;\r\n      &amp;alt;cfdi:Traslado Importe=\&amp;quot;16.00\&amp;quot; TasaOCuota=\&amp;quot;0.160000\&amp;quot; Impuesto=\&amp;quot;002\&amp;quot; TipoFactor=\&amp;quot;Tasa\&amp;quot; /&amp;gt;\r\n    &amp;alt;/cfdi:Traslados&amp;gt;\r\n  &amp;alt;/cfdi:Impuestos&amp;gt;\r\n  &amp;alt;cfdi:Complemento&amp;gt;\r\n    &amp;alt;tfd:TimbreFiscalDigital xmlns:xsi=\&amp;quot;http://www.w3.org/2001/XMLSchema-instance\&amp;quot; xsi:schemaLocation=\&amp;quot;http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd\&amp;quot; Version=\&amp;quot;1.1\&amp;quot; UUID=\&amp;quot;42B57BFB-826F-4281-BCA7-F1A66C1C5AAA\&amp;quot; FechaTimbrado=\&amp;quot;2022-09-15T18:05:22\&amp;quot; RfcProvCertif=\&amp;quot;SPR190613I52\&amp;quot; SelloCFD=\&amp;quot;Jn84BWxxnUWYqGtWKC6dmx7anCMZgcSOg+sUIEAj1NrvioAJVUwG8a1BZOXKqdAg2A9hsUIqpWHdsOMGCc3qDNuZDVUK17Vknf+ZxO951Ku9d6wDqd7LRmcXAUivhSvIykH2kRrmLE8CbZ993rJITlyHlvJRxwZ3iJ0xegNIlz9hVEpI/SjYaY6SEjdZG5ddbrKXfWUuNOKd3u/u47Wzx0r3FWjXeT586tmA8pDY+ORK3xdWhabImdwpFO+hvYXjricM4rwHFAIWSirGISnsDju2bU1p9gd1BWLupq2bwynM/OG3VWfI0birwMIjj0ErEYXfJcJhNCeh0VV/XsrKIA==\&amp;quot; NoCertificadoSAT=\&amp;quot;30001000000400002495\&amp;quot; SelloSAT=\&amp;quot;qXgS8xKZHCpKprAiqwUJTwKxsyq0pOk2qsPHY3rSZz9MrtJ5mrVWppCcNdpW/ykH2zgVNm12gZAnTXMbynHTlTzxIKeizlNrsof7vZuzJmViKIOrygEXmcyJvdVQM80l0ARMyduCJ+tYDVaksQ/QGAHuc4/766QFaEGv26g/+xesmrVnoiGM7fUs/5ZnxjrYC7vDgoy1ATVU7gRoA5RgQn12ieQXdvp6/wVm9OyTJsd2nwoSb4bqxfjwSYa0p/WrDpjxFwFvcl7zTDstVaalZ/ufIxWTRFMR4nfmSzMwbEQ8dyH9AdiEhuwLCBy7ROU0pklhTcmXDiQ9NQjHZlLpJQ==\&amp;quot; xmlns:tfd=\&amp;quot;http://www.sat.gob.mx/TimbreFiscalDigital\&amp;quot; /&amp;gt;\r\n  &amp;alt;/cfdi:Complemento&amp;gt;\r\n  &amp;alt;cfdi:Addenda&amp;gt;\r\n    &amp;alt;Documento&amp;gt;UNB+UNOA:2+MASTEDI:ZZ+925485MX00:8+220915:1805+670000VE017044'UNH+1+INVOIC:D:01B:UN:AMC002'BGM+380+17044+9'DTM+137:20220915180401:204'FTX+ZZZ+++CIENTO DOCE PESOS 00/100 MONEDA NACIONAL+ES'DTM+171:20220915:102'RFF+BT:VE'NAD+BY+++NUEVA WAL MART DE MEXICO S. DE R.L.: DE C.V.+AV. NEXTENGO NO. 78 COL. SANTA CRUZ:SANTA CRUZ ACAYUCAN+AZCAPOTZALCO+DISTRITO +02770'RFF+GN:NWM9709244W4'NAD+SU+++LOGISTICA DEL MAYAB, SA DE CV+CALLE S/N P.C.14335 PACABTUN POR VI+MERIDA CG+Yucatan+'RFF+GN:LMA0402275Q6'RFF+IA:67'NAD+II+++LOGISTICA DEL MAYAB, SA DE CV (MERI:DA CG)+++MERIDA CG+97160'NAD+ST+++++++'CUX+2:MXN:4'LIN+1++:SRV::9'IMD+F++:::[1] FLETES (VIAJES SEGUN RELACION ANEXA)::ES'QTY+47:1:No Aplica'MOA+203:100.000'PRI+AAA:100.0000::::No Aplica'TAX+7+VAT+++:::16.00+C'MOA+124:16.000'UNS+S'CNT+2:1'MOA+9:112.00'MOA+79:116.00'MOA+125:116.00'TAX+7+VAT+++:::16.00+C'MOA+124:16.00'UNT+29+1'UNZ+1+670000VE017044'&amp;alt;/Documento&amp;gt;\r\n  &amp;alt;/cfdi:Addenda&amp;gt;\r\n&amp;alt;/cfdi:Comprobante&amp;gt;&amp;quot;,
+    &amp;quot;SinComprobante&amp;quot;: 0,
+    &amp;quot;SistemaOrigen&amp;quot;: 0,
+    &amp;quot;Subtotal&amp;quot;: 116.00,
+    &amp;quot;Texto&amp;quot;: &amp;quot;Factura VE17044&amp;quot;,
+    &amp;quot;TipoCambio&amp;quot;: 1.0,
+    &amp;quot;TipoFact&amp;quot;: 0,
+    &amp;quot;TipoRelacionUUID&amp;quot;: 6,
+    &amp;quot;Total&amp;quot;: 112.00,
+    &amp;quot;UUID&amp;quot;: &amp;quot;42B57BFB-826F-4281-BCA7-F1A66C1C5AAA&amp;quot;,
+    &amp;quot;UsoCFDI&amp;quot;: &amp;quot;G03&amp;quot;
+  },
+  &amp;quot;Lineas&amp;quot;: [
+    {
+      &amp;quot;CodImpuesto&amp;quot;: &amp;quot;IVA16T&amp;quot;,
+      &amp;quot;Credito&amp;quot;: 112.00,
+      &amp;quot;CuentaContable&amp;quot;: &amp;quot;DHB001001&amp;quot;,
+      &amp;quot;Debito&amp;quot;: 0.0,
+      &amp;quot;DimCeco&amp;quot;: &amp;quot;B903&amp;quot;,
+      &amp;quot;Vehiculo&amp;quot;: &amp;quot;15437&amp;quot;,
+      &amp;quot;DimFilTer&amp;quot;: &amp;quot;T001&amp;quot;,
+      &amp;quot;DimSucursal&amp;quot;: &amp;quot;YUC007&amp;quot;,
+      &amp;quot;GrupoImpuestos&amp;quot;: &amp;quot;CLFLETES&amp;quot;,
+      &amp;quot;GrupoImpuestosArt&amp;quot;: &amp;quot;FLETES&amp;quot;,
+      &amp;quot;Texto&amp;quot;: &amp;quot;FLETE-VE17044-NUEVA WAL MART DE MEXICO S. DE R.L. DE C.V.&amp;quot;
+    }
+  ]
+}' , respuesta = 'f|El nombre de diario 684CARFACT no existe.Error en el encabezado. Error al grabar la factura.' , mensaje = 'f|El nombre de diario 684CARFACT no existe.Error en el encabezado. Error al grabar la factura.' , FechaModificacion = GETDATE() WHERE FolioAsiento = 'LM.FV4202209152'</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Actualizapoliza</metodo>
+    <clase>LOGI_Polizas_PD.cs</clase>
+    <modulo>Polizas D365</modulo>
+    <fecha>15/09/2022 18:35:52</fecha>
+    <descripcion>Message: Invalid column name 'polizad365'.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 101
+   en AD.Tablas.D365.LOGI_FacturasCFDI_AD.ActualizaLMFactura(LOGI_ConexionSql_AD&amp; oConnection, String FolioAsiento, String DocumentoD365, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_FacturasCFDI_AD.cs:línea 125
+   en PD.Tablas.D365.LOGI_Polizas_PD.Actualizapoliza(String sUsuarioID, LOGI_Polizas_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_PD.cs:línea 275. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>update lm_facturas set polizad365 = '5638109826' where  FolioAsiento = 'LM.FV4202209152'</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Actualizapoliza</metodo>
+    <clase>LOGI_Polizas_PD.cs</clase>
+    <modulo>Polizas D365</modulo>
+    <fecha>15/09/2022 18:36:27</fecha>
+    <descripcion>Message: Invalid column name 'polizad365'.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 101
+   en AD.Tablas.D365.LOGI_FacturasCFDI_AD.ActualizaLMFactura(LOGI_ConexionSql_AD&amp; oConnection, String FolioAsiento, String DocumentoD365, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_FacturasCFDI_AD.cs:línea 125
+   en PD.Tablas.D365.LOGI_Polizas_PD.Actualizapoliza(String sUsuarioID, LOGI_Polizas_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_PD.cs:línea 275. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>update lm_facturas set polizad365 = '5638109826' where  FolioAsiento = 'LM.FV4202209152'</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Actualizapoliza</metodo>
+    <clase>LOGI_Polizas_PD.cs</clase>
+    <modulo>Polizas D365</modulo>
+    <fecha>15/09/2022 18:39:47</fecha>
+    <descripcion>Message: Invalid column name 'polizad365'.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 101
+   en AD.Tablas.D365.LOGI_FacturasCFDI_AD.ActualizaLMFactura(LOGI_ConexionSql_AD&amp; oConnection, String FolioAsiento, String DocumentoD365, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_FacturasCFDI_AD.cs:línea 125
+   en PD.Tablas.D365.LOGI_Polizas_PD.Actualizapoliza(String sUsuarioID, LOGI_Polizas_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_PD.cs:línea 275. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>update lm_facturas set polizad365 = '5638109826' where  FolioAsiento = 'LM.FV4202209152'</otros_datos>
+  </error>
+</errores>

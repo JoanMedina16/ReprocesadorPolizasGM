@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>12/01/2026 10:59:08 a. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

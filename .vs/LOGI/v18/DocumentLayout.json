@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\Logi\\reprocesador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC956CAA-632D-490C-951C-5F0509F44842}|PD\\PD.csproj|c:\\repositorio\\logi\\reprocesador\\pd\\objetos\\ope\\logi_eventosbitacora_pd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC956CAA-632D-490C-951C-5F0509F44842}|PD\\PD.csproj|solutionrelative:pd\\objetos\\ope\\logi_eventosbitacora_pd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0111ED11-45B8-475A-92FB-F58DD9444B67}|LOGITASKW\\LOGITASKW.csproj|C:\\Repositorio\\Logi\\reprocesador\\logitaskw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0111ED11-45B8-475A-92FB-F58DD9444B67}|LOGITASKW\\LOGITASKW.csproj|solutionrelative:logitaskw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210E5FE9-15CC-4852-B922-515EF8F9D077}|LOGISERVICES\\LOGISERVICES.csproj|C:\\Repositorio\\Logi\\reprocesador\\logiservices\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210E5FE9-15CC-4852-B922-515EF8F9D077}|LOGISERVICES\\LOGISERVICES.csproj|solutionrelative:logiservices\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B66CDF-EB87-4CC6-9458-094D829BEB74}|AD\\AD.csproj|C:\\Repositorio\\Logi\\reprocesador\\ad\\objetos\\ope\\logi_eventosbitacora_ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B66CDF-EB87-4CC6-9458-094D829BEB74}|AD\\AD.csproj|solutionrelative:ad\\objetos\\ope\\logi_eventosbitacora_ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B66CDF-EB87-4CC6-9458-094D829BEB74}|AD\\AD.csproj|C:\\Repositorio\\Logi\\reprocesador\\ad\\logi_conexionsql_ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B66CDF-EB87-4CC6-9458-094D829BEB74}|AD\\AD.csproj|solutionrelative:ad\\logi_conexionsql_ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LOGITASKW||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B88FF91-26DF-4983-9188-F96604F4E721}|D365API\\D365API.csproj|C:\\Repositorio\\Logi\\reprocesador\\d365api\\dao\\gmtapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B88FF91-26DF-4983-9188-F96604F4E721}|D365API\\D365API.csproj|solutionrelative:d365api\\dao\\gmtapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0111ED11-45B8-475A-92FB-F58DD9444B67}|LOGITASKW\\LOGITASKW.csproj|C:\\Repositorio\\Logi\\reprocesador\\logitaskw\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0111ED11-45B8-475A-92FB-F58DD9444B67}|LOGITASKW\\LOGITASKW.csproj|solutionrelative:logitaskw\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|C:\\Repositorio\\Logi\\reprocesador\\logiweb\\metodos\\d365\\polizacontable-datos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|solutionrelative:logiweb\\metodos\\d365\\polizacontable-datos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC956CAA-632D-490C-951C-5F0509F44842}|PD\\PD.csproj|C:\\Repositorio\\Logi\\reprocesador\\pd\\tablas\\d365\\logi_polizas_pd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC956CAA-632D-490C-951C-5F0509F44842}|PD\\PD.csproj|solutionrelative:pd\\tablas\\d365\\logi_polizas_pd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|C:\\Repositorio\\Logi\\reprocesador\\logiweb\\metodos\\d365\\polizacontable-datos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|solutionrelative:logiweb\\metodos\\d365\\polizacontable-datos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B66CDF-EB87-4CC6-9458-094D829BEB74}|AD\\AD.csproj|C:\\Repositorio\\Logi\\reprocesador\\ad\\tablas\\d365\\logi_polizas_ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B66CDF-EB87-4CC6-9458-094D829BEB74}|AD\\AD.csproj|solutionrelative:ad\\tablas\\d365\\logi_polizas_ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|C:\\Repositorio\\Logi\\reprocesador\\logiweb\\paginas\\configuracion-general-lista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|solutionrelative:logiweb\\paginas\\configuracion-general-lista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|C:\\Repositorio\\Logi\\reprocesador\\logiweb\\metodos\\d365\\configuracion-datos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|solutionrelative:logiweb\\metodos\\d365\\configuracion-datos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|C:\\Repositorio\\Logi\\reprocesador\\logiweb\\scripts\\js-login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|solutionrelative:logiweb\\scripts\\js-login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|C:\\Repositorio\\Logi\\reprocesador\\logiweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|solutionrelative:logiweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|C:\\Repositorio\\Logi\\reprocesador\\logiweb\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|solutionrelative:logiweb\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|C:\\Repositorio\\Logi\\reprocesador\\logiweb\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|solutionrelative:logiweb\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|C:\\Repositorio\\Logi\\reprocesador\\logiweb\\paginas\\d365\\incidencias-polizas-lista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8096FCE6-6ACA-4BF6-A20F-4AF662A3FC41}|LOGIWEB\\LOGIWEB.csproj|solutionrelative:logiweb\\paginas\\d365\\incidencias-polizas-lista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LOGI_ConexionSql_AD.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\AD\\LOGI_ConexionSql_AD.cs",
+              "RelativeDocumentMoniker": "AD\\LOGI_ConexionSql_AD.cs",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\AD\\LOGI_ConexionSql_AD.cs",
+              "RelativeToolTip": "AD\\LOGI_ConexionSql_AD.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAMwFUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T19:20:59.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\LOGISERVICES\\Service1.cs",
+              "RelativeDocumentMoniker": "LOGISERVICES\\Service1.cs",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\LOGISERVICES\\Service1.cs",
+              "RelativeToolTip": "LOGISERVICES\\Service1.cs",
+              "ViewState": "AgIAAKoBAAAAAAAAAAAcwNsBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T18:12:42.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LOGITASKW",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\LOGITASKW\\LOGITASKW.csproj",
+              "RelativeDocumentMoniker": "LOGITASKW\\LOGITASKW.csproj",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\LOGITASKW\\LOGITASKW.csproj",
+              "RelativeToolTip": "LOGITASKW\\LOGITASKW.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-18T21:29:15.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\LOGITASKW\\App.config",
+              "RelativeDocumentMoniker": "LOGITASKW\\App.config",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\LOGITASKW\\App.config",
+              "RelativeToolTip": "LOGITASKW\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-12T21:02:14.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LOGI_EventosBitacora_PD.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\PD\\Objetos\\OPE\\LOGI_EventosBitacora_PD.cs",
+              "RelativeDocumentMoniker": "PD\\Objetos\\OPE\\LOGI_EventosBitacora_PD.cs",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\PD\\Objetos\\OPE\\LOGI_EventosBitacora_PD.cs",
+              "RelativeToolTip": "PD\\Objetos\\OPE\\LOGI_EventosBitacora_PD.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowHwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T20:24:23.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LOGI_EventosBitacora_AD.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\AD\\Objetos\\OPE\\LOGI_EventosBitacora_AD.cs",
+              "RelativeDocumentMoniker": "AD\\Objetos\\OPE\\LOGI_EventosBitacora_AD.cs",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\AD\\Objetos\\OPE\\LOGI_EventosBitacora_AD.cs",
+              "RelativeToolTip": "AD\\Objetos\\OPE\\LOGI_EventosBitacora_AD.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAIAwwJUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T20:28:07.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\LOGITASKW\\Program.cs",
+              "RelativeDocumentMoniker": "LOGITASKW\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\LOGITASKW\\Program.cs",
+              "RelativeToolTip": "LOGITASKW\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:01:54.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GMTApi.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\D365API\\DAO\\GMTApi.cs",
+              "RelativeDocumentMoniker": "D365API\\DAO\\GMTApi.cs",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\D365API\\DAO\\GMTApi.cs",
+              "RelativeToolTip": "D365API\\DAO\\GMTApi.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAgwL8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T19:21:00.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PolizaContable-Datos.aspx",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\Metodos\\D365\\PolizaContable-Datos.aspx",
+              "RelativeDocumentMoniker": "LOGIWEB\\Metodos\\D365\\PolizaContable-Datos.aspx",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\Metodos\\D365\\PolizaContable-Datos.aspx",
+              "RelativeToolTip": "LOGIWEB\\Metodos\\D365\\PolizaContable-Datos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-06T16:42:57.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PolizaContable-Datos.aspx.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\Metodos\\D365\\PolizaContable-Datos.aspx.cs",
+              "RelativeDocumentMoniker": "LOGIWEB\\Metodos\\D365\\PolizaContable-Datos.aspx.cs",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\Metodos\\D365\\PolizaContable-Datos.aspx.cs",
+              "RelativeToolTip": "LOGIWEB\\Metodos\\D365\\PolizaContable-Datos.aspx.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAhwD8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:24:29.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LOGI_Polizas_PD.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\PD\\Tablas\\D365\\LOGI_Polizas_PD.cs",
+              "RelativeDocumentMoniker": "PD\\Tablas\\D365\\LOGI_Polizas_PD.cs",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\PD\\Tablas\\D365\\LOGI_Polizas_PD.cs",
+              "RelativeToolTip": "PD\\Tablas\\D365\\LOGI_Polizas_PD.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:24:29.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LOGI_Polizas_AD.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\AD\\Tablas\\D365\\LOGI_Polizas_AD.cs",
+              "RelativeDocumentMoniker": "AD\\Tablas\\D365\\LOGI_Polizas_AD.cs",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\AD\\Tablas\\D365\\LOGI_Polizas_AD.cs",
+              "RelativeToolTip": "AD\\Tablas\\D365\\LOGI_Polizas_AD.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAhwJQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:24:29.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Configuracion-Datos.aspx.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\Metodos\\D365\\Configuracion-Datos.aspx.cs",
+              "RelativeDocumentMoniker": "LOGIWEB\\Metodos\\D365\\Configuracion-Datos.aspx.cs",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\Metodos\\D365\\Configuracion-Datos.aspx.cs",
+              "RelativeToolTip": "LOGIWEB\\Metodos\\D365\\Configuracion-Datos.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T16:14:26.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\Web.config",
+              "RelativeDocumentMoniker": "LOGIWEB\\Web.config",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\Web.config",
+              "RelativeToolTip": "LOGIWEB\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-05T23:12:21.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "configuracion-general-Lista.aspx",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\Paginas\\configuracion-general-Lista.aspx",
+              "RelativeDocumentMoniker": "LOGIWEB\\Paginas\\configuracion-general-Lista.aspx",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\Paginas\\configuracion-general-Lista.aspx",
+              "RelativeToolTip": "LOGIWEB\\Paginas\\configuracion-general-Lista.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-05T17:24:29.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "js-Login.js",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\Scripts\\js-Login.js",
+              "RelativeDocumentMoniker": "LOGIWEB\\Scripts\\js-Login.js",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\Scripts\\js-Login.js",
+              "RelativeToolTip": "LOGIWEB\\Scripts\\js-Login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-05T18:10:48.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\login.aspx.cs",
+              "RelativeDocumentMoniker": "LOGIWEB\\login.aspx.cs",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\login.aspx.cs",
+              "RelativeToolTip": "LOGIWEB\\login.aspx.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T18:10:27.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\login.aspx",
+              "RelativeDocumentMoniker": "LOGIWEB\\login.aspx",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\login.aspx",
+              "RelativeToolTip": "LOGIWEB\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-05T18:02:57.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Incidencias-polizas-Lista.aspx",
+              "DocumentMoniker": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\Paginas\\D365\\Incidencias-polizas-Lista.aspx",
+              "RelativeDocumentMoniker": "LOGIWEB\\Paginas\\D365\\Incidencias-polizas-Lista.aspx",
+              "ToolTip": "C:\\Repositorio\\Logi\\reprocesador\\LOGIWEB\\Paginas\\D365\\Incidencias-polizas-Lista.aspx",
+              "RelativeToolTip": "LOGIWEB\\Paginas\\D365\\Incidencias-polizas-Lista.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-23T18:13:22.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

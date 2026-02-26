@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>122255</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-09T09:43:12.3531075-06:00</Fecha>
+      <Evento>Folio: 1404 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>73</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>122303</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-09T09:45:34.0282303-06:00</Fecha>
+      <Evento>Folio: 5793 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>121</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>122304</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-09T09:45:35.1249914-06:00</Fecha>
+      <Evento>Folio: 11610 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>122</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>122305</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-09T09:45:35.8394101-06:00</Fecha>
+      <Evento>Folio: 11516 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>123</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>122391</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-09T09:45:36.4323322-06:00</Fecha>
+      <Evento>Folio: 5926 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>148</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>122469</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-09T09:45:36.9210153-06:00</Fecha>
+      <Evento>Folio: 30378 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>163</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>122470</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-09T09:45:37.4247877-06:00</Fecha>
+      <Evento>Folio: 30425 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>164</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149832</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:11:32.7514153-06:00</Fecha>
+      <Evento>Folio: 1905 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>41</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149845</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:11:33.0437545-06:00</Fecha>
+      <Evento>Folio: 1909 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>54</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149866</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:11:33.3168819-06:00</Fecha>
+      <Evento>Folio: 1906 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>75</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149867</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:11:33.6072708-06:00</Fecha>
+      <Evento>Folio: 1907 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>76</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149868</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:11:33.8825222-06:00</Fecha>
+      <Evento>Folio: 35910 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>77</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149869</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:11:34.1569382-06:00</Fecha>
+      <Evento>Folio: 1906 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>78</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>153831</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:20:09.1099282-06:00</Fecha>
+      <Evento>Folio: 2128 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>167</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>153862</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:20:09.3638055-06:00</Fecha>
+      <Evento>Folio: 2117 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>198</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>153863</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:20:09.6243051-06:00</Fecha>
+      <Evento>Folio: 2117 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>199</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>153944</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:23:54.9382829-06:00</Fecha>
+      <Evento>Folio: 7194 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>278</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>153945</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:23:55.1999643-06:00</Fecha>
+      <Evento>Folio: 7194 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>279</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>153946</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:23:55.4507579-06:00</Fecha>
+      <Evento>Folio: 2086 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>280</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>153947</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:23:55.7033638-06:00</Fecha>
+      <Evento>Folio: 2142 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>281</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>153955</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:23:55.9479596-06:00</Fecha>
+      <Evento>Folio: 7195 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>289</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>153979</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:23:56.1902022-06:00</Fecha>
+      <Evento>Folio: 7190 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>313</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>153980</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:23:56.4319046-06:00</Fecha>
+      <Evento>Folio: 2057 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>314</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>153981</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:23:56.6796163-06:00</Fecha>
+      <Evento>Folio: 7194 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>315</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154153</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:23:56.9242455-06:00</Fecha>
+      <Evento>Folio: 7196 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>487</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154154</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:23:57.1675239-06:00</Fecha>
+      <Evento>Folio: 7196 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>488</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154155</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:23:57.4140207-06:00</Fecha>
+      <Evento>Folio: 7195 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>489</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154156</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:23:57.6554522-06:00</Fecha>
+      <Evento>Folio: 2142 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>490</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154157</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:23:57.9025938-06:00</Fecha>
+      <Evento>Folio: 7187 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>491</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154158</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:23:58.1563425-06:00</Fecha>
+      <Evento>Folio: 7192 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>492</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150117</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:30:32.8935739-06:00</Fecha>
+      <Evento>Folio: 7142 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>326</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150118</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:30:33.1398904-06:00</Fecha>
+      <Evento>Folio: 1883 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>327</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150119</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:30:33.8212861-06:00</Fecha>
+      <Evento>Folio: 1914 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>328</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150120</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:30:34.0863806-06:00</Fecha>
+      <Evento>Folio: 1873 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>329</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150121</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:30:34.351689-06:00</Fecha>
+      <Evento>Folio: 1916 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>330</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150122</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:30:34.9787935-06:00</Fecha>
+      <Evento>Folio: 1891 Póliza cargada correctamente Anticipos- </Evento>
+      <NumPoliza>331</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150123</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:30:35.4470841-06:00</Fecha>
+      <Evento>Folio: 1891 Póliza cargada correctamente Anticipos- </Evento>
+      <NumPoliza>332</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150125</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:30:35.968889-06:00</Fecha>
+      <Evento>Folio: 1922 Póliza cargada correctamente Anticipos- </Evento>
+      <NumPoliza>334</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150142</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:30:36.3016319-06:00</Fecha>
+      <Evento>Folio: 1907 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>351</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150143</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:30:36.5575219-06:00</Fecha>
+      <Evento>Folio: 7144 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>352</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150144</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:30:36.8173667-06:00</Fecha>
+      <Evento>Folio: 7144 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>353</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150145</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:30:37.0826046-06:00</Fecha>
+      <Evento>Folio: 7145 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>354</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150146</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:30:37.3441556-06:00</Fecha>
+      <Evento>Folio: 7145 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>355</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150147</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:30:37.597557-06:00</Fecha>
+      <Evento>Folio: 7145 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>356</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150233</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:30:37.8497632-06:00</Fecha>
+      <Evento>Folio: 1877 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>442</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150234</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:30:38.0937273-06:00</Fecha>
+      <Evento>Folio: 1877 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>443</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150235</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:30:38.3414774-06:00</Fecha>
+      <Evento>Folio: 1877 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>444</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154239</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:33:16.4051238-06:00</Fecha>
+      <Evento>Folio: 22917 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>573</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154240</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:33:17.1979944-06:00</Fecha>
+      <Evento>Folio: 22917 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>574</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154241</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:33:17.4461395-06:00</Fecha>
+      <Evento>Folio: 2066 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>575</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154242</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:33:18.160885-06:00</Fecha>
+      <Evento>Folio: 1995 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>576</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154243</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:33:18.467157-06:00</Fecha>
+      <Evento>Folio: 23400 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>577</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154244</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:33:19.5456173-06:00</Fecha>
+      <Evento>Folio: 23400 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>578</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154245</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:33:19.8707097-06:00</Fecha>
+      <Evento>Folio: 2141 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>579</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150253</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:36:32.7344417-06:00</Fecha>
+      <Evento>Folio: 1922 Póliza cargada correctamente Anticipos- </Evento>
+      <NumPoliza>462</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150254</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:33.1045999-06:00</Fecha>
+      <Evento>Folio: 1919 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>463</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150255</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:33.3454199-06:00</Fecha>
+      <Evento>Folio: 1927 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>464</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150262</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:33.6817642-06:00</Fecha>
+      <Evento>Folio: 7145 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>471</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150263</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:33.9267348-06:00</Fecha>
+      <Evento>Folio: 1899 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>472</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150264</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:34.1708151-06:00</Fecha>
+      <Evento>Folio: 1916 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>473</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150265</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:34.4245427-06:00</Fecha>
+      <Evento>Folio: 1925 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>474</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150266</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:34.6704817-06:00</Fecha>
+      <Evento>Folio: 1919 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>475</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150267</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:34.9199344-06:00</Fecha>
+      <Evento>Folio: 1926 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>476</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150273</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:35.1634762-06:00</Fecha>
+      <Evento>Folio: 1926 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>482</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150274</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:35.4114692-06:00</Fecha>
+      <Evento>Folio: 1899 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>483</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150275</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:35.6550952-06:00</Fecha>
+      <Evento>Folio: 1918 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>484</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154371</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:57.6316477-06:00</Fecha>
+      <Evento>Folio: 2089 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>705</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154372</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:57.6961703-06:00</Fecha>
+      <Evento>Folio: 1913 La cuenta de banco del operador AUZM721008DT7 - ANGULO ZAPATA JOSE MANUEL ANGULO ZAPATA no se encuentra configurada Anticipos-</Evento>
+      <NumPoliza>706</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154373</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:57.8356675-06:00</Fecha>
+      <Evento>Folio: 1913 La cuenta de banco del operador AUZM721008DT7 - ANGULO ZAPATA JOSE MANUEL ANGULO ZAPATA no se encuentra configurada Anticipos-</Evento>
+      <NumPoliza>707</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154374</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:58.1648078-06:00</Fecha>
+      <Evento>Folio: 2168 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>708</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154375</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:58.4132529-06:00</Fecha>
+      <Evento>Folio: 2164 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>709</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154376</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:58.6647967-06:00</Fecha>
+      <Evento>Folio: 7199 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>710</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154377</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:58.9093556-06:00</Fecha>
+      <Evento>Folio: 7201 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>711</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154378</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:59.1660272-06:00</Fecha>
+      <Evento>Folio: 7203 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>712</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150286</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-18T11:52:48.5778699-06:00</Fecha>
+      <Evento>Folio: 1925 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>495</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150287</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-18T11:52:48.9681178-06:00</Fecha>
+      <Evento>Folio: 1935 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>496</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150288</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-18T11:52:49.2120668-06:00</Fecha>
+      <Evento>Folio: 1924 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>497</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150291</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-18T11:52:49.4607872-06:00</Fecha>
+      <Evento>Folio: 1927 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>500</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150292</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-18T11:52:49.7014899-06:00</Fecha>
+      <Evento>Folio: 7150 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>501</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150293</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-18T11:52:49.9421838-06:00</Fecha>
+      <Evento>Folio: 7150 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>502</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150294</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-18T11:52:50.2030931-06:00</Fecha>
+      <Evento>Folio: 7150 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>503</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150295</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-18T11:52:50.4549473-06:00</Fecha>
+      <Evento>Folio: 7143 La póliza no se pudo guardarERROR Anticipos- CreaLoteReposicionFondo</Evento>
+      <NumPoliza>504</NumPoliza>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-02-09T09:43:19.8488968-06:00</FechaCreacion>
+  <TotalRegistros>82</TotalRegistros>
+</RegistrosPolizas>

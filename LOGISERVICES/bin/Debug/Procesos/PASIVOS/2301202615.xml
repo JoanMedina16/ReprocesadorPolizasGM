@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>23/01/2026 03:13:20 p. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 01/01/2026 hasta 01/01/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>23/01/2026 03:14:12 p. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 02/01/2026 hasta 02/01/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>23/01/2026 03:14:23 p. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 03/01/2026 hasta 03/01/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>23/01/2026 03:14:28 p. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 04/01/2026 hasta 04/01/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>23/01/2026 03:15:47 p. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 05/01/2026 hasta 05/01/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>23/01/2026 03:16:10 p. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 06/01/2026 hasta 06/01/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>23/01/2026 03:16:14 p. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 07/01/2026 hasta 07/01/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>23/01/2026 03:16:22 p. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 08/01/2026 hasta 08/01/2026</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>23/01/2026 03:29:58 p. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 01/09/2025 hasta 01/09/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>23/01/2026 03:33:07 p. m.</fecha>
+    <descripcion>Se han encontrado un total de 30 movimientos para el período seleccionado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>23/01/2026 03:34:33 p. m.</fecha>
+    <descripcion>Se han encontrado un total de 30 movimientos para el período seleccionado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

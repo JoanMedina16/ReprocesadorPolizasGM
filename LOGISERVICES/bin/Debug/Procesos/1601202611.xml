@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>16/01/2026 11:39:33 a. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>16/01/2026 11:39:35 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>16/01/2026 11:39:45 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 11:39:46 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 17/12/2025 hasta 17/12/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 11:40:21 a. m.</fecha>
+    <descripcion>Se han encontrado un total de 30 movimientos para el período seleccionado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>16/01/2026 11:40:48 a. m.</fecha>
+    <descripcion>Se encontraton un total de 30 procesos para reposición de fondo fijo</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

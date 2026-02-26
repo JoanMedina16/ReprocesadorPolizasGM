@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 02:22:11 p. m.</fecha>
+    <descripcion>Message: El objeto de comunicación, System.ServiceModel.ChannelFactory`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCService], no se puede usar para la comunicación porque se encuentra en el estado Faulted.. StackTrace:    en System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposed()
+   en System.ServiceModel.ChannelFactory.EnsureOpened()
+   en System.ServiceModel.ChannelFactory`1.CreateChannel(EndpointAddress address, Uri via)
+   en System.ServiceModel.ChannelFactory`1.CreateChannel()
+   en System.ServiceModel.ClientBase`1.CreateChannel()
+   en System.ServiceModel.ClientBase`1.CreateChannelInternal()
+   en System.ServiceModel.ClientBase`1.get_Channel()
+   en System.ServiceModel.ClientBase`1.get_InnerChannel()
+   en D365API.LOGI_TMSConnection_D365.CreaLoteIngresosD365(List`1 lstLote, String sDiarioContable, String sMetodoAPI, String&amp; sresponse, Boolean bCreaArchivoJSON) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2137. InnerException . Source: System.ServiceModel. Data: System.Collections.ListDictionaryInternal. TargetSite: Void ThrowIfDisposed()</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>14/01/2026 02:24:17 p. m.</fecha>
+    <descripcion>Message: El objeto de comunicación, System.ServiceModel.ChannelFactory`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCService], no se puede usar para la comunicación porque se encuentra en el estado Faulted.. StackTrace:    en System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposed()
+   en System.ServiceModel.ChannelFactory.EnsureOpened()
+   en System.ServiceModel.ChannelFactory`1.CreateChannel(EndpointAddress address, Uri via)
+   en System.ServiceModel.ChannelFactory`1.CreateChannel()
+   en System.ServiceModel.ClientBase`1.CreateChannel()
+   en System.ServiceModel.ClientBase`1.CreateChannelInternal()
+   en System.ServiceModel.ClientBase`1.get_Channel()
+   en System.ServiceModel.ClientBase`1.get_InnerChannel()
+   en D365API.LOGI_TMSConnection_D365.CreaLoteIngresosD365(List`1 lstLote, String sDiarioContable, String sMetodoAPI, String&amp; sresponse, Boolean bCreaArchivoJSON) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2137. InnerException . Source: System.ServiceModel. Data: System.Collections.ListDictionaryInternal. TargetSite: Void ThrowIfDisposed()</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+</errores>

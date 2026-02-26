@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 09:01:38 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 09:01:38 a. m.</fecha>
+    <descripcion>ERROR: El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:49:59.5591626. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 09:01:38 a. m.</fecha>
+    <descripcion>El canal de solicitud agotó el tiempo de espera mientras esperaba una respuesta después de 00:49:59.5591626. Aumente el valor de tiempo de espera pasado a la llamada a Request, o bien aumente el valor de SendTimeout en el enlace. El tiempo asignado a esta operación puede haber sido una parte de un tiempo de espera mayor.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnExecuteAsientos</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 09:01:55 a. m.</fecha>
+    <descripcion>Se han encontrado un total de 32 póliza(s) a procesar</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 09:01:55 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM.CP22024072931</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

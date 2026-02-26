@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6" />
+    </startup>
+	<appSettings>
+		<add key="CONEXION_LOGI" value="Data Source=10.20.128.149;Initial Catalog=admlog04;Persist Security Info=True;User ID=usr_pbasbil;Password=desarrollo;Connection Timeout=120"/>
+		<add key="CONEXION_LOG_BITACORA" value="Data Source=10.20.128.149;Initial Catalog=OTMLog;Persist Security Info=True;User ID=usr_pbasbil;Password=desarrollo;Connection Timeout=120"/>
+	</appSettings>
+	</configuration>

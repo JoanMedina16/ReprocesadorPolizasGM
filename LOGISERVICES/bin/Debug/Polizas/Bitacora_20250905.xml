@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>113775</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T15:55:39.8221318-06:00</Fecha>
+      <Evento>Folio: 18174 No se ha encontrado la información de la unidad,valida la configuración de sucursal, centro de costo y equivalencia. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>2773</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118295</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T15:55:40.1922347-06:00</Fecha>
+      <Evento>Folio: 4823 El código del diario D365 no se ha configurado. Núm.Poliza 7276 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>7276</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118301</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T15:55:40.4402044-06:00</Fecha>
+      <Evento>Folio: 4825 El código del diario D365 no se ha configurado. Núm.Poliza 7282 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>7282</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113775</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-28T11:06:49.572377-06:00</Fecha>
+      <Evento>Folio: 18174 No se ha encontrado la información de la unidad,valida la configuración de sucursal, centro de costo y equivalencia. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>2773</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118295</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-28T11:06:49.9156419-06:00</Fecha>
+      <Evento>Folio: 4823 El código del diario D365 no se ha configurado. Núm.Poliza 7276 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>7276</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118301</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-28T11:06:50.1558881-06:00</Fecha>
+      <Evento>Folio: 4825 El código del diario D365 no se ha configurado. Núm.Poliza 7282 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>7282</NumPoliza>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-01-27T15:54:17.822851-06:00</FechaCreacion>
+  <TotalRegistros>6</TotalRegistros>
+</RegistrosPolizas>

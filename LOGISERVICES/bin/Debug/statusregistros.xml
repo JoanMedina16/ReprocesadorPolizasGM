@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>120885</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:27:50.0285762-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120886</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:28:00.5829641-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120887</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:28:08.9859084-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120888</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:28:13.7996226-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120889</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:28:28.3472411-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120890</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:28:49.2714907-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120891</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:29:01.6377325-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120892</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:29:04.9034058-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120893</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:29:09.0125954-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120894</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:29:16.0203804-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120895</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:29:24.6298797-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120896</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:29:36.1796598-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120897</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:29:37.9943358-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120898</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:29:41.5613967-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120899</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:29:42.7870134-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120900</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:29:44.0310993-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120901</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:29:45.7288824-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120902</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:29:55.1722661-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120903</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:29:58.6746139-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120904</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:30:01.0860134-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120905</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:30:01.6942648-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120910</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:30:02.1238439-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120911</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:30:02.3836407-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120912</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-14T10:30:02.7912107-06:00</Fecha>
+      <Evento>Factura OK</Evento>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120912</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-14T10:30:03.116272-06:00</Fecha>
+      <Evento>No se ha podido leer el archivo XML. ERROR '&#x18;', valor hexadecimal 0x18, es un carácter no válido. línea 1, posición 6844.</Evento>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-01-14T10:26:27.2687288-06:00</FechaCreacion>
+  <TotalRegistros>25</TotalRegistros>
+</RegistrosPolizas>

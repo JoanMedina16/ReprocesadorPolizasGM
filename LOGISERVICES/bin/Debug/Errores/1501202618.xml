@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>15/01/2026 06:06:55 p. m.</fecha>
+    <descripcion>Message: No se ha podido leer el archivo XML. ERROR '&#x18;', valor hexadecimal 0x18, es un carácter no válido. línea 1, posición 2909.. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365=&gt;CATCH</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>15/01/2026 06:07:05 p. m.</fecha>
+    <descripcion>Message: Referencia a objeto no establecida como instancia de un objeto.. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+</errores>

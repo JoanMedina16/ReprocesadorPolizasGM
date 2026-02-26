@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/01/2026 10:24:14 a. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/01/2026 10:24:21 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/01/2026 10:38:56 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/01/2026 10:39:55 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 17/12/2025 hasta 17/12/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>DAPI365</modulo>
+    <fecha>09/01/2026 10:41:27 a. m.</fecha>
+    <descripcion>{ "fault":{ "faultcode":2, "faultstring":"No se encontro informacion con el parametro especificado.", "detail":"What happened?\r\nNo se encontro informacion con el parametro especificado.\r\n\r\nError code: 2\r\n\r\nAdditional information:\r\nEIT_PILEWL :\r\nMethod ConsultaPrepolizas (ClsProPolizas.ConsultaPrepolizas), line 193\r\nEIT_DATEHEURE : 09/01/2026 08:40:47\r\nEIT_TYPE_WDFILE : &lt;4&gt;\r\nEIT_IDCODE : &lt;458752&gt;" } }</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

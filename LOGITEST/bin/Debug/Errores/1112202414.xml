@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>11/12/2024 02:06:53 p. m.</fecha>
+    <descripcion>Message: Unclosed quotation mark after the character string '' or '''. Line 1, position 30.' , errores = 2 , enviado = 0 , estatus = 1 WHERE bitacora_id = 10  '.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.ActualizaBitacoraPoliza(LOGI_ConexionSql_AD&amp; oConnection, String sUsuarioID, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 186
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 65. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>UPDATE lm_tms_bitacora  SET mensaje = 'No se ha podido leer el archivo XML. ERROR '&amp;amp;' is an unexpected token. The expected token is '&amp;quot;' or '''. Line 1, position 30.' , errores = 2 , enviado = 0 , estatus = 1 WHERE bitacora_id = 10  </otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Creaerror</metodo>
+    <clase>LOGI_EventosBitacora_PD.cs</clase>
+    <modulo>Bitacora polizas D365</modulo>
+    <fecha>11/12/2024 02:26:37 p. m.</fecha>
+    <descripcion>Message: Incorrect syntax near '0x0022'.
+Unclosed quotation mark after the character string '' or '''. Line 1, position 30.' , errores = 2 , enviado = 0 , estatus = 1 WHERE bitacora_id = 10  '.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Objetos.OPE.LOGI_EventosBitacora_AD.ActualizaBitacoraPoliza(LOGI_ConexionSql_AD&amp; oConnection, String sUsuarioID, LOGI_PolizasD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_EventosBitacora_AD.cs:line 186
+   at PD.Objetos.OPE.LOGI_EventosBitacora_PD.CrearegistroBitacora(String sUsuarioID, LOGI_PolizasD365_INFO oParam) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Objetos\OPE\LOGI_EventosBitacora_PD.cs:line 65. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>UPDATE lm_tms_bitacora  SET mensaje = 'No se ha podido leer el archivo XML. ERROR '0x0022http' is an unexpected token. The expected token is '&amp;quot;' or '''. Line 1, position 30.' , errores = 2 , enviado = 0 , estatus = 1 WHERE bitacora_id = 10  </otros_datos>
+  </error>
+</errores>

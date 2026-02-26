@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>154286</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:13.3432587-06:00</Fecha>
+      <Evento>Folio: LM/MID113066 No se ha creado la Póliza</Evento>
+      <NumPoliza>620</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154287</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:15.1569598-06:00</Fecha>
+      <Evento>Folio: LM/MID113067 No se ha creado la Póliza</Evento>
+      <NumPoliza>621</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154288</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:16.4907776-06:00</Fecha>
+      <Evento>Folio: LM/MID113068 No se ha creado la Póliza</Evento>
+      <NumPoliza>622</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154289</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:17.0975233-06:00</Fecha>
+      <Evento>Folio: LM/CUN46140 No se ha creado la Póliza</Evento>
+      <NumPoliza>623</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154290</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:18.0965929-06:00</Fecha>
+      <Evento>Folio: LM/CUN46141 No se ha creado la Póliza</Evento>
+      <NumPoliza>624</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154291</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:19.0533372-06:00</Fecha>
+      <Evento>Folio: LM/MID113069 No se ha creado la Póliza</Evento>
+      <NumPoliza>625</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154292</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:19.740405-06:00</Fecha>
+      <Evento>Folio: LM/QE83783 No se ha creado la Póliza</Evento>
+      <NumPoliza>626</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154293</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:20.6565275-06:00</Fecha>
+      <Evento>Folio: LM/QE83784 No se ha creado la Póliza</Evento>
+      <NumPoliza>627</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154294</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:21.7932587-06:00</Fecha>
+      <Evento>Folio: LM/MID113070 No se ha creado la Póliza</Evento>
+      <NumPoliza>628</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154295</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:22.4906661-06:00</Fecha>
+      <Evento>Folio: LM/MID113071 No se ha creado la Póliza</Evento>
+      <NumPoliza>629</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154297</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:23.5506358-06:00</Fecha>
+      <Evento>Folio: LM/MID113073 No se ha creado la Póliza</Evento>
+      <NumPoliza>631</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154298</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:24.0879311-06:00</Fecha>
+      <Evento>Folio: LM/MID113074 No se ha creado la Póliza</Evento>
+      <NumPoliza>632</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154299</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:24.632493-06:00</Fecha>
+      <Evento>Folio: LM/MID113075 No se ha creado la Póliza</Evento>
+      <NumPoliza>633</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154300</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:25.8460075-06:00</Fecha>
+      <Evento>Folio: LM/MID113076 No se ha creado la Póliza</Evento>
+      <NumPoliza>634</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154301</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:26.4008586-06:00</Fecha>
+      <Evento>Folio: LM/CUN46142 No se ha creado la Póliza</Evento>
+      <NumPoliza>635</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154302</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:26.9844493-06:00</Fecha>
+      <Evento>Folio: LM/CUN46143 No se ha creado la Póliza</Evento>
+      <NumPoliza>636</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154303</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:27.5578232-06:00</Fecha>
+      <Evento>Folio: LM/CUN46144 No se ha creado la Póliza</Evento>
+      <NumPoliza>637</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154304</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:28.1285557-06:00</Fecha>
+      <Evento>Folio: LM/CUN46145 No se ha creado la Póliza</Evento>
+      <NumPoliza>638</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>154305</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:28.6295805-06:00</Fecha>
+      <Evento>Folio: LM/QE83785 No se ha creado la Póliza</Evento>
+      <NumPoliza>639</NumPoliza>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-02-13T15:37:13.3432587-06:00</FechaCreacion>
+  <TotalRegistros>19</TotalRegistros>
+</RegistrosPolizas>

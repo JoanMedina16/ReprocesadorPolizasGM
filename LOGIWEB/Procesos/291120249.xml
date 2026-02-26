@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/11/2024 09:08:44 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM/COMBUS-202411292" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|LOG00298787|Póliza creada.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/11/2024 09:13:38 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM/COMBUS-202411293" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|LOG00298788|Póliza creada.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/11/2024 09:32:24 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM/COMBUS-202411294" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|LOG00298789|Póliza creada.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

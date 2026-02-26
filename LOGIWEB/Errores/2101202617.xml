@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ActualizaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 05:46:54 p. m.</fecha>
+    <descripcion>Message: Incorrect syntax near the keyword 'WHERE'.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) en C:\Repositorio\Logi\reprocesador\AD\LOGI_ConexionSql_AD.cs:línea 101
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ActualizaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO oParam, String&amp; sConsultaSql) en C:\Repositorio\Logi\reprocesador\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 379
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ActualizaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO oParam). InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>UPDATE lm_config_d365 WHERE cia = 67</otros_datos>
+  </error>
+</errores>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <wservices>
+	<connection>1</connection>
+	<description>OTM WS</description>
+    <url>https://193.122.128.126/ords/jcspdb/prod/Facturas/</url>
+  </wservices>
+</NewDataSet>

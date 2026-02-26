@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>select T1.JOURNALNUMBER, T1.RECID, T1.Zap_CreatedTime,  T3.DISPLAYVALUE, T3.MAINACCOUNTVALUE,
+                                            T3.SUCURSALVALUE, 
+                                            T3.FILIAL_TERCEROVALUE,
+                                            T3.CENTRO_DE_COSTOSVALUE,
+                                            T3.DEPARTAMENTOVALUE, T2.TXT, T2.OFFSETTXT,
+                                            (T2.AMOUNTCURDEBIT * T2.EXCHRATE)/100 AS AMOUNTCURDEBIT, (T2.AMOUNTCURCREDIT * T2.EXCHRATE)/100 AS AMOUNTCURCREDIT 
+                                            From Warehouse.LEDGERENTRYJOURNAL T1
+                                            INNER JOIN Warehouse.LEDGERJOURNALTRANS T2
+                                            ON T1.JOURNALNUMBER = T2.JOURNALNUM
+                                            LEFT JOIN Warehouse.DimensionAttributeValueCombination T3
+                                            ON T3.RECID = T1.RECID AND T2.COMPANY = 'LOG'  AND T2.Zap_CreatedTime  BETWEEN '20221001  00:00:00' AND '20221018 23:59:59' </modulo>
+    <fecha>18/10/2022 14:17:41</fecha>
+    <descripcion>Message: Valor demasiado grande o demasiado pequeño para Int32.. StackTrace:    en System.Convert.ToInt32(Int64 value)
+   en System.Int64.System.IConvertible.ToInt32(IFormatProvider provider)
+   en System.Convert.ToInt32(Object value)
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.GetObjeto(DataRow orow, LOGI_Extraccion_ZAP_INFO&amp; oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 19
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.LoopDataSet(DataSet objDataSet, List`1&amp; lstDispersiones) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 40
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.Listacuentasdiario(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 106
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 36. InnerException . Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Int32 ToInt32(Int64)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Loginusuario_PD.cs</usuario_id>
+    <metodo>ValidaLoginUsuario</metodo>
+    <clase>Login usuario</clase>
+    <modulo>
+    </modulo>
+    <fecha>18/10/2022 14:20:49</fecha>
+    <descripcion>Message: Login failed for user 'jflroesu'.. StackTrace:    en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Tablas.LOGI_Loginusuario_PD.ValidaLoginUsuario(LOGI_Usuarios_INFO&amp; oUsuario, LOGI_Usuarios_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\LOGI_Loginusuario_PD.cs:línea 39. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void .ctor(System.Data.ProviderBase.DbConnectionPoolIdentity, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SqlCredential, System.Object, System.String, System.Security.SecureString, Boolean, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SessionData, System.Data.ProviderBase.DbConnectionPool, System.String, Boolean, System.Data.SqlClient.SqlAuthenticationProviderManager)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+</errores>

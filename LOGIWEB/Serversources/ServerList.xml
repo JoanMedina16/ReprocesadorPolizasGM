@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <servers>
+    <dsn>LM Produccion</dsn>
+    <server>10.20.128.149</server>
+    <database>admlog04</database>
+    <notas>BD Producción Logimayab</notas>
+    <consol>false</consol>
+    <miserver>false</miserver>
+  </servers>
+  <servers>
+    <dsn>LM Pruebas</dsn>
+    <server>10.20.128.149</server>
+    <database>admlog04</database>
+    <notas>BD Pruebas Logimayab</notas>
+    <consol>false</consol>
+    <miserver>false</miserver>
+  </servers>
+</NewDataSet>

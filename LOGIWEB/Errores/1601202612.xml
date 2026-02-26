@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaUnidadesmaestra</metodo>
+    <clase>LOGI_ListaMaestra_PD.cs</clase>
+    <modulo>Listamaestra</modulo>
+    <fecha>16/01/2026 12:43:38 p. m.</fecha>
+    <descripcion>Message: Login failed for user 'admcorp'.
+OLE DB provider "SQLNCLI10" for linked server "(null)" returned message "Invalid connection string attribute".. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   en AD.LOGI_ConexionSql_AD.FillDataSet(String sQuerySql, Hashtable objHash, Int32 iTimeOut) en C:\Repositorio\Logi\reprocesador\AD\LOGI_ConexionSql_AD.cs:línea 73
+   en AD.Objetos.LMAE.LOGI_ListaMaestra_AD.ListaUnidadesmaestra(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; listaMestra, LOGI_ListaMaestra_INFO oParams, String&amp; sConsultaSql) en C:\Repositorio\Logi\reprocesador\AD\Objetos\LMAE\LOGI_ListaMaestra_AD.cs:línea 151
+   en PD.Objetos.LMAE.LOGI_ListaMaestra_PD.ListaUnidadesmaestra(String sUsuarioID, String sConnectionEquiv, LOGI_ListaMaestra_INFO oParam, List`1&amp; lstListamaestra) en C:\Repositorio\Logi\reprocesador\PD\Objetos\LMAE\LOGI_ListaMaestra_PD.cs:línea 42. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>if object_id('tempdb.dbo.#ttracto') is not null drop table dbo.#ttracto
+                          
+                           select cuenta,scuenta,nombre,nomtiny 
+                           into dbo.#ttracto 
+                           from openrowset('SQLOLEDB','DRIVER={SQL Server};SERVER=10.20.128.193\ADMBLOGISTIC;UID=admcorp;PWD=lv_ftww@xhwus',admblogistics.dbo.oa_scuentas) oa_scuentas 
+                           where cuenta = (select top 1 ctatipotractor from config)
+                        
+                        select distinct vehic = cast(sav.clave as integer), numeco = sav.descrip, marca = sav.sctamarca, 
+        nommarca = (select marcas.nombre 
+                      from openrowset('SQLOLEDB','DRIVER={SQL Server};SERVER=10.20.129.30;UID=admcorp;PWD=lv_ftww@xhwus',admcorp04.dbo.oa_scuentas) marcas 
+                     where marcas.cuenta = 41 and marcas.scuenta = sav.sctamarca), 
+        descrip = isnull(fic.descrip,''), sav.ano, serie = isnull(sav.serie,''), nmotor = isnull(sav.nmotor,''), 
+        tipovehic = sav.sctatipo, nomtipo = (select tipos.nombre 
+                                               from openrowset('SQLOLEDB','DRIVER={SQL Server};SERVER=10.20.129.30;UID=admcorp;PWD=lv_ftww@xhwus',admcorp04.dbo.oa_scuentas) tipos 
+                                              where tipos.cuenta = 29 and tipos.scuenta = sav.sctatipo), 
+        placa = isnull(fic.placa, sav.placa), propiet = sav.ciaprop,
+        nompropiet = (select propiets.nomciaab 
+                        from openrowset('SQLOLEDB','DRIVER={SQL Server};SERVER=10.20.129.30;UID=admcorp;PWD=lv_ftww@xhwus',admcorp04.dbo.cias) propiets 
+                       where propiets.cia = sav.ciaprop and propiets.suc = 1), 
+        cia = (select top 1 cia from oa_config), suc = isnull(fic.suc, sav.sucubica),
+        nomsuc = isnull((select sucs.nomciaab from openrowset('SQLOLEDB','DRIVER={SQL Server};SERVER=10.20.129.30;UID=admcorp;PWD=lv_ftww@xhwus',admcorp04.dbo.cias) sucs 
+                  where sucs.cia = (select top 1 cia from oa_config) and sucs.suc = isnull(fic.suc,sav.sucubica)),''),
+        ccosto = isnull(fic.ccosto,sav.sctacentro),
+        depto = sav.sctadepto,
+        nomccosto = (select ccostos.nombre from openrowset('SQLOLEDB','DRIVER={SQL Server};SERVER=10.20.129.30;UID=admcorp;PWD=lv_ftww@xhwus',admcorp04.dbo.oa_scuentas) ccostos 
+                     where ccostos.cuenta = 243 and ccostos.scuenta = isnull(fic.ccosto,sav.sctacentro)), 
+        toneladas = isnull(fic.toneladas, sav.toneladas), ejes = isnull(fic.ejes, sav.ejes), 
+        oper = isnull(fic.oper,''), nomoper   = isnull((select nomoper from operaciones where oper = fic.oper),''), 
+        estatusoper= isnull(fic.estatusoper,''), nomestoper = isnull((select nomestatus from estatusopers where estatusoper = fic.estatusoper),''), 
+        fecbaja = isnull(fic.fecbaja, ''), fechbaja = space(10), docbaja = isnull(fic.docbaja,''), motivo = isnull(fic.motivo,''), 
+        nommotivo = isnull((select nommotivo from motivos where motivo = fic.motivo),''), 
+     	  reemplazo = isnull(fic.reemvehic, ''), observaciones = isnull(fic.observaciones,''), 
+      	          inciso    = isnull(fic.incisopol, ''), iave = isnull(fic.iave, ''), orden = isnull(fic.orden, ''),  
+      	          adaptacion= isnull(fic.adaptacion,''), nomadaptacion = space(100), sav.estatus, 
+        nomestatus = (select estatus.nomestatus 
+                        from openrowset('SQLOLEDB','DRIVER={SQL Server};SERVER=10.20.129.30;UID=admcorp;PWD=lv_ftww@xhwus',admcorp04.dbo.oa_estatus) estatus 
+                       where estatus = sav.estatus), 
+        responsable = isnull(fic.resguardo,''),nomrespon = isnull((select nomrespons from responsables where responsable = fic.resguardo),''), 
+        ubicasav = isnull(fic.ubicasav,''), pos = 0, 
+        isnull(tt.cuenta,(select top 1 ctatipotractor from config)) as cttracto, isnull(tt.scuenta,0) as ttracto, isnull(tt.nombre,'') as nomttracto 
+from openrowset('SQLOLEDB','DRIVER={SQL Server};SERVER=10.20.129.30;UID=admcorp;PWD=lv_ftww@xhwus',admcorp04.dbo.oa_catalogo) sav 
+                left join ficvehic fic    on sav.cuenta = 423 and sav.clave = fic.vehic 
+                left join dbo.#ttracto tt on fic.ctatipotractor=tt.cuenta and fic.sctatipotractor=tt.scuenta 
+where sav.cuenta     = 423 
+            and((sav.ciaubica = 67
+            and sav.sucubica between 0 and 7) or(sav.ciaprop = 67
+            and sav.sucprop = 1)
+            or(sav.ctaclien = 10 and sav.sctaclien in (67,387))) order by vehic, sav.descrip</otros_datos>
+  </error>
+</errores>

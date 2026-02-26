@@ -1,0 +1,537 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnExecuteAsientos</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:47:12 a. m.</fecha>
+    <descripcion>Se han encontrado un total de 16 póliza(s) a procesar</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:47:12 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM/MID.2024125922</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:47:22 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:47:22 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:47:22 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:47:22 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM/MEX.2024091007</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:49:09 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:49:09 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:49:09 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:49:26 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM/MEX.2024092206</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:49:38 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:49:38 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:49:38 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:49:42 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM.FV4202407172478</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:49:50 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:49:50 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:49:50 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:50:29 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM/MEX.2024093683</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:50:32 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:50:32 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:50:32 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:50:44 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM.FV4202407202876</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:50:44 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:50:44 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:50:44 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:50:51 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM/MEX.2024093977</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:50:51 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:50:51 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:50:51 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:06 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM/MEX.2024096007</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:08 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:08 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:08 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:21 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM/ROO.2024032941</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:26 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:26 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM/ROO.2024032941" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5640194131|Factura creada.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:26 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:32 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM/ROO.2024032913</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:36 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:36 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM/ROO.2024032913" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5640194867|Factura creada.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:36 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:46 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM/ROO.2024032924</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:51 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:51 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM/ROO.2024032924" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5640191116|Factura creada.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:52 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:51:57 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM/ROO.2024032932</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:52:00 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:52:00 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM/ROO.2024032932" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5640195626|Factura creada.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>19/08/2024 09:52:00 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

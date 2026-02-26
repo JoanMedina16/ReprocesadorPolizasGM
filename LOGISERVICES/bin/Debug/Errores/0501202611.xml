@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>05/01/2026 11:55:16 a. m.</fecha>
+    <descripcion>Message: Se han producido uno o varios errores.. StackTrace:    en System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   en System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   en System.Threading.Tasks.Task`1.get_Result()
+   en D365API.GMTApi.Consume(LOGI_ConfiguracionD365_INFO oConfig, LOGI_Credencial_D365 oCreds, DateTime date) en C:\Repositorio\Logi\reprocesador\D365API\GMTApi.cs:línea 58
+   en D365API.LOGI_TMSConnection_D365.DescargaEjecutaMovimientosIngreso(String sFechaInicio, String sFechaFinal, Boolean bLeeTXT, Boolean bCreaArchivoJSON, Int32 ProFacturas, Int32 ProCancelacionFacturas, Int32 ProNotasCredito, Int32 ProMovimientosBancarios, Int32 ProPasivos) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 184. InnerException System.Net.ProtocolViolationException: No se puede enviar contenido textual con este tipo de verbo.
+   en System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   en System.Net.HttpWebRequest.BeginGetRequestStream(AsyncCallback callback, Object state)
+   en System.Net.Http.HttpClientHandler.StartGettingRequestStream(RequestState state)
+   en System.Net.Http.HttpClientHandler.PrepareAndStartContentUpload(RequestState state). Source: mscorlib. Data: System.Collections.ListDictionaryInternal. TargetSite: Void ThrowIfExceptional(Boolean)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+</errores>

@@ -1,0 +1,1419 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:30:39 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:30:39 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:30:39 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:33:31 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:33:31 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:33:31 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:51:43 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:51:43 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:51:43 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>select  GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,
+                                    GJAE.LEDGERACCOUNT,GJAE.TEXT,  MA.MAINACCOUNTID AS CUENTA,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO') AS SUCURSAL, ISNULL(FIL.DISPLAYVALUE, 'NINGUNO') AS FILIAL,
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO') AS CC, ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') AS DEPTO,
+                                    SUM(GJAE.ACCOUNTINGCURRENCYAMOUNT) AS SALDO,
+									--ISNULL(VEH.OFFSETTXT, 'NINGUNO') AS VEHICULO
+									from Warehouse.GENERALJOURNALACCOUNTENTRY GJAE WITH(nolock)
+                                    INNER JOIN Warehouse.GENERALJOURNALENTRY GJE ON GJE.RECID = GJAE.GENERALJOURNALENTRY  AND
+                                    GJE.PARTITION = '5637144576' INNER JOIN Warehouse.LEDGER L ON L.RECID = GJE.LEDGER AND
+                                    L.PARTITION = '5637144576' INNER JOIN Warehouse.DimensionAttributeValueCombination DAVC WITH(nolock) ON
+                                    DAVC.RECID = GJAE.LEDGERDIMENSION AND DAVC.PARTITION = '5637144576' INNER JOIN Warehouse.MAINACCOUNT
+                                    MA WITH(nolock) ON MA.RECID = DAVC.MAINACCOUNT AND MA.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView SUC WITH(nolock) ON SUC.VALUECOMBINATIONRECID = DAVC.RECID
+                                    AND SUC.DIMENSIONATTRIBUTE = '5637145326' AND SUC.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView FIL WITH(nolock) ON
+                                    FIL.VALUECOMBINATIONRECID = DAVC.RECID AND FIL.DIMENSIONATTRIBUTE = '5637145331' AND FIL.PARTITION = '5637144576'
+                                    LEFT JOIN Warehouse.DimensionAttributeLevelValueView CC WITH(nolock) ON
+                                    CC.VALUECOMBINATIONRECID = DAVC.RECID AND CC.DIMENSIONATTRIBUTE = '5637145329' AND
+                                    CC.PARTITION = '5637144576' LEFT JOIN Warehouse.DimensionAttributeLevelValueView DEP WITH(nolock) ON
+                                    DEP.VALUECOMBINATIONRECID = DAVC.RECID AND DEP.DIMENSIONATTRIBUTE = '5637145328' AND
+                                    DEP.PARTITION = '5637144576'  
+									--LEFT JOIN Warehouse.LEDGERJOURNALTRANS VEH WITH(nolock)
+									--ON (VEH.VOUCHER = GJE.SUBLEDGERVOUCHER
+									--and VEH.TXT = GJAE.TEXT)
+									WHERE L.NAME = 'LOG'  and year(gje.ACCOUNTINGDATE) = 2022  and month(GJE.ACCOUNTINGDATE) between  10 and  10 and(                                        
+                                        MA.MAINACCOUNTID  BETWEEN 'DHB001001' AND 'DHB001098')                      GROUP BY GJE.ACCOUNTINGDATE,VEH.JOURNALNUM,GJAE.LEDGERACCOUNT, GJAE.TEXT, MA.MAINACCOUNTID,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(FIL.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO'), 
+                                    ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') 
+									--ISNULL(VEH.OFFSETTXT, 'NINGUNO')
+                                    </modulo>
+    <fecha>27/02/2023 11:52:08 a. m.</fecha>
+    <descripcion>Message: Incorrect syntax near the keyword 'from'.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   en AD.LOGI_ConexionSql_AD.FillDataSet(String sQuerySql, Hashtable objHash, Int32 iTimeOut) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 73
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.Listacuentasdiario(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 137
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 38. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>select  GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,
+                                    GJAE.LEDGERACCOUNT,GJAE.TEXT,  MA.MAINACCOUNTID AS CUENTA,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO') AS SUCURSAL, ISNULL(FIL.DISPLAYVALUE, 'NINGUNO') AS FILIAL,
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO') AS CC, ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') AS DEPTO,
+                                    SUM(GJAE.ACCOUNTINGCURRENCYAMOUNT) AS SALDO,
+									--ISNULL(VEH.OFFSETTXT, 'NINGUNO') AS VEHICULO
+									from Warehouse.GENERALJOURNALACCOUNTENTRY GJAE WITH(nolock)
+                                    INNER JOIN Warehouse.GENERALJOURNALENTRY GJE ON GJE.RECID = GJAE.GENERALJOURNALENTRY  AND
+                                    GJE.PARTITION = '5637144576' INNER JOIN Warehouse.LEDGER L ON L.RECID = GJE.LEDGER AND
+                                    L.PARTITION = '5637144576' INNER JOIN Warehouse.DimensionAttributeValueCombination DAVC WITH(nolock) ON
+                                    DAVC.RECID = GJAE.LEDGERDIMENSION AND DAVC.PARTITION = '5637144576' INNER JOIN Warehouse.MAINACCOUNT
+                                    MA WITH(nolock) ON MA.RECID = DAVC.MAINACCOUNT AND MA.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView SUC WITH(nolock) ON SUC.VALUECOMBINATIONRECID = DAVC.RECID
+                                    AND SUC.DIMENSIONATTRIBUTE = '5637145326' AND SUC.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView FIL WITH(nolock) ON
+                                    FIL.VALUECOMBINATIONRECID = DAVC.RECID AND FIL.DIMENSIONATTRIBUTE = '5637145331' AND FIL.PARTITION = '5637144576'
+                                    LEFT JOIN Warehouse.DimensionAttributeLevelValueView CC WITH(nolock) ON
+                                    CC.VALUECOMBINATIONRECID = DAVC.RECID AND CC.DIMENSIONATTRIBUTE = '5637145329' AND
+                                    CC.PARTITION = '5637144576' LEFT JOIN Warehouse.DimensionAttributeLevelValueView DEP WITH(nolock) ON
+                                    DEP.VALUECOMBINATIONRECID = DAVC.RECID AND DEP.DIMENSIONATTRIBUTE = '5637145328' AND
+                                    DEP.PARTITION = '5637144576'  
+									--LEFT JOIN Warehouse.LEDGERJOURNALTRANS VEH WITH(nolock)
+									--ON (VEH.VOUCHER = GJE.SUBLEDGERVOUCHER
+									--and VEH.TXT = GJAE.TEXT)
+									WHERE L.NAME = 'LOG'  and year(gje.ACCOUNTINGDATE) = 2022  and month(GJE.ACCOUNTINGDATE) between  10 and  10 and(                                        
+                                        MA.MAINACCOUNTID  BETWEEN 'DHA001001' AND 'DHA001002')                      GROUP BY GJE.ACCOUNTINGDATE,VEH.JOURNALNUM,GJAE.LEDGERACCOUNT, GJAE.TEXT, MA.MAINACCOUNTID,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(FIL.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO'), 
+                                    ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') 
+									--ISNULL(VEH.OFFSETTXT, 'NINGUNO')
+                                    </modulo>
+    <fecha>27/02/2023 11:52:08 a. m.</fecha>
+    <descripcion>Message: Incorrect syntax near the keyword 'from'.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   en AD.LOGI_ConexionSql_AD.FillDataSet(String sQuerySql, Hashtable objHash, Int32 iTimeOut) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 73
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.Listacuentasdiario(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 137
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 38. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>select  GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,
+                                    GJAE.LEDGERACCOUNT,GJAE.TEXT,  MA.MAINACCOUNTID AS CUENTA,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO') AS SUCURSAL, ISNULL(FIL.DISPLAYVALUE, 'NINGUNO') AS FILIAL,
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO') AS CC, ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') AS DEPTO,
+                                    SUM(GJAE.ACCOUNTINGCURRENCYAMOUNT) AS SALDO,
+									--ISNULL(VEH.OFFSETTXT, 'NINGUNO') AS VEHICULO
+									from Warehouse.GENERALJOURNALACCOUNTENTRY GJAE WITH(nolock)
+                                    INNER JOIN Warehouse.GENERALJOURNALENTRY GJE ON GJE.RECID = GJAE.GENERALJOURNALENTRY  AND
+                                    GJE.PARTITION = '5637144576' INNER JOIN Warehouse.LEDGER L ON L.RECID = GJE.LEDGER AND
+                                    L.PARTITION = '5637144576' INNER JOIN Warehouse.DimensionAttributeValueCombination DAVC WITH(nolock) ON
+                                    DAVC.RECID = GJAE.LEDGERDIMENSION AND DAVC.PARTITION = '5637144576' INNER JOIN Warehouse.MAINACCOUNT
+                                    MA WITH(nolock) ON MA.RECID = DAVC.MAINACCOUNT AND MA.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView SUC WITH(nolock) ON SUC.VALUECOMBINATIONRECID = DAVC.RECID
+                                    AND SUC.DIMENSIONATTRIBUTE = '5637145326' AND SUC.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView FIL WITH(nolock) ON
+                                    FIL.VALUECOMBINATIONRECID = DAVC.RECID AND FIL.DIMENSIONATTRIBUTE = '5637145331' AND FIL.PARTITION = '5637144576'
+                                    LEFT JOIN Warehouse.DimensionAttributeLevelValueView CC WITH(nolock) ON
+                                    CC.VALUECOMBINATIONRECID = DAVC.RECID AND CC.DIMENSIONATTRIBUTE = '5637145329' AND
+                                    CC.PARTITION = '5637144576' LEFT JOIN Warehouse.DimensionAttributeLevelValueView DEP WITH(nolock) ON
+                                    DEP.VALUECOMBINATIONRECID = DAVC.RECID AND DEP.DIMENSIONATTRIBUTE = '5637145328' AND
+                                    DEP.PARTITION = '5637144576'  
+									--LEFT JOIN Warehouse.LEDGERJOURNALTRANS VEH WITH(nolock)
+									--ON (VEH.VOUCHER = GJE.SUBLEDGERVOUCHER
+									--and VEH.TXT = GJAE.TEXT)
+									WHERE L.NAME = 'LOG'  and year(gje.ACCOUNTINGDATE) = 2022  and month(GJE.ACCOUNTINGDATE) between  10 and  10 and(                                        
+                                        MA.MAINACCOUNTID  BETWEEN 'DHA001001' AND 'DHA001002')                      GROUP BY GJE.ACCOUNTINGDATE,VEH.JOURNALNUM,GJAE.LEDGERACCOUNT, GJAE.TEXT, MA.MAINACCOUNTID,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(FIL.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO'), 
+                                    ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') 
+									--ISNULL(VEH.OFFSETTXT, 'NINGUNO')
+                                    </modulo>
+    <fecha>27/02/2023 11:52:09 a. m.</fecha>
+    <descripcion>Message: Incorrect syntax near the keyword 'from'.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.
+Incorrect syntax near the keyword 'with'. If this statement is a common table expression, an xmlnamespaces clause or a change tracking context clause, the previous statement must be terminated with a semicolon.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   en AD.LOGI_ConexionSql_AD.FillDataSet(String sQuerySql, Hashtable objHash, Int32 iTimeOut) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 73
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.Listacuentasdiario(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 137
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 38. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>select  GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,
+                                    GJAE.LEDGERACCOUNT,GJAE.TEXT,  MA.MAINACCOUNTID AS CUENTA,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO') AS SUCURSAL, ISNULL(FIL.DISPLAYVALUE, 'NINGUNO') AS FILIAL,
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO') AS CC, ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') AS DEPTO,
+                                    SUM(GJAE.ACCOUNTINGCURRENCYAMOUNT) AS SALDO
+									--,ISNULL(VEH.OFFSETTXT, 'NINGUNO') AS VEHICULO
+									from Warehouse.GENERALJOURNALACCOUNTENTRY GJAE WITH(nolock)
+                                    INNER JOIN Warehouse.GENERALJOURNALENTRY GJE ON GJE.RECID = GJAE.GENERALJOURNALENTRY  AND
+                                    GJE.PARTITION = '5637144576' INNER JOIN Warehouse.LEDGER L ON L.RECID = GJE.LEDGER AND
+                                    L.PARTITION = '5637144576' INNER JOIN Warehouse.DimensionAttributeValueCombination DAVC WITH(nolock) ON
+                                    DAVC.RECID = GJAE.LEDGERDIMENSION AND DAVC.PARTITION = '5637144576' INNER JOIN Warehouse.MAINACCOUNT
+                                    MA WITH(nolock) ON MA.RECID = DAVC.MAINACCOUNT AND MA.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView SUC WITH(nolock) ON SUC.VALUECOMBINATIONRECID = DAVC.RECID
+                                    AND SUC.DIMENSIONATTRIBUTE = '5637145326' AND SUC.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView FIL WITH(nolock) ON
+                                    FIL.VALUECOMBINATIONRECID = DAVC.RECID AND FIL.DIMENSIONATTRIBUTE = '5637145331' AND FIL.PARTITION = '5637144576'
+                                    LEFT JOIN Warehouse.DimensionAttributeLevelValueView CC WITH(nolock) ON
+                                    CC.VALUECOMBINATIONRECID = DAVC.RECID AND CC.DIMENSIONATTRIBUTE = '5637145329' AND
+                                    CC.PARTITION = '5637144576' LEFT JOIN Warehouse.DimensionAttributeLevelValueView DEP WITH(nolock) ON
+                                    DEP.VALUECOMBINATIONRECID = DAVC.RECID AND DEP.DIMENSIONATTRIBUTE = '5637145328' AND
+                                    DEP.PARTITION = '5637144576'  
+									--LEFT JOIN Warehouse.LEDGERJOURNALTRANS VEH WITH(nolock)
+									--ON (VEH.VOUCHER = GJE.SUBLEDGERVOUCHER
+									--and VEH.TXT = GJAE.TEXT)
+									WHERE L.NAME = 'LOG'  and year(gje.ACCOUNTINGDATE) = 2022  and month(GJE.ACCOUNTINGDATE) between  10 and  10 and(                                        
+                                        MA.MAINACCOUNTID  BETWEEN 'DHB001001' AND 'DHB001098')                      GROUP BY GJE.ACCOUNTINGDATE,VEH.JOURNALNUM,GJAE.LEDGERACCOUNT, GJAE.TEXT, MA.MAINACCOUNTID,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(FIL.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO'), 
+                                    ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') 
+									--ISNULL(VEH.OFFSETTXT, 'NINGUNO')
+                                    </modulo>
+    <fecha>27/02/2023 11:54:41 a. m.</fecha>
+    <descripcion>Message: The multi-part identifier "VEH.JOURNALNUM" could not be bound.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   en AD.LOGI_ConexionSql_AD.FillDataSet(String sQuerySql, Hashtable objHash, Int32 iTimeOut) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 73
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.Listacuentasdiario(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 137
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 38. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>select  GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,
+                                    GJAE.LEDGERACCOUNT,GJAE.TEXT,  MA.MAINACCOUNTID AS CUENTA,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO') AS SUCURSAL, ISNULL(FIL.DISPLAYVALUE, 'NINGUNO') AS FILIAL,
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO') AS CC, ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') AS DEPTO,
+                                    SUM(GJAE.ACCOUNTINGCURRENCYAMOUNT) AS SALDO
+									--,ISNULL(VEH.OFFSETTXT, 'NINGUNO') AS VEHICULO
+									from Warehouse.GENERALJOURNALACCOUNTENTRY GJAE WITH(nolock)
+                                    INNER JOIN Warehouse.GENERALJOURNALENTRY GJE ON GJE.RECID = GJAE.GENERALJOURNALENTRY  AND
+                                    GJE.PARTITION = '5637144576' INNER JOIN Warehouse.LEDGER L ON L.RECID = GJE.LEDGER AND
+                                    L.PARTITION = '5637144576' INNER JOIN Warehouse.DimensionAttributeValueCombination DAVC WITH(nolock) ON
+                                    DAVC.RECID = GJAE.LEDGERDIMENSION AND DAVC.PARTITION = '5637144576' INNER JOIN Warehouse.MAINACCOUNT
+                                    MA WITH(nolock) ON MA.RECID = DAVC.MAINACCOUNT AND MA.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView SUC WITH(nolock) ON SUC.VALUECOMBINATIONRECID = DAVC.RECID
+                                    AND SUC.DIMENSIONATTRIBUTE = '5637145326' AND SUC.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView FIL WITH(nolock) ON
+                                    FIL.VALUECOMBINATIONRECID = DAVC.RECID AND FIL.DIMENSIONATTRIBUTE = '5637145331' AND FIL.PARTITION = '5637144576'
+                                    LEFT JOIN Warehouse.DimensionAttributeLevelValueView CC WITH(nolock) ON
+                                    CC.VALUECOMBINATIONRECID = DAVC.RECID AND CC.DIMENSIONATTRIBUTE = '5637145329' AND
+                                    CC.PARTITION = '5637144576' LEFT JOIN Warehouse.DimensionAttributeLevelValueView DEP WITH(nolock) ON
+                                    DEP.VALUECOMBINATIONRECID = DAVC.RECID AND DEP.DIMENSIONATTRIBUTE = '5637145328' AND
+                                    DEP.PARTITION = '5637144576'  
+									--LEFT JOIN Warehouse.LEDGERJOURNALTRANS VEH WITH(nolock)
+									--ON (VEH.VOUCHER = GJE.SUBLEDGERVOUCHER
+									--and VEH.TXT = GJAE.TEXT)
+									WHERE L.NAME = 'LOG'  and year(gje.ACCOUNTINGDATE) = 2022  and month(GJE.ACCOUNTINGDATE) between  10 and  10 and(                                        
+                                        MA.MAINACCOUNTID  BETWEEN 'DHA001001' AND 'DHA001002')                      GROUP BY GJE.ACCOUNTINGDATE,VEH.JOURNALNUM,GJAE.LEDGERACCOUNT, GJAE.TEXT, MA.MAINACCOUNTID,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(FIL.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO'), 
+                                    ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') 
+									--ISNULL(VEH.OFFSETTXT, 'NINGUNO')
+                                    </modulo>
+    <fecha>27/02/2023 11:54:41 a. m.</fecha>
+    <descripcion>Message: The multi-part identifier "VEH.JOURNALNUM" could not be bound.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   en AD.LOGI_ConexionSql_AD.FillDataSet(String sQuerySql, Hashtable objHash, Int32 iTimeOut) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 73
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.Listacuentasdiario(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 137
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 38. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>select  GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,
+                                    GJAE.LEDGERACCOUNT,GJAE.TEXT,  MA.MAINACCOUNTID AS CUENTA,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO') AS SUCURSAL, ISNULL(FIL.DISPLAYVALUE, 'NINGUNO') AS FILIAL,
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO') AS CC, ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') AS DEPTO,
+                                    SUM(GJAE.ACCOUNTINGCURRENCYAMOUNT) AS SALDO
+									--,ISNULL(VEH.OFFSETTXT, 'NINGUNO') AS VEHICULO
+									from Warehouse.GENERALJOURNALACCOUNTENTRY GJAE WITH(nolock)
+                                    INNER JOIN Warehouse.GENERALJOURNALENTRY GJE ON GJE.RECID = GJAE.GENERALJOURNALENTRY  AND
+                                    GJE.PARTITION = '5637144576' INNER JOIN Warehouse.LEDGER L ON L.RECID = GJE.LEDGER AND
+                                    L.PARTITION = '5637144576' INNER JOIN Warehouse.DimensionAttributeValueCombination DAVC WITH(nolock) ON
+                                    DAVC.RECID = GJAE.LEDGERDIMENSION AND DAVC.PARTITION = '5637144576' INNER JOIN Warehouse.MAINACCOUNT
+                                    MA WITH(nolock) ON MA.RECID = DAVC.MAINACCOUNT AND MA.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView SUC WITH(nolock) ON SUC.VALUECOMBINATIONRECID = DAVC.RECID
+                                    AND SUC.DIMENSIONATTRIBUTE = '5637145326' AND SUC.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView FIL WITH(nolock) ON
+                                    FIL.VALUECOMBINATIONRECID = DAVC.RECID AND FIL.DIMENSIONATTRIBUTE = '5637145331' AND FIL.PARTITION = '5637144576'
+                                    LEFT JOIN Warehouse.DimensionAttributeLevelValueView CC WITH(nolock) ON
+                                    CC.VALUECOMBINATIONRECID = DAVC.RECID AND CC.DIMENSIONATTRIBUTE = '5637145329' AND
+                                    CC.PARTITION = '5637144576' LEFT JOIN Warehouse.DimensionAttributeLevelValueView DEP WITH(nolock) ON
+                                    DEP.VALUECOMBINATIONRECID = DAVC.RECID AND DEP.DIMENSIONATTRIBUTE = '5637145328' AND
+                                    DEP.PARTITION = '5637144576'  
+									--LEFT JOIN Warehouse.LEDGERJOURNALTRANS VEH WITH(nolock)
+									--ON (VEH.VOUCHER = GJE.SUBLEDGERVOUCHER
+									--and VEH.TXT = GJAE.TEXT)
+									WHERE L.NAME = 'LOG'  and year(gje.ACCOUNTINGDATE) = 2022  and month(GJE.ACCOUNTINGDATE) between  10 and  10 and(                                        
+                                        MA.MAINACCOUNTID  BETWEEN 'DHA001001' AND 'DHA001002')                      GROUP BY GJE.ACCOUNTINGDATE,VEH.JOURNALNUM,GJAE.LEDGERACCOUNT, GJAE.TEXT, MA.MAINACCOUNTID,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(FIL.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO'), 
+                                    ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') 
+									--ISNULL(VEH.OFFSETTXT, 'NINGUNO')
+                                    </modulo>
+    <fecha>27/02/2023 11:54:41 a. m.</fecha>
+    <descripcion>Message: The multi-part identifier "VEH.JOURNALNUM" could not be bound.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   en AD.LOGI_ConexionSql_AD.FillDataSet(String sQuerySql, Hashtable objHash, Int32 iTimeOut) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 73
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.Listacuentasdiario(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 137
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 38. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>select  GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,
+                                    GJAE.LEDGERACCOUNT,GJAE.TEXT,  MA.MAINACCOUNTID AS CUENTA,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO') AS SUCURSAL, ISNULL(FIL.DISPLAYVALUE, 'NINGUNO') AS FILIAL,
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO') AS CC, ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') AS DEPTO,
+                                    SUM(GJAE.ACCOUNTINGCURRENCYAMOUNT) AS SALDO
+									--,ISNULL(VEH.OFFSETTXT, 'NINGUNO') AS VEHICULO
+									from Warehouse.GENERALJOURNALACCOUNTENTRY GJAE WITH(nolock)
+                                    INNER JOIN Warehouse.GENERALJOURNALENTRY GJE ON GJE.RECID = GJAE.GENERALJOURNALENTRY  AND
+                                    GJE.PARTITION = '5637144576' INNER JOIN Warehouse.LEDGER L ON L.RECID = GJE.LEDGER AND
+                                    L.PARTITION = '5637144576' INNER JOIN Warehouse.DimensionAttributeValueCombination DAVC WITH(nolock) ON
+                                    DAVC.RECID = GJAE.LEDGERDIMENSION AND DAVC.PARTITION = '5637144576' INNER JOIN Warehouse.MAINACCOUNT
+                                    MA WITH(nolock) ON MA.RECID = DAVC.MAINACCOUNT AND MA.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView SUC WITH(nolock) ON SUC.VALUECOMBINATIONRECID = DAVC.RECID
+                                    AND SUC.DIMENSIONATTRIBUTE = '5637145326' AND SUC.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView FIL WITH(nolock) ON
+                                    FIL.VALUECOMBINATIONRECID = DAVC.RECID AND FIL.DIMENSIONATTRIBUTE = '5637145331' AND FIL.PARTITION = '5637144576'
+                                    LEFT JOIN Warehouse.DimensionAttributeLevelValueView CC WITH(nolock) ON
+                                    CC.VALUECOMBINATIONRECID = DAVC.RECID AND CC.DIMENSIONATTRIBUTE = '5637145329' AND
+                                    CC.PARTITION = '5637144576' LEFT JOIN Warehouse.DimensionAttributeLevelValueView DEP WITH(nolock) ON
+                                    DEP.VALUECOMBINATIONRECID = DAVC.RECID AND DEP.DIMENSIONATTRIBUTE = '5637145328' AND
+                                    DEP.PARTITION = '5637144576'  
+									--LEFT JOIN Warehouse.LEDGERJOURNALTRANS VEH WITH(nolock)
+									--ON (VEH.VOUCHER = GJE.SUBLEDGERVOUCHER
+									--and VEH.TXT = GJAE.TEXT)
+									WHERE L.NAME = 'LOG'  and year(gje.ACCOUNTINGDATE) = 2022  and month(GJE.ACCOUNTINGDATE) between  10 and  10 and(                                        
+                                        MA.MAINACCOUNTID  BETWEEN 'DHB001001' AND 'DHB001098')                      GROUP BY GJE.ACCOUNTINGDATE,VEH.JOURNALNUM,GJAE.LEDGERACCOUNT, GJAE.TEXT, MA.MAINACCOUNTID,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(FIL.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO'), 
+                                    ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') 
+									--ISNULL(VEH.OFFSETTXT, 'NINGUNO')
+                                    </modulo>
+    <fecha>27/02/2023 11:54:46 a. m.</fecha>
+    <descripcion>Message: The multi-part identifier "VEH.JOURNALNUM" could not be bound.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   en AD.LOGI_ConexionSql_AD.FillDataSet(String sQuerySql, Hashtable objHash, Int32 iTimeOut) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 73
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.Listacuentasdiario(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 137
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 38. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>select  GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,
+                                    GJAE.LEDGERACCOUNT,GJAE.TEXT,  MA.MAINACCOUNTID AS CUENTA,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO') AS SUCURSAL, ISNULL(FIL.DISPLAYVALUE, 'NINGUNO') AS FILIAL,
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO') AS CC, ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') AS DEPTO,
+                                    SUM(GJAE.ACCOUNTINGCURRENCYAMOUNT) AS SALDO
+									--,ISNULL(VEH.OFFSETTXT, 'NINGUNO') AS VEHICULO
+									from Warehouse.GENERALJOURNALACCOUNTENTRY GJAE WITH(nolock)
+                                    INNER JOIN Warehouse.GENERALJOURNALENTRY GJE ON GJE.RECID = GJAE.GENERALJOURNALENTRY  AND
+                                    GJE.PARTITION = '5637144576' INNER JOIN Warehouse.LEDGER L ON L.RECID = GJE.LEDGER AND
+                                    L.PARTITION = '5637144576' INNER JOIN Warehouse.DimensionAttributeValueCombination DAVC WITH(nolock) ON
+                                    DAVC.RECID = GJAE.LEDGERDIMENSION AND DAVC.PARTITION = '5637144576' INNER JOIN Warehouse.MAINACCOUNT
+                                    MA WITH(nolock) ON MA.RECID = DAVC.MAINACCOUNT AND MA.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView SUC WITH(nolock) ON SUC.VALUECOMBINATIONRECID = DAVC.RECID
+                                    AND SUC.DIMENSIONATTRIBUTE = '5637145326' AND SUC.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView FIL WITH(nolock) ON
+                                    FIL.VALUECOMBINATIONRECID = DAVC.RECID AND FIL.DIMENSIONATTRIBUTE = '5637145331' AND FIL.PARTITION = '5637144576'
+                                    LEFT JOIN Warehouse.DimensionAttributeLevelValueView CC WITH(nolock) ON
+                                    CC.VALUECOMBINATIONRECID = DAVC.RECID AND CC.DIMENSIONATTRIBUTE = '5637145329' AND
+                                    CC.PARTITION = '5637144576' LEFT JOIN Warehouse.DimensionAttributeLevelValueView DEP WITH(nolock) ON
+                                    DEP.VALUECOMBINATIONRECID = DAVC.RECID AND DEP.DIMENSIONATTRIBUTE = '5637145328' AND
+                                    DEP.PARTITION = '5637144576'  
+									--LEFT JOIN Warehouse.LEDGERJOURNALTRANS VEH WITH(nolock)
+									--ON (VEH.VOUCHER = GJE.SUBLEDGERVOUCHER
+									--and VEH.TXT = GJAE.TEXT)
+									WHERE L.NAME = 'LOG'  and year(gje.ACCOUNTINGDATE) = 2022  and month(GJE.ACCOUNTINGDATE) between  10 and  10 and(                                        
+                                        MA.MAINACCOUNTID  BETWEEN 'DHA001001' AND 'DHA001002')                      GROUP BY GJE.ACCOUNTINGDATE,VEH.JOURNALNUM,GJAE.LEDGERACCOUNT, GJAE.TEXT, MA.MAINACCOUNTID,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(FIL.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO'), 
+                                    ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') 
+									--ISNULL(VEH.OFFSETTXT, 'NINGUNO')
+                                    </modulo>
+    <fecha>27/02/2023 11:54:46 a. m.</fecha>
+    <descripcion>Message: The multi-part identifier "VEH.JOURNALNUM" could not be bound.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   en AD.LOGI_ConexionSql_AD.FillDataSet(String sQuerySql, Hashtable objHash, Int32 iTimeOut) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 73
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.Listacuentasdiario(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 137
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 38. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>select  GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,
+                                    GJAE.LEDGERACCOUNT,GJAE.TEXT,  MA.MAINACCOUNTID AS CUENTA,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO') AS SUCURSAL, ISNULL(FIL.DISPLAYVALUE, 'NINGUNO') AS FILIAL,
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO') AS CC, ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') AS DEPTO,
+                                    SUM(GJAE.ACCOUNTINGCURRENCYAMOUNT) AS SALDO
+									--,ISNULL(VEH.OFFSETTXT, 'NINGUNO') AS VEHICULO
+									from Warehouse.GENERALJOURNALACCOUNTENTRY GJAE WITH(nolock)
+                                    INNER JOIN Warehouse.GENERALJOURNALENTRY GJE ON GJE.RECID = GJAE.GENERALJOURNALENTRY  AND
+                                    GJE.PARTITION = '5637144576' INNER JOIN Warehouse.LEDGER L ON L.RECID = GJE.LEDGER AND
+                                    L.PARTITION = '5637144576' INNER JOIN Warehouse.DimensionAttributeValueCombination DAVC WITH(nolock) ON
+                                    DAVC.RECID = GJAE.LEDGERDIMENSION AND DAVC.PARTITION = '5637144576' INNER JOIN Warehouse.MAINACCOUNT
+                                    MA WITH(nolock) ON MA.RECID = DAVC.MAINACCOUNT AND MA.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView SUC WITH(nolock) ON SUC.VALUECOMBINATIONRECID = DAVC.RECID
+                                    AND SUC.DIMENSIONATTRIBUTE = '5637145326' AND SUC.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView FIL WITH(nolock) ON
+                                    FIL.VALUECOMBINATIONRECID = DAVC.RECID AND FIL.DIMENSIONATTRIBUTE = '5637145331' AND FIL.PARTITION = '5637144576'
+                                    LEFT JOIN Warehouse.DimensionAttributeLevelValueView CC WITH(nolock) ON
+                                    CC.VALUECOMBINATIONRECID = DAVC.RECID AND CC.DIMENSIONATTRIBUTE = '5637145329' AND
+                                    CC.PARTITION = '5637144576' LEFT JOIN Warehouse.DimensionAttributeLevelValueView DEP WITH(nolock) ON
+                                    DEP.VALUECOMBINATIONRECID = DAVC.RECID AND DEP.DIMENSIONATTRIBUTE = '5637145328' AND
+                                    DEP.PARTITION = '5637144576'  
+									--LEFT JOIN Warehouse.LEDGERJOURNALTRANS VEH WITH(nolock)
+									--ON (VEH.VOUCHER = GJE.SUBLEDGERVOUCHER
+									--and VEH.TXT = GJAE.TEXT)
+									WHERE L.NAME = 'LOG'  and year(gje.ACCOUNTINGDATE) = 2022  and month(GJE.ACCOUNTINGDATE) between  10 and  10 and(                                        
+                                        MA.MAINACCOUNTID  BETWEEN 'DHA001001' AND 'DHA001002')                      GROUP BY GJE.ACCOUNTINGDATE,VEH.JOURNALNUM,GJAE.LEDGERACCOUNT, GJAE.TEXT, MA.MAINACCOUNTID,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(FIL.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO'), 
+                                    ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') 
+									--ISNULL(VEH.OFFSETTXT, 'NINGUNO')
+                                    </modulo>
+    <fecha>27/02/2023 11:54:46 a. m.</fecha>
+    <descripcion>Message: The multi-part identifier "VEH.JOURNALNUM" could not be bound.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   en AD.LOGI_ConexionSql_AD.FillDataSet(String sQuerySql, Hashtable objHash, Int32 iTimeOut) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 73
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.Listacuentasdiario(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 137
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 38. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:56:48 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:56:48 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:56:48 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:56:52 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:56:52 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:56:52 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:56:56 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:56:56 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:56:56 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:57:04 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:57:04 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:57:04 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:57:10 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:57:10 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:57:10 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>select  GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,
+                                    GJAE.LEDGERACCOUNT,GJAE.TEXT,  MA.MAINACCOUNTID AS CUENTA,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO') AS SUCURSAL, ISNULL(FIL.DISPLAYVALUE, 'NINGUNO') AS FILIAL,
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO') AS CC, ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') AS DEPTO,
+                                    SUM(GJAE.ACCOUNTINGCURRENCYAMOUNT) AS SALDO
+									--,ISNULL(VEH.OFFSETTXT, 'NINGUNO') AS VEHICULO
+									from Warehouse.GENERALJOURNALACCOUNTENTRY GJAE WITH(nolock)
+                                    INNER JOIN Warehouse.GENERALJOURNALENTRY GJE ON GJE.RECID = GJAE.GENERALJOURNALENTRY  AND
+                                    GJE.PARTITION = '5637144576' INNER JOIN Warehouse.LEDGER L ON L.RECID = GJE.LEDGER AND
+                                    L.PARTITION = '5637144576' INNER JOIN Warehouse.DimensionAttributeValueCombination DAVC WITH(nolock) ON
+                                    DAVC.RECID = GJAE.LEDGERDIMENSION AND DAVC.PARTITION = '5637144576' INNER JOIN Warehouse.MAINACCOUNT
+                                    MA WITH(nolock) ON MA.RECID = DAVC.MAINACCOUNT AND MA.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView SUC WITH(nolock) ON SUC.VALUECOMBINATIONRECID = DAVC.RECID
+                                    AND SUC.DIMENSIONATTRIBUTE = '5637145326' AND SUC.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView FIL WITH(nolock) ON
+                                    FIL.VALUECOMBINATIONRECID = DAVC.RECID AND FIL.DIMENSIONATTRIBUTE = '5637145331' AND FIL.PARTITION = '5637144576'
+                                    LEFT JOIN Warehouse.DimensionAttributeLevelValueView CC WITH(nolock) ON
+                                    CC.VALUECOMBINATIONRECID = DAVC.RECID AND CC.DIMENSIONATTRIBUTE = '5637145329' AND
+                                    CC.PARTITION = '5637144576' LEFT JOIN Warehouse.DimensionAttributeLevelValueView DEP WITH(nolock) ON
+                                    DEP.VALUECOMBINATIONRECID = DAVC.RECID AND DEP.DIMENSIONATTRIBUTE = '5637145328' AND
+                                    DEP.PARTITION = '5637144576'  
+									--LEFT JOIN Warehouse.LEDGERJOURNALTRANS VEH WITH(nolock)
+									--ON (VEH.VOUCHER = GJE.SUBLEDGERVOUCHER
+									--and VEH.TXT = GJAE.TEXT)
+									WHERE L.NAME = 'LOG'  and year(gje.ACCOUNTINGDATE) = 2022  and month(GJE.ACCOUNTINGDATE) between  10 and  10 and(                                        
+                                        MA.MAINACCOUNTID  BETWEEN 'DHB001001' AND 'DHB001098')                      GROUP BY GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,GJAE.LEDGERACCOUNT
+                                    , GJAE.TEXT, MA.MAINACCOUNTID,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(FIL.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO'), 
+                                    ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') 
+									--ISNULL(VEH.OFFSETTXT, 'NINGUNO')
+                                    </modulo>
+    <fecha>27/02/2023 11:57:33 a. m.</fecha>
+    <descripcion>Message: Incorrect syntax near ','.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   en AD.LOGI_ConexionSql_AD.FillDataSet(String sQuerySql, Hashtable objHash, Int32 iTimeOut) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 73
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.Listacuentasdiario(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 138
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 38. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>select  GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,
+                                    GJAE.LEDGERACCOUNT,GJAE.TEXT,  MA.MAINACCOUNTID AS CUENTA,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO') AS SUCURSAL, ISNULL(FIL.DISPLAYVALUE, 'NINGUNO') AS FILIAL,
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO') AS CC, ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') AS DEPTO,
+                                    SUM(GJAE.ACCOUNTINGCURRENCYAMOUNT) AS SALDO
+									--,ISNULL(VEH.OFFSETTXT, 'NINGUNO') AS VEHICULO
+									from Warehouse.GENERALJOURNALACCOUNTENTRY GJAE WITH(nolock)
+                                    INNER JOIN Warehouse.GENERALJOURNALENTRY GJE ON GJE.RECID = GJAE.GENERALJOURNALENTRY  AND
+                                    GJE.PARTITION = '5637144576' INNER JOIN Warehouse.LEDGER L ON L.RECID = GJE.LEDGER AND
+                                    L.PARTITION = '5637144576' INNER JOIN Warehouse.DimensionAttributeValueCombination DAVC WITH(nolock) ON
+                                    DAVC.RECID = GJAE.LEDGERDIMENSION AND DAVC.PARTITION = '5637144576' INNER JOIN Warehouse.MAINACCOUNT
+                                    MA WITH(nolock) ON MA.RECID = DAVC.MAINACCOUNT AND MA.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView SUC WITH(nolock) ON SUC.VALUECOMBINATIONRECID = DAVC.RECID
+                                    AND SUC.DIMENSIONATTRIBUTE = '5637145326' AND SUC.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView FIL WITH(nolock) ON
+                                    FIL.VALUECOMBINATIONRECID = DAVC.RECID AND FIL.DIMENSIONATTRIBUTE = '5637145331' AND FIL.PARTITION = '5637144576'
+                                    LEFT JOIN Warehouse.DimensionAttributeLevelValueView CC WITH(nolock) ON
+                                    CC.VALUECOMBINATIONRECID = DAVC.RECID AND CC.DIMENSIONATTRIBUTE = '5637145329' AND
+                                    CC.PARTITION = '5637144576' LEFT JOIN Warehouse.DimensionAttributeLevelValueView DEP WITH(nolock) ON
+                                    DEP.VALUECOMBINATIONRECID = DAVC.RECID AND DEP.DIMENSIONATTRIBUTE = '5637145328' AND
+                                    DEP.PARTITION = '5637144576'  
+									--LEFT JOIN Warehouse.LEDGERJOURNALTRANS VEH WITH(nolock)
+									--ON (VEH.VOUCHER = GJE.SUBLEDGERVOUCHER
+									--and VEH.TXT = GJAE.TEXT)
+									WHERE L.NAME = 'LOG'  and year(gje.ACCOUNTINGDATE) = 2022  and month(GJE.ACCOUNTINGDATE) between  10 and  10 and(                                        
+                                        MA.MAINACCOUNTID  BETWEEN 'DHA001001' AND 'DHA001002')                      GROUP BY GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,GJAE.LEDGERACCOUNT
+                                    , GJAE.TEXT, MA.MAINACCOUNTID,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(FIL.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO'), 
+                                    ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') 
+									--ISNULL(VEH.OFFSETTXT, 'NINGUNO')
+                                    </modulo>
+    <fecha>27/02/2023 11:57:34 a. m.</fecha>
+    <descripcion>Message: Incorrect syntax near ','.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   en AD.LOGI_ConexionSql_AD.FillDataSet(String sQuerySql, Hashtable objHash, Int32 iTimeOut) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 73
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.Listacuentasdiario(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 138
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 38. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>select  GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,
+                                    GJAE.LEDGERACCOUNT,GJAE.TEXT,  MA.MAINACCOUNTID AS CUENTA,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO') AS SUCURSAL, ISNULL(FIL.DISPLAYVALUE, 'NINGUNO') AS FILIAL,
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO') AS CC, ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') AS DEPTO,
+                                    SUM(GJAE.ACCOUNTINGCURRENCYAMOUNT) AS SALDO
+									--,ISNULL(VEH.OFFSETTXT, 'NINGUNO') AS VEHICULO
+									from Warehouse.GENERALJOURNALACCOUNTENTRY GJAE WITH(nolock)
+                                    INNER JOIN Warehouse.GENERALJOURNALENTRY GJE ON GJE.RECID = GJAE.GENERALJOURNALENTRY  AND
+                                    GJE.PARTITION = '5637144576' INNER JOIN Warehouse.LEDGER L ON L.RECID = GJE.LEDGER AND
+                                    L.PARTITION = '5637144576' INNER JOIN Warehouse.DimensionAttributeValueCombination DAVC WITH(nolock) ON
+                                    DAVC.RECID = GJAE.LEDGERDIMENSION AND DAVC.PARTITION = '5637144576' INNER JOIN Warehouse.MAINACCOUNT
+                                    MA WITH(nolock) ON MA.RECID = DAVC.MAINACCOUNT AND MA.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView SUC WITH(nolock) ON SUC.VALUECOMBINATIONRECID = DAVC.RECID
+                                    AND SUC.DIMENSIONATTRIBUTE = '5637145326' AND SUC.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView FIL WITH(nolock) ON
+                                    FIL.VALUECOMBINATIONRECID = DAVC.RECID AND FIL.DIMENSIONATTRIBUTE = '5637145331' AND FIL.PARTITION = '5637144576'
+                                    LEFT JOIN Warehouse.DimensionAttributeLevelValueView CC WITH(nolock) ON
+                                    CC.VALUECOMBINATIONRECID = DAVC.RECID AND CC.DIMENSIONATTRIBUTE = '5637145329' AND
+                                    CC.PARTITION = '5637144576' LEFT JOIN Warehouse.DimensionAttributeLevelValueView DEP WITH(nolock) ON
+                                    DEP.VALUECOMBINATIONRECID = DAVC.RECID AND DEP.DIMENSIONATTRIBUTE = '5637145328' AND
+                                    DEP.PARTITION = '5637144576'  
+									--LEFT JOIN Warehouse.LEDGERJOURNALTRANS VEH WITH(nolock)
+									--ON (VEH.VOUCHER = GJE.SUBLEDGERVOUCHER
+									--and VEH.TXT = GJAE.TEXT)
+									WHERE L.NAME = 'LOG'  and year(gje.ACCOUNTINGDATE) = 2022  and month(GJE.ACCOUNTINGDATE) between  10 and  10 and(                                        
+                                        MA.MAINACCOUNTID  BETWEEN 'DHA001001' AND 'DHA001002')                      GROUP BY GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,GJAE.LEDGERACCOUNT
+                                    , GJAE.TEXT, MA.MAINACCOUNTID,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(FIL.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO'), 
+                                    ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') 
+									--ISNULL(VEH.OFFSETTXT, 'NINGUNO')
+                                    </modulo>
+    <fecha>27/02/2023 11:57:35 a. m.</fecha>
+    <descripcion>Message: Incorrect syntax near ','.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   en AD.LOGI_ConexionSql_AD.FillDataSet(String sQuerySql, Hashtable objHash, Int32 iTimeOut) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 73
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.Listacuentasdiario(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 138
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 38. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:58:34 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:58:34 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:58:34 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:58:38 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:58:38 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:58:38 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:58:41 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:58:41 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:58:41 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:58:47 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:58:47 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:58:47 a. m.</fecha>
+    <descripcion>Message: No se ha inicializado la propiedad ConnectionString.. StackTrace:    en System.Data.SqlClient.SqlConnection.PermissionDemand()
+   en System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 35. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Loginusuario_PD.cs</usuario_id>
+    <metodo>ValidaLoginUsuario</metodo>
+    <clase>Login usuario</clase>
+    <modulo>
+    </modulo>
+    <fecha>27/02/2023 11:59:02 a. m.</fecha>
+    <descripcion>Message: Login failed for user 'mvaldesp'.. StackTrace:    en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en AD.LOGI_ConexionSql_AD.OpenConnection() en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 39
+   en PD.Tablas.LOGI_Loginusuario_PD.ValidaLoginUsuario(LOGI_Usuarios_INFO&amp; oUsuario, LOGI_Usuarios_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\LOGI_Loginusuario_PD.cs:línea 39. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void .ctor(System.Data.ProviderBase.DbConnectionPoolIdentity, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SqlCredential, System.Object, System.String, System.Security.SecureString, Boolean, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SessionData, System.Data.ProviderBase.DbConnectionPool, System.String, Boolean, System.Data.SqlClient.SqlAuthenticationProviderManager)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>LOGI_Extraccion_ZAP_PD.cs</usuario_id>
+    <metodo>Listacuentas</metodo>
+    <clase>Extraccion ZAP</clase>
+    <modulo>select  GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,
+                                    GJAE.LEDGERACCOUNT,GJAE.TEXT,  MA.MAINACCOUNTID AS CUENTA,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO') AS SUCURSAL, ISNULL(FIL.DISPLAYVALUE, 'NINGUNO') AS FILIAL,
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO') AS CC, ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') AS DEPTO,
+                                    SUM(GJAE.ACCOUNTINGCURRENCYAMOUNT) AS SALDO
+									--,ISNULL(VEH.OFFSETTXT, 'NINGUNO') AS VEHICULO
+									from Warehouse.GENERALJOURNALACCOUNTENTRY GJAE WITH(nolock)
+                                    INNER JOIN Warehouse.GENERALJOURNALENTRY GJE ON GJE.RECID = GJAE.GENERALJOURNALENTRY  AND
+                                    GJE.PARTITION = '5637144576' INNER JOIN Warehouse.LEDGER L ON L.RECID = GJE.LEDGER AND
+                                    L.PARTITION = '5637144576' INNER JOIN Warehouse.DimensionAttributeValueCombination DAVC WITH(nolock) ON
+                                    DAVC.RECID = GJAE.LEDGERDIMENSION AND DAVC.PARTITION = '5637144576' INNER JOIN Warehouse.MAINACCOUNT
+                                    MA WITH(nolock) ON MA.RECID = DAVC.MAINACCOUNT AND MA.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView SUC WITH(nolock) ON SUC.VALUECOMBINATIONRECID = DAVC.RECID
+                                    AND SUC.DIMENSIONATTRIBUTE = '5637145326' AND SUC.PARTITION = '5637144576' INNER JOIN
+                                    Warehouse.DimensionAttributeLevelValueView FIL WITH(nolock) ON
+                                    FIL.VALUECOMBINATIONRECID = DAVC.RECID AND FIL.DIMENSIONATTRIBUTE = '5637145331' AND FIL.PARTITION = '5637144576'
+                                    LEFT JOIN Warehouse.DimensionAttributeLevelValueView CC WITH(nolock) ON
+                                    CC.VALUECOMBINATIONRECID = DAVC.RECID AND CC.DIMENSIONATTRIBUTE = '5637145329' AND
+                                    CC.PARTITION = '5637144576' LEFT JOIN Warehouse.DimensionAttributeLevelValueView DEP WITH(nolock) ON
+                                    DEP.VALUECOMBINATIONRECID = DAVC.RECID AND DEP.DIMENSIONATTRIBUTE = '5637145328' AND
+                                    DEP.PARTITION = '5637144576'  
+									--LEFT JOIN Warehouse.LEDGERJOURNALTRANS VEH WITH(nolock)
+									--ON (VEH.VOUCHER = GJE.SUBLEDGERVOUCHER
+									--and VEH.TXT = GJAE.TEXT)
+									WHERE L.NAME = 'LOG'  and year(gje.ACCOUNTINGDATE) = 2022  and month(GJE.ACCOUNTINGDATE) between  10 and  10 and(                                        
+                                        MA.MAINACCOUNTID  BETWEEN 'DHB001001' AND 'DHB001098')                      GROUP BY GJE.ACCOUNTINGDATE,--VEH.JOURNALNUM,
+                                    GJAE.LEDGERACCOUNT
+                                    , GJAE.TEXT, MA.MAINACCOUNTID,
+                                    ISNULL(SUC.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(FIL.DISPLAYVALUE, 'NINGUNO'),
+                                    ISNULL(CC.DISPLAYVALUE, 'NINGUNO'), 
+                                    ISNULL(DEP.DISPLAYVALUE, 'NINGUNO') 
+									--ISNULL(VEH.OFFSETTXT, 'NINGUNO')
+                                    </modulo>
+    <fecha>27/02/2023 11:59:19 a. m.</fecha>
+    <descripcion>Message: La columna 'JOURNALNUM' no pertenece a la tabla Table.. StackTrace:    en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.GetObjeto(DataRow orow, LOGI_Extraccion_ZAP_INFO&amp; oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 18
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.LoopDataSet(DataSet objDataSet, List`1&amp; lstDispersiones) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 40
+   en AD.Objetos.D365.LOGI_Extraccion_ZAP_AD.Listacuentasdiario(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Objetos\D365\LOGI_Extraccion_ZAP_AD.cs:línea 140
+   en PD.Objetos.D365.LOGI_Extraccion_ZAP_PD.Listacuentas(List`1&amp; lstcuentas, LOGI_Extraccion_ZAP_INFO oCuenta) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Objetos\D365\LOGI_Extraccion_ZAP_PD.cs:línea 38. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: System.Data.DataColumn GetDataColumn(System.String)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+</errores>

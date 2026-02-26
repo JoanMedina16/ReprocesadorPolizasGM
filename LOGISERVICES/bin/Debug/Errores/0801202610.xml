@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>WINSERVICES</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object=&gt; CATCH</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>08/01/2026 10:40:31 a. m.</fecha>
+    <descripcion>Message: No se puede enviar contenido textual con este tipo de verbo.. StackTrace:    en System.Net.HttpWebRequest.CheckProtocol(Boolean onRequestStream)
+   en System.Net.HttpWebRequest.GetRequestStream(TransportContext&amp; context)
+   en System.Net.HttpWebRequest.GetRequestStream()
+   en D365API.ueba.GetWithJsonBody(String url, String jsonBody) en C:\Repositorio\Logi\reprocesador\D365API\ueba.cs:línea 29
+   en LOGISERVICES.Service1.TimerSincronizaIngresoReposicionD365_Object(Object state) en C:\Repositorio\Logi\reprocesador\LOGISERVICES\Service1.cs:línea 302. InnerException . Source: System. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CheckProtocol(Boolean)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>ListaDocumentos</metodo>
+    <clase>LOGI_Documentos_PD.cs</clase>
+    <modulo>Documentos D365</modulo>
+    <fecha>08/01/2026 10:45:02 a. m.</fecha>
+    <descripcion>Message: Invalid object name 'lm_documentos_d365'.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task&amp; task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task&amp; task, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   en System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   en AD.LOGI_ConexionSql_AD.FillDataSet(String sQuerySql, Hashtable objHash, Int32 iTimeOut) en C:\Repositorio\Logi\reprocesador\AD\LOGI_ConexionSql_AD.cs:línea 73
+   en AD.Tablas.D365.LOGI_Documentos_AD.lstDocumentos(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam, String&amp; sConsultaSql) en C:\Repositorio\Logi\reprocesador\AD\Tablas\D365\LOGI_Documentos_AD.cs:línea 72
+   en PD.Tablas.D365.LOGI_Documentos_PD.ListaDocumentos(String sUsuarioID, List`1&amp; lstDocumentos, LOGI_Documentos_INFO oParam) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_Documentos_PD.cs:línea 36. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>SELECT * FROM lm_documentos_d365 WHERE activo = 1</otros_datos>
+  </error>
+</errores>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnExecuteAsientos</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/08/2024 04:19:31 p. m.</fecha>
+    <descripcion>Se han encontrado un total de 41 póliza(s) a procesar</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/08/2024 04:19:31 p. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM.CP22024072931</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

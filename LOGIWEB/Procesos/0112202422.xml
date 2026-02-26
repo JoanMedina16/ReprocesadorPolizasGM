@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>01/12/2024 10:03:59 p. m.</fecha>
+    <descripcion>f|Posting results for journal batch number LOG00298795	Voucher LOGCCC000001336	Voucher LOGCCC000001336	The transactions on voucher LOGCCC000001336 do not balance as per 15/11/2024. (accounting currency: 0.01 - reporting currency: 0.01)Posting results for journal batch number LOG00298795	Voucher LOGCCC000001336	Voucher LOGCCC000001336	Voucher transactions	Voucher LOGCCC000001336, date 15/11/2024, account ELA226007-YUC001-SE-SE05-B901-T001, transaction currency amount 286.43, accounting currency amount 286.43, reporting currency amount 286.43, currency MXN, text OS-1007 ESTACION UREA BASE MÉRIDA 20.000000LPosting results for journal batch number LOG00298795	Voucher LOGCCC000001336	Voucher LOGCCC000001336	Voucher transactions	Voucher LOGCCC000001336, date 15/11/2024, account ELA226007-YUC001-SE-SE05-B901-T001, transaction currency amount 572.86, accounting currency amount 572.86, reporting currency amount 572.86, currency MXN, text OS-1008 ESTACION UREA BASE MÉRIDA 40.000000LPosting results for journal batch number LOG00298795	Voucher LOGCCC000001336	Voucher LOGCCC000001336	Voucher transactions	Voucher LOGCCC000001336, date 15/11/2024, account AFA001012-YUC001-T001, transaction currency amount -859.28, accounting currency amount -859.28, reporting currency amount -859.28, currency MXN, text CONSUMO DE ALMACÉN AUTOMATICOPosting results for journal batch number LOG00298795	Posting has been canceled. Error al grabar la póliza.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>01/12/2024 10:04:25 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/COMBUS-202412013" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|LOG00298795|Póliza creada.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

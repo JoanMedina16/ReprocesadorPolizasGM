@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnExecuteAsientos</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/08/2024 04:01:23 p. m.</fecha>
+    <descripcion>Se han encontrado un total de 35 póliza(s) a procesar</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/08/2024 04:01:26 p. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM/MEX.2024082679</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/08/2024 04:01:26 p. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/08/2024 04:01:26 p. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/08/2024 04:01:26 p. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/08/2024 04:01:31 p. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM/MEX.2024082680</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/08/2024 04:01:33 p. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/08/2024 04:01:33 p. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/08/2024 04:01:33 p. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/08/2024 04:01:35 p. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM/MEX.2024082673</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/08/2024 04:01:36 p. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/08/2024 04:01:36 p. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/08/2024 04:01:36 p. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

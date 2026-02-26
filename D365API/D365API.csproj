@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0B88FF91-26DF-4983-9188-F96604F4E721}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>D365API</RootNamespace>
+    <AssemblyName>D365API</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Librerias\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=105.2.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Librerias\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\GestorPolizas.cs" />
+    <Compile Include="DAO\RegistroPoliza.cs" />
+    <Compile Include="DAO\Conexion.cs" />
+    <Compile Include="DAO\GMTApi.cs" />
+    <Compile Include="Helpers\D365FOBBICGCxPServices.cs" />
+    <Compile Include="Helpers\D365FOBBIContaServices.cs" />
+    <Compile Include="Helpers\D365FOBBICxCServices.cs" />
+    <Compile Include="Helpers\D365FOBBICxPServices.cs" />
+    <Compile Include="Helpers\D365FOBBISaldoClienteServices.cs" />
+    <Compile Include="INFOD\EnumTypes.cs" />
+    <Compile Include="INFOD\LOGI_Credencial_D365.cs" />
+    <Compile Include="INFOD\LOGI_DocumentD365_INFO.cs" />
+    <Compile Include="INFOD\LOGI_DocumentLineD365_INFO.cs" />
+    <Compile Include="INFOD\LOGI_Error_D365.cs" />
+    <Compile Include="INFOD\LOGI_ResponseTMS_INFO.cs" />
+    <Compile Include="INFOD\LOGI_Session_D365.cs" />
+    <Compile Include="LOGI_ConnectionService_D365.cs" />
+    <Compile Include="LOGI_ConnectionWS_OPE.cs" />
+    <Compile Include="LOGI_TMSConnection_D365.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\D365\D365.csproj">
+      <Project>{9a3f981c-bcd2-4a9b-b4f4-6ef356e4f150}</Project>
+      <Name>D365</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\INFO\INFO.csproj">
+      <Project>{bfa40f14-c552-4296-a298-c1ae5b736db0}</Project>
+      <Name>INFO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PD\PD.csproj">
+      <Project>{ec956caa-632d-490c-951c-5f0509f44842}</Project>
+      <Name>PD</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="System\Runtime\Serialization\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

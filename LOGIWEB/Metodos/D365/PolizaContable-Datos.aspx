@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="PolizaContable-Datos.aspx.cs" Inherits="LOGIWEB.Metodos.D365.PolizaContable_Datos" %>

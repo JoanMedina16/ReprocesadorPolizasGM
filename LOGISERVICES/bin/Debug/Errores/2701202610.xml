@@ -1,0 +1,697 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:20:48 a. m.</fecha>
+    <descripcion>Message: No se ha encontrado la información de la unidad,valida la configuración de sucursal, centro de costo y equivalencia.. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2308. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365=&gt;CATCH</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:20:48 a. m.</fecha>
+    <descripcion>Message: Referencia a objeto no establecida como instancia de un objeto.. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2546. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:20:56 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 3757. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:20:56 a. m.</fecha>
+    <descripcion>Message: Una o varias líneas de dimensiones financieras no se encuentran configuradas. (Centro de costos, Vehículo o Sucursal). StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2395. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:21:04 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 6070. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:21:04 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 6205. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:21:04 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 6210. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:21:05 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 7260. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:21:05 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 8557. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:21:05 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 8593. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:21:05 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9400. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:21:11 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9421. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:21:11 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9567. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:21:11 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9589. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:21:12 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9808. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:21:12 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9812. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:21:13 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9825. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:21:13 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9826. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:21:14 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9837. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:14 a. m.</fecha>
+    <descripcion>Message: No se ha encontrado la información de la unidad,valida la configuración de sucursal, centro de costo y equivalencia.. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2308. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365=&gt;CATCH</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:14 a. m.</fecha>
+    <descripcion>Message: Referencia a objeto no establecida como instancia de un objeto.. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2546. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:20 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 3757. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:21 a. m.</fecha>
+    <descripcion>Message: Una o varias líneas de dimensiones financieras no se encuentran configuradas. (Centro de costos, Vehículo o Sucursal). StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2395. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:25 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 6070. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:26 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 6205. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:26 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 6210. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:26 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 7260. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:27 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 8557. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:27 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 8593. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:27 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9400. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:28 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9421. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:28 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9567. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:31 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9589. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:32 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9808. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:32 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9812. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:33 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9825. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:33 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9826. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:33 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9837. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaEjecutaMovimientosIngreso</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:39:34 a. m.</fecha>
+    <descripcion>Message: Referencia a objeto no establecida como instancia de un objeto.. StackTrace:    en D365API.LOGI_TMSConnection_D365.Proceso(LOGI_ConfiguracionD365_INFO oConf, DateTime date, String cnx, String Proceso, Int32 ProFacturas, Int32 ProCancelacionFacturas, Int32 ProNotasCredito, Int32 ProMovimientosBancarios, Int32 ProPasivos) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 228
+   en D365API.LOGI_TMSConnection_D365.DescargaEjecutaMovimientosIngreso(LOGI_ConfiguracionD365_INFO oConf, String cnxBitacora, String sFechaInicio, String sFechaFinal, Boolean bLeeTXT, Boolean bCreaArchivoJSON, Int32 ProFacturas, Int32 ProCancelacionFacturas, Int32 ProNotasCredito, Int32 ProMovimientosBancarios, Int32 ProPasivos) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 529. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Boolean Proceso(INFO.Tablas.D365.LOGI_ConfiguracionD365_INFO, System.DateTime, System.String, System.String, Int32, Int32, Int32, Int32, Int32)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:07 a. m.</fecha>
+    <descripcion>Message: No se ha encontrado la información de la unidad,valida la configuración de sucursal, centro de costo y equivalencia.. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2308. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365=&gt;CATCH</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:07 a. m.</fecha>
+    <descripcion>Message: Referencia a objeto no establecida como instancia de un objeto.. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2546. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:07 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 3757. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:08 a. m.</fecha>
+    <descripcion>Message: Una o varias líneas de dimensiones financieras no se encuentran configuradas. (Centro de costos, Vehículo o Sucursal). StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2395. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:08 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 6070. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:08 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 6205. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:08 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 6210. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:08 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 7260. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:08 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 8557. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:08 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 8593. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:09 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9400. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:09 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9421. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:09 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9567. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:09 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9589. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:09 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9808. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:09 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9812. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9825. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9826. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:41:10 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9837. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 2431. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:00 a. m.</fecha>
+    <descripcion>Message: No se ha encontrado la información de la unidad,valida la configuración de sucursal, centro de costo y equivalencia.. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365=&gt;CATCH</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:00 a. m.</fecha>
+    <descripcion>Message: Referencia a objeto no establecida como instancia de un objeto.. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:00 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 3757. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:00 a. m.</fecha>
+    <descripcion>Message: Una o varias líneas de dimensiones financieras no se encuentran configuradas. (Centro de costos, Vehículo o Sucursal). StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:01 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 6070. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:01 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 6205. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:01 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 6210. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:01 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 7260. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:01 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 8557. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:01 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 8593. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:01 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9400. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:02 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9421. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:02 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9567. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:02 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9589. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:02 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9808. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:02 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9812. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:03 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9825. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:03 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9826. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>27/01/2026 10:49:03 a. m.</fecha>
+    <descripcion>Message: El código del diario D365 no se ha configurado. Núm.Poliza 9837. StackTrace:    en D365API.LOGI_TMSConnection_D365.CreaLotePagosD365(List`1 lstLote, String&amp; sresponse). InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Void CreaLotePagosD365(System.Collections.Generic.List`1[D365API.Helpers.D365FOBBICxCServices.BBICargarFacturaCxCContractEnc], System.String ByRef)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+</errores>

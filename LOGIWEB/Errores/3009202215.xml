@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>30/09/2022 15:25:24</fecha>
+    <descripcion>Message: La columna 'cuentaviatico' no pertenece a la tabla Table.. StackTrace:    en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.GetObjeto(DataRow orow, LOGI_ConfiguracionD365_INFO&amp; otemp) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 43
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ListaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 63
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 36. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: System.Data.DataColumn GetDataColumn(System.String)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>30/09/2022 15:25:24</fecha>
+    <descripcion>Message: La columna 'cuentaviatico' no pertenece a la tabla Table.. StackTrace:    en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.GetObjeto(DataRow orow, LOGI_ConfiguracionD365_INFO&amp; otemp) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 43
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ListaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 63
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 36. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: System.Data.DataColumn GetDataColumn(System.String)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>30/09/2022 15:25:24</fecha>
+    <descripcion>Message: La columna 'cuentaviatico' no pertenece a la tabla Table.. StackTrace:    en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.GetObjeto(DataRow orow, LOGI_ConfiguracionD365_INFO&amp; otemp) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 43
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ListaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 63
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 36. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: System.Data.DataColumn GetDataColumn(System.String)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>30/09/2022 15:25:24</fecha>
+    <descripcion>Message: La columna 'cuentaviatico' no pertenece a la tabla Table.. StackTrace:    en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.GetObjeto(DataRow orow, LOGI_ConfiguracionD365_INFO&amp; otemp) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 43
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ListaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 63
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 36. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: System.Data.DataColumn GetDataColumn(System.String)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>30/09/2022 15:25:24</fecha>
+    <descripcion>Message: La columna 'cuentaviatico' no pertenece a la tabla Table.. StackTrace:    en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.GetObjeto(DataRow orow, LOGI_ConfiguracionD365_INFO&amp; otemp) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 43
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ListaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 63
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 36. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: System.Data.DataColumn GetDataColumn(System.String)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>30/09/2022 15:25:24</fecha>
+    <descripcion>Message: La columna 'cuentaviatico' no pertenece a la tabla Table.. StackTrace:    en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.GetObjeto(DataRow orow, LOGI_ConfiguracionD365_INFO&amp; otemp) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 43
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ListaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 63
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 36. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: System.Data.DataColumn GetDataColumn(System.String)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>30/09/2022 15:25:25</fecha>
+    <descripcion>Message: La columna 'cuentaviatico' no pertenece a la tabla Table.. StackTrace:    en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.GetObjeto(DataRow orow, LOGI_ConfiguracionD365_INFO&amp; otemp) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 43
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ListaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 63
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 36. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: System.Data.DataColumn GetDataColumn(System.String)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>30/09/2022 15:25:47</fecha>
+    <descripcion>Message: La columna 'cuentaviatico' no pertenece a la tabla Table.. StackTrace:    en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.GetObjeto(DataRow orow, LOGI_ConfiguracionD365_INFO&amp; otemp) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 43
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ListaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 63
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 36. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: System.Data.DataColumn GetDataColumn(System.String)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>30/09/2022 15:25:49</fecha>
+    <descripcion>Message: La columna 'cuentaviatico' no pertenece a la tabla Table.. StackTrace:    en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.GetObjeto(DataRow orow, LOGI_ConfiguracionD365_INFO&amp; otemp) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 43
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ListaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 63
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 36. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: System.Data.DataColumn GetDataColumn(System.String)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>30/09/2022 15:25:50</fecha>
+    <descripcion>Message: La columna 'cuentaviatico' no pertenece a la tabla Table.. StackTrace:    en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.GetObjeto(DataRow orow, LOGI_ConfiguracionD365_INFO&amp; otemp) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 43
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ListaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 63
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 36. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: System.Data.DataColumn GetDataColumn(System.String)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>30/09/2022 15:25:50</fecha>
+    <descripcion>Message: La columna 'cuentaviatico' no pertenece a la tabla Table.. StackTrace:    en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.GetObjeto(DataRow orow, LOGI_ConfiguracionD365_INFO&amp; otemp) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 43
+   en AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ListaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:línea 63
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 36. InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: System.Data.DataColumn GetDataColumn(System.String)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+</errores>

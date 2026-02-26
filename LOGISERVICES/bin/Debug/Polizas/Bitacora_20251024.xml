@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>113026</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-01-28T11:13:49.897276-06:00</Fecha>
+      <Evento>Folio: LM/QE82450 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>2034</NumPoliza>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-01-28T11:13:49.897276-06:00</FechaCreacion>
+  <TotalRegistros>1</TotalRegistros>
+</RegistrosPolizas>

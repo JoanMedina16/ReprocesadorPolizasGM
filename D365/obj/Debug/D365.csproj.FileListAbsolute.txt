@@ -1,0 +1,134 @@
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\D365.dll
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\D365.pdb
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\INFO.dll
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\Newtonsoft.Json.dll
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\PD.dll
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\RestSharp.dll
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\AD.dll
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\EPPlus.dll
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\INFO.pdb
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\PD.pdb
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\AD.pdb
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.csproj.AssemblyReference.cache
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.csproj.CoreCompileInputs.cache
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.dll
+C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.pdb
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.csproj.Up2Date
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\D365.dll
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\D365.pdb
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\INFO.dll
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\Newtonsoft.Json.dll
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\PD.dll
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\RestSharp.dll
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\AD.dll
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\EPPlus.dll
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\INFO.pdb
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\PD.pdb
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\AD.pdb
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.csproj.AssemblyReference.cache
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.csproj.CoreCompileInputs.cache
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.csproj.Up2Date
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.dll
+C:\Cbrito\BITBUCKET\TMS_GM\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.pdb
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.csproj.AssemblyReference.cache
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.csproj.CoreCompileInputs.cache
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.dll
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.pdb
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\D365.dll
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\D365.pdb
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\INFO.dll
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\Newtonsoft.Json.dll
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\PD.dll
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\RestSharp.dll
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\AD.dll
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\EPPlus.dll
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\INFO.pdb
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\PD.pdb
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\AD.pdb
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.csproj.CopyComplete
+C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\D365.dll.config
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\D365.dll.config
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\D365.dll
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\D365.pdb
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\INFO.dll
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\Newtonsoft.Json.dll
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\PD.dll
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\RestSharp.dll
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\AD.dll
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\EPPlus.dll
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\INFO.pdb
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\PD.pdb
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\AD.pdb
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.csproj.AssemblyReference.cache
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.csproj.CoreCompileInputs.cache
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.csproj.CopyComplete
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.dll
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.pdb
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\D365.dll.config
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\D365.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\D365.pdb
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\INFO.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\Newtonsoft.Json.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\PD.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\RestSharp.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\AD.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\EPPlus.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\INFO.pdb
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\PD.pdb
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\bin\Debug\AD.pdb
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.csproj.AssemblyReference.cache
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.csproj.CoreCompileInputs.cache
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.csproj.Up2Date
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\D365\obj\Debug\D365.pdb
+C:\Ftes\Logistica\logiservices\reprocesador\D365\bin\Debug\D365.dll.config
+C:\Ftes\Logistica\logiservices\reprocesador\D365\bin\Debug\D365.dll
+C:\Ftes\Logistica\logiservices\reprocesador\D365\bin\Debug\D365.pdb
+C:\Ftes\Logistica\logiservices\reprocesador\D365\bin\Debug\INFO.dll
+C:\Ftes\Logistica\logiservices\reprocesador\D365\bin\Debug\Newtonsoft.Json.dll
+C:\Ftes\Logistica\logiservices\reprocesador\D365\bin\Debug\PD.dll
+C:\Ftes\Logistica\logiservices\reprocesador\D365\bin\Debug\RestSharp.dll
+C:\Ftes\Logistica\logiservices\reprocesador\D365\bin\Debug\AD.dll
+C:\Ftes\Logistica\logiservices\reprocesador\D365\bin\Debug\EPPlus.dll
+C:\Ftes\Logistica\logiservices\reprocesador\D365\bin\Debug\INFO.pdb
+C:\Ftes\Logistica\logiservices\reprocesador\D365\bin\Debug\PD.pdb
+C:\Ftes\Logistica\logiservices\reprocesador\D365\bin\Debug\AD.pdb
+C:\Ftes\Logistica\logiservices\reprocesador\D365\obj\Debug\D365.csproj.AssemblyReference.cache
+C:\Ftes\Logistica\logiservices\reprocesador\D365\obj\Debug\D365.csproj.CoreCompileInputs.cache
+C:\Ftes\Logistica\logiservices\reprocesador\D365\obj\Debug\D365.csproj.Up2Date
+C:\Ftes\Logistica\logiservices\reprocesador\D365\obj\Debug\D365.dll
+C:\Ftes\Logistica\logiservices\reprocesador\D365\obj\Debug\D365.pdb
+C:\Ftes\logiservices\reprocesador\D365\bin\Debug\D365.dll.config
+C:\Ftes\logiservices\reprocesador\D365\bin\Debug\D365.dll
+C:\Ftes\logiservices\reprocesador\D365\bin\Debug\D365.pdb
+C:\Ftes\logiservices\reprocesador\D365\bin\Debug\INFO.dll
+C:\Ftes\logiservices\reprocesador\D365\bin\Debug\Newtonsoft.Json.dll
+C:\Ftes\logiservices\reprocesador\D365\bin\Debug\PD.dll
+C:\Ftes\logiservices\reprocesador\D365\bin\Debug\RestSharp.dll
+C:\Ftes\logiservices\reprocesador\D365\bin\Debug\AD.dll
+C:\Ftes\logiservices\reprocesador\D365\bin\Debug\EPPlus.dll
+C:\Ftes\logiservices\reprocesador\D365\bin\Debug\INFO.pdb
+C:\Ftes\logiservices\reprocesador\D365\bin\Debug\PD.pdb
+C:\Ftes\logiservices\reprocesador\D365\bin\Debug\AD.pdb
+C:\Ftes\logiservices\reprocesador\D365\obj\Debug\D365.csproj.AssemblyReference.cache
+C:\Ftes\logiservices\reprocesador\D365\obj\Debug\D365.csproj.CoreCompileInputs.cache
+C:\Ftes\logiservices\reprocesador\D365\obj\Debug\D365.csproj.Up2Date
+C:\Ftes\logiservices\reprocesador\D365\obj\Debug\D365.dll
+C:\Ftes\logiservices\reprocesador\D365\obj\Debug\D365.pdb
+C:\Repositorio\Logi\reprocesador\D365\bin\Debug\D365.dll.config
+C:\Repositorio\Logi\reprocesador\D365\bin\Debug\D365.dll
+C:\Repositorio\Logi\reprocesador\D365\bin\Debug\D365.pdb
+C:\Repositorio\Logi\reprocesador\D365\bin\Debug\INFO.dll
+C:\Repositorio\Logi\reprocesador\D365\bin\Debug\Newtonsoft.Json.dll
+C:\Repositorio\Logi\reprocesador\D365\bin\Debug\PD.dll
+C:\Repositorio\Logi\reprocesador\D365\bin\Debug\RestSharp.dll
+C:\Repositorio\Logi\reprocesador\D365\bin\Debug\AD.dll
+C:\Repositorio\Logi\reprocesador\D365\bin\Debug\EPPlus.dll
+C:\Repositorio\Logi\reprocesador\D365\bin\Debug\INFO.pdb
+C:\Repositorio\Logi\reprocesador\D365\bin\Debug\PD.pdb
+C:\Repositorio\Logi\reprocesador\D365\bin\Debug\AD.pdb
+C:\Repositorio\Logi\reprocesador\D365\obj\Debug\D365.csproj.AssemblyReference.cache
+C:\Repositorio\Logi\reprocesador\D365\obj\Debug\D365.csproj.CoreCompileInputs.cache
+C:\Repositorio\Logi\reprocesador\D365\obj\Debug\D365.csproj.Up2Date
+C:\Repositorio\Logi\reprocesador\D365\obj\Debug\D365.dll
+C:\Repositorio\Logi\reprocesador\D365\obj\Debug\D365.pdb

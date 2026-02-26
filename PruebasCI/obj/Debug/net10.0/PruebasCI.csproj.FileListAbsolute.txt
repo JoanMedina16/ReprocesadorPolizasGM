@@ -1,0 +1,14 @@
+C:\Repositorio\Logi\reprocesador\PruebasCI\bin\Debug\net10.0\PruebasCI.exe
+C:\Repositorio\Logi\reprocesador\PruebasCI\bin\Debug\net10.0\PruebasCI.deps.json
+C:\Repositorio\Logi\reprocesador\PruebasCI\bin\Debug\net10.0\PruebasCI.runtimeconfig.json
+C:\Repositorio\Logi\reprocesador\PruebasCI\bin\Debug\net10.0\PruebasCI.dll
+C:\Repositorio\Logi\reprocesador\PruebasCI\bin\Debug\net10.0\PruebasCI.pdb
+C:\Repositorio\Logi\reprocesador\PruebasCI\obj\Debug\net10.0\PruebasCI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Logi\reprocesador\PruebasCI\obj\Debug\net10.0\PruebasCI.AssemblyInfoInputs.cache
+C:\Repositorio\Logi\reprocesador\PruebasCI\obj\Debug\net10.0\PruebasCI.AssemblyInfo.cs
+C:\Repositorio\Logi\reprocesador\PruebasCI\obj\Debug\net10.0\PruebasCI.csproj.CoreCompileInputs.cache
+C:\Repositorio\Logi\reprocesador\PruebasCI\obj\Debug\net10.0\PruebasCI.dll
+C:\Repositorio\Logi\reprocesador\PruebasCI\obj\Debug\net10.0\refint\PruebasCI.dll
+C:\Repositorio\Logi\reprocesador\PruebasCI\obj\Debug\net10.0\PruebasCI.pdb
+C:\Repositorio\Logi\reprocesador\PruebasCI\obj\Debug\net10.0\PruebasCI.genruntimeconfig.cache
+C:\Repositorio\Logi\reprocesador\PruebasCI\obj\Debug\net10.0\ref\PruebasCI.dll

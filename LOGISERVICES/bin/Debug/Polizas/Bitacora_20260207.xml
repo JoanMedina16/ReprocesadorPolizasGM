@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>154296</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:37:23.0486015-06:00</Fecha>
+      <Evento>Folio: LM/MID113072 No se ha creado la Póliza</Evento>
+      <NumPoliza>630</NumPoliza>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-02-13T15:37:23.0486015-06:00</FechaCreacion>
+  <TotalRegistros>1</TotalRegistros>
+</RegistrosPolizas>

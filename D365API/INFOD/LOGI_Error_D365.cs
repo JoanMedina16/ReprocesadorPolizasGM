@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace D365API.INFOD
+{
+   public class LOGI_Error_D365
+    {
+      public string error { get; set; }
+        public string error_description { get; set; }
+        public string timestamp { get; set; }
+        public string trace_id { get; set; }
+        public string correlation_id { get; set; }
+    }
+}

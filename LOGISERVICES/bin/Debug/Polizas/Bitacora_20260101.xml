@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>149792</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T14:55:41.587263-06:00</Fecha>
+      <Evento>Folio: LM/QE83392 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>1</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149794</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T14:55:41.8946749-06:00</Fecha>
+      <Evento>Folio: LM/MID111019 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>3</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149796</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T14:55:42.106952-06:00</Fecha>
+      <Evento>Folio: LM/TLE17576 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>5</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149792</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T14:55:47.2253927-06:00</Fecha>
+      <Evento>Folio: LM/QE83392 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>1</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149794</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T14:55:47.4373634-06:00</Fecha>
+      <Evento>Folio: LM/MID111019 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>3</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149796</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T14:55:47.6550267-06:00</Fecha>
+      <Evento>Folio: LM/TLE17576 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>5</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149792</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:10:35.7515784-06:00</Fecha>
+      <Evento>Folio: LM/QE83392 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>1</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149794</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:10:35.9682288-06:00</Fecha>
+      <Evento>Folio: LM/MID111019 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>3</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149796</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:10:36.1865999-06:00</Fecha>
+      <Evento>Folio: LM/TLE17576 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>5</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149792</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:10:39.7390966-06:00</Fecha>
+      <Evento>Folio: LM/QE83392 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>1</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149794</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:10:39.9425017-06:00</Fecha>
+      <Evento>Folio: LM/MID111019 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>3</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>149796</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:10:40.1690713-06:00</Fecha>
+      <Evento>Folio: LM/TLE17576 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>5</NumPoliza>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-02-13T14:55:41.5890713-06:00</FechaCreacion>
+  <TotalRegistros>12</TotalRegistros>
+</RegistrosPolizas>

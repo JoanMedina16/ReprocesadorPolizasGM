@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>13/01/2026 12:00:08 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID105034-LM/MID-17386-EMBOTELLADORAS BEPENSA para el registro LM.CPMID17386 . IdPoliza: 120885</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

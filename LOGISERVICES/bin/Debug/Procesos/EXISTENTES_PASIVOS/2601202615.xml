@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 03:35:10 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/YUC007-6017 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLotePagosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>26/01/2026 03:35:12 p. m.</fecha>
+    <descripcion>El movimiento factura de proveedor con folio LM/YUC001-B14420 ya cuenta con un registro de diario contabilidad</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

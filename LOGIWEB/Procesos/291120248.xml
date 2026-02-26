@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/11/2024 08:26:29 a. m.</fecha>
+    <descripcion>f|La cuenta contable  UREA BASE MÉRIDA  de la linea 5 no existe.Error en las líneas. Error al grabar la póliza.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/11/2024 08:29:04 a. m.</fecha>
+    <descripcion>f|La cuenta contable  AFA001012  de la linea 4 no existe.Error en las líneas. Error al grabar la póliza.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/11/2024 08:33:20 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM/COMBUS-202411291" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|LOG00298786|Póliza creada.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/11/2024 08:38:30 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM/COMBUS-202411291" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|LOG00298786</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/11/2024 08:40:38 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM/COMBUS-202411291" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|LOG00298786</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/11/2024 08:41:29 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM/COMBUS-202411291" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|LOG00298786</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/11/2024 08:44:40 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM/COMBUS-202411291" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|LOG00298786</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/11/2024 08:45:05 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM/COMBUS-202411291" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|LOG00298786</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

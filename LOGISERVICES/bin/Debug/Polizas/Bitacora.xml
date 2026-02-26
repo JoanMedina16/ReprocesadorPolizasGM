@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>112416</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:27.7489751-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>1428</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112459</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:27.9872535-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>1471</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112581</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:28.2390879-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>1593</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112724</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:28.4988831-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>1732</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113725</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:28.7388477-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>2723</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113775</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:28.8817081-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>2773</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>114513</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:29.89218-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>3509</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>114524</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:30.0146313-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>3520</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>115962</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:30.1422704-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>4952</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>116702</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:30.2636567-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>5691</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>117402</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:30.41722-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>6391</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118295</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:30.5876654-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>7276</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118297</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:30.7155945-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>7278</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118301</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:30.8632923-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>7282</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118312</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:31.0218241-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>7292</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>119410</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:31.1626491-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>8379</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>119515</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:31.2898837-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>8484</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>119628</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:31.4150271-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>8597</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120873</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:10:31.5847786-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>9838</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112416</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:03.5986528-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>1428</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112459</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:04.7282636-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>1471</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112581</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:04.8329345-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>1593</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112724</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:04.9843388-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>1732</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113725</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:05.1525828-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>2723</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113775</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:05.3387095-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>2773</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>114513</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:09.2796746-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>3509</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>114524</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:09.4807798-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>3520</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>115962</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:09.6327967-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>4952</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>116702</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:09.8131001-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>5691</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>117402</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:10.0163605-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>6391</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118295</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:10.1768118-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>7276</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118297</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:10.3872088-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>7278</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118301</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:10.6733787-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>7282</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118312</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:11.0016474-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>7292</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>119410</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:11.212051-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>8379</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>119515</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:11.3599814-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>8484</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>119628</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:11.5341926-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>8597</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120873</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:22:11.752473-06:00</Fecha>
+      <Evento xsi:nil="true" />
+      <NumPoliza>9838</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112416</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:38.8792263-06:00</Fecha>
+      <Evento>Folio: 44899 El código del diario D365 no se ha configurado. Núm.Poliza 1428 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>1428</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112459</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:39.0156021-06:00</Fecha>
+      <Evento>Folio: 53363 El código del diario D365 no se ha configurado. Núm.Poliza 1471 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>1471</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112581</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:39.1248676-06:00</Fecha>
+      <Evento>Folio: 16135 El código del diario D365 no se ha configurado. Núm.Poliza 1593 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>1593</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>112724</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:39.239071-06:00</Fecha>
+      <Evento>Folio: 18691 El código del diario D365 no se ha configurado. Núm.Poliza 1732 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>1732</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113725</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:39.3447339-06:00</Fecha>
+      <Evento>Folio: 17479 El código del diario D365 no se ha configurado. Núm.Poliza 2723 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>2723</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>113775</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:39.4055312-06:00</Fecha>
+      <Evento>Folio: 18174 No se ha encontrado la información de la unidad,valida la configuración de sucursal, centro de costo y equivalencia. Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>2773</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>114513</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:40.0451259-06:00</Fecha>
+      <Evento>Folio: 931 El código del diario D365 no se ha configurado. Núm.Poliza 3509 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>3509</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>114524</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:40.16145-06:00</Fecha>
+      <Evento>Folio: 932 El código del diario D365 no se ha configurado. Núm.Poliza 3520 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>3520</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>115962</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:40.284564-06:00</Fecha>
+      <Evento>Folio: 24682 El código del diario D365 no se ha configurado. Núm.Poliza 4952 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>4952</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>116702</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:40.4098466-06:00</Fecha>
+      <Evento>Folio: 24683 El código del diario D365 no se ha configurado. Núm.Poliza 5691 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>5691</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>117402</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:40.5371071-06:00</Fecha>
+      <Evento>Folio: 24681 El código del diario D365 no se ha configurado. Núm.Poliza 6391 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>6391</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118295</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:40.6799207-06:00</Fecha>
+      <Evento>Folio: 4823 El código del diario D365 no se ha configurado. Núm.Poliza 7276 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>7276</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118297</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:40.8472668-06:00</Fecha>
+      <Evento>Folio: 4824 El código del diario D365 no se ha configurado. Núm.Poliza 7278 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>7278</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118301</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:41.0261948-06:00</Fecha>
+      <Evento>Folio: 4825 El código del diario D365 no se ha configurado. Núm.Poliza 7282 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>7282</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>118312</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:41.1556907-06:00</Fecha>
+      <Evento>Folio: 4826 El código del diario D365 no se ha configurado. Núm.Poliza 7292 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>7292</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>119410</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:41.287044-06:00</Fecha>
+      <Evento>Folio: 927 El código del diario D365 no se ha configurado. Núm.Poliza 8379 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>8379</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>119515</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:41.4135746-06:00</Fecha>
+      <Evento>Folio: 329564 El código del diario D365 no se ha configurado. Núm.Poliza 8484 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>8484</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>119628</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:41.5377742-06:00</Fecha>
+      <Evento>Folio: 3056 El código del diario D365 no se ha configurado. Núm.Poliza 8597 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>8597</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>120873</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-01-27T11:34:41.6601942-06:00</Fecha>
+      <Evento>Folio: 2493 El código del diario D365 no se ha configurado. Núm.Poliza 9838 Pasivos- CreaLotePagosD365</Evento>
+      <NumPoliza>9838</NumPoliza>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-01-27T11:09:33.9236711-06:00</FechaCreacion>
+  <TotalRegistros>57</TotalRegistros>
+</RegistrosPolizas>

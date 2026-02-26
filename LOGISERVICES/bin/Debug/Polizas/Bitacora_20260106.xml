@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrosPolizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Polizas>
+    <Poliza>
+      <IdPoliza>150160</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:31:11.3445845-06:00</Fecha>
+      <Evento>Folio: LM/VME14767 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>369</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150172</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:31:17.5532846-06:00</Fecha>
+      <Evento>Folio: LM/VCH75304 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>381</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150173</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:31:18.1718348-06:00</Fecha>
+      <Evento>Folio: LM/VCH75305 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>382</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150175</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:31:19.4116126-06:00</Fecha>
+      <Evento>Folio: LM/VCH75306 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>384</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150177</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:31:20.019443-06:00</Fecha>
+      <Evento>Folio: LM/VCH75307 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>386</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150213</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:31:37.5045089-06:00</Fecha>
+      <Evento>Folio: LM/VCH75319 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>422</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150160</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:32:38.1172818-06:00</Fecha>
+      <Evento>Folio: LM/VME14767 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>369</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150172</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:32:41.3353993-06:00</Fecha>
+      <Evento>Folio: LM/VCH75304 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>381</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150173</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:32:41.6917553-06:00</Fecha>
+      <Evento>Folio: LM/VCH75305 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>382</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150175</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:32:42.4460556-06:00</Fecha>
+      <Evento>Folio: LM/VCH75306 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>384</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150177</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:32:42.9096435-06:00</Fecha>
+      <Evento>Folio: LM/VCH75307 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>386</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150213</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:32:52.7375724-06:00</Fecha>
+      <Evento>Folio: LM/VCH75319 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>422</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150261</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:36:45.2152297-06:00</Fecha>
+      <Evento>Folio: LM/QE83428 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>470</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150280</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:36:46.5962975-06:00</Fecha>
+      <Evento>Folio: LM/QE83430 Póliza cargada correctamente Factura- CreaLoteIngresosD365</Evento>
+      <NumPoliza>489</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150281</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:47.3111407-06:00</Fecha>
+      <Evento>Folio: LM/CHL62421 No se ha creado la Póliza</Evento>
+      <NumPoliza>490</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150261</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:36:52.62062-06:00</Fecha>
+      <Evento>Folio: LM/QE83428 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>470</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150280</IdPoliza>
+      <Estatus>1</Estatus>
+      <Fecha>2026-02-13T15:36:53.4788806-06:00</Fecha>
+      <Evento>Folio: LM/QE83430 La póliza se ha creado con anterioridad</Evento>
+      <NumPoliza>489</NumPoliza>
+    </Poliza>
+    <Poliza>
+      <IdPoliza>150281</IdPoliza>
+      <Estatus>0</Estatus>
+      <Fecha>2026-02-13T15:36:53.9922238-06:00</Fecha>
+      <Evento>Folio: LM/CHL62421 No se ha creado la Póliza</Evento>
+      <NumPoliza>490</NumPoliza>
+    </Poliza>
+  </Polizas>
+  <FechaCreacion>2026-02-13T15:31:11.3445845-06:00</FechaCreacion>
+  <TotalRegistros>18</TotalRegistros>
+</RegistrosPolizas>

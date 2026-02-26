@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>
+    </clase>
+    <modulo>
+    </modulo>
+    <fecha>01/02/2023 10:37:27 a. m.</fecha>
+    <descripcion>Se ha detectado una diferencia en la poliza 38557.45 vs 38557.46</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

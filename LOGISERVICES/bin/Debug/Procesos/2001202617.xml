@@ -1,0 +1,1873 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>20/01/2026 05:02:20 p. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>20/01/2026 05:02:21 p. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>20/01/2026 05:02:25 p. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaEjecutaMovimientosIngreso</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:25 p. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 06/09/2025 hasta 06/09/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>ProcesoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:29 p. m.</fecha>
+    <descripcion>Se han encontrado un total de 30 movimientos para el período seleccionado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>ProcesoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:29 p. m.</fecha>
+    <descripcion>Se encontraron un total de 30 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:29 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN41822-LM/CUN-7229-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7229 . IdPoliza: 112617</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:31 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 95820E83-E489-4A05-B59F-E232AEBBF7A0, folio:41822 y serie: CUN se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:31 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CUN41822" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641912327</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:31 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103649-LM/MID-16077-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16077 . IdPoliza: 112618</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:32 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 100D4B20-6766-4E78-B81C-142040348664, folio:103649 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:32 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103649" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641913826</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:32 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103650-LM/MID-16078-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16078 . IdPoliza: 112619</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:33 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 68F13F25-C2AD-4118-90F5-6B2D005FFFA3, folio:103650 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:33 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103650" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641914576</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:33 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN41823-LM/CUN-7226-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7226 . IdPoliza: 112620</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:33 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID F6770037-956C-4CAA-B878-7DA63DB63A17, folio:41823 y serie: CUN se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:34 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CUN41823" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641915326</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:34 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103651-LM/MID-16079-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16079 . IdPoliza: 112621</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:34 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID D2230083-AF76-41F4-87FE-4BFDC0C45ACE, folio:103651 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:35 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103651" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641915327</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:35 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103652-LM/MID-16081-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16081 . IdPoliza: 112622</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:35 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 6A395A28-2512-41F4-8C7F-3153B7534B2E, folio:103652 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:35 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103652" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641915328</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:35 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103653-LM/MID-16082-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16082 . IdPoliza: 112623</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:36 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID EC5937CD-B8EC-4A37-9AB7-59FF1EEDAE4D, folio:103653 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:36 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103653" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641916076</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:36 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103654-LM/MID-16083-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16083 . IdPoliza: 112624</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:37 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 2B542DF0-2494-47DC-A8E8-9CAB955C157E, folio:103654 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:37 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103654" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641916826</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:37 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103655-LM/MID-16084-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16084 . IdPoliza: 112625</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:38 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 531CC4C4-DCED-4130-95BD-5A5699A70095, folio:103655 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:38 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103655" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641917576</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:38 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103656-LM/MID-16085-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16085 . IdPoliza: 112626</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:39 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 133C7C3A-51AB-4812-AB52-0CA438AEC5F3, folio:103656 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:39 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103656" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641918326</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:39 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103657-LM/MID-16087-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16087 . IdPoliza: 112627</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:39 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID FBF064F6-EE94-4D58-92C9-226195347BC6, folio:103657 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:40 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103657" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641919076</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:40 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103658-LM/MID-16089-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16089 . IdPoliza: 112628</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:40 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 352C2768-B0F8-401B-AD99-2CE14D1CF1F7, folio:103658 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:40 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103658" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641913829</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:41 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103659-LM/MID-16090-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16090 . IdPoliza: 112629</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:41 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID A404AF06-1C14-4796-92FA-9107302F824B, folio:103659 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:41 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103659" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641914577</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:42 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103660-LM/MID-16091-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16091 . IdPoliza: 112630</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:42 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 92C524B6-A6CF-4748-BF45-51A3CC4D3D58, folio:103660 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:42 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103660" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641918327</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:42 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103661-LM/MID-16092-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16092 . IdPoliza: 112631</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:43 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID A377E4D0-926E-4E85-AC3C-50353C03F087, folio:103661 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:43 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103661" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641920576</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:43 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL001022_0000 - CXC FACTURA QE82445-LM/QRO-1268-INDUSTRIA ENVASADORA DE QUERETARO para el registro LM.CPQRO1265 . IdPoliza: 112632</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:44 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/QE82445" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641919827</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:44 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103662-LM/MID-16093-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16093 . IdPoliza: 112633</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:44 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 5383CCA9-8C4B-4ED5-B5D7-A8902D766BC2, folio:103662 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:45 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103662" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641916827</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:45 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103663-LM/MID-16094-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16094 . IdPoliza: 112634</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:45 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID DA33A951-601E-4612-BDD8-54D56BC4E4B3, folio:103663 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:46 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103663" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641919826</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:46 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103664-LM/MID-16095-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16095 . IdPoliza: 112635</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:46 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 4687DCE6-BA61-49E8-9467-E5FCCA0F7AF3, folio:103664 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:46 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103664" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641912328</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:46 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHS16799-LM/ARR-10732-NUEVA WAL MART DE MEXICO para el registro LM.CPVHS3792 . IdPoliza: 112636</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:47 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/VHS16799" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641913077</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:47 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103665-LM/MID-16096-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16096 . IdPoliza: 112637</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:48 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 4E2C72FB-9300-494F-819D-6222C3E05C6F, folio:103665 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:48 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103665" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641912329</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:48 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN41824-LM/CUN-7230-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7230 . IdPoliza: 112638</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:49 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID B295D129-58EC-46ED-BDBB-18C1384D7247, folio:41824 y serie: CUN se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:49 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CUN41824" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641919077</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:49 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103666-LM/MID-16097-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16097 . IdPoliza: 112639</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:50 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 7892B558-95D4-4F95-8F5B-1A585C22B61B, folio:103666 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:50 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103666" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641912330</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:50 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103667-LM/MID-16098-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16098 . IdPoliza: 112640</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:51 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 721604E3-8C28-4C84-A36B-2991661D77F8, folio:103667 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:51 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103667" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641919078</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:51 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103668-LM/MID-16099-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16099 . IdPoliza: 112641</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:51 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 1D84D86D-38E8-4F3D-A630-782431C63248, folio:103668 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:52 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103668" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641919828</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:52 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103669-LM/MID-16100-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16100 . IdPoliza: 112642</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:52 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID C18F9C97-5121-4D53-9277-FAE90E7DF1BD, folio:103669 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:53 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103669" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641920577</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:53 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN41825-LM/CUN-7231-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7231 . IdPoliza: 112643</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:53 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID F5A235E6-399C-448A-A1F9-5800BA920C73, folio:41825 y serie: CUN se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:54 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CUN41825" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641918328</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:54 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103670-LM/MID-16101-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16101 . IdPoliza: 112644</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:54 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID F3336BBF-93DB-4570-B68A-6E99AA9CDF38, folio:103670 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:54 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103670" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641916828</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:55 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103671-LM/MID-16102-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16102 . IdPoliza: 112645</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:55 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 72F5A272-41FF-4FC2-A92B-696A361AAD50, folio:103671 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:55 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103671" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641916077</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:55 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN41826-LM/CUN-7234-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7234 . IdPoliza: 112646</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:56 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID D3843CE7-1564-44C8-9349-01AD32DA74CC, folio:41826 y serie: CUN se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:02:56 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CUN41826" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641913831</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>ProcesoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:08 p. m.</fecha>
+    <descripcion>Se encontraron un total de 26 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:08 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA VHS16800-LM/ARR-10733-NUEVA WAL MART DE MEXICO para el registro LM.CPVHS3793 . IdPoliza: 112647</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:08 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/VHS16800" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641912331</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:08 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN41827-LM/CUN-7235-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7235 . IdPoliza: 112648</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:09 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID AEBF7ED4-5033-40A0-908D-96D321703225, folio:41827 y serie: CUN se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:09 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CUN41827" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641917577</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:09 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN41828-LM/CUN-7236-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7236 . IdPoliza: 112649</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:10 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 9830B711-CA2C-4993-A5A9-AB7808CF1EA3, folio:41828 y serie: CUN se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:10 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CUN41828" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641917578</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:10 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN41829-LM/CUN-7237-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7237 . IdPoliza: 112650</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:11 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 384CC724-DB02-479B-BEE9-CE4136D16BDD, folio:41829 y serie: CUN se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:11 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CUN41829" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641917579</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:11 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56891-LM/MEXII-28548-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14914 . IdPoliza: 112653</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:11 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56891" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641918329</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:12 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103672-LM/MID-16103-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16103 . IdPoliza: 112654</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:12 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 95397BEC-45C6-403A-98BF-286B91033D09, folio:103672 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:12 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103672" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641919829</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:12 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56892-LM/MEXII-28549-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14915 . IdPoliza: 112655</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:13 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56892" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641919830</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:13 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56893-LM/MEXII-28496-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14891 . IdPoliza: 112656</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:14 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56893" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641919079</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:14 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56894-LM/MEXII-28398-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14840 . IdPoliza: 112657</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:14 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56894" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641918330</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:14 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56895-LM/MEXII-28556-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14916 . IdPoliza: 112658</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:15 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56895" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641920578</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:15 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56896-LM/MEXII-28561-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14917 . IdPoliza: 112659</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:16 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56896" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641919831</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:16 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56897-LM/MEXII-28562-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14918 . IdPoliza: 112660</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:16 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56897" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641920579</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:16 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56898-LM/MEXII-28513-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14895 . IdPoliza: 112661</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:17 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56898" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641916078</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:17 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56899-LM/MEXII-28515-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14896 . IdPoliza: 112662</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:18 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56899" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641914578</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:18 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103673-LM/MID-16105-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16105 . IdPoliza: 112663</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:18 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 4CF47625-C8BA-4A2E-B78A-7CE917537488, folio:103673 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:19 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103673" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641919080</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:19 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN41830-LM/CUN-7232-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7232 . IdPoliza: 112668</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:19 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 9D4C46F0-E05E-46C1-96AC-B02EC6499004, folio:41830 y serie: CUN se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:19 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CUN41830" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641919081</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:19 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56901-LM/MEXII-28524-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14898 . IdPoliza: 112669</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:20 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56901" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641916829</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:20 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN41831-LM/CUN-7233-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7233 . IdPoliza: 112670</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:21 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID E74AACB7-8439-41EF-B4E9-1AD0549278AC, folio:41831 y serie: CUN se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:21 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CUN41831" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641913078</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:21 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56903-LM/MEXII-28526-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14900 . IdPoliza: 112673</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:22 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56903" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641917580</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:22 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56904-LM/MEXII-28530-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14901 . IdPoliza: 112674</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:22 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56904" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641915329</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:22 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56905-LM/MEXII-28531-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14902 . IdPoliza: 112675</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:23 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56905" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641919832</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:23 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56906-LM/MEXII-28543-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14912 . IdPoliza: 112676</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:24 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56906" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641913079</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:24 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103674-LM/MID-16106-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16106 . IdPoliza: 112677</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:24 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 9D20285F-6840-4D2E-B3B0-D6C47C7EA93E, folio:103674 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:25 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103674" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641917581</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:25 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56907-LM/MEXII-28544-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14913 . IdPoliza: 112678</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:25 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56907" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641916079</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:26 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA TLE16682-LM/MEX-5570-NUEVA WAL MART DE MEXICO para el registro LM.CPTLE3131 . IdPoliza: 112679</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:26 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/TLE16682" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641916080</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:26 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56908-LM/MEXII-28533-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14903 . IdPoliza: 112680</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:27 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56908" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641916830</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>ProcesoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:37 p. m.</fecha>
+    <descripcion>Se encontraron un total de 30 procesos para polizas contables de ingreso</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:37 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56909-LM/MEXII-28534-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14904 . IdPoliza: 112681</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:37 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56909" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641913832</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:37 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56910-LM/MEXII-28541-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14911 . IdPoliza: 112682</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:38 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56910" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641914579</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:38 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56911-LM/MEXII-28535-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14905 . IdPoliza: 112683</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:39 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56911" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641914580</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:39 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56912-LM/MEXII-28537-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14907 . IdPoliza: 112684</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:39 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56912" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641912332</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:39 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56913-LM/MEXII-28538-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14908 . IdPoliza: 112685</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:40 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56913" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641912333</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:40 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56914-LM/MEXII-28539-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14909 . IdPoliza: 112686</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:41 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56914" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641919082</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:41 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56915-LM/MEXII-28540-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14910 . IdPoliza: 112687</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:41 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56915" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641912334</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:41 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56916-LM/MEXII-28564-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14919 . IdPoliza: 112688</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:42 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56916" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641912335</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:42 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN41832-LM/CUN-7238-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7238 . IdPoliza: 112689</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:42 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID F38C44AF-FAC6-4067-AC1D-B07804A81611, folio:41832 y serie: CUN se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:43 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CUN41832" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641913833</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:43 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000240_0000 - CXC FACTURA CHL56917-LM/MEXII-28565-NUEVA WAL MART DE MEXICO para el registro LM.CPCHL14920 . IdPoliza: 112690</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:43 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/CHL56917" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641918331</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:43 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103675-LM/MID-16107-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16107 . IdPoliza: 112691</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:44 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 6379BCF7-3760-4F25-8194-4A6412D7F101, folio:103675 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:44 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103675" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641912336</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:44 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA MID103676-LM/MID-16108-EMBOTELLADORAS BEPENSA para el registro LM.CPMID16108 . IdPoliza: 112692</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>GrabadocumentoXML</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:45 p. m.</fecha>
+    <descripcion>El archivo CFDI con UUID 542C33F3-7BA0-45DF-B20D-ED4F12DC977D, folio:103676 y serie: MID se ha registrado con éxito</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:45 p. m.</fecha>
+    <descripcion>El diario contable con folio "LM/MID103676" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5641915330</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>CreaLoteIngresosD365</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:03:45 p. m.</fecha>
+    <descripcion>Procesando transacción del cliente CL000001_0000 - CXC FACTURA CUN41833-LM/CUN-7239-EMBOTELLADORAS BEPENSA para el registro LM.CPCUN7239 . IdPoliza: 112693</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>ProcesoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:04:16 p. m.</fecha>
+    <descripcion>Se han encontrado un total de 11 movimientos para el período seleccionado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>ProcesoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>20/01/2026 05:04:16 p. m.</fecha>
+    <descripcion>Se encontraton un total de 4 procesos para polizas contables de tipo pasivos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaEjecutaMovimientosIngreso</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>DAPI365</modulo>
+    <fecha>20/01/2026 05:04:21 p. m.</fecha>
+    <descripcion>{ "Success":true, "VersionAPI":"25.14.01.04", "PaginaActual":"1", "TotalPaginas":1, "Result":[ { "Encabezado":[ { "ProcesoLigado":"ProPasivos", "IdPoliza":"113040", "NumeroPoliza":"2048", "Estatus":"0", "AprobadoPor":"", "CodProveedor":"", "Compania":"", "Descripcion":"", "DesctoPago":"", "Docto":"", "Factura":"", "FechaDocto":"", "FechaFactura":"", "FechaVencimiento":"", "FechaTrans":"", "Folio":"", "IdFactReferencia":"", "IdRegistro":"", "ImpuestosInc":"", "MetodoPagoSAT":"", "Moneda":"", "NombreDiario":"346FACAX", "Serie":"", "SinComprobante":"", "SistemaOrigen":"", "Subtotal":"", "Texto":"Os:10574 Corp:17187 Tiporden:PREVENTIVO Clien:Logimayab | Tiempo de servicio: 0.25", "TipoCambio":"", "TipoFact":"", "Total":"", "UUID":"", "XMLFactura":"", "Conceptos":null, "Lineas":[ { "CodImpuesto":"", "Credito":"", "CuentaContable":"601-084-000000", "CuentaContableD365":"ELA216001", "Debito":"12.6950", "DimArea":"SE", "DimCeco":"B901", "DimDepto":"SE06", "Vehiculo":"17187", "DimFilTer":"T001", "DimSucursal":"YUC001", "GrupoImpuestos":"", "GrupoImpuestosArt":"", "NombreProveedor":"", "TipoProveedor":"", "TipoOperacion":"", "Texto":"Os:10574 Corp:17187 Tiporden:PREVENTIVO Clien:Logimayab | Tiempo de servicio: 0.25", "RFC":"", "SinComprobante":"" } ] }, { "ProcesoLigado":"ProPasivos", "IdPoliza":"113041", "NumeroPoliza":"2049", "Estatus":"0", "AprobadoPor":"", "CodProveedor":"", "Compania":"", "Descripcion":"", "DesctoPago":"", "Docto":"", "Factura":"", "FechaDocto":"", "FechaFactura":"", "FechaVencimiento":"", "FechaTrans":"", "Folio":"", "IdFactReferencia":"", "IdRegistro":"", "ImpuestosInc":"", "MetodoPagoSAT":"", "Moneda":"", "NombreDiario":"346FACAX", "Serie":"", "SinComprobante":"", "SistemaOrigen":"", "Subtotal":"", "Texto":"Os:10574 Corp:17187 Tiporden:PREVENTIVO Clien:Logimayab | Tiempo de servicio: 0.25", "TipoCambio":"", "TipoFact":"", "Total":"", "UUID":"", "XMLFactura":"", "Conceptos":null, "Lineas":[ { "CodImpuesto":"", "Credito":"", "CuentaContable":"601-084-000000", "CuentaContableD365":"ELA216001", "Debito":"12.6950", "DimArea":"SE", "DimCeco":"B901", "DimDepto":"SE06", "Vehiculo":"17187", "DimFilTer":"T001", "DimSucursal":"YUC001", "GrupoImpuestos":"", "GrupoImpuestosArt":"", "NombreProveedor":"", "TipoProveedor":"", "TipoOperacion":"", "Texto":"Os:10574 Corp:17187 Tiporden:PREVENTIVO Clien:Logimayab | Tiempo de servicio: 0.25", "RFC":"", "SinComprobante":"" } ] }, { "ProcesoLigado":"ProPasivos", "IdPoliza":"113042", "NumeroPoliza":"2050", "Estatus":"0", "AprobadoPor":"", "CodProveedor":"", "Compania":"", "Descripcion":"", "DesctoPago":"", "Docto":"", "Factura":"", "FechaDocto":"", "FechaFactura":"", "FechaVencimiento":"", "FechaTrans":"", "Folio":"", "IdFactReferencia":"", "IdRegistro":"", "ImpuestosInc":"", "MetodoPagoSAT":"", "Moneda":"", "NombreDiario":"346FACAX", "Serie":"", "SinComprobante":"", "SistemaOrigen":"", "Subtotal":"", "Texto":"Os:10622 Corp:15522 Tiporden:PREVENTIVO Clien:Logimayab | Tiempo de servicio: 0.10", "TipoCambio":"", "TipoFact":"", "Total":"", "UUID":"", "XMLFactura":"", "Conceptos":null, "Lineas":[ { "CodImpuesto":"", "Credito":"", "CuentaContable":"601-084-000000", "CuentaContableD365":"ELA216001", "Debito":"5.0920", "DimArea":"SE", "DimCeco":"B903", "DimDepto":"SE06", "Vehiculo":"15522", "DimFilTer":"T001", "DimSucursal":"YUC007", "GrupoImpuestos":"", "GrupoImpuestosArt":"", "NombreProveedor":"", "TipoProveedor":"", "TipoOperacion":"", "Texto":"Os:10622 Corp:15522 Tiporden:PREVENTIVO Clien:Logimayab | Tiempo de servicio: 0.10", "RFC":"", "SinComprobante":"" } ] }, { "ProcesoLigado":"ProPasivos", "IdPoliza":"113043", "NumeroPoliza":"2051", "Estatus":"0", "AprobadoPor":"", "CodProveedor":"", "Compania":"", "Descripcion":"", "DesctoPago":"", "Docto":"", "Factura":"", "FechaDocto":"", "FechaFactura":"", "FechaVencimiento":"", "FechaTrans":"", "Folio":"", "IdFactReferencia":"", "IdRegistro":"", "ImpuestosInc":"", "MetodoPagoSAT":"", "Moneda":"", "NombreDiario":"346FACAX", "Serie":"", "SinComprobante":"", "SistemaOrigen":"", "Subtotal":"", "Texto":"Os:10622 Corp:15522 Tiporden:PREVENTIVO Clien:Logimayab | Tiempo de servicio: 0.10", "TipoCambio":"", "TipoFact":"", "Total":"", "UUID":"", "XMLFactura":"", "Conceptos":null, "Lineas":[ { "CodImpuesto":"", "Credito":"", "CuentaContable":"601-084-000000", "CuentaContableD365":"ELA216001", "Debito":"5.0920", "DimArea":"SE", "DimCeco":"B903", "DimDepto":"SE06", "Vehiculo":"15522", "DimFilTer":"T001", "DimSucursal":"YUC007", "GrupoImpuestos":"", "GrupoImpuestosArt":"", "NombreProveedor":"", "TipoProveedor":"", "TipoOperacion":"", "Texto":"Os:10622 Corp:15522 Tiporden:PREVENTIVO Clien:Logimayab | Tiempo de servicio: 0.10", "RFC":"", "SinComprobante":"" } ] }, { "ProcesoLigado":"ProPasivos", "IdPoliza":"113044", "NumeroPoliza":"2052", "Estatus":"0", "AprobadoPor":"", "CodProveedor":"", "Compania":"", "Descripcion":"", "DesctoPago":"", "Docto":"", "Factura":"", "FechaDocto":"", "FechaFactura":"", "FechaVencimiento":"", "FechaTrans":"", "Folio":"", "IdFactReferencia":"", "IdRegistro":"", "ImpuestosInc":"", "MetodoPagoSAT":"", "Moneda":"", "NombreDiario":"346FACAX", "Serie":"", "SinComprobante":"", "SistemaOrigen":"", "Subtotal":"", "Texto":"Os:10622 Corp:15522 Tiporden:PREVENTIVO Clien:Logimayab | Tiempo de servicio: 0.05", "TipoCambio":"", "TipoFact":"", "Total":"", "UUID":"", "XMLFactura":"", "Conceptos":null, "Lineas":[ { "CodImpuesto":"", "Credito":"", "CuentaContable":"601-084-000000", "CuentaContableD365":"ELA216001", "Debito":"2.5460", "DimArea":"SE", "DimCeco":"B903", "DimDepto":"SE06", "Vehiculo":"15522", "DimFilTer":"T001", "DimSucursal":"YUC007", "GrupoImpuestos":"", "GrupoImpuestosArt":"", "NombreProveedor":"", "TipoProveedor":"", "TipoOperacion":"", "Texto":"Os:10622 Corp:15522 Tiporden:PREVENTIVO Clien:Logimayab | Tiempo de servicio: 0.05", "RFC":"", "SinComprobante":"" } ] }, { "ProcesoLigado":"ProPasivos", "IdPoliza":"113045", "NumeroPoliza":"2053", "Estatus":"0", "AprobadoPor":"", "CodProveedor":"", "Compania":"", "Descripcion":"", "DesctoPago":"", "Docto":"", "Factura":"", "FechaDocto":"", "FechaFactura":"", "FechaVencimiento":"", "FechaTrans":"", "Folio":"", "IdFactReferencia":"", "IdRegistro":"", "ImpuestosInc":"", "MetodoPagoSAT":"", "Moneda":"", "NombreDiario":"346FACAX", "Serie":"", "SinComprobante":"", "SistemaOrigen":"", "Subtotal":"", "Texto":"Os:10622 Corp:15522 Tiporden:PREVENTIVO Clien:Logimayab | Tiempo de servicio: 0.10", "TipoCambio":"", "TipoFact":"", "Total":"", "UUID":"", "XMLFactura":"", "Conceptos":null, "Lineas":[ { "CodImpuesto":"", "Credito":"", "CuentaContable":"601-084-000000", "CuentaContableD365":"ELA216001", "Debito":"5.0920", "DimArea":"SE", "DimCeco":"B903", "DimDepto":"SE06", "Vehiculo":"15522", "DimFilTer":"T001", "DimSucursal":"YUC007", "GrupoImpuestos":"", "GrupoImpuestosArt":"", "NombreProveedor":"", "TipoProveedor":"", "TipoOperacion":"", "Texto":"Os:10622 Corp:15522 Tiporden:PREVENTIVO Clien:Logimayab | Tiempo de servicio: 0.10", "RFC":"", "SinComprobante":"" } ] }, { "ProcesoLigado":"ProPasivos", "IdPoliza":"113046", "NumeroPoliza":"2054", "Estatus":"0", "AprobadoPor":"", "CodProveedor":"", "Compania":"", "Descripcion":"", "DesctoPago":"", "Docto":"", "Factura":"", "FechaDocto":"", "FechaFactura":"", "FechaVencimiento":"", "FechaTrans":"", "Folio":"", "IdFactReferencia":"", "IdRegistro":"", "ImpuestosInc":"", "MetodoPagoSAT":"", "Moneda":"", "NombreDiario":"346FACAX", "Serie":"", "SinComprobante":"", "SistemaOrigen":"", "Subtotal":"", "Texto":"Os:10622 Corp:15522 Tiporden:PREVENTIVO Clien:Logimayab | Tiempo de servicio: 7.00", "TipoCambio":"", "TipoFact":"", "Total":"", "UUID":"", "XMLFactura":"", "Conceptos":null, "Lineas":[ { "CodImpuesto":"", "Credito":"", "CuentaContable":"601-084-000000", "CuentaContableD365":"ELA216001", "Debito":"356.4400", "DimArea":"SE", "DimCeco":"B903", "DimDepto":"SE06", "Vehiculo":"15522", "DimFilTer":"T001", "DimSucursal":"YUC007", "GrupoImpuestos":"", "GrupoImpuestosArt":"", "NombreProveedor":"", "TipoProveedor":"", "TipoOperacion":"", "Texto":"Os:10622 Corp:15522 Tiporden:PREVENTIVO Clien:Logimayab | Tiempo de servicio: 7.00", "RFC":"", "SinComprobante":"" } ] }, { "ProcesoLigado":"ProPasivos", "IdPoliza":"113868", "NumeroPoliza":"2866", "Estatus":"0", "AprobadoPor":"", "CodProveedor":"0004548", "Compania":"LOG", "Descripcion":"Diario de factura para entrada", "DesctoPago":"", "Docto":"VHA 44903", "Factura":"VHA 44903", "FechaDocto":"2025-09-06 00:00:00", "FechaFactura":"2025-09-06 00:00:00", "FechaVencimiento":"2025-10-06 00:00:00", "FechaTrans":"", "Folio":"44903", "IdFactReferencia":"0", "IdRegistro":"LM.CP13196", "ImpuestosInc":"1", "MetodoPagoSAT":"", "Moneda":"MXN", "NombreDiario":"", "Serie":"VHA", "SinComprobante":"", "SistemaOrigen":"", "Subtotal":"9790.0000000000", "Texto":"Factura VHA 44903", "TipoCambio":"1.000000", "TipoFact":"0", "Total":"11356.4000000000", "UUID":"1B905FC6-2D0C-4AD0-AA38-268EDF84963C", "XMLFactura":"PABjAGYAZABpADoAQwBvAG0AcAByAG8AYgBhAG4AdABlACAAeABtAGwAbgBzADoAYwBmAGQAaQA9ACIAaAB0AHQAcAA6AC8ALwB3AHcAdwAuAHMAYQB0AC4AZwBvAGIALgBtAHgALwBjAGYAZAAvADQAIgAgAHgAbQBsAG4AcwA6AHgAcwBpAD0AIgBoAHQAdABwADoALwAvAHcAdwB3AC4AdwAzAC4AbwByAGcALwAyADAAMAAxAC8AWABNAEwAUwBjAGgAZQBtAGEALQBpAG4AcwB0AGEAbgBjAGUAIgAgAHgAcwBpADoAcwBjAGgAZQBtAGEATABvAGMAYQB0AGkAbwBuAD0AIgBoAHQAdABwADoALwAvAHcAdwB3AC4AcwBhAHQALgBnAG8AYgAuAG0AeAAvAGMAZgBkAC8ANAAgAGgAdAB0AHAAOgAvAC8AdwB3AHcALgBzAGEAdAAuAGcAbwBiAC4AbQB4AC8AcwBpAHQAaQBvAF8AaQBuAHQAZQByAG4AZQB0AC8AYwBmAGQALwA0AC8AYwBmAGQAdgA0ADAALgB4AHMAZAAiACAAVgBlAHIAcwBpAG8AbgA9ACIANAAuADAAIgAgAE4AbwBDAGUAcgB0AGkAZgBpAGMAYQBkAG8APQAiADAAMAAwADAAMQAwADAAMAAwADAAMAA3ADAAMAAzADkANwA0ADAAMgAiACAATAB1AGcAYQByAEUAeABwAGUAZABpAGMAaQBvAG4APQAiADUAMwAwADAAMAAiACAATQBlAHQAbwBkAG8AUABhAGcAbwA9ACIAUABQAEQAIgAgAEMAZQByAHQAaQBmAGkAYwBhAGQAbwA9ACIATQBJAEkARwBYAGoAQwBDAEIARQBhAGcAQQB3AEkAQgBBAGcASQBVAE0ARABBAHcATQBEAEUAdwBNAEQAQQB3AE0ARABBADMATQBEAEEAegBPAFQAYwAwAE0ARABJAHcARABRAFkASgBLAG8AWgBJAGgAdgBjAE4AQQBRAEUATABCAFEAQQB3AGcAZwBHAFYATQBUAFUAdwBNAHcAWQBEAFYAUQBRAEQARABDAHgAQgBRAHkAQgBFAFIAVQB3AGcAVQAwAFYAUwBWAGsAbABEAFMAVQA4AGcAUgBFAFUAZwBRAFUAUgBOAFMAVQA1AEoAVQAxAFIAUwBRAFUATgBKAFQAMAA0AGcAVgBGAEoASgBRAGwAVgBVAFEAVgBKAEoAUQBUAEUAdQBNAEMAdwBHAEEAMQBVAEUAQwBnAHcAbABVADAAVgBTAFYAawBsAEQAUwBVADgAZwBSAEUAVQBnAFEAVQBSAE4AUwBVADUASgBVADEAUgBTAFEAVQBOAEoAVAAwADQAZwBWAEYASgBKAFEAbABWAFUAUQBWAEoASgBRAFQARQBhAE0AQgBnAEcAQQAxAFUARQBDAHcAdwBSAFUAMABGAFUATABVAGwARgBVAHkAQgBCAGQAWABSAG8AYgAzAEoAcABkAEgAawB4AE0AagBBAHcAQgBnAGsAcQBoAGsAaQBHADkAdwAwAEIAQwBRAEUAVwBJADMATgBsAGMAbgBaAHAAWQAyAGwAdgBjADIARgBzAFkAMgA5AHUAZABIAEoAcABZAG4AVgA1AFoAVwA1ADAAWgBVAEIAegBZAFgAUQB1AFoAMgA5AGkATABtADEANABNAFMAWQB3AEoAQQBZAEQAVgBRAFEASgBEAEIAMQBCAGQAaQA0AGcAUwBHAGwAawBZAFcAeABuAGIAeQBBADMATgB5AHcAZwBRADIAOQBzAEwAaQBCAEgAZABXAFYAeQBjAG0AVgB5AGIAegBFAE8ATQBBAHcARwBBADEAVQBFAEUAUQB3AEYATQBEAFkAegBNAEQAQQB4AEMAegBBAEoAQgBnAE4AVgBCAEEAWQBUAEEAawAxAFkATQBRADAAdwBDAHcAWQBEAFYAUQBRAEkARABBAFIARABSAEUAMQBZAE0AUgBNAHcARQBRAFkARABWAFEAUQBIAEQAQQBwAEQAVgBVAEYAVgBTAEYAUgBGAFQAVQA5AEQATQBSAFUAdwBFAHcAWQBEAFYAUQBRAHQARQB3AHgAVABRAFYAUQA1AE4AegBBADMATQBEAEYATwBUAGoATQB4AFgARABCAGEAQgBnAGsAcQBoAGsAaQBHADkAdwAwAEIAQwBRAEkAVABUAFgASgBsAGMAMwBCAHYAYgBuAE4AaABZAG0AeABsAE8AaQBCAEIAUgBFADEASgBUAGsAbABUAFYARgBKAEIAUQAwAGwAUABUAGkAQgBEAFIAVQA1AFUAVQBrAEYATQBJAEUAUgBGAEkARgBOAEYAVQBsAFoASgBRADAAbABQAFUAeQBCAFUAVQBrAGwAQwBWAFYAUgBCAFUAawBsAFAAVQB5AEIAQgBUAEMAQgBEAFQAMAA1AFUAVQBrAGwAQwBWAFYAbABGAFQAbABSAEYATQBCADQAWABEAFQASQB6AE0ARABZAHgATQBqAEUAMgBOAFQARQB5AE4AVgBvAFgARABUAEkAMwBNAEQAWQB4AE0AagBFADIATgBUAEUAeQBOAFYAbwB3AGcAZwBFAGEATQBVAEEAdwBQAGcAWQBEAFYAUQBRAEQARQB6AGQATgBWAFUAVgBNAFQARQBWAFQATABDAEIAVABWAFYATgBRAFIAVQA1AFQAUwBVADkATwBSAFYATQBnAFcAUwBCAE4AUQBVADUAVQBSAFUANQBKAFQAVQBsAEYAVABsAFIAUABJAEUAbABPAFYARQBWAEgAVQBrAEYATQBJAEYATgBCAEkARQBSAEYASQBFAE4AVwBNAFUAQQB3AFAAZwBZAEQAVgBRAFEAcABFAHoAZABOAFYAVQBWAE0AVABFAFYAVABMAEMAQgBUAFYAVgBOAFEAUgBVADUAVABTAFUAOQBPAFIAVgBNAGcAVwBTAEIATgBRAFUANQBVAFIAVQA1AEoAVABVAGwARgBUAGwAUgBQAEkARQBsAE8AVgBFAFYASABVAGsARgBNAEkARgBOAEIASQBFAFIARgBJAEUATgBXAE0AVQBBAHcAUABnAFkARABWAFEAUQBLAEUAegBkAE4AVgBVAFYATQBUAEUAVgBUAEwAQwBCAFQAVgBWAE4AUQBSAFUANQBUAFMAVQA5AE8AUgBWAE0AZwBXAFMAQgBOAFEAVQA1AFUAUgBVADUASgBUAFUAbABGAFQAbABSAFAASQBFAGwATwBWAEUAVgBIAFUAawBGAE0ASQBGAE4AQgBJAEUAUgBGAEkARQBOAFcATQBTAFUAdwBJAHcAWQBEAFYAUQBRAHQARQB4AHgATgBVADAAMAB4AE4AVABBADEATQBEAGgAVgBOAGoAYwBnAEwAeQBCAE4AVAAxAE4AUQBOAHoATQB4AE0AVABFAHcAUwBFADEAQgBNAFIANAB3AEgAQQBZAEQAVgBRAFEARgBFAHgAVQBnAEwAeQBCAE4AVAAxAE4AUQBOAHoATQB4AE0AVABFAHcAUwBFAFIARwBVAGsANQBFAE0ARABjAHgAQwB6AEEASgBCAGcATgBWAEIAQQBzAFQAQQBsAEoARwBNAEkASQBCAEkAagBBAE4AQgBnAGsAcQBoAGsAaQBHADkAdwAwAEIAQQBRAEUARgBBAEEATwBDAEEAUQA4AEEATQBJAEkAQgBDAGcASwBDAEEAUQBFAEEAZwBPAHUANAA5ADkAVABRACsAKwByAFMAYgBLAEMAYwBpAEYANABUAFgAbgBlAEoAYQAyAGsAeAA1ADAALwBxAHQAZwBTADgAUgAvAFMAcABGAHoANABWADQAQwArAGcAegBBAGwAegBJAGMAeABsAG4AeQBjAEkATwBLAHEASwBRAFEAcwB3AFAAcgArAFgAQQAyAG8AdQBLAGoAbQBjAC8AQwBCAG4AcgB1AGoAUABIAHkAdgBzAG4AdgBuADEAZwB4AHoATQA2AFgASwBFAFgAYQBkAFgANwBvAFQATAAzADkAbwBlAGcAaQBYAFcATwB2AGgAegBGAFAAcgArAEcATQBsAGkAdwBzADEAZQA4AEIAUQBwADYARQBjAEQAbQAyAFMAawB0AFMAbgBQAGkAcgA1AG8AcQA5AE0AbABoADUASgBFADMALwBqADkAWQBhADcATwBIAE8AbwBDAEIAQQBZADAANAB1AEcAdQArAFgAaAA0AEwANQBDAHkAZwBmAFUAUgB3AEwAKwBiAGcAbwBKAHoATAA5AGIAaAByAFAAWABnAHkAWgBaADEAcgBxAGIAdgBuAHMAMgBrAEsAdwBIAFkAbgA1AHoASwBmADQAYQB5AGcARAB5AFEAbABNAGwATgBiAG4AeABqAEMAawA3AFEAawBiAHkAWgA1AGoAVABZAEIAeQB4ADgAZQBpAHIATAB5AHEAQgBSAEsAOQBYADgAYwBaACsAOABhAHoASABZAFUAZQAvAFAAQQBMAHQAQQBKAFUAagAzAFEAUwBqADIANQBaADEASQB4AHkAaQBXAHoAbgB2ADAAWQBhAHIARgBBADkARgBLAFgAcwBVAFcAaQA4AHIAaABaAFoAagA1AGUAdwBTAFIARwBoADcAVABTAFEASQBEAEEAUQBBAEIAbwB4ADAAdwBHAHoAQQBNAEIAZwBOAFYASABSAE0AQgBBAGYAOABFAEEAagBBAEEATQBBAHMARwBBADEAVQBkAEQAdwBRAEUAQQB3AEkARwB3AEQAQQBOAEIAZwBrAHEAaABrAGkARwA5AHcAMABCAEEAUQBzAEYAQQBBAE8AQwBBAGcARQBBAHgASABCAEsAZwBlAGYAMABOAFoANwBQAG0AdwBPAEcAVQAwADQALwBnAEIAWABZAHUAUwBPADYAcABKAC8AcQBSAFAARQBlAEsAMgA0AHgAbgBVAFYATgA1AEEASQBOAE8ASwBEAHgARwBwAGwANABZAFMAZwBzAEsAVgB1ACsAdQBqAEUAYQByADYARQBWAHUAZQB0AG8AYQBXAFgAdwBIADkAYQBNAG8AcwBIAEEARgAxAEgATwBzAEcAdwByAEgAMABpAHIAcgBVAEQAeQBsAEUAZgBNAE0AYwBBAEIAMwAzADgAQwB2AGkAVgBKAEwAeQAzAGoAaAAvAHQARgAvAEUAOQBuADQAYgBUAEcATQBtAFIASgBaAFUAYgB2ADEAZwBBAFYAdwB4ADAAQwAzADcAOQBvAEgAcAB6AGsAVgBpAGwANwBCADAANQBxAE4AagBtAHIAVgBUAEgAUgBCAEcAQwB4AFgAZQB6AFoAWABwAGMATQA1AFUAbAA1ADkAeQBMAFAANgBZAGEANQA1AE8AQQBhAGEAVgBjACsATAArAFcAdQBXAGgAMQByAFcAZgByAEoAUwBmAEUARwBVAFEASwB1AHIAdQBLAG0AVQB6ADgAMABnAHYAVgA0AGUAZABlAFoAZgBZAGkAdwBVAEUASwBwAHkAUABTAFoAeQBSAE4ARwA5AHoAUQA4AEYASwBnAG0ARgB5AGwANABVAEwAWABkAHgALwBOAEQASwBjAEcANAAwAGEAMQBnAEMASQBlAEsAMgBqAE4AcQB3AFoAZwBLAFQAUQAyAE4AaABYADMARwBCAEcAQwArAFcASgBSADQASwBRAFEASQBFAEwASQBLADMANAAwAG8ARwBwAEoAYgBmAEgAUQBtAFEAUwB4AHMAVAAxAEEAZwBwAFcAMAA4ADUAeABpAHgAZwBEAFEANwArAEEAVAB6ADYAYQAzAE4AdwBzADQATQBMAHIAaQBIAGIAagBNAHEAdQBXAHUAKwBqAHIAZwAwAEwASQBTAEgAWABHAGEAdAB6AEQAUwB0AG8AVQBuAEYAcQBQAGMAUQBHAFAAMgB0AEQASABQAEwAUQB2AFQASABkAFYAdAA5AHkAUABjADIAbAArAEUANgB5AGkAQgA5AHEAcgBvAGcAQwBHAHgAQgBTAGcAegAyAGYAdgBEAC8AeABXAEgASABUAGcARAAxAGsAMwBVAG4AMQBFADkAQQBuAHkAawBqAHcAMQBpADkAUQBsADQAQwBEAFgAUgA0ACsAUgAxAHgASgBtAC8AawB0AE8AMQB6ADgASwBrAGwAZQBEAEIAMwB4AE8AQQBCAFoAUwA1AGQAMgA0AG8ARAA2ACsAbQBWAHYAdQBWAHcARABCADUAcgB0AG8AaABjAFYAaQBTAFoAcgAxAFUAUwBoAGgAcwBiAHYARQA4AGQAcgBhAEUATQB1AHkAdgBmAEsAVABrAEYAUwBWADYARwByAGsAdABqAFIASwBBAHoAYwBoAEIAUQA2AEgAUgBWAEQAKwBDAFEAUABKAEEAMwBlAFYAbAA5ADQAZgBqAGoANABiADIAYgBnAEMAQwBLAFEASgB1AHYAWgA0AHIAbAB5AFQAMABSAFoAaQBBAEcAYwBPAFoAbwB0AFQAYQBrAHMASABUAEYAUwArAEUAZQBKAHAARAA5AHQAMABIACsANABDAFQAUgBIAGQAQwA5AHgAeAA3AGIAbwBvAEQAZgAwAHEAcABMAEkAdABIAHkAaQAvAEgASwBaADMAbgBZAHQAZQBIAHYATQAxAGwAcQBsAFMAUQA9ACIAIABUAGkAcABvAEQAZQBDAG8AbQBwAHIAbwBiAGEAbgB0AGUAPQAiAEkAIgAgAEYAbwByAG0AYQBQAGEAZwBvAD0AIgA5ADkAIgAgAEYAbwBsAGkAbwA9ACIANAA0ADkAMAAzACIAIABNAG8AbgBlAGQAYQA9ACIATQBYAE4AIgAgAFMAZQByAGkAZQA9ACIAVgBIAEEAIgAgAEUAeABwAG8AcgB0AGEAYwBpAG8AbgA9ACIAMAAxACIAIABGAGUAYwBoAGEAPQAiADIAMAAyADUALQAwADkALQAwADYAVAAxADAAOgA0ADEAOgA1ADkAIgAgAFQAbwB0AGEAbAA9ACIAMQAxADMANQA2AC4ANAAwACIAIABTAHUAYgBUAG8AdABhAGwAPQAiADkANwA5ADAALgAwADAAIgAgAFMAZQBsAGwAbwA9ACIASgBnAEgAVQBnADcAVgAvAHgARQBhAEoAUgBUAFoAbAByAFYASwAvAFkAZgBkAGcAdQAyAFUARABsAEoAVgBJAEMASAA1AFYAYgBUAHcASwAvAHoAWgBOAGQANABvAGYATwBvAHEAegAvAGwAYgBmAHEAUgBHAE0ARQAwAEIANwBlAGsAVgBLAFkAKwBHAGcAQQBGADEAcgBLAEgARgA1AGgAYQBkADgASgAvADcASwBTAHoAawBwAGIALwBIAGcALwB2ADgARwBvAEoAMQB5AG8AUAA2AFAALwA3ADkATABUAGcASABGAEUARABVAFUAZABaAHIAbABYAEMAcwBsAEIARwBTAHkAVAByAEwAaABZAEMAMgBLAFIANgBmAFAARAB6ADMAaQBjAEYATwBBAG8AUABrAGEAMQBNAEYATAAvAHkAKwBRADcAQQA5ACsAcwAvAGcAdgBXAHIAQgB1ADAAZQBaAFYAUQBxAGoAcwBIAGgAKwBQAEEAdgAzADcAVwBtADQAcQB6AEwAZwBrAGUASwBoAGUAOABVAGUAegArAGEARAAzAGwAWAB3AE4AQwBzAC8ARgA5ADMANQByAGwAVgBMAFQAUwBpAGQAcwBOADMARABEAE8AUgB2AGYAKwBTAEkAbQBnAHoAdwBaADIAZQAxAGcATQAwAEkAQwBVAHEARAA2ADAAdABBAGgARABEAHMAaQBaADUAQwBMAEQAdQBMADUAeQByAGkAUABXADcASwBNAEYAYwBOAFMAVABQAEcAbgBTADIAWQBIAFAAdwBzAGEAQQBoAEkANgBGAEEAcQBQAFUAZgBjAC8ATQAzAGgAKwAyAGsAOQBqAFoAVAA4AGIANwBWAGQASABpAGgAOABQAEEARgB3ADUAMQAzAGkAWQBpAGcAPQA9ACIAPgAKACAAIAA8AGMAZgBkAGkAOgBFAG0AaQBzAG8AcgAgAFIAZQBnAGkAbQBlAG4ARgBpAHMAYwBhAGwAPQAiADYAMgA2ACIAIABOAG8AbQBiAHIAZQA9ACIATQBVAEUATABMAEUAUwAsACAAUwBVAFMAUABFAE4AUwBJAE8ATgBFAFMAIABZACAATQBBAE4AVABFAE4ASQBNAEkARQBOAFQATwAgAEkATgBUAEUARwBSAEEATAAiACAAUgBmAGMAPQAiAE0AUwBNADEANQAwADUAMAA4AFUANgA3ACIALwA+AAoAIAAgADwAYwBmAGQAaQA6AFIAZQBjAGUAcAB0AG8AcgAgAFUAcwBvAEMARgBEAEkAPQAiAEcAMAAzACIAIABOAG8AbQBiAHIAZQA9ACIATABPAEcASQBTAFQASQBDAEEAIABEAEUATAAgAE0AQQBZAEEAQgAiACAAUgBmAGMAPQAiAEwATQBBADAANAAwADIAMgA3ADUAUQA2ACIAIABEAG8AbQBpAGMAaQBsAGkAbwBGAGkAcwBjAGEAbABSAGUAYwBlAHAAdABvAHIAPQAiADkANwAxADYAMAAiACAAUgBlAGcAaQBtAGUAbgBGAGkAcwBjAGEAbABSAGUAYwBlAHAAdABvAHIAPQAiADYAMgA0ACIALwA+AAoAIAAgADwAYwBmAGQAaQA6AEMAbwBuAGMAZQBwAHQAbwBzAD4ACgAgACAAIAAgADwAYwBmAGQAaQA6AEMAbwBuAGMAZQBwAHQAbwAgAE4AbwBJAGQAZQBuAHQAaQBmAGkAYwBhAGMAaQBvAG4APQAiADUAMAAwADAAIgAgAEMAbABhAHYAZQBQAHIAbwBkAFMAZQByAHYAPQAiADcAOAAxADgAMQA1ADAAMAAiACAARABlAHMAYwByAGkAcABjAGkAbwBuAD0AIgBTAGUAcgB2AGkAYwBpAG8AcwAgAGQAZQAgAG0AYQBuAHQAZQBuAGkAbQBpAGUAbgB0AG8AIAB5ACAAcgBlAHAAYQByAGEAYwBpAMMAswBuACAAZABlACAAdgBlAGgAwwCtAGMAdQBsAG8AcwAgAGEAdQB0AG8AbQBvAHQAcgBpAHoAIgAgAEMAbABhAHYAZQBVAG4AaQBkAGEAZAA9ACIARQA0ADgAIgAgAFYAYQBsAG8AcgBVAG4AaQB0AGEAcgBpAG8APQAiADMANQAwACIAIABDAGEAbgB0AGkAZABhAGQAPQAiADEAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADMANQAwAC4AMAAwACIAIABPAGIAagBlAHQAbwBJAG0AcAA9ACIAMAAyACIAPgAKACAAIAAgACAAIAAgADwAYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4ACgAgACAAIAAgACAAIAAgACAAPABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgAKACAAIAAgACAAIAAgACAAIAAgACAAPABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvACAAVABpAHAAbwBGAGEAYwB0AG8AcgA9ACIAVABhAHMAYQAiACAAVABhAHMAYQBPAEMAdQBvAHQAYQA9ACIAMAAuADEANgAwADAAMAAwACIAIABJAG0AcAB1AGUAcwB0AG8APQAiADAAMAAyACIAIABCAGEAcwBlAD0AIgAzADUAMAAuADAAMAAiACAASQBtAHAAbwByAHQAZQA9ACIANQA2AC4AMAAwACIALwA+AAoAIAAgACAAIAAgACAAIAAgADwALwBjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgAKACAAIAAgACAAIAAgADwALwBjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAPgAKACAAIAAgACAAPAAvAGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8APgAKACAAIAAgACAAPABjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvACAATgBvAEkAZABlAG4AdABpAGYAaQBjAGEAYwBpAG8AbgA9ACIANwAwADYAMAAiACAAQwBsAGEAdgBlAFAAcgBvAGQAUwBlAHIAdgA9ACIAMgA1ADEANwA0ADgAMAAwACIAIABEAGUAcwBjAHIAaQBwAGMAaQBvAG4APQAiAFYAQQBMAFYAVQBMAEEAIgAgAEMAbABhAHYAZQBVAG4AaQBkAGEAZAA9ACIASAA4ADcAIgAgAFYAYQBsAG8AcgBVAG4AaQB0AGEAcgBpAG8APQAiADEANQAwACIAIABDAGEAbgB0AGkAZABhAGQAPQAiADIAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADMAMAAwAC4AMAAwACIAIABPAGIAagBlAHQAbwBJAG0AcAA9ACIAMAAyACIAPgAKACAAIAAgACAAIAAgADwAYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4ACgAgACAAIAAgACAAIAAgACAAPABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgAKACAAIAAgACAAIAAgACAAIAAgACAAPABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvACAAVABpAHAAbwBGAGEAYwB0AG8AcgA9ACIAVABhAHMAYQAiACAAVABhAHMAYQBPAEMAdQBvAHQAYQA9ACIAMAAuADEANgAwADAAMAAwACIAIABJAG0AcAB1AGUAcwB0AG8APQAiADAAMAAyACIAIABCAGEAcwBlAD0AIgAzADAAMAAuADAAMAAiACAASQBtAHAAbwByAHQAZQA9ACIANAA4AC4AMAAwACIALwA+AAoAIAAgACAAIAAgACAAIAAgADwALwBjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgAKACAAIAAgACAAIAAgADwALwBjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAPgAKACAAIAAgACAAPAAvAGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8APgAKACAAIAAgACAAPABjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvACAATgBvAEkAZABlAG4AdABpAGYAaQBjAGEAYwBpAG8AbgA9ACIANQAwADAAMAAiACAAQwBsAGEAdgBlAFAAcgBvAGQAUwBlAHIAdgA9ACIANwA4ADEAOAAxADUAMAAwACIAIABEAGUAcwBjAHIAaQBwAGMAaQBvAG4APQAiAFMAZQByAHYAaQBjAGkAbwBzACAAZABlACAAbQBhAG4AdABlAG4AaQBtAGkAZQBuAHQAbwAgAHkAIAByAGUAcABhAHIAYQBjAGkAwwCzAG4AIABkAGUAIAB2AGUAaADDAK0AYwB1AGwAbwBzACAAYQB1AHQAbwBtAG8AdAByAGkAegAiACAAQwBsAGEAdgBlAFUAbgBpAGQAYQBkAD0AIgBFADQAOAAiACAAVgBhAGwAbwByAFUAbgBpAHQAYQByAGkAbwA9ACIAMwA1ADAAIgAgAEMAYQBuAHQAaQBkAGEAZAA9ACIAMgAiACAASQBtAHAAbwByAHQAZQA9ACIANwAwADAALgAwADAAIgAgAE8AYgBqAGUAdABvAEkAbQBwAD0AIgAwADIAIgA+AAoAIAAgACAAIAAgACAAPABjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAPgAKACAAIAAgACAAIAAgACAAIAA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AcwA+AAoAIAAgACAAIAAgACAAIAAgACAAIAA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AIABUAGkAcABvAEYAYQBjAHQAbwByAD0AIgBUAGEAcwBhACIAIABUAGEAcwBhAE8AQwB1AG8AdABhAD0AIgAwAC4AMQA2ADAAMAAwADAAIgAgAEkAbQBwAHUAZQBzAHQAbwA9ACIAMAAwADIAIgAgAEIAYQBzAGUAPQAiADcAMAAwAC4AMAAwACIAIABJAG0AcABvAHIAdABlAD0AIgAxADEAMgAuADAAMAAiAC8APgAKACAAIAAgACAAIAAgACAAIAA8AC8AYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwBzAD4ACgAgACAAIAAgACAAIAA8AC8AYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4ACgAgACAAIAAgADwALwBjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvAD4ACgAgACAAIAAgADwAYwBmAGQAaQA6AEMAbwBuAGMAZQBwAHQAbwAgAE4AbwBJAGQAZQBuAHQAaQBmAGkAYwBhAGMAaQBvAG4APQAiADAAMAAwADEAIgAgAEMAbABhAHYAZQBQAHIAbwBkAFMAZQByAHYAPQAiADcAOAAxADgAMQA1ADAAMAAiACAARABlAHMAYwByAGkAcABjAGkAbwBuAD0AIgBNAEEATgBUAEUATgBJAE0ASQBFAE4AVABPACAAWQAgAFIARQBQAEEAUgBBAEMASQBPAE4AIABEAEUAIABWAEUASABJAEMAVQBMAE8AUwAgAE0ATwBOAFQAQQBKAEUAIgAgAEMAbABhAHYAZQBVAG4AaQBkAGEAZAA9ACIARQA0ADgAIgAgAFYAYQBsAG8AcgBVAG4AaQB0AGEAcgBpAG8APQAiADIAMgAwACIAIABDAGEAbgB0AGkAZABhAGQAPQAiADIAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADQANAAwAC4AMAAwACIAIABPAGIAagBlAHQAbwBJAG0AcAA9ACIAMAAyACIAPgAKACAAIAAgACAAIAAgADwAYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4ACgAgACAAIAAgACAAIAAgACAAPABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgAKACAAIAAgACAAIAAgACAAIAAgACAAPABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvACAAVABpAHAAbwBGAGEAYwB0AG8AcgA9ACIAVABhAHMAYQAiACAAVABhAHMAYQBPAEMAdQBvAHQAYQA9ACIAMAAuADEANgAwADAAMAAwACIAIABJAG0AcAB1AGUAcwB0AG8APQAiADAAMAAyACIAIABCAGEAcwBlAD0AIgA0ADQAMAAuADAAMAAiACAASQBtAHAAbwByAHQAZQA9ACIANwAwAC4ANAAwACIALwA+AAoAIAAgACAAIAAgACAAIAAgADwALwBjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgAKACAAIAAgACAAIAAgADwALwBjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAPgAKACAAIAAgACAAPAAvAGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8APgAKACAAIAAgACAAPABjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvACAATgBvAEkAZABlAG4AdABpAGYAaQBjAGEAYwBpAG8AbgA9ACIANwAwADAAOQAiACAAQwBsAGEAdgBlAFAAcgBvAGQAUwBlAHIAdgA9ACIAMgA1ADEANwAyADUAMAA0ACIAIABEAGUAcwBjAHIAaQBwAGMAaQBvAG4APQAiAEwATABBAE4AVABBACIAIABDAGwAYQB2AGUAVQBuAGkAZABhAGQAPQAiAEgAOAA3ACIAIABWAGEAbABvAHIAVQBuAGkAdABhAHIAaQBvAD0AIgA0ADAAMAAwACIAIABDAGEAbgB0AGkAZABhAGQAPQAiADIAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADgAMAAwADAALgAwADAAIgAgAE8AYgBqAGUAdABvAEkAbQBwAD0AIgAwADIAIgA+AAoAIAAgACAAIAAgACAAPABjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAPgAKACAAIAAgACAAIAAgACAAIAA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AcwA+AAoAIAAgACAAIAAgACAAIAAgACAAIAA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AIABUAGkAcABvAEYAYQBjAHQAbwByAD0AIgBUAGEAcwBhACIAIABUAGEAcwBhAE8AQwB1AG8AdABhAD0AIgAwAC4AMQA2ADAAMAAwADAAIgAgAEkAbQBwAHUAZQBzAHQAbwA9ACIAMAAwADIAIgAgAEIAYQBzAGUAPQAiADgAMAAwADAALgAwADAAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADEAMgA4ADAALgAwADAAIgAvAD4ACgAgACAAIAAgACAAIAAgACAAPAAvAGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AcwA+AAoAIAAgACAAIAAgACAAPAAvAGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwA+AAoAIAAgACAAIAA8AC8AYwBmAGQAaQA6AEMAbwBuAGMAZQBwAHQAbwA+AAoAIAAgADwALwBjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvAHMAPgAKACAAIAA8AGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwAgAFQAbwB0AGEAbABJAG0AcAB1AGUAcwB0AG8AcwBUAHIAYQBzAGwAYQBkAGEAZABvAHMAPQAiADEANQA2ADYALgA0ADAAIgA+AAoAIAAgACAAIAA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AcwA+AAoAIAAgACAAIAAgACAAPABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvACAAVABpAHAAbwBGAGEAYwB0AG8AcgA9ACIAVABhAHMAYQAiACAAVABhAHMAYQBPAEMAdQBvAHQAYQA9ACIAMAAuADEANgAwADAAMAAwACIAIABJAG0AcAB1AGUAcwB0AG8APQAiADAAMAAyACIAIABCAGEAcwBlAD0AIgA5ADcAOQAwAC4AMAAwACIAIABJAG0AcABvAHIAdABlAD0AIgAxADUANgA2AC4ANAAwACIALwA+AAoAIAAgACAAIAA8AC8AYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwBzAD4ACgAgACAAPAAvAGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwA+AAoAIAAgADwAYwBmAGQAaQA6AEMAbwBtAHAAbABlAG0AZQBuAHQAbwA+AAoAIAAgACAAIAA8AHQAZgBkADoAVABpAG0AYgByAGUARgBpAHMAYwBhAGwARABpAGcAaQB0AGEAbAAgAHgAbQBsAG4AcwA6AHQAZgBkAD0AIgBoAHQAdABwADoALwAvAHcAdwB3AC4AcwBhAHQALgBnAG8AYgAuAG0AeAAvAFQAaQBtAGIAcgBlAEYAaQBzAGMAYQBsAEQAaQBnAGkAdABhAGwAIgAgAHgAcwBpADoAcwBjAGgAZQBtAGEATABvAGMAYQB0AGkAbwBuAD0AIgBoAHQAdABwADoALwAvAHcAdwB3AC4AcwBhAHQALgBnAG8AYgAuAG0AeAAvAFQAaQBtAGIAcgBlAEYAaQBzAGMAYQBsAEQAaQBnAGkAdABhAGwAIABoAHQAdABwADoALwAvAHcAdwB3AC4AcwBhAHQALgBnAG8AYgAuAG0AeAAvAHMAaQB0AGkAbwBfAGkAbgB0AGUAcgBuAGUAdAAvAGMAZgBkAC8AVABpAG0AYgByAGUARgBpAHMAYwBhAGwARABpAGcAaQB0AGEAbAAvAFQAaQBtAGIAcgBlAEYAaQBzAGMAYQBsAEQAaQBnAGkAdABhAGwAdgAxADEALgB4AHMAZAAiACAATgBvAEMAZQByAHQAaQBmAGkAYwBhAGQAbwBTAEEAVAA9ACIAMAAwADAAMAAxADAAMAAwADAAMAAwADcAMAA5ADEAOAAyADgAOQA4ACIAIABSAGYAYwBQAHIAbwB2AEMAZQByAHQAaQBmAD0AIgBNAEEAUwAwADgAMQAwADIANAA3AEMAMAAiACAAUwBlAGwAbABvAFMAQQBUAD0AIgBIAEoAbgAzADIAYQB3ADAAbQAzAGgAOABtAG8ARABCAFYAUwArAEoAVgB3ACsAbABCAEMAVQBKAFQAMgBrAGEAdABKAEUASwBqAFgAUQBRADAANABrAEQAYgBsAEIARwBEAHIANQBaAFYAWABjAFkAaABKAEEAQQBoAHkAYgBTAFgASABMAFYASgAwAFYAcgBmAHcANQB6ADkAMAA4AFkATgBRAHIAWQAxAFUAWgBQADEAKwBBAGgAeABCAEwAcgBjAEUANQA0AHIASgBvADgAMwAwAEgAeAB6AG8ASQAyAHUAZQBoAFIAOQA3AGsAdwB1AHUARwBIAFgARQA5AEkAdgBvADcAdQBXADcARQByAGoAUAA2AHgAcABkADcATQA0ADIAdwBLAEMAbwBtADUARwA5AFIANQBNAEUAYQBTAHAAMAAyAFIANgBGAEkAbQA1AEMAcQAxAFMAagBNAHUAKwBWAHkAVwBpACsAYwBzAFMANwAzADIATwBCADIAVAA3AHMANgBLAFgAKwBOAHIALwBEAG4AWQBGAGUAbgB6AFUAVwBKAE8ANwBTACsAUQBKAGYARQBXADAARgB4AHMAdgBvAFIANwAyAGMANQBDAHUAYgBWAGwANgB5AEEAegBMAGkASABZAFoANgBRAG4AcQBDAEEAagBWAGgATgB4AEgAYQBRAFYAagBEAFoASQBsAEMANwBmAGMAMwBpAE8AQwA2AHcALwBtAEkARgBoAFYASABXAHIAYwBGAGUAbABiAEUAVQBaADkAZABTAG0AUABnAHIASABsAFoAdABKAFoAUQBFAEEAdwBJAG4AUgBPAHAATQB1AEkAYgBVADIAVwBrAEsATABzAFEAVgA1ADgANAB5AEoATQBuAFEAWQB1AHAAdgBPADIAQQA9AD0AIgAgAFMAZQBsAGwAbwBDAEYARAA9ACIASgBnAEgAVQBnADcAVgAvAHgARQBhAEoAUgBUAFoAbAByAFYASwAvAFkAZgBkAGcAdQAyAFUARABsAEoAVgBJAEMASAA1AFYAYgBUAHcASwAvAHoAWgBOAGQANABvAGYATwBvAHEAegAvAGwAYgBmAHEAUgBHAE0ARQAwAEIANwBlAGsAVgBLAFkAKwBHAGcAQQBGADEAcgBLAEgARgA1AGgAYQBkADgASgAvADcASwBTAHoAawBwAGIALwBIAGcALwB2ADgARwBvAEoAMQB5AG8AUAA2AFAALwA3ADkATABUAGcASABGAEUARABVAFUAZABaAHIAbABYAEMAcwBsAEIARwBTAHkAVAByAEwAaABZAEMAMgBLAFIANgBmAFAARAB6ADMAaQBjAEYATwBBAG8AUABrAGEAMQBNAEYATAAvAHkAKwBRADcAQQA5ACsAcwAvAGcAdgBXAHIAQgB1ADAAZQBaAFYAUQBxAGoAcwBIAGgAKwBQAEEAdgAzADcAVwBtADQAcQB6AEwAZwBrAGUASwBoAGUAOABVAGUAegArAGEARAAzAGwAWAB3AE4AQwBzAC8ARgA5ADMANQByAGwAVgBMAFQAUwBpAGQAcwBOADMARABEAE8AUgB2AGYAKwBTAEkAbQBnAHoAdwBaADIAZQAxAGcATQAwAEkAQwBVAHEARAA2ADAAdABBAGgARABEAHMAaQBaADUAQwBMAEQAdQBMADUAeQByAGkAUABXADcASwBNAEYAYwBOAFMAVABQAEcAbgBTADIAWQBIAFAAdwBzAGEAQQBoAEkANgBGAEEAcQBQAFUAZgBjAC8ATQAzAGgAKwAyAGsAOQBqAFoAVAA4AGIANwBWAGQASABpAGgAOABQAEEARgB3ADUAMQAzAGkAWQBpAGcAPQA9ACIAIABVAFUASQBEAD0AIgAxAEIAOQAwADUARgBDADYALQAyAEQAMABDAC0ANABBAEQAMAAtAEEAQQAzADgALQAyADYAOABFAEQARgA4ADQAOQA2ADMAQwAiACAAVgBlAHIAcwBpAG8AbgA9ACIAMQAuADEAIgAgAEYAZQBjAGgAYQBUAGkAbQBiAHIAYQBkAG8APQAiADIAMAAyADUALQAwADkALQAwADYAVAAxADAAOgA0ADkAOgAxADMAIgAvAD4ACgAgACAAPAAvAGMAZgBkAGkAOgBDAG8AbQBwAGwAZQBtAGUAbgB0AG8APgAKADwALwBjAGYAZABpADoAQwBvAG0AcAByAG8AYgBhAG4AdABlAD4ACgA=", "Conceptos":[ { "Cantidad":1, "Concepto":"Servicios de mantenimiento y reparaci\u00c3\u00b3n de veh\u00c3\u00adculos automotriz", "PrecioUnitario":350, "Importe":350, "Descuento":0, "UnidadMedida":"", "TrasladoIva":"IVA 16%", "ImporteIva":56, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":2, "Concepto":"VALVULA", "PrecioUnitario":150, "Importe":300, "Descuento":0, "UnidadMedida":"", "TrasladoIva":"IVA 16%", "ImporteIva":48, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":2, "Concepto":"Servicios de mantenimiento y reparaci\u00c3\u00b3n de veh\u00c3\u00adculos automotriz", "PrecioUnitario":350, "Importe":700, "Descuento":0, "UnidadMedida":"", "TrasladoIva":"IVA 16%", "ImporteIva":112, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":2, "Concepto":"MANTENIMIENTO Y REPARACION DE VEHICULOS MONTAJE", "PrecioUnitario":220, "Importe":440, "Descuento":0, "UnidadMedida":"", "TrasladoIva":"IVA 16%", "ImporteIva":70.4, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":2, "Concepto":"LLANTA", "PrecioUnitario":4000, "Importe":8000, "Descuento":0, "UnidadMedida":"", "TrasladoIva":"IVA 16%", "ImporteIva":1280, "ImporteRetencion":0, "IEPS":0 } ], "Lineas":[ { "CodImpuesto":"", "Credito":"", "CuentaContable":"201-001-000000", "CuentaContableD365":"", "Debito":"", "DimArea":"", "DimCeco":"", "DimDepto":"", "Vehiculo":"", "DimFilTer":"", "DimSucursal":"", "GrupoImpuestos":"", "GrupoImpuestosArt":"", "NombreProveedor":"", "TipoProveedor":"", "TipoOperacion":"", "Texto":"Factura VHA 44903", "RFC":"", "SinComprobante":"" }, { "CodImpuesto":"IVA16A", "Credito":"", "CuentaContable":"601-084-000000", "CuentaContableD365":"ELA216001", "Debito":"11356.4000", "DimArea":"SE", "DimCeco":"B903", "DimDepto":"SE05", "Vehiculo":"15928", "DimFilTer":"T001", "DimSucursal":"TAB005", "GrupoImpuestos":"PRPMTASA16", "GrupoImpuestosArt":"GRAV16%", "NombreProveedor":"", "TipoProveedor":"", "TipoOperacion":"", "Texto":"VHA44903 MUELLES, SUSPENSIONES Y MANTENIMIENTO INTEGRAL SA DE CV | MANTENIMIENTO", "RFC":"", "SinComprobante":"0" } ] }, { "ProcesoLigado":"ProPasivos", "IdPoliza":"116492", "NumeroPoliza":"5482", "Estatus":"0", "AprobadoPor":"", "CodProveedor":"0003512", "Compania":"LOG", "Descripcion":"Diario de factura para entrada", "DesctoPago":"", "Docto":" 18308", "Factura":" 18308", "FechaDocto":"2025-09-06 00:00:00", "FechaFactura":"2025-09-06 00:00:00", "FechaVencimiento":"2025-10-04 00:00:00", "FechaTrans":"", "Folio":"18308", "IdFactReferencia":"0", "IdRegistro":"LM.CP13414", "ImpuestosInc":"1", "MetodoPagoSAT":"", "Moneda":"MXN", "NombreDiario":"", "Serie":"", "SinComprobante":"", "SistemaOrigen":"", "Subtotal":"11746.8800000000", "Texto":"Factura  18308", "TipoCambio":"1.000000", "TipoFact":"0", "Total":"13626.3800000000", "UUID":"006A64EA-94D4-46F5-9B63-28A336BE3CB3", "XMLFactura":"PABjAGYAZABpADoAQwBvAG0AcAByAG8AYgBhAG4AdABlACAAeABtAGwAbgBzADoAeABzAGkAPQAiAGgAdAB0AHAAOgAvAC8AdwB3AHcALgB3ADMALgBvAHIAZwAvADIAMAAwADEALwBYAE0ATABTAGMAaABlAG0AYQAtAGkAbgBzAHQAYQBuAGMAZQAiACAAeABzAGkAOgBzAGMAaABlAG0AYQBMAG8AYwBhAHQAaQBvAG4APQAiAGgAdAB0AHAAOgAvAC8AdwB3AHcALgBzAGEAdAAuAGcAbwBiAC4AbQB4AC8AYwBmAGQALwA0ACAAaAB0AHQAcAA6AC8ALwB3AHcAdwAuAHMAYQB0AC4AZwBvAGIALgBtAHgALwBzAGkAdABpAG8AXwBpAG4AdABlAHIAbgBlAHQALwBjAGYAZAAvADQALwBjAGYAZAB2ADQAMAAuAHgAcwBkACIAIABWAGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAiACAARgBvAGwAaQBvAD0AIgAxADgAMwAwADgAIgAgAEYAZQBjAGgAYQA9ACIAMgAwADIANQAtADAAOQAtADAANgBUADEAMgA6ADAANgA6ADQAMAAiACAAUwBlAGwAbABvAD0AIgBuAGgAQwB6AEwAVwA2AFkASABTADUANwBZAGYATABCAG8AMABoAFEAcwBWAGMAeABhAHQAQwBPADgAVgA0AEMAegBqAHgAbQB5AE0AawBYAG0ASwA5AGEAZgBtAFgATABlAGMAMABPAC8AVgBoAEUANQBjAEQATQBhAC8AMwB0AFEAZABSAFIAVABuADcAUQB2AE8ARgBGAEgAOAA0AFUAawBJADkAZQBwAEIAUQBxAEwAQgB4AG0ARgBqAFAAVQBnAGIAbgA1AFQATgBTAEgAeABDAHkAdAArAGUARgBCAFUAdwBxAE0AUQBBADcASQByAFEARgA0AEoAdQA2AHEASQBmAE8ALwBKADcAdQB1AGYAaQA4AEwAbgBtADkAUQBSADAAdQBBAHUASQBqAFIARQA1ADQARQBOAGsASwB3AFAAaQBlAHUAeQBxAEkAQgBqAFMAOQBzAGEAYgBjAEsASAB3AC8AVgBiADIAeABHAGEAdQBLAGgAYwBWAGIAMAA1AEgAVwBpAE4AcgBKAGUAQQBiADcAbwAwAGsAeABqAFMAMgBGAE8AaABJADUAQwBaAGMAbwAwAGcAOABOAFAAbQBLAEsAQgBaAGwAOABFAEgAOABjAGgAQgBZADMAOQBxAGoAZABCADUASQBUAE0ASwB5AHAATgB3AEQATAAwAGsAdgBLAFQASwBiAGgAdQBiADIAZABCAHcAawA4AGEAYQBiAGwAMAA3AE8AeQBzADYAZwBZAFoAMwBqAE0AcgBKAGUAcgBhACsAKwBHAFQAeABEADIAWABzADQASQBvAHoAdABnAGQAOAArAFMAaQA1AEUAWgBSAC8AeQBuAEcAKwByAG4ANABTAEgAYQBMAE0AdQBXAHoAMQBzADQAUwBjAGsARwBYAFYAQQA9AD0AIgAgAEYAbwByAG0AYQBQAGEAZwBvAD0AIgA5ADkAIgAgAE4AbwBDAGUAcgB0AGkAZgBpAGMAYQBkAG8APQAiADAAMAAwADAAMQAwADAAMAAwADAAMAA1ADAAOQAzADUANAA3ADgAMgAiACAAQwBlAHIAdABpAGYAaQBjAGEAZABvAD0AIgBNAEkASQBGADIAVABDAEMAQQA4AEcAZwBBAHcASQBCAEEAZwBJAFUATQBEAEEAdwBNAEQARQB3AE0ARABBAHcATQBEAEEAMQBNAEQAawB6AE4AVABRADMATwBEAEkAdwBEAFEAWQBKAEsAbwBaAEkAaAB2AGMATgBBAFEARQBMAEIAUQBBAHcAZwBnAEcARQBNAFMAQQB3AEgAZwBZAEQAVgBRAFEARABEAEIAZABCAFYAVgBSAFAAVQBrAGwARQBRAFUAUQBnAFEAMABWAFMAVgBFAGwARwBTAFUATgBCAFIARQA5AFMAUQBUAEUAdQBNAEMAdwBHAEEAMQBVAEUAQwBnAHcAbABVADAAVgBTAFYAawBsAEQAUwBVADgAZwBSAEUAVQBnAFEAVQBSAE4AUwBVADUASgBVADEAUgBTAFEAVQBOAEoAVAAwADQAZwBWAEYASgBKAFEAbABWAFUAUQBWAEoASgBRAFQARQBhAE0AQgBnAEcAQQAxAFUARQBDAHcAdwBSAFUAMABGAFUATABVAGwARgBVAHkAQgBCAGQAWABSAG8AYgAzAEoAcABkAEgAawB4AEsAagBBAG8AQgBnAGsAcQBoAGsAaQBHADkAdwAwAEIAQwBRAEUAVwBHADIATgB2AGIAbgBSAGgAWQAzAFIAdgBMAG4AUgBsAFkAMgA1AHAAWQAyADkAQQBjADIARgAwAEwAbQBkAHYAWQBpADUAdABlAEQARQBtAE0AQwBRAEcAQQAxAFUARQBDAFEAdwBkAFEAVgBZAHUASQBFAGgASgBSAEUARgBNAFIAMAA4AGcATgB6AGMAcwBJAEUATgBQAFQAQwA0AGcAUgAxAFYARgBVAGwASgBGAFUAawA4AHgARABqAEEATQBCAGcATgBWAEIAQgBFAE0AQgBUAEEAMgBNAHoAQQB3AE0AUQBzAHcAQwBRAFkARABWAFEAUQBHAEUAdwBKAE4AVwBEAEUAWgBNAEIAYwBHAEEAMQBVAEUAQwBBAHcAUQBRADAAbABWAFIARQBGAEUASQBFAFIARgBJAEUAMQBGAFcARQBsAEQAVAB6AEUAVABNAEIARQBHAEEAMQBVAEUAQgB3AHcASwBRADEAVgBCAFYAVQBoAFUAUgBVADEAUABRAHoARQBWAE0AQgBNAEcAQQAxAFUARQBMAFIATQBNAFUAMABGAFUATwBUAGMAdwBOAHoAQQB4AFQAawA0AHoATQBWAHcAdwBXAGcAWQBKAEsAbwBaAEkAaAB2AGMATgBBAFEAawBDAEUAMAAxAHkAWgBYAE4AdwBiADIANQB6AFkAVwBKAHMAWgBUAG8AZwBRAFUAUgBOAFMAVQA1AEoAVQAxAFIAUwBRAFUATgBKAFQAMAA0AGcAUQAwAFYATwBWAEYASgBCAFQAQwBCAEUAUgBTAEIAVABSAFYASgBXAFMAVQBOAEoAVAAxAE0AZwBWAEYASgBKAFEAbABWAFUAUQBWAEoASgBUADEATQBnAFEAVQB3AGcAUQAwADkATwBWAEYASgBKAFEAbABWAFoAUgBVADUAVQBSAFQAQQBlAEYAdwAwAHkATQBUAEUAdwBNAFQARQB4AE4ARABVAHkATgBUAFoAYQBGAHcAMAB5AE4AVABFAHcATQBUAEUAeABOAEQAVQB5AE4AVABaAGEATQBJAEcAbgBNAFMAQQB3AEgAZwBZAEQAVgBRAFEARABFAHgAZABEAFEAVgBKAE4AUgBVAHgAQgBJAEYATgBCAFQAawBOAEkAUgBWAG8AZwBTAGsAbABOAFIAVQA1AEYAVwBqAEUAZwBNAEIANABHAEEAMQBVAEUASwBSAE0AWABRADAARgBTAFQAVQBWAE0AUQBTAEIAVABRAFUANQBEAFMARQBWAGEASQBFAHAASgBUAFUAVgBPAFIAVgBvAHgASQBEAEEAZQBCAGcATgBWAEIAQQBvAFQARgAwAE4AQgBVAGsAMQBGAFQARQBFAGcAVQAwAEYATwBRADAAaABGAFcAaQBCAEsAUwBVADEARgBUAGsAVgBhAE0AUgBZAHcARgBBAFkARABWAFEAUQB0AEUAdwAxAFQAUQBVAHAARABPAEQAQQB3AE8AVABBADMAUwBrAHMAeABNAFIAcwB3AEcAUQBZAEQAVgBRAFEARgBFAHgASgBUAFEAVQBwAEQATwBEAEEAdwBPAFQAQQAzAFQAVgBSAEQAVABrADEAUwBNAEQAVQB4AEMAagBBAEkAQgBnAE4AVgBCAEEAcwBUAEEAVABBAHcAZwBnAEUAaQBNAEEAMABHAEMAUwBxAEcAUwBJAGIAMwBEAFEARQBCAEEAUQBVAEEAQQA0AEkAQgBEAHcAQQB3AGcAZwBFAEsAQQBvAEkAQgBBAFEARABWAHcALwBMADAAegBDAHgAbAByAEEAeQBuAHkANQBwAEkAZgBBAEYARwA0AG4AKwBTAE8ANwBUAFMAQwBjAEMAcgBzAGYAUQBqACsAOAB6ADcALwBzAEUAUgAyAHMATgBKAHIAaQB2AGcATgBNAEYAZQBTAGkAcABSAGcAcgAwAEkAOABFAGIARABNAGIAdwBiAEsANwBpADQAOABsAFUAcgA5AEEASQBaAGwAMQArADMASgBpAHAAbQBOAGwAUwA3AEwAVQArAHYAZwAwAFMASQB4AGwAZwBjAC8AcgBkAFQARABOAGwAYgBlAGoARwBVAGYAOQBzADcANgA0AGUAUABBADkARQBJAGEANgB4AHIAVgAwAE8ASgA5AEMAQwBQADkAMwBWAGoAdwB4AHYATQBpAEcANQBkADAAWABDAHEAQgBKAFQANQBvAHQAZABhAEoAZgBEAEIANwBKAFAAZwBMAC8ALwBVAG4AWQBvAGoAUgBsADUAMABIAFoAVABLAGMAZwB3AHMAYQBmADAAawB4AHIAQgBlAGwAawA3AGwAMwA2AEYAWABFAGoAagBoACsAdgBsAHAAUgBoAHEAOAA2AEoAZQBUAFoARAAxAGsAagArAHUAcwAzADMAbQBtAEMAUQBUAEsAOAB5AEsAKwBTAG4AeAB6AEIAdAB2AEkAeQBxAGkAaABWAHMATABsAGwAbwAyAHkAWgB0AEEAMgA1AFYAOQA1AGgARwBJAEYAdABzAFoAbgA0AG0AUQBZAHoAOQB3AEkATgBsAHkAcwBSAGYASQA3ADIAVABkADQAZQA1AGoAcQBlAE8AYgBOAFEAdwBPAGQAdAB5AEMAbwBNAHAANQBtADQAVwBqAHEATwBWAFoAbAB0AEUATABZAEgARwBoAFIAQQBnAE0AQgBBAEEARwBqAEgAVABBAGIATQBBAHcARwBBADEAVQBkAEUAdwBFAEIALwB3AFEAQwBNAEEAQQB3AEMAdwBZAEQAVgBSADAAUABCAEEAUQBEAEEAZwBiAEEATQBBADAARwBDAFMAcQBHAFMASQBiADMARABRAEUAQgBDAHcAVQBBAEEANABJAEMAQQBRAEEATwBKADUAUwBrAHYAdgBTAHMAQwBmAHYAOAAzAFUAbAB3AFUAOABCAGsAYwBwAHUAaABMAEcAWABXADUATwAvAFoAQQBLAGwAawA5AEQAUgBzAHkAVwBlAHUAMwB1ADQAbgAvAEoAOQBXAFIATQA0AHIAeQA1AG4AQwBZAEkANQB4AEoARQB5AGgAUAAyAHEAdgBCAEgASABUAG4AYwBCAGkAUwBjAHUAcAByAEEAcgBMAE4ALwBPAEcAWQB4AEkARgB5AEYAVABtADMAVABUAGoANgBvAHMAMwBVADgAUgBmAFMATQAzAGUATwAvAGkAZgBHADEAYgBiAEMAaQAvAEgAVQBHAGkAZwA1AGMAbQB2ADYAdABRAFcAbgBNADgAcwBQAEMAUAArADYAMABYAE0ALwBhAGgAYgBGAEIAUABDAFEAMQB0AFIAQQBmAEsAWgBiAEYAWQBHAGsAYgBaAGQAUQA2AFEAWABZAFAAUAA1AFUAZwBVAFMAZQBPAEkAVgBvAEEASQBJAEYATgBYAHcAZQByAHIAZABnAHQAaABDAEMASQAvAEsAdwAxAEMAUgBkAG4ANwBnAFIAagA0AGYAeQBzAE0AZgBqAC8AWABNAGUAbQAyAGEATABuAEwANgAvAGsAZABXAGsAcAByADQAVQBoAEoAKwBLAGsAUwBuAEwAcQBDAG8ARQBjADIARwBSAGQASwAyADcAMQBtAGoARQBZAHIAQwBlAFUASQB5AFcAWQBMAEoAagBuADIAcwBXAEcAKwBwAFAARwBIADYASwA0ADUAdwAyAGcAdAA3AEIAdQBtAGgAbABjAGoAeQBTAHMAUgBpAFMATwBjAHgANgBNAHcAZwBaADUAKwBBAHAANQBzAHcAUABWAEcAcABOAFkANQBTAFMAaABBAFcAcgB0AHMATABUAFcAYQBuAG0AcQBaAE8ASABpAFYASABiAFgAVwA2AHYAMwB4AEIAagBDAE0AUQA0AEgAOQBsAGQAQQBlAG0ALwBWAGMAMwAwAHUASgAxADAASgBTAEUAVwBwADcASwBKAGQAYQBEAHcAeAAxAFoAWABjAFkATAB2AFoAMQB1AHUAUQBZAE8AKwBGADMAZQByAHYAeQBJADMAYwA2AEkAdABJAHIAaQBoAFAARwBsAFQARwBtAFAAdwBhAFoAeQA2AEUASgA5AGIATAA2AHkAYQBzAFcAUwBEADYAVABXAEgAMgBxAGsAdQBhAFcARABwAFkAMQBQAFkAMAB6AHUAcABkAEQAWABRAFAAQgB1AEoAVgB4ADUAVABvAFcAcABaAE4AeQBEAFMAegB3AE4AVwBPADYANgBiAGkAUAA5AGYAaQBlAEEAdQBlAG0AdwBXADQAYQBwAFIAdQA4ADEAYwAyAFAAbwBnAGUARAA5AHEAaQBwAEcAcQBvAHMAQwB1AHAAZABiAEgATgBJAFgAQQBkAHIASwBrAHQAZwBxADIASgBtADAANwBGAEIAbgBFAG4ATgBRADUAcgBVAHEAQQBwAFIAaQBzAFQANAA5AG0ARwBRAGcATgBxAFQATQBqAEIAUgBzACsAZgAwAHoARAA5AEcAawBXAHkAcABmAGkAeQB1AHAAVABSAGgAdABrAFQAOAAzAGoAUgBlAGUAeQAzAGIAYgBDAEcARgBrAEQAWQB3AHgAbABGAHkANABlADIAeQBCAGIANQBqAHQAegB3AFQAOQBOAHoAeABIADUAUwBmAEYASgBlAFoAMQBxAEIAbABUAE0ASQBqAE0AVABJAFYAcwBmAEQAaQBVAFEASgBhAHkARABBAD0APQAiACAAQwBvAG4AZABpAGMAaQBvAG4AZQBzAEQAZQBQAGEAZwBvAD0AIgBDAFIARQBEAEkAVABPACIAIABTAHUAYgBUAG8AdABhAGwAPQAiADEAMQA3ADQANgAuADgAOAAiACAATQBvAG4AZQBkAGEAPQAiAE0AWABOACIAIABUAG8AdABhAGwAPQAiADEAMwA2ADIANgAuADMAOAAiACAAVABpAHAAbwBEAGUAQwBvAG0AcAByAG8AYgBhAG4AdABlAD0AIgBJACIAIABFAHgAcABvAHIAdABhAGMAaQBvAG4APQAiADAAMQAiACAATQBlAHQAbwBkAG8AUABhAGcAbwA9ACIAUABQAEQAIgAgAEwAdQBnAGEAcgBFAHgAcABlAGQAaQBjAGkAbwBuAD0AIgA4ADYAMgA3ADUAIgAgAHgAbQBsAG4AcwA6AGMAZgBkAGkAPQAiAGgAdAB0AHAAOgAvAC8AdwB3AHcALgBzAGEAdAAuAGcAbwBiAC4AbQB4AC8AYwBmAGQALwA0ACIAPgA8AGMAZgBkAGkAOgBFAG0AaQBzAG8AcgAgAFIAZgBjAD0AIgBTAEEASgBDADgAMAAwADkAMAA3AEoASwAxACIAIABOAG8AbQBiAHIAZQA9ACIAQwBBAFIATQBFAEwAQQAgAFMAQQBOAEMASABFAFoAIABKAEkATQBFAE4ARQBaACIAIABSAGUAZwBpAG0AZQBuAEYAaQBzAGMAYQBsAD0AIgA2ADEAMgAiACAALwA+ADwAYwBmAGQAaQA6AFIAZQBjAGUAcAB0AG8AcgAgAFIAZgBjAD0AIgBMAE0AQQAwADQAMAAyADIANwA1AFEANgAiACAATgBvAG0AYgByAGUAPQAiAEwATwBHAEkAUwBUAEkAQwBBACAARABFAEwAIABNAEEAWQBBAEIAIgAgAEQAbwBtAGkAYwBpAGwAaQBvAEYAaQBzAGMAYQBsAFIAZQBjAGUAcAB0AG8AcgA9ACIAOQA3ADEANgAwACIAIABSAGUAZwBpAG0AZQBuAEYAaQBzAGMAYQBsAFIAZQBjAGUAcAB0AG8AcgA9ACIANgAyADQAIgAgAFUAcwBvAEMARgBEAEkAPQAiAEcAMAAzACIAIAAvAD4APABjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvAHMAPgA8AGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8AIABDAGwAYQB2AGUAUAByAG8AZABTAGUAcgB2AD0AIgA5ADIAMQAwADEAOQAwADAAIgAgAEMAYQBuAHQAaQBkAGEAZAA9ACIAMQAiACAAQwBsAGEAdgBlAFUAbgBpAGQAYQBkAD0AIgBFADQAOAAiACAAVQBuAGkAZABhAGQAPQAiAFMARQBSAFYASQBDAEkATwAiACAARABlAHMAYwByAGkAcABjAGkAbwBuAD0AIgBCAEEATgBEAEUAUgBBAFoATwAgAFMAQQBMAEkARABBACAAUABPAFIAIABSAEUAUwBDAEEAVABFACAAIABDAEEAUgBSAEUAVAAuACAAVgBIAFMAQQAtAE0AQQBDAFUAUwBQAEEATgBBACwAIABUAEEAQgAuACIAIABWAGEAbABvAHIAVQBuAGkAdABhAHIAaQBvAD0AIgAxADIAMAAwACIAIABJAG0AcABvAHIAdABlAD0AIgAxADIAMAAwACIAIABPAGIAagBlAHQAbwBJAG0AcAA9ACIAMAAyACIAPgA8AGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwA+ADwAYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwBzAD4APABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvACAAQgBhAHMAZQA9ACIAMQAyADAAMAAiACAASQBtAHAAdQBlAHMAdABvAD0AIgAwADAAMgAiACAAVABpAHAAbwBGAGEAYwB0AG8AcgA9ACIAVABhAHMAYQAiACAAVABhAHMAYQBPAEMAdQBvAHQAYQA9ACIAMAAuADEANgAwADAAMAAwACIAIABJAG0AcABvAHIAdABlAD0AIgAxADkAMgAuADAAMAAwADAAMAAwACIAIAAvAD4APAAvAGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AcwA+ADwALwBjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAPgA8AC8AYwBmAGQAaQA6AEMAbwBuAGMAZQBwAHQAbwA+ADwAYwBmAGQAaQA6AEMAbwBuAGMAZQBwAHQAbwAgAEMAbABhAHYAZQBQAHIAbwBkAFMAZQByAHYAPQAiADcAOAAxADgAMQA1ADAAOAAiACAAQwBhAG4AdABpAGQAYQBkAD0AIgA0ACIAIABDAGwAYQB2AGUAVQBuAGkAZABhAGQAPQAiAEUANAA4ACIAIABVAG4AaQBkAGEAZAA9ACIAUwBFAFIAVgBJAEMASQBPACIAIABEAGUAcwBjAHIAaQBwAGMAaQBvAG4APQAiAEMAQQBNAEIASQBPACAARABFACAAQgBBAFQARQBSAEkAQQAiACAAVgBhAGwAbwByAFUAbgBpAHQAYQByAGkAbwA9ACIAMQA1ADAAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADYAMAAwACIAIABPAGIAagBlAHQAbwBJAG0AcAA9ACIAMAAyACIAPgA8AGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwA+ADwAYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwBzAD4APABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvACAAQgBhAHMAZQA9ACIANgAwADAAIgAgAEkAbQBwAHUAZQBzAHQAbwA9ACIAMAAwADIAIgAgAFQAaQBwAG8ARgBhAGMAdABvAHIAPQAiAFQAYQBzAGEAIgAgAFQAYQBzAGEATwBDAHUAbwB0AGEAPQAiADAALgAxADYAMAAwADAAMAAiACAASQBtAHAAbwByAHQAZQA9ACIAOQA2AC4AMAAwADAAMAAwADAAIgAgAC8APgA8AC8AYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwBzAD4APAAvAGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwA+ADwALwBjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvAD4APABjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvACAAQwBsAGEAdgBlAFAAcgBvAGQAUwBlAHIAdgA9ACIAMgA2ADEAMQAxADcAMAAzACIAIABDAGEAbgB0AGkAZABhAGQAPQAiADQAIgAgAEMAbABhAHYAZQBVAG4AaQBkAGEAZAA9ACIASAA4ADcAIgAgAFUAbgBpAGQAYQBkAD0AIgBQAEkARQBaAEEAIgAgAEQAZQBzAGMAcgBpAHAAYwBpAG8AbgA9ACIAQgBBAFQARQBSAEkAQQAgADEANwAgAFAATABBAEMAQQAgAEEATQBFAFIASQBDAEEAIgAgAFYAYQBsAG8AcgBVAG4AaQB0AGEAcgBpAG8APQAiADIANAA4ADYALgA3ADIAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADkAOQA0ADYALgA4ADgAIgAgAE8AYgBqAGUAdABvAEkAbQBwAD0AIgAwADIAIgA+ADwAYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4APABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AIABCAGEAcwBlAD0AIgA5ADkANAA2AC4AOAA4ACIAIABJAG0AcAB1AGUAcwB0AG8APQAiADAAMAAyACIAIABUAGkAcABvAEYAYQBjAHQAbwByAD0AIgBUAGEAcwBhACIAIABUAGEAcwBhAE8AQwB1AG8AdABhAD0AIgAwAC4AMQA2ADAAMAAwADAAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADEANQA5ADEALgA1ADAAMAA4ADAAMAAiACAALwA+ADwALwBjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgA8AC8AYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4APAAvAGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8APgA8AC8AYwBmAGQAaQA6AEMAbwBuAGMAZQBwAHQAbwBzAD4APABjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAIABUAG8AdABhAGwASQBtAHAAdQBlAHMAdABvAHMAVAByAGEAcwBsAGEAZABhAGQAbwBzAD0AIgAxADgANwA5AC4ANQAwACIAPgA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AcwA+ADwAYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwAgAEIAYQBzAGUAPQAiADEAMQA3ADQANgAuADgAOAAiACAASQBtAHAAdQBlAHMAdABvAD0AIgAwADAAMgAiACAAVABpAHAAbwBGAGEAYwB0AG8AcgA9ACIAVABhAHMAYQAiACAAVABhAHMAYQBPAEMAdQBvAHQAYQA9ACIAMAAuADEANgAwADAAMAAwACIAIABJAG0AcABvAHIAdABlAD0AIgAxADgANwA5AC4ANQAwACIAIAAvAD4APAAvAGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AcwA+ADwALwBjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAPgA8AGMAZgBkAGkAOgBDAG8AbQBwAGwAZQBtAGUAbgB0AG8APgA8AHQAZgBkADoAVABpAG0AYgByAGUARgBpAHMAYwBhAGwARABpAGcAaQB0AGEAbAAgAFYAZQByAHMAaQBvAG4APQAiADEALgAxACIAIABSAGYAYwBQAHIAbwB2AEMAZQByAHQAaQBmAD0AIgBTAFQAQQAwADkAMAAzADIAMAA2AEIAOQAiACAAVQBVAEkARAA9ACIAMAAwADYAQQA2ADQARQBBAC0AOQA0AEQANAAtADQANgBGADUALQA5AEIANgAzAC0AMgA4AEEAMwAzADYAQgBFADMAQwBCADMAIgAgAEYAZQBjAGgAYQBUAGkAbQBiAHIAYQBkAG8APQAiADIAMAAyADUALQAwADkALQAwADYAVAAxADIAOgAxADkAOgA0ADIAIgAgAFMAZQBsAGwAbwBDAEYARAA9ACIAbgBoAEMAegBMAFcANgBZAEgAUwA1ADcAWQBmAEwAQgBvADAAaABRAHMAVgBjAHgAYQB0AEMATwA4AFYANABDAHoAagB4AG0AeQBNAGsAWABtAEsAOQBhAGYAbQBYAEwAZQBjADAATwAvAFYAaABFADUAYwBEAE0AYQAvADMAdABRAGQAUgBSAFQAbgA3AFEAdgBPAEYARgBIADgANABVAGsASQA5AGUAcABCAFEAcQBMAEIAeABtAEYAagBQAFUAZwBiAG4ANQBUAE4AUwBIAHgAQwB5AHQAKwBlAEYAQgBVAHcAcQBNAFEAQQA3AEkAcgBRAEYANABKAHUANgBxAEkAZgBPAC8ASgA3AHUAdQBmAGkAOABMAG4AbQA5AFEAUgAwAHUAQQB1AEkAagBSAEUANQA0AEUATgBrAEsAdwBQAGkAZQB1AHkAcQBJAEIAagBTADkAcwBhAGIAYwBLAEgAdwAvAFYAYgAyAHgARwBhAHUASwBoAGMAVgBiADAANQBIAFcAaQBOAHIASgBlAEEAYgA3AG8AMABrAHgAagBTADIARgBPAGgASQA1AEMAWgBjAG8AMABnADgATgBQAG0ASwBLAEIAWgBsADgARQBIADgAYwBoAEIAWQAzADkAcQBqAGQAQgA1AEkAVABNAEsAeQBwAE4AdwBEAEwAMABrAHYASwBUAEsAYgBoAHUAYgAyAGQAQgB3AGsAOABhAGEAYgBsADAANwBPAHkAcwA2AGcAWQBaADMAagBNAHIASgBlAHIAYQArACsARwBUAHgARAAyAFgAcwA0AEkAbwB6AHQAZwBkADgAKwBTAGkANQBFAFoAUgAvAHkAbgBHACsAcgBuADQAUwBIAGEATABNAHUAVwB6ADEAcwA0AFMAYwBrAEcAWABWAEEAPQA9ACIAIABOAG8AQwBlAHIAdABpAGYAaQBjAGEAZABvAFMAQQBUAD0AIgAwADAAMAAwADEAMAAwADAAMAAwADAANwAxADEANwA2ADIANQAxADEAIgAgAFMAZQBsAGwAbwBTAEEAVAA9ACIAbwBYAFIANQBLAGoAYgBwADQASwBWAEIAUABiAHUASwBVAEcAWQBhAGYAOQBBAGgAWAB0AGcARQB3ADkAUgBCAEIAMgA2AGgAUQBhAEUAZABPADcAbgBYAHIAUwBpAHYAbABoAHgANwB6AFkAKwB1AFUAVQAwAE8ARAA4ADQAQgBZADYAeAA4ADcAQgB5AG8AMgA5AEEANQA2AFgAcABCAGcASABZADMAUwBPAGYAZQBpAHAAVgBKAE8ATwBVAHAAeABMAFoARQBvAGkAVAA3AGMAaQBCAE0ATwBvAFEAZgBMAFkAbAAxADMAYgBuAHMATQB6AFYAMgA2AFcAeQBTAHIAaABBAHgAcgBKAEEAeQAzAGcAbQBQAFEATABKAGEAVABQAFMAZgBQAC8ARQBTAFcAVgBXAGoAWAByAEcAVgB2AEwATQAvAFgAbABkAGoAMgBYAFQAcgBkAC8AYQB6AEsAOABKAEcAYQBWAE4AawBPAEkAKwBEADgAOAB3AEcAYwBxAEcAOABKAG0ANQBHADIAZgBzACsAOQBXAE0AeQBBAEgAcABvAGsAegBmAGoAdABlAEUAcQBKAHcATwBUAEUATABYAG8AQwBKAGQAVwBDAGkAdAA2AHAAaABIAEUATgB2AEQAYQBPAEoAVABaAHgAQwAvAGEAQgBIAHgASQBaAFYAagBpAE4ASwBmAFkATABnAGgAZgBMAFcAMQB6AGEATABiAG8ANgAwADAAOQAwAGkAeQBrAHkAbQBhADEAQQBpAEwAcgBrAE0ATAB4AFYAbABrAFQAdQAyAHkAaAA2ADEAcgA4AEgASABwAHAATgBKAC8AUgA2AGcAcgBOADUANgBFAG8AQgBKAEYAVQBhAFIAKwBGADEAdwBnAEgAagBnAHMAcABiAGcAPQA9ACIAIAB4AG0AbABuAHMAOgB0AGYAZAA9ACIAaAB0AHQAcAA6AC8ALwB3AHcAdwAuAHMAYQB0AC4AZwBvAGIALgBtAHgALwBUAGkAbQBiAHIAZQBGAGkAcwBjAGEAbABEAGkAZwBpAHQAYQBsACIAIAB4AHMAaQA6AHMAYwBoAGUAbQBhAEwAbwBjAGEAdABpAG8AbgA9ACIAaAB0AHQAcAA6AC8ALwB3AHcAdwAuAHMAYQB0AC4AZwBvAGIALgBtAHgALwBUAGkAbQBiAHIAZQBGAGkAcwBjAGEAbABEAGkAZwBpAHQAYQBsACAAaAB0AHQAcAA6AC8ALwB3AHcAdwAuAHMAYQB0AC4AZwBvAGIALgBtAHgALwBzAGkAdABpAG8AXwBpAG4AdABlAHIAbgBlAHQALwBjAGYAZAAvAFQAaQBtAGIAcgBlAEYAaQBzAGMAYQBsAEQAaQBnAGkAdABhAGwALwBUAGkAbQBiAHIAZQBGAGkAcwBjAGEAbABEAGkAZwBpAHQAYQBsAHYAMQAxAC4AeABzAGQAIgAgAC8APgA8AC8AYwBmAGQAaQA6AEMAbwBtAHAAbABlAG0AZQBuAHQAbwA+ADwALwBjAGYAZABpADoAQwBvAG0AcAByAG8AYgBhAG4AdABlAD4A", "Conceptos":[ { "Cantidad":1, "Concepto":"BANDERAZO SALIDA POR RESCATE  CARRET. VHSA-MACUSPANA, TAB.", "PrecioUnitario":1200, "Importe":1200, "Descuento":0, "UnidadMedida":"SERVICIO", "TrasladoIva":"IVA 16%", "ImporteIva":192, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":4, "Concepto":"CAMBIO DE BATERIA", "PrecioUnitario":150, "Importe":600, "Descuento":0, "UnidadMedida":"SERVICIO", "TrasladoIva":"IVA 16%", "ImporteIva":96, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":4, "Concepto":"BATERIA 17 PLACA AMERICA", "PrecioUnitario":2486.72, "Importe":9946.88, "Descuento":0, "UnidadMedida":"PIEZA", "TrasladoIva":"IVA 16%", "ImporteIva":1591.5, "ImporteRetencion":0, "IEPS":0 } ], "Lineas":[ { "CodImpuesto":"", "Credito":"", "CuentaContable":"201-001-000000", "CuentaContableD365":"", "Debito":"", "DimArea":"", "DimCeco":"", "DimDepto":"", "Vehiculo":"", "DimFilTer":"", "DimSucursal":"", "GrupoImpuestos":"", "GrupoImpuestosArt":"", "NombreProveedor":"", "TipoProveedor":"", "TipoOperacion":"", "Texto":"Factura  18308", "RFC":"", "SinComprobante":"" }, { "CodImpuesto":"IVA16A", "Credito":"", "CuentaContable":"601-084-000000", "CuentaContableD365":"ELA216001", "Debito":"13626.3800", "DimArea":"SE", "DimCeco":"B910", "DimDepto":"SE05", "Vehiculo":"17048", "DimFilTer":"T001", "DimSucursal":"TAB005", "GrupoImpuestos":"PRPFTASA16", "GrupoImpuestosArt":"GRAV16%", "NombreProveedor":"", "TipoProveedor":"", "TipoOperacion":"", "Texto":"18308 CARMELA SANCHEZ JIMENEZ | MANTENIMIENTO", "RFC":"", "SinComprobante":"0" } ] }, { "ProcesoLigado":"ProPasivos", "IdPoliza":"116497", "NumeroPoliza":"5487", "Estatus":"0", "AprobadoPor":"", "CodProveedor":"0003512", "Compania":"LOG", "Descripcion":"Diario de factura para entrada", "DesctoPago":"", "Docto":" 18309", "Factura":" 18309", "FechaDocto":"2025-09-06 00:00:00", "FechaFactura":"2025-09-06 00:00:00", "FechaVencimiento":"2025-10-04 00:00:00", "FechaTrans":"", "Folio":"18309", "IdFactReferencia":"0", "IdRegistro":"LM.CP13415", "ImpuestosInc":"1", "MetodoPagoSAT":"", "Moneda":"MXN", "NombreDiario":"", "Serie":"", "SinComprobante":"", "SistemaOrigen":"", "Subtotal":"1440.0000000000", "Texto":"Factura  18309", "TipoCambio":"1.000000", "TipoFact":"0", "Total":"1670.4000000000", "UUID":"3B9ED88C-1FE8-4CD9-B5C9-3FA99A70EFDE", "XMLFactura":"PABjAGYAZABpADoAQwBvAG0AcAByAG8AYgBhAG4AdABlACAAeABtAGwAbgBzADoAeABzAGkAPQAiAGgAdAB0AHAAOgAvAC8AdwB3AHcALgB3ADMALgBvAHIAZwAvADIAMAAwADEALwBYAE0ATABTAGMAaABlAG0AYQAtAGkAbgBzAHQAYQBuAGMAZQAiACAAeABzAGkAOgBzAGMAaABlAG0AYQBMAG8AYwBhAHQAaQBvAG4APQAiAGgAdAB0AHAAOgAvAC8AdwB3AHcALgBzAGEAdAAuAGcAbwBiAC4AbQB4AC8AYwBmAGQALwA0ACAAaAB0AHQAcAA6AC8ALwB3AHcAdwAuAHMAYQB0AC4AZwBvAGIALgBtAHgALwBzAGkAdABpAG8AXwBpAG4AdABlAHIAbgBlAHQALwBjAGYAZAAvADQALwBjAGYAZAB2ADQAMAAuAHgAcwBkACIAIABWAGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAiACAARgBvAGwAaQBvAD0AIgAxADgAMwAwADkAIgAgAEYAZQBjAGgAYQA9ACIAMgAwADIANQAtADAAOQAtADAANgBUADEAMgA6ADEAMAA6ADUANAAiACAAUwBlAGwAbABvAD0AIgBPAFQAdgBHAGwAdgB0AGoAbAB0ADkAVABjAEgAaQBpAFEAdwBCADgAbwBCADUATAArADcASwBuAEcASwB6ADcAcwBFAFMAVwA5ADcAdAA0AC8AVQBiAGYAbABjAHEATgB2AFMAaABYAE8AVQBpAFAAZwBVAFYAWABiAEcAagBaAGcALwBlAE8AVgBTAGIARQAzAGQAMgAzAEwASABPAEQAdQBRADcAQQBiAGgAYgBoAHIAKwBWAEgAbABHAHEAeQAwAGcAZwB3AGEAOABsAFEAOQB1AG8AZgBrAHAAcQAyAGYANwBMAFEAegBnAGQANwAzADYAUwB6AE4ANABlAFcAMABpAHkAWQAyAGMAdABxAE8AaABnAFcAVQBxADcAQwA5AGoAYwBKAFEAbQBYAEQAYgA5AHAAQwA3AGcAUABqADUAQgBaAHkANQBSAGQAcgBqAHQARABFAHoAaQBZAEsAQQA0AG4AMQBuAGEAagBCAGYAbQBYAFMAUABJAG8ASQBzAGIAegBZAHMAdQBiAHQAUwBzAFkAVwBJAEUAWQB2ADIAcwA1AG8AVQBnAEoANgB6AE0AYgBzAFUAbQBkAEEAVQArAEEAagBhAHEAWABpAGkARQA2AHQANgBXAEIAQwBXADUAWQA5AFUALwB0ADYAZQB1AG0AOQA0AHgAMQBXAGEAcwB1AFQAMABHAFMARAA2AGkAbwBsADgAOQBmAFYAUgBLAFUANAA1AC8AWgB2ADQAVAA2ADUAWgBUAEkAKwBPADAALwB2AEcAdQB2AHAASgA5AHQAKwBxAHQAYgBRAHUARQBzAFUAMwBnAFkAZwBrAHEAOQBCAGgAbAB4AEIAdwB6AGUAQgB3ACsAVwAwAHgAQQBxADYAYgBzAE0AYwB2AG4ATQBMAHgAZwA9AD0AIgAgAEYAbwByAG0AYQBQAGEAZwBvAD0AIgA5ADkAIgAgAE4AbwBDAGUAcgB0AGkAZgBpAGMAYQBkAG8APQAiADAAMAAwADAAMQAwADAAMAAwADAAMAA1ADAAOQAzADUANAA3ADgAMgAiACAAQwBlAHIAdABpAGYAaQBjAGEAZABvAD0AIgBNAEkASQBGADIAVABDAEMAQQA4AEcAZwBBAHcASQBCAEEAZwBJAFUATQBEAEEAdwBNAEQARQB3AE0ARABBAHcATQBEAEEAMQBNAEQAawB6AE4AVABRADMATwBEAEkAdwBEAFEAWQBKAEsAbwBaAEkAaAB2AGMATgBBAFEARQBMAEIAUQBBAHcAZwBnAEcARQBNAFMAQQB3AEgAZwBZAEQAVgBRAFEARABEAEIAZABCAFYAVgBSAFAAVQBrAGwARQBRAFUAUQBnAFEAMABWAFMAVgBFAGwARwBTAFUATgBCAFIARQA5AFMAUQBUAEUAdQBNAEMAdwBHAEEAMQBVAEUAQwBnAHcAbABVADAAVgBTAFYAawBsAEQAUwBVADgAZwBSAEUAVQBnAFEAVQBSAE4AUwBVADUASgBVADEAUgBTAFEAVQBOAEoAVAAwADQAZwBWAEYASgBKAFEAbABWAFUAUQBWAEoASgBRAFQARQBhAE0AQgBnAEcAQQAxAFUARQBDAHcAdwBSAFUAMABGAFUATABVAGwARgBVAHkAQgBCAGQAWABSAG8AYgAzAEoAcABkAEgAawB4AEsAagBBAG8AQgBnAGsAcQBoAGsAaQBHADkAdwAwAEIAQwBRAEUAVwBHADIATgB2AGIAbgBSAGgAWQAzAFIAdgBMAG4AUgBsAFkAMgA1AHAAWQAyADkAQQBjADIARgAwAEwAbQBkAHYAWQBpADUAdABlAEQARQBtAE0AQwBRAEcAQQAxAFUARQBDAFEAdwBkAFEAVgBZAHUASQBFAGgASgBSAEUARgBNAFIAMAA4AGcATgB6AGMAcwBJAEUATgBQAFQAQwA0AGcAUgAxAFYARgBVAGwASgBGAFUAawA4AHgARABqAEEATQBCAGcATgBWAEIAQgBFAE0AQgBUAEEAMgBNAHoAQQB3AE0AUQBzAHcAQwBRAFkARABWAFEAUQBHAEUAdwBKAE4AVwBEAEUAWgBNAEIAYwBHAEEAMQBVAEUAQwBBAHcAUQBRADAAbABWAFIARQBGAEUASQBFAFIARgBJAEUAMQBGAFcARQBsAEQAVAB6AEUAVABNAEIARQBHAEEAMQBVAEUAQgB3AHcASwBRADEAVgBCAFYAVQBoAFUAUgBVADEAUABRAHoARQBWAE0AQgBNAEcAQQAxAFUARQBMAFIATQBNAFUAMABGAFUATwBUAGMAdwBOAHoAQQB4AFQAawA0AHoATQBWAHcAdwBXAGcAWQBKAEsAbwBaAEkAaAB2AGMATgBBAFEAawBDAEUAMAAxAHkAWgBYAE4AdwBiADIANQB6AFkAVwBKAHMAWgBUAG8AZwBRAFUAUgBOAFMAVQA1AEoAVQAxAFIAUwBRAFUATgBKAFQAMAA0AGcAUQAwAFYATwBWAEYASgBCAFQAQwBCAEUAUgBTAEIAVABSAFYASgBXAFMAVQBOAEoAVAAxAE0AZwBWAEYASgBKAFEAbABWAFUAUQBWAEoASgBUADEATQBnAFEAVQB3AGcAUQAwADkATwBWAEYASgBKAFEAbABWAFoAUgBVADUAVQBSAFQAQQBlAEYAdwAwAHkATQBUAEUAdwBNAFQARQB4AE4ARABVAHkATgBUAFoAYQBGAHcAMAB5AE4AVABFAHcATQBUAEUAeABOAEQAVQB5AE4AVABaAGEATQBJAEcAbgBNAFMAQQB3AEgAZwBZAEQAVgBRAFEARABFAHgAZABEAFEAVgBKAE4AUgBVAHgAQgBJAEYATgBCAFQAawBOAEkAUgBWAG8AZwBTAGsAbABOAFIAVQA1AEYAVwBqAEUAZwBNAEIANABHAEEAMQBVAEUASwBSAE0AWABRADAARgBTAFQAVQBWAE0AUQBTAEIAVABRAFUANQBEAFMARQBWAGEASQBFAHAASgBUAFUAVgBPAFIAVgBvAHgASQBEAEEAZQBCAGcATgBWAEIAQQBvAFQARgAwAE4AQgBVAGsAMQBGAFQARQBFAGcAVQAwAEYATwBRADAAaABGAFcAaQBCAEsAUwBVADEARgBUAGsAVgBhAE0AUgBZAHcARgBBAFkARABWAFEAUQB0AEUAdwAxAFQAUQBVAHAARABPAEQAQQB3AE8AVABBADMAUwBrAHMAeABNAFIAcwB3AEcAUQBZAEQAVgBRAFEARgBFAHgASgBUAFEAVQBwAEQATwBEAEEAdwBPAFQAQQAzAFQAVgBSAEQAVABrADEAUwBNAEQAVQB4AEMAagBBAEkAQgBnAE4AVgBCAEEAcwBUAEEAVABBAHcAZwBnAEUAaQBNAEEAMABHAEMAUwBxAEcAUwBJAGIAMwBEAFEARQBCAEEAUQBVAEEAQQA0AEkAQgBEAHcAQQB3AGcAZwBFAEsAQQBvAEkAQgBBAFEARABWAHcALwBMADAAegBDAHgAbAByAEEAeQBuAHkANQBwAEkAZgBBAEYARwA0AG4AKwBTAE8ANwBUAFMAQwBjAEMAcgBzAGYAUQBqACsAOAB6ADcALwBzAEUAUgAyAHMATgBKAHIAaQB2AGcATgBNAEYAZQBTAGkAcABSAGcAcgAwAEkAOABFAGIARABNAGIAdwBiAEsANwBpADQAOABsAFUAcgA5AEEASQBaAGwAMQArADMASgBpAHAAbQBOAGwAUwA3AEwAVQArAHYAZwAwAFMASQB4AGwAZwBjAC8AcgBkAFQARABOAGwAYgBlAGoARwBVAGYAOQBzADcANgA0AGUAUABBADkARQBJAGEANgB4AHIAVgAwAE8ASgA5AEMAQwBQADkAMwBWAGoAdwB4AHYATQBpAEcANQBkADAAWABDAHEAQgBKAFQANQBvAHQAZABhAEoAZgBEAEIANwBKAFAAZwBMAC8ALwBVAG4AWQBvAGoAUgBsADUAMABIAFoAVABLAGMAZwB3AHMAYQBmADAAawB4AHIAQgBlAGwAawA3AGwAMwA2AEYAWABFAGoAagBoACsAdgBsAHAAUgBoAHEAOAA2AEoAZQBUAFoARAAxAGsAagArAHUAcwAzADMAbQBtAEMAUQBUAEsAOAB5AEsAKwBTAG4AeAB6AEIAdAB2AEkAeQBxAGkAaABWAHMATABsAGwAbwAyAHkAWgB0AEEAMgA1AFYAOQA1AGgARwBJAEYAdABzAFoAbgA0AG0AUQBZAHoAOQB3AEkATgBsAHkAcwBSAGYASQA3ADIAVABkADQAZQA1AGoAcQBlAE8AYgBOAFEAdwBPAGQAdAB5AEMAbwBNAHAANQBtADQAVwBqAHEATwBWAFoAbAB0AEUATABZAEgARwBoAFIAQQBnAE0AQgBBAEEARwBqAEgAVABBAGIATQBBAHcARwBBADEAVQBkAEUAdwBFAEIALwB3AFEAQwBNAEEAQQB3AEMAdwBZAEQAVgBSADAAUABCAEEAUQBEAEEAZwBiAEEATQBBADAARwBDAFMAcQBHAFMASQBiADMARABRAEUAQgBDAHcAVQBBAEEANABJAEMAQQBRAEEATwBKADUAUwBrAHYAdgBTAHMAQwBmAHYAOAAzAFUAbAB3AFUAOABCAGsAYwBwAHUAaABMAEcAWABXADUATwAvAFoAQQBLAGwAawA5AEQAUgBzAHkAVwBlAHUAMwB1ADQAbgAvAEoAOQBXAFIATQA0AHIAeQA1AG4AQwBZAEkANQB4AEoARQB5AGgAUAAyAHEAdgBCAEgASABUAG4AYwBCAGkAUwBjAHUAcAByAEEAcgBMAE4ALwBPAEcAWQB4AEkARgB5AEYAVABtADMAVABUAGoANgBvAHMAMwBVADgAUgBmAFMATQAzAGUATwAvAGkAZgBHADEAYgBiAEMAaQAvAEgAVQBHAGkAZwA1AGMAbQB2ADYAdABRAFcAbgBNADgAcwBQAEMAUAArADYAMABYAE0ALwBhAGgAYgBGAEIAUABDAFEAMQB0AFIAQQBmAEsAWgBiAEYAWQBHAGsAYgBaAGQAUQA2AFEAWABZAFAAUAA1AFUAZwBVAFMAZQBPAEkAVgBvAEEASQBJAEYATgBYAHcAZQByAHIAZABnAHQAaABDAEMASQAvAEsAdwAxAEMAUgBkAG4ANwBnAFIAagA0AGYAeQBzAE0AZgBqAC8AWABNAGUAbQAyAGEATABuAEwANgAvAGsAZABXAGsAcAByADQAVQBoAEoAKwBLAGsAUwBuAEwAcQBDAG8ARQBjADIARwBSAGQASwAyADcAMQBtAGoARQBZAHIAQwBlAFUASQB5AFcAWQBMAEoAagBuADIAcwBXAEcAKwBwAFAARwBIADYASwA0ADUAdwAyAGcAdAA3AEIAdQBtAGgAbABjAGoAeQBTAHMAUgBpAFMATwBjAHgANgBNAHcAZwBaADUAKwBBAHAANQBzAHcAUABWAEcAcABOAFkANQBTAFMAaABBAFcAcgB0AHMATABUAFcAYQBuAG0AcQBaAE8ASABpAFYASABiAFgAVwA2AHYAMwB4AEIAagBDAE0AUQA0AEgAOQBsAGQAQQBlAG0ALwBWAGMAMwAwAHUASgAxADAASgBTAEUAVwBwADcASwBKAGQAYQBEAHcAeAAxAFoAWABjAFkATAB2AFoAMQB1AHUAUQBZAE8AKwBGADMAZQByAHYAeQBJADMAYwA2AEkAdABJAHIAaQBoAFAARwBsAFQARwBtAFAAdwBhAFoAeQA2AEUASgA5AGIATAA2AHkAYQBzAFcAUwBEADYAVABXAEgAMgBxAGsAdQBhAFcARABwAFkAMQBQAFkAMAB6AHUAcABkAEQAWABRAFAAQgB1AEoAVgB4ADUAVABvAFcAcABaAE4AeQBEAFMAegB3AE4AVwBPADYANgBiAGkAUAA5AGYAaQBlAEEAdQBlAG0AdwBXADQAYQBwAFIAdQA4ADEAYwAyAFAAbwBnAGUARAA5AHEAaQBwAEcAcQBvAHMAQwB1AHAAZABiAEgATgBJAFgAQQBkAHIASwBrAHQAZwBxADIASgBtADAANwBGAEIAbgBFAG4ATgBRADUAcgBVAHEAQQBwAFIAaQBzAFQANAA5AG0ARwBRAGcATgBxAFQATQBqAEIAUgBzACsAZgAwAHoARAA5AEcAawBXAHkAcABmAGkAeQB1AHAAVABSAGgAdABrAFQAOAAzAGoAUgBlAGUAeQAzAGIAYgBDAEcARgBrAEQAWQB3AHgAbABGAHkANABlADIAeQBCAGIANQBqAHQAegB3AFQAOQBOAHoAeABIADUAUwBmAEYASgBlAFoAMQBxAEIAbABUAE0ASQBqAE0AVABJAFYAcwBmAEQAaQBVAFEASgBhAHkARABBAD0APQAiACAAQwBvAG4AZABpAGMAaQBvAG4AZQBzAEQAZQBQAGEAZwBvAD0AIgBDAFIARQBEAEkAVABPACIAIABTAHUAYgBUAG8AdABhAGwAPQAiADEANAA0ADAAIgAgAE0AbwBuAGUAZABhAD0AIgBNAFgATgAiACAAVABvAHQAYQBsAD0AIgAxADYANwAwAC4ANAAwACIAIABUAGkAcABvAEQAZQBDAG8AbQBwAHIAbwBiAGEAbgB0AGUAPQAiAEkAIgAgAEUAeABwAG8AcgB0AGEAYwBpAG8AbgA9ACIAMAAxACIAIABNAGUAdABvAGQAbwBQAGEAZwBvAD0AIgBQAFAARAAiACAATAB1AGcAYQByAEUAeABwAGUAZABpAGMAaQBvAG4APQAiADgANgAyADcANQAiACAAeABtAGwAbgBzADoAYwBmAGQAaQA9ACIAaAB0AHQAcAA6AC8ALwB3AHcAdwAuAHMAYQB0AC4AZwBvAGIALgBtAHgALwBjAGYAZAAvADQAIgA+ADwAYwBmAGQAaQA6AEUAbQBpAHMAbwByACAAUgBmAGMAPQAiAFMAQQBKAEMAOAAwADAAOQAwADcASgBLADEAIgAgAE4AbwBtAGIAcgBlAD0AIgBDAEEAUgBNAEUATABBACAAUwBBAE4AQwBIAEUAWgAgAEoASQBNAEUATgBFAFoAIgAgAFIAZQBnAGkAbQBlAG4ARgBpAHMAYwBhAGwAPQAiADYAMQAyACIAIAAvAD4APABjAGYAZABpADoAUgBlAGMAZQBwAHQAbwByACAAUgBmAGMAPQAiAEwATQBBADAANAAwADIAMgA3ADUAUQA2ACIAIABOAG8AbQBiAHIAZQA9ACIATABPAEcASQBTAFQASQBDAEEAIABEAEUATAAgAE0AQQBZAEEAQgAiACAARABvAG0AaQBjAGkAbABpAG8ARgBpAHMAYwBhAGwAUgBlAGMAZQBwAHQAbwByAD0AIgA5ADcAMQA2ADAAIgAgAFIAZQBnAGkAbQBlAG4ARgBpAHMAYwBhAGwAUgBlAGMAZQBwAHQAbwByAD0AIgA2ADIANAAiACAAVQBzAG8AQwBGAEQASQA9ACIARwAwADMAIgAgAC8APgA8AGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8AcwA+ADwAYwBmAGQAaQA6AEMAbwBuAGMAZQBwAHQAbwAgAEMAbABhAHYAZQBQAHIAbwBkAFMAZQByAHYAPQAiADcAOAAxADgAMQA1ADAAOAAiACAAQwBhAG4AdABpAGQAYQBkAD0AIgAxACIAIABDAGwAYQB2AGUAVQBuAGkAZABhAGQAPQAiAEUANAA4ACIAIABVAG4AaQBkAGEAZAA9ACIAUwBFAFIAVgBJAEMASQBPACIAIABEAGUAcwBjAHIAaQBwAGMAaQBvAG4APQAiAEUATgBHAFIAQQBTAEEARABPACAARQBOACAARwBFAE4ARQBSAEEATAAiACAAVgBhAGwAbwByAFUAbgBpAHQAYQByAGkAbwA9ACIANAAwADAAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADQAMAAwACIAIABPAGIAagBlAHQAbwBJAG0AcAA9ACIAMAAyACIAPgA8AGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwA+ADwAYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwBzAD4APABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvACAAQgBhAHMAZQA9ACIANAAwADAAIgAgAEkAbQBwAHUAZQBzAHQAbwA9ACIAMAAwADIAIgAgAFQAaQBwAG8ARgBhAGMAdABvAHIAPQAiAFQAYQBzAGEAIgAgAFQAYQBzAGEATwBDAHUAbwB0AGEAPQAiADAALgAxADYAMAAwADAAMAAiACAASQBtAHAAbwByAHQAZQA9ACIANgA0AC4AMAAwADAAMAAwADAAIgAgAC8APgA8AC8AYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwBzAD4APAAvAGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwA+ADwALwBjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvAD4APABjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvACAAQwBsAGEAdgBlAFAAcgBvAGQAUwBlAHIAdgA9ACIANwA4ADEAOAAxADUAMAA4ACIAIABDAGEAbgB0AGkAZABhAGQAPQAiADEAIgAgAEMAbABhAHYAZQBVAG4AaQBkAGEAZAA9ACIARQA0ADgAIgAgAFUAbgBpAGQAYQBkAD0AIgBTAEUAUgBWAEkAQwBJAE8AIgAgAEQAZQBzAGMAcgBpAHAAYwBpAG8AbgA9ACIAQwBBAEwASQBCAFIAQQBDAEkATwBOACAARABFACAARgBSAEUATgBPACAARQBOACAARwBFAE4ARQBSAEEATAAiACAAVgBhAGwAbwByAFUAbgBpAHQAYQByAGkAbwA9ACIANAAwADAAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADQAMAAwACIAIABPAGIAagBlAHQAbwBJAG0AcAA9ACIAMAAyACIAPgA8AGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwA+ADwAYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwBzAD4APABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvACAAQgBhAHMAZQA9ACIANAAwADAAIgAgAEkAbQBwAHUAZQBzAHQAbwA9ACIAMAAwADIAIgAgAFQAaQBwAG8ARgBhAGMAdABvAHIAPQAiAFQAYQBzAGEAIgAgAFQAYQBzAGEATwBDAHUAbwB0AGEAPQAiADAALgAxADYAMAAwADAAMAAiACAASQBtAHAAbwByAHQAZQA9ACIANgA0AC4AMAAwADAAMAAwADAAIgAgAC8APgA8AC8AYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwBzAD4APAAvAGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwA+ADwALwBjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvAD4APABjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvACAAQwBsAGEAdgBlAFAAcgBvAGQAUwBlAHIAdgA9ACIANwA4ADEAOAAxADUAMAA4ACIAIABDAGEAbgB0AGkAZABhAGQAPQAiADEAIgAgAEMAbABhAHYAZQBVAG4AaQBkAGEAZAA9ACIARQA0ADgAIgAgAFUAbgBpAGQAYQBkAD0AIgBTAEUAUgBWAEkAQwBJAE8AIgAgAEQAZQBzAGMAcgBpAHAAYwBpAG8AbgA9ACIAQwBBAEwASQBCAFIAQQBDAEkATwBOACAARABFACAATABMAEEATgBUAEEAIABFAE4AIABHAEUATgBFAFIAQQBMACIAIABWAGEAbABvAHIAVQBuAGkAdABhAHIAaQBvAD0AIgAxADAAMAAiACAASQBtAHAAbwByAHQAZQA9ACIAMQAwADAAIgAgAE8AYgBqAGUAdABvAEkAbQBwAD0AIgAwADIAIgA+ADwAYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4APABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AIABCAGEAcwBlAD0AIgAxADAAMAAiACAASQBtAHAAdQBlAHMAdABvAD0AIgAwADAAMgAiACAAVABpAHAAbwBGAGEAYwB0AG8AcgA9ACIAVABhAHMAYQAiACAAVABhAHMAYQBPAEMAdQBvAHQAYQA9ACIAMAAuADEANgAwADAAMAAwACIAIABJAG0AcABvAHIAdABlAD0AIgAxADYALgAwADAAMAAwADAAMAAiACAALwA+ADwALwBjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgA8AC8AYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4APAAvAGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8APgA8AGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8AIABDAGwAYQB2AGUAUAByAG8AZABTAGUAcgB2AD0AIgAxADUAMQAyADEAOQAwADIAIgAgAEMAYQBuAHQAaQBkAGEAZAA9ACIAMwAiACAAQwBsAGEAdgBlAFUAbgBpAGQAYQBkAD0AIgBLAEcATQAiACAAVQBuAGkAZABhAGQAPQAiAEsASQBMAE8AIgAgAEQAZQBzAGMAcgBpAHAAYwBpAG8AbgA9ACIARwBSAEEAUwBBACAARABFACAATABJAFQASQBPACIAIABWAGEAbABvAHIAVQBuAGkAdABhAHIAaQBvAD0AIgAxADgAMAAiACAASQBtAHAAbwByAHQAZQA9ACIANQA0ADAAIgAgAE8AYgBqAGUAdABvAEkAbQBwAD0AIgAwADIAIgA+ADwAYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4APABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AIABCAGEAcwBlAD0AIgA1ADQAMAAiACAASQBtAHAAdQBlAHMAdABvAD0AIgAwADAAMgAiACAAVABpAHAAbwBGAGEAYwB0AG8AcgA9ACIAVABhAHMAYQAiACAAVABhAHMAYQBPAEMAdQBvAHQAYQA9ACIAMAAuADEANgAwADAAMAAwACIAIABJAG0AcABvAHIAdABlAD0AIgA4ADYALgA0ADAAMAAwADAAMAAiACAALwA+ADwALwBjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgA8AC8AYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4APAAvAGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8APgA8AC8AYwBmAGQAaQA6AEMAbwBuAGMAZQBwAHQAbwBzAD4APABjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAIABUAG8AdABhAGwASQBtAHAAdQBlAHMAdABvAHMAVAByAGEAcwBsAGEAZABhAGQAbwBzAD0AIgAyADMAMAAuADQAMAAiAD4APABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AIABCAGEAcwBlAD0AIgAxADQANAAwACIAIABJAG0AcAB1AGUAcwB0AG8APQAiADAAMAAyACIAIABUAGkAcABvAEYAYQBjAHQAbwByAD0AIgBUAGEAcwBhACIAIABUAGEAcwBhAE8AQwB1AG8AdABhAD0AIgAwAC4AMQA2ADAAMAAwADAAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADIAMwAwAC4ANAAwACIAIAAvAD4APAAvAGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AcwA+ADwALwBjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAPgA8AGMAZgBkAGkAOgBDAG8AbQBwAGwAZQBtAGUAbgB0AG8APgA8AHQAZgBkADoAVABpAG0AYgByAGUARgBpAHMAYwBhAGwARABpAGcAaQB0AGEAbAAgAFYAZQByAHMAaQBvAG4APQAiADEALgAxACIAIABSAGYAYwBQAHIAbwB2AEMAZQByAHQAaQBmAD0AIgBTAFQAQQAwADkAMAAzADIAMAA2AEIAOQAiACAAVQBVAEkARAA9ACIAMwBCADkARQBEADgAOABDAC0AMQBGAEUAOAAtADQAQwBEADkALQBCADUAQwA5AC0AMwBGAEEAOQA5AEEANwAwAEUARgBEAEUAIgAgAEYAZQBjAGgAYQBUAGkAbQBiAHIAYQBkAG8APQAiADIAMAAyADUALQAwADkALQAwADYAVAAxADIAOgAyADYAOgAxADEAIgAgAFMAZQBsAGwAbwBDAEYARAA9ACIATwBUAHYARwBsAHYAdABqAGwAdAA5AFQAYwBIAGkAaQBRAHcAQgA4AG8AQgA1AEwAKwA3AEsAbgBHAEsAegA3AHMARQBTAFcAOQA3AHQANAAvAFUAYgBmAGwAYwBxAE4AdgBTAGgAWABPAFUAaQBQAGcAVQBWAFgAYgBHAGoAWgBnAC8AZQBPAFYAUwBiAEUAMwBkADIAMwBMAEgATwBEAHUAUQA3AEEAYgBoAGIAaAByACsAVgBIAGwARwBxAHkAMABnAGcAdwBhADgAbABRADkAdQBvAGYAawBwAHEAMgBmADcATABRAHoAZwBkADcAMwA2AFMAegBOADQAZQBXADAAaQB5AFkAMgBjAHQAcQBPAGgAZwBXAFUAcQA3AEMAOQBqAGMASgBRAG0AWABEAGIAOQBwAEMANwBnAFAAagA1AEIAWgB5ADUAUgBkAHIAagB0AEQARQB6AGkAWQBLAEEANABuADEAbgBhAGoAQgBmAG0AWABTAFAASQBvAEkAcwBiAHoAWQBzAHUAYgB0AFMAcwBZAFcASQBFAFkAdgAyAHMANQBvAFUAZwBKADYAegBNAGIAcwBVAG0AZABBAFUAKwBBAGoAYQBxAFgAaQBpAEUANgB0ADYAVwBCAEMAVwA1AFkAOQBVAC8AdAA2AGUAdQBtADkANAB4ADEAVwBhAHMAdQBUADAARwBTAEQANgBpAG8AbAA4ADkAZgBWAFIASwBVADQANQAvAFoAdgA0AFQANgA1AFoAVABJACsATwAwAC8AdgBHAHUAdgBwAEoAOQB0ACsAcQB0AGIAUQB1AEUAcwBVADMAZwBZAGcAawBxADkAQgBoAGwAeABCAHcAegBlAEIAdwArAFcAMAB4AEEAcQA2AGIAcwBNAGMAdgBuAE0ATAB4AGcAPQA9ACIAIABOAG8AQwBlAHIAdABpAGYAaQBjAGEAZABvAFMAQQBUAD0AIgAwADAAMAAwADEAMAAwADAAMAAwADAANwAxADEANwA2ADIANQAxADEAIgAgAFMAZQBsAGwAbwBTAEEAVAA9ACIAbwB6AHkAbgA2AEkAZwBnAC8ARAB1AGoAOABMAE4AUABkAFoARgBBAC8AcQBVAFMAVABhAHEAQgA4AEgAUABjAEoAbQBMAE4ATQBCAE0ARQAvAFEAUgBNAEIAVQB6AEgAaAB3AHEAWgBiADAAOABOAGEAYgBnAGQAUgA1AHUAWQBCAGkAVQBrAHcASAAyAGEAbgA3AGQASQBJADUAdgA1AGYAbwBhAFkAMwBXAFoAegBTAEkAcgBlAEkANwBlAG0ANgBwAFkANABWAEwAMgBCAEcASABXAHUAMwB3AG4AUwBQAFoAZgBTAHoAUgBBAHcAOABHAFcAdQBHAHEAUABnAEsAWgB5AGUAWQBsADYAZABRAFkAeABZAHUAWABsADgAVABKAHoAMQB3AEcAbwB5AEQAdwBxAEsAOQBKAGUANgAvAGUAUgBiAHQAaQBtADMAMwBiAHUAVQAwAEMAbgBoAGIARAAwAGYAOQBsAGgANwB6AG8AMwBUAHEAVgBTAEcASwBsAFoAZQBmAEwASgBXAFoANAA0AGgAawBoAHIAYwBnADcAQQBpAGwATABZAE8ANgBZAFEASgA2AEsAawBUAGgATABpAGUAYwB3AEEAMQBLAGUAbwBsAG8ALwAwAE8AWgBpAFEATQA2AGcAZQB4ADgAbgAzAGoAZgBIAHIATQBwADcAUABrAEUAOQB2AGYAZQA0AHMASwA3AG8AaQBEAFoAawB2ADYAZgBzAG0ARQB1AEcAbQBlAFYANABqAFQAcQBNAG8ANABWAG0AMABWAEsAaAB1AHoATAB3AG8AVgB0AHYAWQBWAE0AbABNAFAAcABkAEcAUwBaACsAYwBHADIAUAA4AFAAZgBTAGcANQBKAHIANQBuAFQAVABkAFEAYgBqAG0AWQBiAHcAPQA9ACIAIAB4AG0AbABuAHMAOgB0AGYAZAA9ACIAaAB0AHQAcAA6AC8ALwB3AHcAdwAuAHMAYQB0AC4AZwBvAGIALgBtAHgALwBUAGkAbQBiAHIAZQBGAGkAcwBjAGEAbABEAGkAZwBpAHQAYQBsACIAIAB4AHMAaQA6AHMAYwBoAGUAbQBhAEwAbwBjAGEAdABpAG8AbgA9ACIAaAB0AHQAcAA6AC8ALwB3AHcAdwAuAHMAYQB0AC4AZwBvAGIALgBtAHgALwBUAGkAbQBiAHIAZQBGAGkAcwBjAGEAbABEAGkAZwBpAHQAYQBsACAAaAB0AHQAcAA6AC8ALwB3AHcAdwAuAHMAYQB0AC4AZwBvAGIALgBtAHgALwBzAGkAdABpAG8AXwBpAG4AdABlAHIAbgBlAHQALwBjAGYAZAAvAFQAaQBtAGIAcgBlAEYAaQBzAGMAYQBsAEQAaQBnAGkAdABhAGwALwBUAGkAbQBiAHIAZQBGAGkAcwBjAGEAbABEAGkAZwBpAHQAYQBsAHYAMQAxAC4AeABzAGQAIgAgAC8APgA8AC8AYwBmAGQAaQA6AEMAbwBtAHAAbABlAG0AZQBuAHQAbwA+ADwALwBjAGYAZABpADoAQwBvAG0AcAByAG8AYgBhAG4AdABlAD4A", "Conceptos":[ { "Cantidad":1, "Concepto":"ENGRASADO EN GENERAL", "PrecioUnitario":400, "Importe":400, "Descuento":0, "UnidadMedida":"SERVICIO", "TrasladoIva":"IVA 16%", "ImporteIva":64, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":1, "Concepto":"CALIBRACION DE FRENO EN GENERAL", "PrecioUnitario":400, "Importe":400, "Descuento":0, "UnidadMedida":"SERVICIO", "TrasladoIva":"IVA 16%", "ImporteIva":64, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":1, "Concepto":"CALIBRACION DE LLANTA EN GENERAL", "PrecioUnitario":100, "Importe":100, "Descuento":0, "UnidadMedida":"SERVICIO", "TrasladoIva":"IVA 16%", "ImporteIva":16, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":3, "Concepto":"GRASA DE LITIO", "PrecioUnitario":180, "Importe":540, "Descuento":0, "UnidadMedida":"KILO", "TrasladoIva":"IVA 16%", "ImporteIva":86.4, "ImporteRetencion":0, "IEPS":0 } ], "Lineas":[ { "CodImpuesto":"", "Credito":"", "CuentaContable":"201-001-000000", "CuentaContableD365":"", "Debito":"", "DimArea":"", "DimCeco":"", "DimDepto":"", "Vehiculo":"", "DimFilTer":"", "DimSucursal":"", "GrupoImpuestos":"", "GrupoImpuestosArt":"", "NombreProveedor":"", "TipoProveedor":"", "TipoOperacion":"", "Texto":"Factura  18309", "RFC":"", "SinComprobante":"" }, { "CodImpuesto":"IVA16A", "Credito":"", "CuentaContable":"601-084-000000", "CuentaContableD365":"ELA216001", "Debito":"1670.4000", "DimArea":"SE", "DimCeco":"B903", "DimDepto":"SE05", "Vehiculo":"18174", "DimFilTer":"T001", "DimSucursal":"TAB005", "GrupoImpuestos":"PRPFTASA16", "GrupoImpuestosArt":"GRAV16%", "NombreProveedor":"", "TipoProveedor":"", "TipoOperacion":"", "Texto":"18309 CARMELA SANCHEZ JIMENEZ | MANTENIMIENTO", "RFC":"", "SinComprobante":"0" } ] }, { "ProcesoLigado":"ProPasivos", "IdPoliza":"117028", "NumeroPoliza":"6017", "Estatus":"0", "AprobadoPor":"", "CodProveedor":"0003530", "Compania":"LOG", "Descripcion":"Diario de factura para entrada", "DesctoPago":"", "Docto":"RFMA 36", "Factura":"RFMA 36", "FechaDocto":"2025-09-06 00:00:00", "FechaFactura":"2025-09-06 00:00:00", "FechaVencimiento":"2025-10-06 00:00:00", "FechaTrans":"", "Folio":"36", "IdFactReferencia":"0", "IdRegistro":"LM.CP13464", "ImpuestosInc":"1", "MetodoPagoSAT":"", "Moneda":"MXN", "NombreDiario":"", "Serie":"RFMA", "SinComprobante":"", "SistemaOrigen":"", "Subtotal":"11775.0000000000", "Texto":"Factura RFMA 36", "TipoCambio":"1.000000", "TipoFact":"0", "Total":"13659.0000000000", "UUID":"16847a7a-d17a-4da2-a83a-99622a955721", "XMLFactura":"PABjAGYAZABpADoAQwBvAG0AcAByAG8AYgBhAG4AdABlACAAeABtAGwAbgBzADoAYwBmAGQAaQA9ACIAaAB0AHQAcAA6AC8ALwB3AHcAdwAuAHMAYQB0AC4AZwBvAGIALgBtAHgALwBjAGYAZAAvADQAIgAgAHgAbQBsAG4AcwA6AHgAcwBpAD0AIgBoAHQAdABwADoALwAvAHcAdwB3AC4AdwAzAC4AbwByAGcALwAyADAAMAAxAC8AWABNAEwAUwBjAGgAZQBtAGEALQBpAG4AcwB0AGEAbgBjAGUAIgAgAHgAbQBsAG4AcwA6AE8AVABSAE8APQAiAGgAdAB0AHAAOgAvAC8AdwB3AHcALgBwAGUAZwBhAHMAbwB0AGUAYwBuAG8AbABvAGcAaQBhAC4AYwBvAG0ALwBzAGUAYwBmAGQALwBTAGMAaABlAG0AYQBzAC8AUgBlAG4AYQB1AGwAdAAiACAAVgBlAHIAcwBpAG8AbgA9ACIANAAuADAAIgAgAFMAZQByAGkAZQA9ACIAUgBGAE0AQQAiACAARgBvAGwAaQBvAD0AIgAzADYAIgAgAEYAZQBjAGgAYQA9ACIAMgAwADIANQAtADAAOQAtADAANgBUADEAMgA6ADIANwA6ADAANQAiACAAUwBlAGwAbABvAD0AIgBlAG4AcABDAHMAaQBCAHMAdABkAGYANABxAEwAQwB5AG4AWQB6AG8AVABkAEUAVQBLAFQAVQB0AHMAVwBZAFUAeQBBAEgAbQBHAFMAWABkAHMAbgBPAHYAVwBOAEMAUgBlAEMAWABzAFAAZwAzAGsAWgA4AEMAYwBOAHAAQgAvAGoATABiAFgARABwAGEAWQAvAGcAQQBxAHAASABOAG0ANQBMAGgAbAB5AHQAMQB1AEEAYQB1AEsAbwBLAFEAbABDAC8AegBrAE4AMwByAHIATgBsAHkANABUAGMAWQBDACsAdQBkAHAAUABYAHkAegBiAHUAZABpAG8ANwBiAG0ATgBZAEsAZgBLAGQAbABqAFYAMAAzAG8AcgBpAFAASgBmAFgAQwBiAGQASQBjADkAMwArAHQAMABTAGcARABGAEgALwByAFEATABmADcATAB6AHgATwBwAEIAdgBuAFUAVABRADQAUgBuAFoAKwBjAHIAeAA1AEwAawAzAGMANwB4ADYANQAyAGwAYwBTAGcAegBzAGcAVABQAGcARQBrADkAbwBqAGMAZQBHADcAUQBrADMAZwAwADIAaQBTAFYAMABSADAAVQBCADcAUQBKADUAcwBCAHEAOAA0AHcAZQBSAHkAMABHAGoAbABDAGMARQBaAGQAeAByACsAZQBvAHcAYQBEAEQASQAzAEIAcwBjAFEAYgA0ADIAYgBtAEkAMABDADQAYQB2AGYARQBDAHUAeQBjAGUAdgBDAEUAYwAvAGYAWQBCAHIAdQB3AHEATwB5AEgAaABiAHgANwAwAHAAcgBXAHgAVwBQAEwANQA3AFcAagAvAEwAMQAzAGQAbwBqAEcAdwBLADIAdgBIAFMASgBiAGEAVgB4AHAAVABpAGYAYgBsAHIAUQA9AD0AIgAgAEYAbwByAG0AYQBQAGEAZwBvAD0AIgA5ADkAIgAgAE4AbwBDAGUAcgB0AGkAZgBpAGMAYQBkAG8APQAiADAAMAAwADAAMQAwADAAMAAwADAAMAA3ADAAMwA4ADIANgAwADgAOAAiACAAQwBlAHIAdABpAGYAaQBjAGEAZABvAD0AIgBNAEkASQBHAEgAegBDAEMAQgBBAGUAZwBBAHcASQBCAEEAZwBJAFUATQBEAEEAdwBNAEQARQB3AE0ARABBAHcATQBEAEEAMwBNAEQATQA0AE0AagBZAHcATwBEAGcAdwBEAFEAWQBKAEsAbwBaAEkAaAB2AGMATgBBAFEARQBMAEIAUQBBAHcAZwBnAEcAVgBNAFQAVQB3AE0AdwBZAEQAVgBRAFEARABEAEMAeABCAFEAeQBCAEUAUgBVAHcAZwBVADAAVgBTAFYAawBsAEQAUwBVADgAZwBSAEUAVQBnAFEAVQBSAE4AUwBVADUASgBVADEAUgBTAFEAVQBOAEoAVAAwADQAZwBWAEYASgBKAFEAbABWAFUAUQBWAEoASgBRAFQARQB1AE0AQwB3AEcAQQAxAFUARQBDAGcAdwBsAFUAMABWAFMAVgBrAGwARABTAFUAOABnAFIARQBVAGcAUQBVAFIATgBTAFUANQBKAFUAMQBSAFMAUQBVAE4ASgBUADAANABnAFYARgBKAEoAUQBsAFYAVQBRAFYASgBKAFEAVABFAGEATQBCAGcARwBBADEAVQBFAEMAdwB3AFIAVQAwAEYAVQBMAFUAbABGAFUAeQBCAEIAZABYAFIAbwBiADMASgBwAGQASABrAHgATQBqAEEAdwBCAGcAawBxAGgAawBpAEcAOQB3ADAAQgBDAFEARQBXAEkAMwBOAGwAYwBuAFoAcABZADIAbAB2AGMAMgBGAHMAWQAyADkAdQBkAEgASgBwAFkAbgBWADUAWgBXADUAMABaAFUAQgB6AFkAWABRAHUAWgAyADkAaQBMAG0AMQA0AE0AUwBZAHcASgBBAFkARABWAFEAUQBKAEQAQgAxAEIAZABpADQAZwBTAEcAbABrAFkAVwB4AG4AYgB5AEEAMwBOAHkAdwBnAFEAMgA5AHMATABpAEIASABkAFcAVgB5AGMAbQBWAHkAYgB6AEUATwBNAEEAdwBHAEEAMQBVAEUARQBRAHcARgBNAEQAWQB6AE0ARABBAHgAQwB6AEEASgBCAGcATgBWAEIAQQBZAFQAQQBrADEAWQBNAFEAMAB3AEMAdwBZAEQAVgBRAFEASQBEAEEAUgBEAFIARQAxAFkATQBSAE0AdwBFAFEAWQBEAFYAUQBRAEgARABBAHAARABWAFUARgBWAFMARgBSAEYAVABVADkARABNAFIAVQB3AEUAdwBZAEQAVgBRAFEAdABFAHcAeABUAFEAVgBRADUATgB6AEEAMwBNAEQARgBPAFQAagBNAHgAWABEAEIAYQBCAGcAawBxAGgAawBpAEcAOQB3ADAAQgBDAFEASQBUAFQAWABKAGwAYwAzAEIAdgBiAG4ATgBoAFkAbQB4AGwATwBpAEIAQgBSAEUAMQBKAFQAawBsAFQAVgBGAEoAQgBRADAAbABQAFQAaQBCAEQAUgBVADUAVQBVAGsARgBNAEkARQBSAEYASQBGAE4ARgBVAGwAWgBKAFEAMABsAFAAVQB5AEIAVQBVAGsAbABDAFYAVgBSAEIAVQBrAGwAUABVAHkAQgBCAFQAQwBCAEQAVAAwADUAVQBVAGsAbABDAFYAVgBsAEYAVABsAFIARgBNAEIANABYAEQAVABJAHoATQBUAEkAdwBOAFQARQAxAE0AagBnAHcATgBsAG8AWABEAFQASQAzAE0AVABJAHcATgBUAEUAMQBNAGoAZwB3AE4AbABvAHcAZwBkAHcAeABLAHoAQQBwAEIAZwBOAFYAQgBBAE0AVABJAGwATgBKAFIAVgBKAFMAUQBTAEIATwBUADEASgBVAFIAUwBCAFUAVQBsAFYARABTAHkAQgBEAFIAVQA1AFUAUgBWAEkAZwBVADAARQBnAFIARQBVAGcAUQAxAFkAeABLAHoAQQBwAEIAZwBOAFYAQgBDAGsAVABJAGwATgBKAFIAVgBKAFMAUQBTAEIATwBUADEASgBVAFIAUwBCAFUAVQBsAFYARABTAHkAQgBEAFIAVQA1AFUAUgBWAEkAZwBVADAARQBnAFIARQBVAGcAUQAxAFkAeABLAHoAQQBwAEIAZwBOAFYAQgBBAG8AVABJAGwATgBKAFIAVgBKAFMAUQBTAEIATwBUADEASgBVAFIAUwBCAFUAVQBsAFYARABTAHkAQgBEAFIAVQA1AFUAUgBWAEkAZwBVADAARQBnAFIARQBVAGcAUQAxAFkAeABKAFQAQQBqAEIAZwBOAFYAQgBDADAAVABIAEYATgBTAFIAVABBADIATQBEAEkAdwBNAGoARgBSAE4AaQBBAHYASQBGAE4AQgBSAGsAbwAzAE0AegBFAHcATQBUAGwAUwBWAGoAawB4AEgAagBBAGMAQgBnAE4AVgBCAEEAVQBUAEYAUwBBAHYASQBGAE4AQgBSAGsAbwAzAE0AegBFAHcATQBUAGwASQBSADEAUgBPAFUAawA0AHcATwBUAEUATQBNAEEAbwBHAEEAMQBVAEUAQwB4AE0ARABUAFYAUgBaAE0ASQBJAEIASQBqAEEATgBCAGcAawBxAGgAawBpAEcAOQB3ADAAQgBBAFEARQBGAEEAQQBPAEMAQQBRADgAQQBNAEkASQBCAEMAZwBLAEMAQQBRAEUAQQBuAEwAVgBXAHkARgBDACsAMwBSAFcARQB1AEsAMwBxAEkAWQBOAFQAKwBWACsAdQBxAHoATgBEADMAeQBPADgAeQByAGYAagA3ADQANABMAEsAOQBPAFUAVgA3ADMAegBKADQARgBKAEMAZQBpADMAUABkAEQAUwBOAFIAdABOAE0AbQBEADgAZABOAG8AbgA4AEgAQQBCAFQATgB3AFEAUgBGAEMAdQB1AHoAUQBvAFcAVgBwAGEAWABmADQAcAArAFQAagBRAFoAbgBzAFYAdQBNAGgARwBnAGsAbwAzAHIAYQBFAGsALwBtADgATwBhADkAMABMADAAQwB0AG0ASAAxAGgAKwBNAFgAMQAzAEYAQwB0ACsAYwBLAGoAVABqADEAQwBSAGMATwBFAEMATgBVAHQAdQBxADMANwBQAEsAQwBmADgANwBvAHMAZgBFAGgAbABJAHQASQA5AFYAVABUADYAUQBwAHoAUwBQAHEAMQA5AHIAQwAxAGMANwBwAHYAKwByAGIAZABNACsAYwBzAHQASABPAFcAQgBKADgAbwA4AE0AVwBzAFUAUABpAEIANwBsACsAWABmAHEAcwAwAHIAKwBIAHoAMwA3AGgASQAyAEMAQwBQAGQARQBYAG8AVgBNAHgAUABBADUAUgBEADIAeQBRAGkAaABIAG0ATQA2AHgAKwBjADcAOABOAFgAUABXAGUAMQArACsAUAA5AFUAbAAyAHEAYQB0AFoATwAyADMASgBUAG8AbgBWADYAVwB2AGEANwA1AGkARwA4AFgAcQBpAGMAYgBSAGsANgBvAEgASQAzAHgASwBEAE0ANABBAGIARwBCAFoATgB4AFoAZQB6AEgATAAxADUAdAAxAFYAZQBQAE0AdgBtAGQATABQAGIAUQBJAEQAQQBRAEEAQgBvAHgAMAB3AEcAegBBAE0AQgBnAE4AVgBIAFIATQBCAEEAZgA4AEUAQQBqAEEAQQBNAEEAcwBHAEEAMQBVAGQARAB3AFEARQBBAHcASQBHAHcARABBAE4AQgBnAGsAcQBoAGsAaQBHADkAdwAwAEIAQQBRAHMARgBBAEEATwBDAEEAZwBFAEEASgBwAE8AZABQAFAAbQA1ADcAOABkAEkAeQArAE4AdQAzAGMAZQBkAHcAegBNAGkAWgA5AFUATABpAG0AawB2AHYAcgBOAEQAQgBwAFAAaQBOAGcAZwA1AHIAZwBTADMAdAAwAGsAcgBjAEsAWgB6AHUAOABzAHIAOABUADkASQA1AE8AOABBAG0ATwBEAHEAMABEAG4ASwBiAEUAWABLADAANwAzAG8ANQBaAE8AcQBLAFEAUABVAFoAWgBFAFkAQgA5AHMANgBIAEQAQgB2AEkAVgAxAGwAUwA2ADcALwBzACsAZQBkADcANgA4AGYAaABiAHIASQBGADUAcgA5ADkAagAzAGMAdAA2ADgAeABYAGkAMAArACsAdQBZAEQATQBGADgAOQBWAHMAKwBFAEkAZQBKAEkAYQBGAFQATABDAFkAbQBIAG0AbABRAGMAcgBYAEwAYQB1AGkAWABtAEwAVAA2ADIAWgBRAGIAbgA4AGQAQwBUAFYALwBXAEsAVABoAEMAagBUAHIAVgAwAFYAcAB6AHYAZwBoADYANgBtAEcAOQBiAEMANQAxAGcARwByAFcATgBGAFcAZABoAFgARwBBAE0ASQByAGIASwAzAFcARQBFAHoAdQB1AEkAcAB6ADgARgAzAFgAYgA1AE4AegBCAEgASQBTAEgARQAvAEIAegA1AHoATgBUADgAegAvADYAUwBhADgAdQB3AEgAUwA2AG4AWABmAE4ATQBxAGkAdgBkADkAYgA3ADIAUQBGAGkAMQBiAGcAQQBFAHAAMABzAEEASAB0AG0AdwB6AEgAZQBMACsAMgBDAFIAdQBWAG8AVABBAG8ATwA1AG4AbwBTAEgASgB0AEQAUgA0AEwATQBsAEUAZwBXADAAWQBrAHEAagBEAE4AOABSAHEARgBJAFcAcwA4AEwAWABFAHIATQBlAGsAYQBMAHoAWAB2AFkAUgBwAGQAagBWAHIAYQBHAGsAdAAvAFkAOQB5AC8AUQBTAHAAcQBkAE4AWQBkAFkAZgBzAEoAQgBrAE8AKwA1AGkAZABoAGwAaAB1AFYARgBpAC8AWQB2AFYAWgA4AHkATwAvAGwAQwByAHYAcwByAFUAaABsAE0AYQBPAGoAUABPAGQAcQB4AGUAcwBXADIASwA2AFIAKwBNADMASQBEAGwAZwBLAE4AUQBDAGUAZgBUAHoAMQA5AGkAaABMADkAQQBsAFcAaQByAFAATABNAEgAcABaAGEAbwBxAEoAUwBIAHMAawBMAFIAWgBpAGwARwA0AGQAQgBBAEEAYQAxAHQAMABlAFQAUgBkAGoAVwBVAEoAZwBzACsAQgA2ADgAdQAyAGcAYgBLAEYAYwBrAHgAbwB0AG0AMABRAFEANQBQAGoAdwBoAHAAMQBFAEEAeABHAGIAdwBsAHkAcQAxAGoATwBWAFMAZAB0AEMARQBFAGsAZwBsAFoAbABYAGEAUABGAEYASgByAEIATAA0AEwANABXADQAVQBQAEcALwBCADkAeAB5AHIAVwAzAHYAOQBSAGkARgA1AFoANgBLAGIAdAAwAHMAbgBiAEoAUABCAGwAVgAxAGIATwBZAFgATgA0AFoANABkAGIAQwAxAGkAbgByADQARwBpAEEANABhACsATgBGADIAZQBDADEANQBnAEoAQwBpAFEAdQBYAFgAbABwAHEAdQBmAEwANgA3AHMAMwBHAHMATwAzAGgAegBLAEUATQBhAHIANwBwAEMASQBHAEMASABiAEwAVQA3ADAAKwBGAEYAcgBJADgAaQBWAHQAOAB2ACsATgAwAD0AIgAgAFMAdQBiAFQAbwB0AGEAbAA9ACIAMQAxADcANwA1AC4AMAAwACIAIABNAG8AbgBlAGQAYQA9ACIATQBYAE4AIgAgAFQAbwB0AGEAbAA9ACIAMQAzADYANQA5AC4AMAAwACIAIABUAGkAcABvAEQAZQBDAG8AbQBwAHIAbwBiAGEAbgB0AGUAPQAiAEkAIgAgAEUAeABwAG8AcgB0AGEAYwBpAG8AbgA9ACIAMAAxACIAIABNAGUAdABvAGQAbwBQAGEAZwBvAD0AIgBQAFAARAAiACAATAB1AGcAYQByAEUAeABwAGUAZABpAGMAaQBvAG4APQAiADYANwAxADEAMAAiACAAeABzAGkAOgBzAGMAaABlAG0AYQBMAG8AYwBhAHQAaQBvAG4APQAiAGgAdAB0AHAAOgAvAC8AdwB3AHcALgBzAGEAdAAuAGcAbwBiAC4AbQB4AC8AYwBmAGQALwA0ACAAaAB0AHQAcAA6AC8ALwB3AHcAdwAuAHMAYQB0AC4AZwBvAGIALgBtAHgALwBzAGkAdABpAG8AXwBpAG4AdABlAHIAbgBlAHQALwBjAGYAZAAvADQALwBjAGYAZAB2ADQAMAAuAHgAcwBkACAAIgA+ADwAYwBmAGQAaQA6AEUAbQBpAHMAbwByACAAUgBmAGMAPQAiAFMAUgBFADAANgAwADIAMAAyADEAUQA2ACIAIABOAG8AbQBiAHIAZQA9ACIAUwBJAEUAUgBSAEEAIABOAE8AUgBUAEUAIABUAFIAVQBDAEsAIABDAEUATgBUAEUAUgAiACAAUgBlAGcAaQBtAGUAbgBGAGkAcwBjAGEAbAA9ACIANgAwADEAIgAgAC8APgA8AGMAZgBkAGkAOgBSAGUAYwBlAHAAdABvAHIAIABSAGYAYwA9ACIATABNAEEAMAA0ADAAMgAyADcANQBRADYAIgAgAE4AbwBtAGIAcgBlAD0AIgBMAE8ARwBJAFMAVABJAEMAQQAgAEQARQBMACAATQBBAFkAQQBCACIAIABEAG8AbQBpAGMAaQBsAGkAbwBGAGkAcwBjAGEAbABSAGUAYwBlAHAAdABvAHIAPQAiADkANwAxADYAMAAiACAAUgBlAGcAaQBtAGUAbgBGAGkAcwBjAGEAbABSAGUAYwBlAHAAdABvAHIAPQAiADYAMgA0ACIAIABVAHMAbwBDAEYARABJAD0AIgBHADAAMwAiACAALwA+ADwAYwBmAGQAaQA6AEMAbwBuAGMAZQBwAHQAbwBzAD4APABjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvACAAQwBsAGEAdgBlAFAAcgBvAGQAUwBlAHIAdgA9ACIANAAwADEANgAxADUAMAAwACIAIABOAG8ASQBkAGUAbgB0AGkAZgBpAGMAYQBjAGkAbwBuAD0AIgAxAC8AMgA1ADEANQA1ADcAMwBDADEAIgAgAEMAYQBuAHQAaQBkAGEAZAA9ACIAMQAiACAAQwBsAGEAdgBlAFUAbgBpAGQAYQBkAD0AIgBIADgANwAiACAAVQBuAGkAZABhAGQAPQAiAFAASQBFAFoAQQAiACAARABlAHMAYwByAGkAcABjAGkAbwBuAD0AIgBFAEwARQBNAEUATgBUACAAQQBJAFIAIABGAEkATABUAEUAUgAiACAAVgBhAGwAbwByAFUAbgBpAHQAYQByAGkAbwA9ACIAMgAyADUAMAAuADAAMAAiACAASQBtAHAAbwByAHQAZQA9ACIAMgAyADUAMAAuADAAMAAiACAATwBiAGoAZQB0AG8ASQBtAHAAPQAiADAAMgAiAD4APABjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAPgA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AcwA+ADwAYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwAgAEIAYQBzAGUAPQAiADIAMgA1ADAALgAwADAAIgAgAEkAbQBwAHUAZQBzAHQAbwA9ACIAMAAwADIAIgAgAFQAaQBwAG8ARgBhAGMAdABvAHIAPQAiAFQAYQBzAGEAIgAgAFQAYQBzAGEATwBDAHUAbwB0AGEAPQAiADAALgAxADYAMAAwADAAMAAiACAASQBtAHAAbwByAHQAZQA9ACIAMwA2ADAALgAwADAAIgAgAC8APgA8AC8AYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwBzAD4APAAvAGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwA+ADwALwBjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvAD4APABjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvACAAQwBsAGEAdgBlAFAAcgBvAGQAUwBlAHIAdgA9ACIANAAwADEANgAxADUAMAAyACIAIABOAG8ASQBkAGUAbgB0AGkAZgBpAGMAYQBjAGkAbwBuAD0AIgAxAC8AWgBGAEcAVwBGADIAMQAyADcAIgAgAEMAYQBuAHQAaQBkAGEAZAA9ACIAMQAiACAAQwBsAGEAdgBlAFUAbgBpAGQAYQBkAD0AIgBIADgANwAiACAAVQBuAGkAZABhAGQAPQAiAFAASQBFAFoAQQAiACAARABlAHMAYwByAGkAcABjAGkAbwBuAD0AIgBGAEkATABUAFIATwAgAEQARQAgAEEARwBVAEEAIgAgAFYAYQBsAG8AcgBVAG4AaQB0AGEAcgBpAG8APQAiADIANwA4AC4AMAAwACIAIABJAG0AcABvAHIAdABlAD0AIgAyADcAOAAuADAAMAAiACAATwBiAGoAZQB0AG8ASQBtAHAAPQAiADAAMgAiAD4APABjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAPgA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AcwA+ADwAYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwAgAEIAYQBzAGUAPQAiADIANwA4AC4AMAAwACIAIABJAG0AcAB1AGUAcwB0AG8APQAiADAAMAAyACIAIABUAGkAcABvAEYAYQBjAHQAbwByAD0AIgBUAGEAcwBhACIAIABUAGEAcwBhAE8AQwB1AG8AdABhAD0AIgAwAC4AMQA2ADAAMAAwADAAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADQANAAuADQAOAAiACAALwA+ADwALwBjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgA8AC8AYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4APAAvAGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8APgA8AGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8AIABDAGwAYQB2AGUAUAByAG8AZABTAGUAcgB2AD0AIgA0ADAAMQA2ADEANQAwADQAIgAgAE4AbwBJAGQAZQBuAHQAaQBmAGkAYwBhAGMAaQBvAG4APQAiADEALwBaAEYARwBMAEYAMQA0ADAAMAAwAE4ATgAiACAAQwBhAG4AdABpAGQAYQBkAD0AIgAxACIAIABDAGwAYQB2AGUAVQBuAGkAZABhAGQAPQAiAEgAOAA3ACIAIABVAG4AaQBkAGEAZAA9ACIAUABJAEUAWgBBACIAIABEAGUAcwBjAHIAaQBwAGMAaQBvAG4APQAiAEYASQBMAFQAUgBPACAAUABBAFIAQQAgAEEAQwBFAEkAVABFACIAIABWAGEAbABvAHIAVQBuAGkAdABhAHIAaQBvAD0AIgA2ADAAMAAuADAAMAAiACAASQBtAHAAbwByAHQAZQA9ACIANgAwADAALgAwADAAIgAgAE8AYgBqAGUAdABvAEkAbQBwAD0AIgAwADIAIgA+ADwAYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4APABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AIABCAGEAcwBlAD0AIgA2ADAAMAAuADAAMAAiACAASQBtAHAAdQBlAHMAdABvAD0AIgAwADAAMgAiACAAVABpAHAAbwBGAGEAYwB0AG8AcgA9ACIAVABhAHMAYQAiACAAVABhAHMAYQBPAEMAdQBvAHQAYQA9ACIAMAAuADEANgAwADAAMAAwACIAIABJAG0AcABvAHIAdABlAD0AIgA5ADYALgAwADAAIgAgAC8APgA8AC8AYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwBzAD4APAAvAGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwA+ADwALwBjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvAD4APABjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvACAAQwBsAGEAdgBlAFAAcgBvAGQAUwBlAHIAdgA9ACIANAAwADEANgAxADUAMQAzACIAIABOAG8ASQBkAGUAbgB0AGkAZgBpAGMAYQBjAGkAbwBuAD0AIgAxAC8AWgBGAEcARgBTADEAOQA1ADkAMQAiACAAQwBhAG4AdABpAGQAYQBkAD0AIgAxACIAIABDAGwAYQB2AGUAVQBuAGkAZABhAGQAPQAiAEgAOAA3ACIAIABVAG4AaQBkAGEAZAA9ACIAUABJAEUAWgBBACIAIABEAGUAcwBjAHIAaQBwAGMAaQBvAG4APQAiAEYASQBMAFQAUgBPACAAUwBFAFAAQQBSAEEARABPAFIAIgAgAFYAYQBsAG8AcgBVAG4AaQB0AGEAcgBpAG8APQAiADUANQA4AC4AMAAwACIAIABJAG0AcABvAHIAdABlAD0AIgA1ADUAOAAuADAAMAAiACAATwBiAGoAZQB0AG8ASQBtAHAAPQAiADAAMgAiAD4APABjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAPgA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AcwA+ADwAYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwAgAEIAYQBzAGUAPQAiADUANQA4AC4AMAAwACIAIABJAG0AcAB1AGUAcwB0AG8APQAiADAAMAAyACIAIABUAGkAcABvAEYAYQBjAHQAbwByAD0AIgBUAGEAcwBhACIAIABUAGEAcwBhAE8AQwB1AG8AdABhAD0AIgAwAC4AMQA2ADAAMAAwADAAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADgAOQAuADIAOAAiACAALwA+ADwALwBjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgA8AC8AYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4APAAvAGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8APgA8AGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8AIABDAGwAYQB2AGUAUAByAG8AZABTAGUAcgB2AD0AIgAyADYAMQAwADEANwAwADAAIgAgAE4AbwBJAGQAZQBuAHQAaQBmAGkAYwBhAGMAaQBvAG4APQAiADEALwBGAEwAVABTADIAMgAiACAAQwBhAG4AdABpAGQAYQBkAD0AIgAxACIAIABDAGwAYQB2AGUAVQBuAGkAZABhAGQAPQAiAEgAOAA3ACIAIABVAG4AaQBkAGEAZAA9ACIAUABJAEUAWgBBACIAIABEAGUAcwBjAHIAaQBwAGMAaQBvAG4APQAiAFMAVABBAE4ARABBAFIARAAgADIAMgBJAE4AIABXAEkAUABFAFIAIABCAEwAQQBEAEUAIgAgAFYAYQBsAG8AcgBVAG4AaQB0AGEAcgBpAG8APQAiADkAOQAuADAAMAAiACAASQBtAHAAbwByAHQAZQA9ACIAOQA5AC4AMAAwACIAIABPAGIAagBlAHQAbwBJAG0AcAA9ACIAMAAyACIAPgA8AGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwA+ADwAYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwBzAD4APABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvACAAQgBhAHMAZQA9ACIAOQA5AC4AMAAwACIAIABJAG0AcAB1AGUAcwB0AG8APQAiADAAMAAyACIAIABUAGkAcABvAEYAYQBjAHQAbwByAD0AIgBUAGEAcwBhACIAIABUAGEAcwBhAE8AQwB1AG8AdABhAD0AIgAwAC4AMQA2ADAAMAAwADAAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADEANQAuADgANAAiACAALwA+ADwALwBjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgA8AC8AYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4APAAvAGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8APgA8AGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8AIABDAGwAYQB2AGUAUAByAG8AZABTAGUAcgB2AD0AIgAxADUAMQAyADEANQAwADEAIgAgAE4AbwBJAGQAZQBuAHQAaQBmAGkAYwBhAGMAaQBvAG4APQAiADEALwBGAEwAUgBUADMANAA2ADAAUABMACIAIABDAGEAbgB0AGkAZABhAGQAPQAiADIAIgAgAEMAbABhAHYAZQBVAG4AaQBkAGEAZAA9ACIASAA4ADcAIgAgAFUAbgBpAGQAYQBkAD0AIgBQAEkARQBaAEEAIgAgAEQAZQBzAGMAcgBpAHAAYwBpAG8AbgA9ACIAQQBDAEUASQBUAEUAIABNAE8AVABPAFIAIABEAEkARQBTAEUATAAgADEANQBXADQAMAAgAEEAUABJACIAIABWAGEAbABvAHIAVQBuAGkAdABhAHIAaQBvAD0AIgAxADMANQAwAC4AMAAwACIAIABJAG0AcABvAHIAdABlAD0AIgAyADcAMAAwAC4AMAAwACIAIABPAGIAagBlAHQAbwBJAG0AcAA9ACIAMAAyACIAPgA8AGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwA+ADwAYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwBzAD4APABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvACAAQgBhAHMAZQA9ACIAMgA3ADAAMAAuADAAMAAiACAASQBtAHAAdQBlAHMAdABvAD0AIgAwADAAMgAiACAAVABpAHAAbwBGAGEAYwB0AG8AcgA9ACIAVABhAHMAYQAiACAAVABhAHMAYQBPAEMAdQBvAHQAYQA9ACIAMAAuADEANgAwADAAMAAwACIAIABJAG0AcABvAHIAdABlAD0AIgA0ADMAMgAuADAAMAAiACAALwA+ADwALwBjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgA8AC8AYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4APAAvAGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8APgA8AGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8AIABDAGwAYQB2AGUAUAByAG8AZABTAGUAcgB2AD0AIgAxADUAMQAyADEANQAwADEAIgAgAE4AbwBJAGQAZQBuAHQAaQBmAGkAYwBhAGMAaQBvAG4APQAiADEALwBGAEwAUgBUADMANAA2ADAARwBBACIAIABDAGEAbgB0AGkAZABhAGQAPQAiADEAIgAgAEMAbABhAHYAZQBVAG4AaQBkAGEAZAA9ACIASAA4ADcAIgAgAFUAbgBpAGQAYQBkAD0AIgBQAEkARQBaAEEAIgAgAEQAZQBzAGMAcgBpAHAAYwBpAG8AbgA9ACIATABVAEIAUgBJAEMAQQBUAE8AUgAgAEEAQwBFAEkAVABFACAATQBUAFIAIABEAFMATAAxADUAVwA0ADAAIgAgAFYAYQBsAG8AcgBVAG4AaQB0AGEAcgBpAG8APQAiADUANQAwAC4AMAAwACIAIABJAG0AcABvAHIAdABlAD0AIgA1ADUAMAAuADAAMAAiACAATwBiAGoAZQB0AG8ASQBtAHAAPQAiADAAMgAiAD4APABjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAPgA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AcwA+ADwAYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwAgAEIAYQBzAGUAPQAiADUANQAwAC4AMAAwACIAIABJAG0AcAB1AGUAcwB0AG8APQAiADAAMAAyACIAIABUAGkAcABvAEYAYQBjAHQAbwByAD0AIgBUAGEAcwBhACIAIABUAGEAcwBhAE8AQwB1AG8AdABhAD0AIgAwAC4AMQA2ADAAMAAwADAAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADgAOAAuADAAMAAiACAALwA+ADwALwBjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgA8AC8AYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4APAAvAGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8APgA8AGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8AIABDAGwAYQB2AGUAUAByAG8AZABTAGUAcgB2AD0AIgAzADEAMQA1ADEAOQAwADUAIgAgAE4AbwBJAGQAZQBuAHQAaQBmAGkAYwBhAGMAaQBvAG4APQAiADEALwA0ADEAMgAwADMAOAA0AEMAMQAiACAAQwBhAG4AdABpAGQAYQBkAD0AIgAxACIAIABDAGwAYQB2AGUAVQBuAGkAZABhAGQAPQAiAEgAOAA3ACIAIABVAG4AaQBkAGEAZAA9ACIAUABJAEUAWgBBACIAIABEAGUAcwBjAHIAaQBwAGMAaQBvAG4APQAiAEIARQBMAFQALAAgAEYAQQBOACwAIAAxADIAUABLADIAMQAzADUAIgAgAFYAYQBsAG8AcgBVAG4AaQB0AGEAcgBpAG8APQAiADEANwA0ADAALgAwADAAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADEANwA0ADAALgAwADAAIgAgAE8AYgBqAGUAdABvAEkAbQBwAD0AIgAwADIAIgA+ADwAYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4APABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AIABCAGEAcwBlAD0AIgAxADcANAAwAC4AMAAwACIAIABJAG0AcAB1AGUAcwB0AG8APQAiADAAMAAyACIAIABUAGkAcABvAEYAYQBjAHQAbwByAD0AIgBUAGEAcwBhACIAIABUAGEAcwBhAE8AQwB1AG8AdABhAD0AIgAwAC4AMQA2ADAAMAAwADAAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADIANwA4AC4ANAAwACIAIAAvAD4APAAvAGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AcwA+ADwALwBjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAPgA8AC8AYwBmAGQAaQA6AEMAbwBuAGMAZQBwAHQAbwA+ADwAYwBmAGQAaQA6AEMAbwBuAGMAZQBwAHQAbwAgAEMAbABhAHYAZQBQAHIAbwBkAFMAZQByAHYAPQAiADMAMQAxADUAMQA5ADAANQAiACAATgBvAEkAZABlAG4AdABpAGYAaQBjAGEAYwBpAG8AbgA9ACIAMQAvADMANgAyADEAMQA5ADQAQwAyACIAIABDAGEAbgB0AGkAZABhAGQAPQAiADEAIgAgAEMAbABhAHYAZQBVAG4AaQBkAGEAZAA9ACIASAA4ADcAIgAgAFUAbgBpAGQAYQBkAD0AIgBQAEkARQBaAEEAIgAgAEQAZQBzAGMAcgBpAHAAYwBpAG8AbgA9ACIAQgBFAEwAVAAgAEYAQQBOACAANgAgAFAASwAgADEANgAxADUAIABYACAANQAuADUANgAgAE0ATQAiACAAVgBhAGwAbwByAFUAbgBpAHQAYQByAGkAbwA9ACIAOAA1ADAALgAwADAAIgAgAEkAbQBwAG8AcgB0AGUAPQAiADgANQAwAC4AMAAwACIAIABPAGIAagBlAHQAbwBJAG0AcAA9ACIAMAAyACIAPgA8AGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwA+ADwAYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwBzAD4APABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvACAAQgBhAHMAZQA9ACIAOAA1ADAALgAwADAAIgAgAEkAbQBwAHUAZQBzAHQAbwA9ACIAMAAwADIAIgAgAFQAaQBwAG8ARgBhAGMAdABvAHIAPQAiAFQAYQBzAGEAIgAgAFQAYQBzAGEATwBDAHUAbwB0AGEAPQAiADAALgAxADYAMAAwADAAMAAiACAASQBtAHAAbwByAHQAZQA9ACIAMQAzADYALgAwADAAIgAgAC8APgA8AC8AYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwBzAD4APAAvAGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwA+ADwALwBjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvAD4APABjAGYAZABpADoAQwBvAG4AYwBlAHAAdABvACAAQwBsAGEAdgBlAFAAcgBvAGQAUwBlAHIAdgA9ACIANAAwADEANgAxADUAMAA1ACIAIABOAG8ASQBkAGUAbgB0AGkAZgBpAGMAYQBjAGkAbwBuAD0AIgAxAC8AMgA1ADEANQA1ADcANQBDADIAIgAgAEMAYQBuAHQAaQBkAGEAZAA9ACIAMQAiACAAQwBsAGEAdgBlAFUAbgBpAGQAYQBkAD0AIgBIADgANwAiACAAVQBuAGkAZABhAGQAPQAiAFAASQBFAFoAQQAiACAARABlAHMAYwByAGkAcABjAGkAbwBuAD0AIgBFAEwARQBNAEUATgBUACAAQQBJAFIAIABGAEkATABUAEUAUgAgAFMAQQBGAEUAVABZACIAIABWAGEAbABvAHIAVQBuAGkAdABhAHIAaQBvAD0AIgAyADEANQAwAC4AMAAwACIAIABJAG0AcABvAHIAdABlAD0AIgAyADEANQAwAC4AMAAwACIAIABPAGIAagBlAHQAbwBJAG0AcAA9ACIAMAAyACIAPgA8AGMAZgBkAGkAOgBJAG0AcAB1AGUAcwB0AG8AcwA+ADwAYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwBzAD4APABjAGYAZABpADoAVAByAGEAcwBsAGEAZABvACAAQgBhAHMAZQA9ACIAMgAxADUAMAAuADAAMAAiACAASQBtAHAAdQBlAHMAdABvAD0AIgAwADAAMgAiACAAVABpAHAAbwBGAGEAYwB0AG8AcgA9ACIAVABhAHMAYQAiACAAVABhAHMAYQBPAEMAdQBvAHQAYQA9ACIAMAAuADEANgAwADAAMAAwACIAIABJAG0AcABvAHIAdABlAD0AIgAzADQANAAuADAAMAAiACAALwA+ADwALwBjAGYAZABpADoAVAByAGEAcwBsAGEAZABvAHMAPgA8AC8AYwBmAGQAaQA6AEkAbQBwAHUAZQBzAHQAbwBzAD4APAAvAGMAZgBkAGkAOgBDAG8AbgBjAGUAcAB0AG8APgA8AC8AYwBmAGQAaQA6AEMAbwBuAGMAZQBwAHQAbwBzAD4APABjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAIABUAG8AdABhAGwASQBtAHAAdQBlAHMAdABvAHMAVAByAGEAcwBsAGEAZABhAGQAbwBzAD0AIgAxADgAOAA0AC4AMAAwACIAPgA8AGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AcwA+ADwAYwBmAGQAaQA6AFQAcgBhAHMAbABhAGQAbwAgAEIAYQBzAGUAPQAiADEAMQA3ADcANQAuADAAMAAiACAASQBtAHAAdQBlAHMAdABvAD0AIgAwADAAMgAiACAAVABpAHAAbwBGAGEAYwB0AG8AcgA9ACIAVABhAHMAYQAiACAAVABhAHMAYQBPAEMAdQBvAHQAYQA9ACIAMAAuADEANgAwADAAMAAwACIAIABJAG0AcABvAHIAdABlAD0AIgAxADgAOAA0AC4AMAAwACIAIAAvAD4APAAvAGMAZgBkAGkAOgBUAHIAYQBzAGwAYQBkAG8AcwA+ADwALwBjAGYAZABpADoASQBtAHAAdQBlAHMAdABvAHMAPgA8AGMAZgBkAGkAOgBDAG8AbQBwAGwAZQBtAGUAbgB0AG8APgA8AHQAZgBkADoAVABpAG0AYgByAGUARgBpAHMAYwBhAGwARABpAGcAaQB0AGEAbAAgAHgAbQBsAG4AcwA6AHQAZgBkAD0AIgBoAHQAdABwADoALwAvAHcAdwB3AC4AcwBhAHQALgBnAG8AYgAuAG0AeAAvAFQAaQBtAGIAcgBlAEYAaQBzAGMAYQBsAEQAaQBnAGkAdABhAGwAIgAgAHgAcwBpADoAcwBjAGgAZQBtAGEATABvAGMAYQB0AGkAbwBuAD0AIgBoAHQAdABwADoALwAvAHcAdwB3AC4AcwBhAHQALgBnAG8AYgAuAG0AeAAvAFQAaQBtAGIAcgBlAEYAaQBzAGMAYQBsAEQAaQBnAGkAdABhAGwAIABoAHQAdABwADoALwAvAHcAdwB3AC4AcwBhAHQALgBnAG8AYgAuAG0AeAAvAHMAaQB0AGkAbwBfAGkAbgB0AGUAcgBuAGUAdAAvAGMAZgBkAC8AVABpAG0AYgByAGUARgBpAHMAYwBhAGwARABpAGcAaQB0AGEAbAAvAFQAaQBtAGIAcgBlAEYAaQBzAGMAYQBsAEQAaQBnAGkAdABhAGwAdgAxADEALgB4AHMAZAAiACAAVgBlAHIAcwBpAG8AbgA9ACIAMQAuADEAIgAgAFUAVQBJAEQAPQAiADEANgA4ADQANwBhADcAYQAtAGQAMQA3AGEALQA0AGQAYQAyAC0AYQA4ADMAYQAtADkAOQA2ADIAMgBhADkANQA1ADcAMgAxACIAIABSAGYAYwBQAHIAbwB2AEMAZQByAHQAaQBmAD0AIgBTAE4ARgAxADcAMQAwADIAMABGADMAQQAiACAARgBlAGMAaABhAFQAaQBtAGIAcgBhAGQAbwA9ACIAMgAwADIANQAtADAAOQAtADAANgBUADEAMgA6ADIANwA6ADAANgAiACAAUwBlAGwAbABvAEMARgBEAD0AIgBlAG4AcABDAHMAaQBCAHMAdABkAGYANABxAEwAQwB5AG4AWQB6AG8AVABkAEUAVQBLAFQAVQB0AHMAVwBZAFUAeQBBAEgAbQBHAFMAWABkAHMAbgBPAHYAVwBOAEMAUgBlAEMAWABzAFAAZwAzAGsAWgA4AEMAYwBOAHAAQgAvAGoATABiAFgARABwAGEAWQAvAGcAQQBxAHAASABOAG0ANQBMAGgAbAB5AHQAMQB1AEEAYQB1AEsAbwBLAFEAbABDAC8AegBrAE4AMwByAHIATgBsAHkANABUAGMAWQBDACsAdQBkAHAAUABYAHkAegBiAHUAZABpAG8ANwBiAG0ATgBZAEsAZgBLAGQAbABqAFYAMAAzAG8AcgBpAFAASgBmAFgAQwBiAGQASQBjADkAMwArAHQAMABTAGcARABGAEgALwByAFEATABmADcATAB6AHgATwBwAEIAdgBuAFUAVABRADQAUgBuAFoAKwBjAHIAeAA1AEwAawAzAGMANwB4ADYANQAyAGwAYwBTAGcAegBzAGcAVABQAGcARQBrADkAbwBqAGMAZQBHADcAUQBrADMAZwAwADIAaQBTAFYAMABSADAAVQBCADcAUQBKADUAcwBCAHEAOAA0AHcAZQBSAHkAMABHAGoAbABDAGMARQBaAGQAeAByACsAZQBvAHcAYQBEAEQASQAzAEIAcwBjAFEAYgA0ADIAYgBtAEkAMABDADQAYQB2AGYARQBDAHUAeQBjAGUAdgBDAEUAYwAvAGYAWQBCAHIAdQB3AHEATwB5AEgAaABiAHgANwAwAHAAcgBXAHgAVwBQAEwANQA3AFcAagAvAEwAMQAzAGQAbwBqAEcAdwBLADIAdgBIAFMASgBiAGEAVgB4AHAAVABpAGYAYgBsAHIAUQA9AD0AIgAgAE4AbwBDAGUAcgB0AGkAZgBpAGMAYQBkAG8AUwBBAFQAPQAiADAAMAAwADAAMQAwADAAMAAwADAAMAA1ADEAOAA4ADEAMgAzADYANAAiACAAUwBlAGwAbABvAFMAQQBUAD0AIgBZAEsAZABVADUAaQBwAG0AQQBDAE8ANgByAGcAcgBCAC8AcQBqAEQAawBzAE8AdwBRAEwAdgBUAFMAVQBpAHUAMgArAGEATAA0AEsALwA5AHIAdgBzADQAbABXAEEANgBHAFoAZQBtAHYAMgBnAFoAcQBqAEcANQBIAFMATABxAE8AVwBOAHcAZABmADIAaABSAEQATABIAFoAbwBxAHMAMQBjAEMASABNAFMAeQBDADAAZwBOAHYANQBtAGQAcQAzAHoAWQBDAFcANwBvADIAagB2AGIAUgBsAFYAYwBBAGEAQgBlAHoAcABlAC8ARgBZAEkAawB5AHYAZABlAEsAKwAyADYAOQA3AHYAegBiAFoAYwBIAGkAUwAxAGcAKwBQAE4ATgA2AE0ASQB5ADUAbABJADcAZwBRADgAUQBUAFgAMQA0ADQASABzAGYAQwA1AGwARgBEAEoATgBUAHAAcwAyACsAKwBPAE8AUAA5AEcAaABUAHYAeQBiAEQAQwBpAEwAeQBzAFcAbgA2ADIAbQB6ADEAUQB0AHoATgAzAGYAVgBjAEYAcQBVAHAAWgBWAHkAeQBuAFoANgB0ADEALwBNAFQAaAAyAHUASQBuAGwAcwBWAGYAVgBMAEgAQQBRAEwAegBJAGEAcAB4AFUATgBaAGMAawB2AE8AcQBUAEcAbgBtADgAcwBrAGgAWABsAFYARwBtAEIAYgBCAEsATwBQAHEAcABxADMANQBqADIAVAArAFcAegBNADQAUABDADQAWgA4AFUANwB6AEIAeABPAGcAVQBTAFAAdABzAEoAaAA2AFcAQwBYAHYAQQB5ADUAUgBHADMAbQBNAHAAdQBwAFcAKwBkAGgAWgBCAE4AcQBYAFcAUQBDAEUAdQBQAGMARAAvAGsAQQA9AD0AIgAgAC8APgA8AC8AYwBmAGQAaQA6AEMAbwBtAHAAbABlAG0AZQBuAHQAbwA+ADwALwBjAGYAZABpADoAQwBvAG0AcAByAG8AYgBhAG4AdABlAD4ACgA=", "Conceptos":[ { "Cantidad":1, "Concepto":"ELEMENT AIR FILTER", "PrecioUnitario":2250, "Importe":2250, "Descuento":0, "UnidadMedida":"PIEZA", "TrasladoIva":"IVA 16%", "ImporteIva":360, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":1, "Concepto":"FILTRO DE AGUA", "PrecioUnitario":278, "Importe":278, "Descuento":0, "UnidadMedida":"PIEZA", "TrasladoIva":"IVA 16%", "ImporteIva":44.48, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":1, "Concepto":"FILTRO PARA ACEITE", "PrecioUnitario":600, "Importe":600, "Descuento":0, "UnidadMedida":"PIEZA", "TrasladoIva":"IVA 16%", "ImporteIva":96, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":1, "Concepto":"FILTRO SEPARADOR", "PrecioUnitario":558, "Importe":558, "Descuento":0, "UnidadMedida":"PIEZA", "TrasladoIva":"IVA 16%", "ImporteIva":89.28, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":1, "Concepto":"STANDARD 22IN WIPER BLADE", "PrecioUnitario":99, "Importe":99, "Descuento":0, "UnidadMedida":"PIEZA", "TrasladoIva":"IVA 16%", "ImporteIva":15.84, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":2, "Concepto":"ACEITE MOTOR DIESEL 15W40 API", "PrecioUnitario":1350, "Importe":2700, "Descuento":0, "UnidadMedida":"PIEZA", "TrasladoIva":"IVA 16%", "ImporteIva":432, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":1, "Concepto":"LUBRICATOR ACEITE MTR DSL15W40", "PrecioUnitario":550, "Importe":550, "Descuento":0, "UnidadMedida":"PIEZA", "TrasladoIva":"IVA 16%", "ImporteIva":88, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":1, "Concepto":"BELT, FAN, 12PK2135", "PrecioUnitario":1740, "Importe":1740, "Descuento":0, "UnidadMedida":"PIEZA", "TrasladoIva":"IVA 16%", "ImporteIva":278.4, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":1, "Concepto":"BELT FAN 6 PK 1615 X 5.56 MM", "PrecioUnitario":850, "Importe":850, "Descuento":0, "UnidadMedida":"PIEZA", "TrasladoIva":"IVA 16%", "ImporteIva":136, "ImporteRetencion":0, "IEPS":0 }, { "Cantidad":1, "Concepto":"ELEMENT AIR FILTER SAFETY", "PrecioUnitario":2150, "Importe":2150, "Descuento":0, "UnidadMedida":"PIEZA", "TrasladoIva":"IVA 16%", "ImporteIva":344, "ImporteRetencion":0, "IEPS":0 } ], "Lineas":[ { "CodImpuesto":"", "Credito":"", "CuentaContable":"201-001-000000", "CuentaContableD365":"", "Debito":"", "DimArea":"", "DimCeco":"", "DimDepto":"", "Vehiculo":"", "DimFilTer":"", "DimSucursal":"", "GrupoImpuestos":"", "GrupoImpuestosArt":"", "NombreProveedor":"", "TipoProveedor":"", "TipoOperacion":"", "Texto":"Factura RFMA 36", "RFC":"", "SinComprobante":"" }, { "CodImpuesto":"IVA16A", "Credito":"", "CuentaContable":"601-084-000000", "CuentaContableD365":"ELA216001", "Debito":"13659.0000", "DimArea":"SE", "DimCeco":"B910", "DimDepto":"SE05", "Vehiculo":"17748", "DimFilTer":"T001", "DimSucursal":"NLE002", "GrupoImpuestos":"PRPMTASA16", "GrupoImpuestosArt":"GRAV16%", "NombreProveedor":"", "TipoProveedor":"", "TipoOperacion":"", "Texto":"RFMA36 SIERRA NORTE TRUCK CENTER SA DE CV | MANTENIMIENTO", "RFC":"", "SinComprobante":"0" } ] } ] } ] }</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

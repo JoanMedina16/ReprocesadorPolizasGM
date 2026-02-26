@@ -1,0 +1,533 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:14:27 a. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaPasivoSemanaUnoD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:14:28 a. m.</fecha>
+    <descripcion>Ejecución de pasivos semana uno</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaPasivoSemanaUnoD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:14:35 a. m.</fecha>
+    <descripcion>Ejecución del día 9. Para el rango de fechas fecha inicio 01/02/2026 12:00:00 a. m. al rango de fecha final 07/02/2026 12:00:00 a. m.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaPasivoSemanaUnoD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:14:35 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:14:37 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaEjecutaMovimientosIngreso</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:14:39 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 01/10/2025 hasta 01/10/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:14:46 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>ProcesoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:14:47 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS. </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:14:52 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:15:14 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>ProcesoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:15:15 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS. </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaEjecutaMovimientosIngreso</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>DAPI365</modulo>
+    <fecha>09/02/2026 10:15:18 a. m.</fecha>
+    <descripcion>{ "fault":{ "faultcode":2, "faultstring":"No se encontro informacion con el parametro especificado.", "detail":"What happened?\r\nNo se encontro informacion con el parametro especificado.\r\n\r\nError code: 2\r\n\r\nAdditional information:\r\nEIT_PILEWL :\r\nMethod ConsultaPrepolizas (ClsProPolizas.ConsultaPrepolizas), line 193\r\nEIT_DATEHEURE : 09/02/2026 08:15:13\r\nEIT_TYPE_WDFILE : &lt;4&gt;\r\nEIT_IDCODE : &lt;458752&gt;" } }</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:15:20 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:15:27 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:15:28 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:15:33 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:15:34 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:16:27 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:16:58 a. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaPasivoSemanaUnoD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:16:58 a. m.</fecha>
+    <descripcion>Ejecución de pasivos semana uno</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:16:58 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaPasivoSemanaUnoD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:17:01 a. m.</fecha>
+    <descripcion>Ejecución del día 9. Para el rango de fechas fecha inicio 01/02/2026 12:00:00 a. m. al rango de fecha final 07/02/2026 12:00:00 a. m.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaPasivoSemanaUnoD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:17:01 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:17:03 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaEjecutaMovimientosIngreso</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:17:05 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 01/10/2025 hasta 01/10/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:17:10 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:17:12 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>ProcesoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:17:13 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS. </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:17:16 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:17:52 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>ProcesoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:18:35 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS. </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:18:58 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:19:27 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaEjecutaMovimientosIngreso</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>DAPI365</modulo>
+    <fecha>09/02/2026 10:19:34 a. m.</fecha>
+    <descripcion>{ "fault":{ "faultcode":2, "faultstring":"No se encontro informacion con el parametro especificado.", "detail":"What happened?\r\nNo se encontro informacion con el parametro especificado.\r\n\r\nError code: 2\r\n\r\nAdditional information:\r\nEIT_PILEWL :\r\nMethod ConsultaPrepolizas (ClsProPolizas.ConsultaPrepolizas), line 193\r\nEIT_DATEHEURE : 09/02/2026 08:18:57\r\nEIT_TYPE_WDFILE : &lt;4&gt;\r\nEIT_IDCODE : &lt;458752&gt;" } }</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:19:35 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:20:05 a. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaPasivoSemanaUnoD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:20:05 a. m.</fecha>
+    <descripcion>Ejecución de pasivos semana uno</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaPasivoSemanaUnoD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:20:10 a. m.</fecha>
+    <descripcion>Ejecución del día 9. Para el rango de fechas fecha inicio 01/02/2026 12:00:00 a. m. al rango de fecha final 07/02/2026 12:00:00 a. m.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaPasivoSemanaUnoD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:20:10 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:20:15 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaEjecutaMovimientosIngreso</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:20:17 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 01/10/2025 hasta 01/10/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:20:31 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>ProcesoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:20:55 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS. </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:21:02 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>ProcesoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:21:23 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS. </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaMovimientoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:21:30 a. m.</fecha>
+    <descripcion>No se ha podido leer la información proveniente de TMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnStart</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:22:09 a. m.</fecha>
+    <descripcion>Servicio de replicas inicializado</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:22:09 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:22:11 a. m.</fecha>
+    <descripcion>DescargaMovimientoTMS</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaEjecutaMovimientosIngreso</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:22:18 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 01/10/2025 hasta 01/10/2025</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>ProcesoTMS</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>09/02/2026 10:34:45 a. m.</fecha>
+    <descripcion>Procesando lote de movimientos en el período 01/10/2025 hasta 01/10/2025 No se ha podido leer la información proveniente de TMS. . No se ha podido leer la información proveniente de TMS. { "fault":{ "faultcode":2, "faultstring":"No se encontro informacion con el parametro especificado.", "detail":"What happened?\r\nNo se encontro informacion con el parametro especificado.\r\n\r\nError code: 2\r\n\r\nAdditional information:\r\nEIT_PILEWL :\r\nMethod ConsultaPrepolizas (ClsProPolizas.ConsultaPrepolizas), line 193\r\nEIT_DATEHEURE : 09/02/2026 08:23:02\r\nEIT_TYPE_WDFILE : &lt;4&gt;\r\nEIT_IDCODE : &lt;458752&gt;" } }. No se ha podido leer la información proveniente de TMS. { "fault":{ "faultcode":2, "faultstring":"No se encontro informacion con el parametro especificado.", "detail":"What happened?\r\nNo se encontro informacion con el parametro especificado.\r\n\r\nError code: 2\r\n\r\nAdditional information:\r\nEIT_PILEWL :\r\nMethod ConsultaPrepolizas (ClsProPolizas.ConsultaPrepolizas), line 193\r\nEIT_DATEHEURE : 09/02/2026 08:23:02\r\nEIT_TYPE_WDFILE : &lt;4&gt;\r\nEIT_IDCODE : &lt;458752&gt;" } }. No se ha podido leer la información proveniente de TMS. { "fault":{ "faultcode":2, "faultstring":"No se encontro informacion con el parametro especificado.", "detail":"What happened?\r\nNo se encontro informacion con el parametro especificado.\r\n\r\nError code: 2\r\n\r\nAdditional information:\r\nEIT_PILEWL :\r\nMethod ConsultaPrepolizas (ClsProPolizas.ConsultaPrepolizas), line 193\r\nEIT_DATEHEURE : 09/02/2026 08:34:32\r\nEIT_TYPE_WDFILE : &lt;4&gt;\r\nEIT_IDCODE : &lt;458752&gt;" } }</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaEjecutaMovimientosIngreso</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>DAPI365</modulo>
+    <fecha>09/02/2026 10:34:49 a. m.</fecha>
+    <descripcion>{ "fault":{ "faultcode":2, "faultstring":"No se encontro informacion con el parametro especificado.", "detail":"What happened?\r\nNo se encontro informacion con el parametro especificado.\r\n\r\nError code: 2\r\n\r\nAdditional information:\r\nEIT_PILEWL :\r\nMethod ConsultaPrepolizas (ClsProPolizas.ConsultaPrepolizas), line 193\r\nEIT_DATEHEURE : 09/02/2026 08:34:32\r\nEIT_TYPE_WDFILE : &lt;4&gt;\r\nEIT_IDCODE : &lt;458752&gt;" } }</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>09/02/2026 10:34:51 a. m.</fecha>
+    <descripcion>Ejecución de envio de ingreso/pagos</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

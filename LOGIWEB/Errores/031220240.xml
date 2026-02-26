@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>LOGI_Loginusuario_PD.cs</usuario_id>
+    <metodo>ValidaLoginUsuario</metodo>
+    <clase>Login usuario</clase>
+    <modulo>
+    </modulo>
+    <fecha>03/12/2024 12:34:41 a. m.</fecha>
+    <descripcion>Message: Login failed for user 'jsulubc'.. StackTrace:    at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal&amp; connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal&amp; connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AD.LOGI_ConexionSql_AD.OpenConnection() in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 39
+   at PD.Tablas.LOGI_Loginusuario_PD.ValidaLoginUsuario(LOGI_Usuarios_INFO&amp; oUsuario, LOGI_Usuarios_INFO oParam) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\LOGI_Loginusuario_PD.cs:line 39. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void .ctor(System.Data.ProviderBase.DbConnectionPoolIdentity, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SqlCredential, System.Object, System.String, System.Security.SecureString, Boolean, System.Data.SqlClient.SqlConnectionString, System.Data.SqlClient.SessionData, System.Data.ProviderBase.DbConnectionPool, System.String, Boolean, System.Data.SqlClient.SqlAuthenticationProviderManager)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ActualizaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>03/12/2024 12:39:38 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ActualizaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:line 336
+   at PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ActualizaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO oParam) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:line 77. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>UPDATE lm_config_d365 SET cianombre = 'Logistica del maya' , ciad365 = '+KhdLtYxoDmhq+xiTaBe4Q==' , aprobador = 'QAR8//2E3HLv64Dh9W0aMA==' , URLApi = 'YAlxSXTj04BJMzKVYKK8IgA+l4+IVa5vJiEpRpDQLjpWfvYXwT1o8Pgu+WQ5LRxk' , URLApilogin = 'hkvnibfEnPb5BwzOLIjR3xXskcmU/5MCBoQEGtkL/6bOReo/IggscuGFPc7hixUIP4kxzD93wm60TdkV9BABqQ==' , intentos = 5 , enviohorad365 = 0 , enviomind365 = 10 , enviosegd365 = 0 , usuariod365 = 'O9wxCUsmlf13Xe/gjZqsd12Rd1JGlqI94yYymBwFS/JlGuy6J6f4FDyi6qLxC0nR' , passusrd365 = 'l/ogIzTWCVuk6fN8p97MTQ==' , clientID = '2ad88395-b77d-4561-9441-d0e40824f9bc' , Conexion_eqv = 'Mogtw3j2pzuy24R4RkBDozy3c+4IDrmD87sjSX3RNibxyYLxrrXq7gTaycjub6EdWCsSoTI6hpkt2gNQIiBjmkkwoa+JYO3CEHvDhgZhkb5ieceYINRthO/XCfPx2+NqmujDYele5L+dBvjNsgrWaS+nzZHH4n77tKTjhXedTlwK3GtKOPnMMQi6Ae1ctx1C' , Servidor_eqv = '10.20.128.149' , Usuario_eqv = 'usr_pbasbil' , Password_eqv = 'desarrollo' , catalogo_eqv = 'BIL' , plantilla = 'C:\OPERACIONES\PLANTILLA DISPERSIONES' , cuenta_liq1 = 'ACA002003' , cuenta_liq2 = 'ACA002003' , aprobadordisp = 'vKl+kxtLg8d0gHgyWJ2KTw==' , diariodisp = '368DISOPER' , diariofondo = '350FFOPER' , sincd365 = 1 , cuantaviatico = 'ACA002003' , rfc_tms = 'rfcaaaaaa' , api_tms = 'aaaaggggg' , url_tms = 'gggagaaa' , host_tms = 'wwwww' , puerto_mail = '333333' , user_mail = 'rrrrrrrr' , password_mail = 'ttttttt' , cuentas_cxc_mail = 'yyyyyy' , cuentas_cxp_mail = 'jjjjj' , cuentas_mtto_mail = 'nnnnn' , cuentas_gsto_mail = 'bvvvvv' , cuentas_soport_mail = 'tttttt' , ssl_mail = 0 , tiempo_mail = 0 , intento_mail = 0 WHERE cia = 67</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ActualizaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>03/12/2024 12:40:27 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ActualizaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:line 336
+   at PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ActualizaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO oParam) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:line 77. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>UPDATE lm_config_d365 SET cianombre = 'Logistica del maya' , ciad365 = '+KhdLtYxoDmhq+xiTaBe4Q==' , aprobador = 'QAR8//2E3HLv64Dh9W0aMA==' , URLApi = 'YAlxSXTj04BJMzKVYKK8IgA+l4+IVa5vJiEpRpDQLjpWfvYXwT1o8Pgu+WQ5LRxk' , URLApilogin = 'hkvnibfEnPb5BwzOLIjR3xXskcmU/5MCBoQEGtkL/6bOReo/IggscuGFPc7hixUIP4kxzD93wm60TdkV9BABqQ==' , intentos = 5 , enviohorad365 = 0 , enviomind365 = 10 , enviosegd365 = 0 , usuariod365 = 'O9wxCUsmlf13Xe/gjZqsd12Rd1JGlqI94yYymBwFS/JlGuy6J6f4FDyi6qLxC0nR' , passusrd365 = 'l/ogIzTWCVuk6fN8p97MTQ==' , clientID = '2ad88395-b77d-4561-9441-d0e40824f9bc' , Conexion_eqv = 'Mogtw3j2pzuy24R4RkBDozy3c+4IDrmD87sjSX3RNibxyYLxrrXq7gTaycjub6EdWCsSoTI6hpkt2gNQIiBjmkkwoa+JYO3CEHvDhgZhkb5ieceYINRthO/XCfPx2+NqmujDYele5L+dBvjNsgrWaS+nzZHH4n77tKTjhXedTlwK3GtKOPnMMQi6Ae1ctx1C' , Servidor_eqv = '10.20.128.149' , Usuario_eqv = 'usr_pbasbil' , Password_eqv = 'desarrollo' , catalogo_eqv = 'BIL' , plantilla = 'C:\OPERACIONES\PLANTILLA DISPERSIONES' , cuenta_liq1 = 'ACA002003' , cuenta_liq2 = 'ACA002003' , aprobadordisp = 'vKl+kxtLg8d0gHgyWJ2KTw==' , diariodisp = '368DISOPER' , diariofondo = '350FFOPER' , sincd365 = 1 , cuantaviatico = 'ACA002003' , rfc_tms = 'rfcaaaaaa' , api_tms = 'aaaaggggg' , url_tms = 'gggagaaa' , host_tms = 'wwwww' , puerto_mail = '3345' , user_mail = 'rrrrrrrr' , password_mail = 'ttttttt' , cuentas_cxc_mail = 'yyyyyy' , cuentas_cxp_mail = 'jjjjj' , cuentas_mtto_mail = 'nnnnn' , cuentas_gsto_mail = 'bvvvvv' , cuentas_soport_mail = 'tttttt' , ssl_mail = 0 , tiempo_mail = 0 , intento_mail = 0 WHERE cia = 67</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ActualizaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>03/12/2024 12:40:33 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ActualizaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:line 336
+   at PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ActualizaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO oParam) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:line 77. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>UPDATE lm_config_d365 SET cianombre = 'Logistica del maya' , ciad365 = '+KhdLtYxoDmhq+xiTaBe4Q==' , aprobador = 'QAR8//2E3HLv64Dh9W0aMA==' , URLApi = 'YAlxSXTj04BJMzKVYKK8IgA+l4+IVa5vJiEpRpDQLjpWfvYXwT1o8Pgu+WQ5LRxk' , URLApilogin = 'hkvnibfEnPb5BwzOLIjR3xXskcmU/5MCBoQEGtkL/6bOReo/IggscuGFPc7hixUIP4kxzD93wm60TdkV9BABqQ==' , intentos = 5 , enviohorad365 = 0 , enviomind365 = 10 , enviosegd365 = 0 , usuariod365 = 'O9wxCUsmlf13Xe/gjZqsd12Rd1JGlqI94yYymBwFS/JlGuy6J6f4FDyi6qLxC0nR' , passusrd365 = 'l/ogIzTWCVuk6fN8p97MTQ==' , clientID = '2ad88395-b77d-4561-9441-d0e40824f9bc' , Conexion_eqv = 'Mogtw3j2pzuy24R4RkBDozy3c+4IDrmD87sjSX3RNibxyYLxrrXq7gTaycjub6EdWCsSoTI6hpkt2gNQIiBjmkkwoa+JYO3CEHvDhgZhkb5ieceYINRthO/XCfPx2+NqmujDYele5L+dBvjNsgrWaS+nzZHH4n77tKTjhXedTlwK3GtKOPnMMQi6Ae1ctx1C' , Servidor_eqv = '10.20.128.149' , Usuario_eqv = 'usr_pbasbil' , Password_eqv = 'desarrollo' , catalogo_eqv = 'BIL' , plantilla = 'C:\OPERACIONES\PLANTILLA DISPERSIONES' , cuenta_liq1 = 'ACA002003' , cuenta_liq2 = 'ACA002003' , aprobadordisp = 'vKl+kxtLg8d0gHgyWJ2KTw==' , diariodisp = '368DISOPER' , diariofondo = '350FFOPER' , sincd365 = 1 , cuantaviatico = 'ACA002003' , rfc_tms = 'rfcaaaaaa' , api_tms = 'aaaaggggg' , url_tms = 'gggagaaa' , host_tms = 'wwwww' , puerto_mail = '334' , user_mail = 'rrrrrrrr' , password_mail = 'ttttttt' , cuentas_cxc_mail = 'yyyyyy' , cuentas_cxp_mail = 'jjjjj' , cuentas_mtto_mail = 'nnnnn' , cuentas_gsto_mail = 'bvvvvv' , cuentas_soport_mail = 'tttttt' , ssl_mail = 0 , tiempo_mail = 0 , intento_mail = 0 WHERE cia = 67</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ActualizaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>03/12/2024 12:41:00 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ActualizaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:line 336
+   at PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ActualizaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO oParam) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:line 77. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>UPDATE lm_config_d365 SET cianombre = 'Logistica del maya' , ciad365 = '+KhdLtYxoDmhq+xiTaBe4Q==' , aprobador = 'QAR8//2E3HLv64Dh9W0aMA==' , URLApi = 'YAlxSXTj04BJMzKVYKK8IgA+l4+IVa5vJiEpRpDQLjpWfvYXwT1o8Pgu+WQ5LRxk' , URLApilogin = 'hkvnibfEnPb5BwzOLIjR3xXskcmU/5MCBoQEGtkL/6bOReo/IggscuGFPc7hixUIP4kxzD93wm60TdkV9BABqQ==' , intentos = 5 , enviohorad365 = 0 , enviomind365 = 10 , enviosegd365 = 0 , usuariod365 = 'O9wxCUsmlf13Xe/gjZqsd12Rd1JGlqI94yYymBwFS/JlGuy6J6f4FDyi6qLxC0nR' , passusrd365 = 'l/ogIzTWCVuk6fN8p97MTQ==' , clientID = '2ad88395-b77d-4561-9441-d0e40824f9bc' , Conexion_eqv = 'Mogtw3j2pzuy24R4RkBDozy3c+4IDrmD87sjSX3RNibxyYLxrrXq7gTaycjub6EdWCsSoTI6hpkt2gNQIiBjmkkwoa+JYO3CEHvDhgZhkb5ieceYINRthO/XCfPx2+NqmujDYele5L+dBvjNsgrWaS+nzZHH4n77tKTjhXedTlwK3GtKOPnMMQi6Ae1ctx1C' , Servidor_eqv = '10.20.128.149' , Usuario_eqv = 'usr_pbasbil' , Password_eqv = 'desarrollo' , catalogo_eqv = 'BIL' , plantilla = 'C:\OPERACIONES\PLANTILLA DISPERSIONES' , cuenta_liq1 = 'ACA002003' , cuenta_liq2 = 'ACA002003' , aprobadordisp = 'vKl+kxtLg8d0gHgyWJ2KTw==' , diariodisp = '368DISOPER' , diariofondo = '350FFOPER' , sincd365 = 1 , cuantaviatico = 'ACA002003' , rfc_tms = 'rfcaaaaaa' , api_tms = 'aaaaggggg' , url_tms = 'gggagaaa' , host_tms = 'wwwww' , puerto_mail = '334' , user_mail = 'rrrrrrrr' , password_mail = 'ttttttt' , cuentas_cxc_mail = 'yyyyyy' , cuentas_cxp_mail = 'jjjjj' , cuentas_mtto_mail = 'nnnnn' , cuentas_gsto_mail = 'bvvvvv' , cuentas_soport_mail = 'tttttt' , ssl_mail = 0 , tiempo_mail = 54 , intento_mail = 33 WHERE cia = 67</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ActualizaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>03/12/2024 12:43:48 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ActualizaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:line 336
+   at PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ActualizaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO oParam) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:line 77. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>UPDATE lm_config_d365 SET cianombre = 'Logistica del maya' , ciad365 = '+KhdLtYxoDmhq+xiTaBe4Q==' , aprobador = 'QAR8//2E3HLv64Dh9W0aMA==' , URLApi = 'YAlxSXTj04BJMzKVYKK8IgA+l4+IVa5vJiEpRpDQLjpWfvYXwT1o8Pgu+WQ5LRxk' , URLApilogin = 'hkvnibfEnPb5BwzOLIjR3xXskcmU/5MCBoQEGtkL/6bOReo/IggscuGFPc7hixUIP4kxzD93wm60TdkV9BABqQ==' , intentos = 5 , enviohorad365 = 0 , enviomind365 = 10 , enviosegd365 = 0 , usuariod365 = 'O9wxCUsmlf13Xe/gjZqsd12Rd1JGlqI94yYymBwFS/JlGuy6J6f4FDyi6qLxC0nR' , passusrd365 = 'l/ogIzTWCVuk6fN8p97MTQ==' , clientID = '2ad88395-b77d-4561-9441-d0e40824f9bc' , Conexion_eqv = 'Mogtw3j2pzuy24R4RkBDozy3c+4IDrmD87sjSX3RNibxyYLxrrXq7gTaycjub6EdWCsSoTI6hpkt2gNQIiBjmkkwoa+JYO3CEHvDhgZhkb5ieceYINRthO/XCfPx2+NqmujDYele5L+dBvjNsgrWaS+nzZHH4n77tKTjhXedTlwK3GtKOPnMMQi6Ae1ctx1C' , Servidor_eqv = '10.20.128.149' , Usuario_eqv = 'usr_pbasbil' , Password_eqv = 'desarrollo' , catalogo_eqv = 'BIL' , plantilla = 'C:\OPERACIONES\PLANTILLA DISPERSIONES' , cuenta_liq1 = 'ACA002003' , cuenta_liq2 = 'ACA002003' , aprobadordisp = 'vKl+kxtLg8d0gHgyWJ2KTw==' , diariodisp = '368DISOPER' , diariofondo = '350FFOPER' , sincd365 = 1 , cuantaviatico = 'ACA002003' , rfc_tms = 'xxxdasda' , api_tms = 'aasdasdad' , url_tms = '333333ssss' , host_tms = 'sqqqqq' , puerto_mail = '3311' , user_mail = 'aawwwww' , password_mail = 'aaadddfffff' , cuentas_cxc_mail = 'fffffaaa' , cuentas_cxp_mail = 'xxxxx' , cuentas_mtto_mail = 'xxxxx' , cuentas_gsto_mail = 'xxxxx' , cuentas_soport_mail = 'xxx' , ssl_mail = 1 , tiempo_mail = 0 , intento_mail = 0 WHERE cia = 67</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ActualizaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>03/12/2024 12:44:53 a. m.</fecha>
+    <descripcion>Message: String or binary data would be truncated.
+The statement has been terminated.. StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 101
+   at AD.Tablas.D365.LOGI_ConfiguracionD365_AD.ActualizaConfiguracion(LOGI_ConexionSql_AD&amp; oConnection, LOGI_ConfiguracionD365_INFO oParam, String&amp; sConsultaSql) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_ConfiguracionD365_AD.cs:line 336
+   at PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ActualizaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO oParam) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:line 77. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>UPDATE lm_config_d365 SET cianombre = 'Logistica del maya' , ciad365 = '+KhdLtYxoDmhq+xiTaBe4Q==' , aprobador = 'QAR8//2E3HLv64Dh9W0aMA==' , URLApi = 'YAlxSXTj04BJMzKVYKK8IgA+l4+IVa5vJiEpRpDQLjpWfvYXwT1o8Pgu+WQ5LRxk' , URLApilogin = 'hkvnibfEnPb5BwzOLIjR3xXskcmU/5MCBoQEGtkL/6bOReo/IggscuGFPc7hixUIP4kxzD93wm60TdkV9BABqQ==' , intentos = 5 , enviohorad365 = 0 , enviomind365 = 10 , enviosegd365 = 0 , usuariod365 = 'O9wxCUsmlf13Xe/gjZqsd12Rd1JGlqI94yYymBwFS/JlGuy6J6f4FDyi6qLxC0nR' , passusrd365 = 'l/ogIzTWCVuk6fN8p97MTQ==' , clientID = '2ad88395-b77d-4561-9441-d0e40824f9bc' , Conexion_eqv = 'Mogtw3j2pzuy24R4RkBDozy3c+4IDrmD87sjSX3RNibxyYLxrrXq7gTaycjub6EdWCsSoTI6hpkt2gNQIiBjmkkwoa+JYO3CEHvDhgZhkb5ieceYINRthO/XCfPx2+NqmujDYele5L+dBvjNsgrWaS+nzZHH4n77tKTjhXedTlwK3GtKOPnMMQi6Ae1ctx1C' , Servidor_eqv = '10.20.128.149' , Usuario_eqv = 'usr_pbasbil' , Password_eqv = 'desarrollo' , catalogo_eqv = 'BIL' , plantilla = 'C:\OPERACIONES\PLANTILLA DISPERSIONES' , cuenta_liq1 = 'ACA002003' , cuenta_liq2 = 'ACA002003' , aprobadordisp = 'vKl+kxtLg8d0gHgyWJ2KTw==' , diariodisp = '368DISOPER' , diariofondo = '350FFOPER' , sincd365 = 1 , cuantaviatico = 'ACA002003' , rfc_tms = 'xxxdasda' , api_tms = 'aasdasdad' , url_tms = '333333ssss' , host_tms = 'sqqqqq' , puerto_mail = '3311' , user_mail = 'aawwwww' , password_mail = 'aaadddfffff' , cuentas_cxc_mail = 'fffffaaa' , cuentas_cxp_mail = 'xxxxx' , cuentas_mtto_mail = 'xxxxx' , cuentas_gsto_mail = 'xxxxx' , cuentas_soport_mail = 'xxx' , ssl_mail = 1 , tiempo_mail = 0 , intento_mail = 0 WHERE cia = 67</otros_datos>
+  </error>
+</errores>

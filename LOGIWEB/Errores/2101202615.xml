@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:02:34 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:05:50 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:06:15 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:07:40 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:53:07 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:53:10 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:53:15 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:53:18 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:53:20 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:53:20 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:53:20 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:53:21 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:53:25 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:53:37 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:53:38 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:53:41 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:53:53 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:53:56 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:53:56 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:55:05 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText) en C:\Repositorio\Logi\reprocesador\PD\Herramientas\LOGI_Rijndael_PD.cs:línea 90
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion) en C:\Repositorio\Logi\reprocesador\PD\Tablas\D365\LOGI_ConfiguracionD365_PD.cs:línea 56. InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:55:35 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText)
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion). InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:56:03 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText)
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion). InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>550</usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:56:34 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText)
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion). InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+  <error>
+    <usuario_id>
+    </usuario_id>
+    <metodo>ListaConfiguracion</metodo>
+    <clase>LOGI_ConfiguracionD365_PD.cs</clase>
+    <modulo>Configuración D365</modulo>
+    <fecha>21/01/2026 03:57:05 p. m.</fecha>
+    <descripcion>Message: Los datos de entrada no forman un bloque completo.. StackTrace:    en Internal.Cryptography.UniversalCryptoDecryptor.UncheckedTransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en Internal.Cryptography.UniversalCryptoTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   en System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   en System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   en System.IO.Stream.Close()
+   en System.IO.StreamReader.Dispose(Boolean disposing)
+   en System.IO.TextReader.Dispose()
+   en PD.Herramientas.LOGI_Rijndael_PD.DecryptRijndael(String cipherText)
+   en PD.Tablas.D365.LOGI_ConfiguracionD365_PD.ListaConfiguracion(String sUsuarioID, LOGI_ConfiguracionD365_INFO&amp; oConfiguracion). InnerException . Source: System.Core. Data: System.Collections.ListDictionaryInternal. TargetSite: Byte[] UncheckedTransformFinalBlock(Byte[], Int32, Int32)</descripcion>
+    <otros_datos>SELECT * FROM lm_config_d365</otros_datos>
+  </error>
+</errores>

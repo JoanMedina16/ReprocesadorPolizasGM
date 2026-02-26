@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F9B66CDF-EB87-4CC6-9458-094D829BEB74}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AD</RootNamespace>
+    <AssemblyName>AD</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LOGI_ConexionSql_AD.cs" />
+    <Compile Include="Objetos\D365\LOGI_Dispersiones_AD.cs" />
+    <Compile Include="Objetos\D365\LOGI_Extraccion_ZAP_AD.cs" />
+    <Compile Include="Objetos\LMAE\LOGI_ListaMaestra_AD.cs" />
+    <Compile Include="Objetos\LOGI_Loginusuario_AD.cs" />
+    <Compile Include="Objetos\MOTF\LOGI_PortesViaje_AD.cs" />
+    <Compile Include="Objetos\OPE\LOGI_Bitacora_AD.cs" />
+    <Compile Include="Objetos\OPE\LOGI_ControlXMLS_INFO.cs" />
+    <Compile Include="Objetos\OPE\LOGI_EventosBitacora_AD.cs" />
+    <Compile Include="Objetos\OPE\LOGI_Historico_XMLS_AD.cs" />
+    <Compile Include="Objetos\OPE\LOGI_Liquidacion_AD.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tablas\CAT\LOGI_Modulos_AD.cs" />
+    <Compile Include="Tablas\CAT\LOGI_Roles_AD.cs" />
+    <Compile Include="Tablas\CAT\LOGI_Sucursales_AD.cs" />
+    <Compile Include="Tablas\CAT\LOGI_Usuarios_AD.cs" />
+    <Compile Include="Tablas\D365\LOGI_CargaInicial_AD.cs" />
+    <Compile Include="Tablas\D365\LOGI_ConfiguracionD365_AD.cs" />
+    <Compile Include="Tablas\D365\LOGI_ConfiguracionOPE_AD.cs" />
+    <Compile Include="Tablas\D365\LOGI_Documentos_AD.cs" />
+    <Compile Include="Tablas\D365\LOGI_FacturasCFDI_AD.cs" />
+    <Compile Include="Tablas\D365\LOGI_Plantilla_AD.cs" />
+    <Compile Include="Tablas\D365\LOGI_PolizasD365_AD.cs" />
+    <Compile Include="Tablas\D365\LOGI_Polizas_AD.cs" />
+    <Compile Include="Tablas\D365\LOGI_Polizas_detalle_AD.cs" />
+    <Compile Include="Tablas\D365\LOGI_Requisiciones_AD.cs" />
+    <Compile Include="Tablas\D365\LOGI_Transacciones_AD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Areas_AD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Bancos_AD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Centroscosto_AD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Clientes_AD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Cuentas_AD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Departamentos_AD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Filialesterceros_AD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Fondofijo_AD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Impuestos_AD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Lineaproduccion_AD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Proveedores_AD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Sucursales_AD.cs" />
+    <Compile Include="Tablas\FUEL\LOGI_Proveedores_AD.cs" />
+    <Compile Include="Tablas\FUEL\LOGI_Tickets_AD.cs" />
+    <Compile Include="Tablas\OS\LOGI_OrdenServicio_AD.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\INFO\INFO.csproj">
+      <Project>{bfa40f14-c552-4296-a298-c1ae5b736db0}</Project>
+      <Name>INFO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

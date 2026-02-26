@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>WINSERVICES</usuario_id>
+    <metodo>TimerSincronizaIngresoReposicionD365_Object=&gt; CATCH</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>02/01/2026 06:26:32 p. m.</fecha>
+    <descripcion>Message: Referencia a objeto no establecida como instancia de un objeto.. StackTrace:    en LOGISERVICES.Service1.TimerSincronizaIngresoReposicionD365_Object(Object state) en C:\Repositorio\Logi\reprocesador\LOGISERVICES\Service1.cs:línea 308. InnerException . Source: LOGISERVICES. Data: System.Collections.ListDictionaryInternal. TargetSite: Void TimerSincronizaIngresoReposicionD365_Object(System.Object)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+</errores>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>JFLORESU</usuario_id>
+    <metodo>ListadodeCombustible</metodo>
+    <clase>LOGI_Liquidacion_PD.cs</clase>
+    <modulo>Liquidaciones</modulo>
+    <fecha>27/11/2024 04:22:08 p. m.</fecha>
+    <descripcion>Message: The ConnectionString property has not been initialized.. StackTrace:    at System.Data.SqlClient.SqlConnection.PermissionDemand()
+   at System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AD.LOGI_ConexionSql_AD.OpenConnection() in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 39
+   at AD.LOGI_ConexionSql_AD.FillDataSet(String sQuerySql, Hashtable objHash, Int32 iTimeOut) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:line 56
+   at AD.Objetos.OPE.LOGI_Liquidacion_AD.ListaBitacoraCombustible(LOGI_ConexionSql_AD&amp; oConnection, List`1&amp; lstCombustibles, LOGI_LiquidacionCombus_INFO oParam, String&amp; sConsultaSql) in C:\Users\csantiagob\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\AD\Objetos\OPE\LOGI_Liquidacion_AD.cs:line 72
+   at PD.Objetos.OPE.LOGI_Liquidacion_PD.ListadodeCombustible(String sUsuarioID, List`1&amp; lstLiquidaciones, LOGI_LiquidacionCombus_INFO oParam). InnerException . Source: System.Data. Data: System.Collections.ListDictionaryInternal. TargetSite: Void PermissionDemand()</descripcion>
+    <otros_datos>SELECT * FROM lm_combus_cargas_tms  </otros_datos>
+  </error>
+</errores>

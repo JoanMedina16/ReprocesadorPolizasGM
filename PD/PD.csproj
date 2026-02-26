@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EC956CAA-632D-490C-951C-5F0509F44842}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PD</RootNamespace>
+    <AssemblyName>PD</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EPPlus">
+      <HintPath>..\Librerias\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Herramientas\LOGI_EncryptaOTM_PD.cs" />
+    <Compile Include="Herramientas\LOGI_Historico_XMLS_PD.cs" />
+    <Compile Include="Herramientas\LOGI_Rijndael_PD.cs" />
+    <Compile Include="Herramientas\LOGI_Tools_PD.cs" />
+    <Compile Include="Herramientas\LOGI_WebTools_PD.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Objetos\D365\LOGI_Dispersiones_PD.cs" />
+    <Compile Include="Objetos\D365\LOGI_Extraccion_ZAP_PD.cs" />
+    <Compile Include="Objetos\LMAE\LOGI_ListaMaestra_PD.cs" />
+    <Compile Include="Objetos\MOTF\LOGI_PortesViaje_PD.cs" />
+    <Compile Include="Objetos\OPE\LOGI_Combustibles_PD.cs" />
+    <Compile Include="Objetos\OPE\LOGI_EventosBitacora_PD.cs" />
+    <Compile Include="Objetos\OPE\LOGI_FondoFijo_PD.cs" />
+    <Compile Include="Objetos\OPE\LOGI_Gstoviaje_PD.cs" />
+    <Compile Include="Objetos\OPE\LOGI_Liquidacion_PD.cs" />
+    <Compile Include="Objetos\OPE\LOGI_NominaMO_PD.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tablas\CAT\LOGI_Modulos_PD.cs" />
+    <Compile Include="Tablas\CAT\LOGI_Roles_PD.cs" />
+    <Compile Include="Tablas\CAT\LOGI_Sucursales_PD.cs" />
+    <Compile Include="Tablas\CAT\LOGI_Usuarios_PD.cs" />
+    <Compile Include="Tablas\D365\LOGI_CargaInicial_PD.cs" />
+    <Compile Include="Tablas\D365\LOGI_ConfiguracionD365_PD.cs" />
+    <Compile Include="Tablas\D365\LOGI_ConfiguracionOPE_PD.cs" />
+    <Compile Include="Tablas\D365\LOGI_Documentos_PD.cs" />
+    <Compile Include="Tablas\D365\LOGI_Plantilla_PD.cs" />
+    <Compile Include="Tablas\D365\LOGI_Polizas_detalle_PD.cs" />
+    <Compile Include="Tablas\D365\LOGI_AsientosD365_PD.cs" />
+    <Compile Include="Tablas\D365\LOGI_PolizasD365_PD .cs" />
+    <Compile Include="Tablas\D365\LOGI_Polizas_PD.cs" />
+    <Compile Include="Tablas\D365\LOGI_Requisiciones_PD.cs" />
+    <Compile Include="Tablas\D365\LOGI_Transacciones_PD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Areas_PD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Bancos_PD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Centroscosto_PD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Proveedores_PD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Clientes_PD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Departamentos_PD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Fondofijo_PD.cs" />
+    <Compile Include="Tablas\EQUIV\LOGI_Sucursales_PD.cs" />
+    <Compile Include="Tablas\FUEL\LOGI_Proveedores_PD.cs" />
+    <Compile Include="Tablas\LOGI_Loginusuario_PD.cs" />
+    <Compile Include="Tablas\OS\LOGI_OrdenServicio_PD.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AD\AD.csproj">
+      <Project>{f9b66cdf-eb87-4cc6-9458-094d829beb74}</Project>
+      <Name>AD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\INFO\INFO.csproj">
+      <Project>{bfa40f14-c552-4296-a298-c1ae5b736db0}</Project>
+      <Name>INFO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

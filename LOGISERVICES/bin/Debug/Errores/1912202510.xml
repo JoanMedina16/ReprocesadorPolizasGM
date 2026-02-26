@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>WINSERVICES</usuario_id>
+    <metodo>ListenerPathPeriodos</metodo>
+    <clase>Service1.cs</clase>
+    <modulo>Operaciones Logística</modulo>
+    <fecha>19/12/2025 10:46:19 a. m.</fecha>
+    <descripcion>Message: El nombre de directorio C:\OPERACIONES\DESCARGA_TMS\PROCESO ANTIGUOS no es válido.. StackTrace:    en System.IO.FileSystemWatcher.set_Path(String value)
+   en LOGISERVICES.Service1.ListenerPathPeriodos(). InnerException . Source: System. Data: System.Collections.ListDictionaryInternal. TargetSite: Void set_Path(System.String)</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </error>
+</errores>

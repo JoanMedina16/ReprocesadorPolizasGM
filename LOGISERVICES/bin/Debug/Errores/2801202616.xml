@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>DescargaEjecutaMovimientosIngreso</metodo>
+    <clase>LOGI_TMSConnection_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>28/01/2026 04:33:44 p. m.</fecha>
+    <descripcion>Message: Referencia a objeto no establecida como instancia de un objeto.. StackTrace:    en D365API.LOGI_TMSConnection_D365.Proceso(LOGI_ConfiguracionD365_INFO oConf, DateTime date, String cnx, String Proceso, Int32 ProFacturas, Int32 ProCancelacionFacturas, Int32 ProNotasCredito, Int32 ProMovimientosBancarios, Int32 ProPasivos) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 232
+   en D365API.LOGI_TMSConnection_D365.DescargaEjecutaMovimientosIngreso(LOGI_ConfiguracionD365_INFO oConf, String cnxBitacora, String sFechaInicio, String sFechaFinal, Boolean bLeeTXT, Boolean bCreaArchivoJSON, Int32 ProFacturas, Int32 ProCancelacionFacturas, Int32 ProNotasCredito, Int32 ProMovimientosBancarios, Int32 ProPasivos) en C:\Repositorio\Logi\reprocesador\D365API\LOGI_TMSConnection_D365.cs:línea 519. InnerException . Source: D365API. Data: System.Collections.ListDictionaryInternal. TargetSite: Boolean Proceso(INFO.Tablas.D365.LOGI_ConfiguracionD365_INFO, System.DateTime, System.String, System.String, Int32, Int32, Int32, Int32, Int32)</descripcion>
+    <otros_datos>620</otros_datos>
+  </error>
+</errores>

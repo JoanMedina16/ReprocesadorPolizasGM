@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<errores>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Actualizapoliza</metodo>
+    <clase>LOGI_Polizas_PD.cs</clase>
+    <modulo>Polizas D365</modulo>
+    <fecha>01/02/2023 08:29:01 a. m.</fecha>
+    <descripcion>Message: The UPDATE permission was denied on the object 'lm_asientos_d365', database 'admlog04', schema 'dbo'.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 101
+   en AD.Tablas.D365.LOGI_Polizas_AD.ActualizaPoliza(LOGI_ConexionSql_AD&amp; oConnection, String sUsuarioID, LOGI_Polizas_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_Polizas_AD.cs:línea 298
+   en PD.Tablas.D365.LOGI_Polizas_PD.Actualizapoliza(String sUsuarioID, LOGI_Polizas_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_PD.cs:línea 285. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>UPDATE lm_asientos_d365 SET recIdD365 = '5638955459' , estatus = 2 , idUsuarioEdita = 620 , fechaEdicion = GETDATE() WHERE FolioAsiento = 'LM.CP22023013128'</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Actualizapoliza</metodo>
+    <clase>LOGI_Polizas_PD.cs</clase>
+    <modulo>Polizas D365</modulo>
+    <fecha>01/02/2023 08:31:16 a. m.</fecha>
+    <descripcion>Message: The UPDATE permission was denied on the object 'lm_asientos_d365', database 'admlog04', schema 'dbo'.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 101
+   en AD.Tablas.D365.LOGI_Polizas_AD.ActualizaPoliza(LOGI_ConexionSql_AD&amp; oConnection, String sUsuarioID, LOGI_Polizas_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_Polizas_AD.cs:línea 298
+   en PD.Tablas.D365.LOGI_Polizas_PD.Actualizapoliza(String sUsuarioID, LOGI_Polizas_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_PD.cs:línea 285. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>UPDATE lm_asientos_d365 SET recIdD365 = '5638959310' , estatus = 2 , idUsuarioEdita = 620 , fechaEdicion = GETDATE() WHERE FolioAsiento = 'LM.CP22023013129'</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Actualizapoliza</metodo>
+    <clase>LOGI_Polizas_PD.cs</clase>
+    <modulo>Polizas D365</modulo>
+    <fecha>01/02/2023 08:39:35 a. m.</fecha>
+    <descripcion>Message: The UPDATE permission was denied on the object 'lm_asientos_d365', database 'admlog04', schema 'dbo'.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 101
+   en AD.Tablas.D365.LOGI_Polizas_AD.ActualizaPoliza(LOGI_ConexionSql_AD&amp; oConnection, String sUsuarioID, LOGI_Polizas_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_Polizas_AD.cs:línea 298
+   en PD.Tablas.D365.LOGI_Polizas_PD.Actualizapoliza(String sUsuarioID, LOGI_Polizas_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_PD.cs:línea 285. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>UPDATE lm_asientos_d365 SET recIdD365 = '5638952589' , estatus = 2 , idUsuarioEdita = 620 , fechaEdicion = GETDATE() WHERE FolioAsiento = 'LM.CP22023013130'</otros_datos>
+  </error>
+  <error>
+    <usuario_id>620</usuario_id>
+    <metodo>Actualizapoliza</metodo>
+    <clase>LOGI_Polizas_PD.cs</clase>
+    <modulo>Polizas D365</modulo>
+    <fecha>01/02/2023 08:39:50 a. m.</fecha>
+    <descripcion>Message: The UPDATE permission was denied on the object 'lm_asientos_d365', database 'admlog04', schema 'dbo'.. StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean&amp; dataReady)
+   en System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean&amp; usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en AD.LOGI_ConexionSql_AD.ExecuteCommand(String sQuerySql, Hashtable objHash) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\LOGI_ConexionSql_AD.cs:línea 101
+   en AD.Tablas.D365.LOGI_Polizas_AD.ActualizaPoliza(LOGI_ConexionSql_AD&amp; oConnection, String sUsuarioID, LOGI_Polizas_INFO oParam, String&amp; sConsultaSql) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\AD\Tablas\D365\LOGI_Polizas_AD.cs:línea 298
+   en PD.Tablas.D365.LOGI_Polizas_PD.Actualizapoliza(String sUsuarioID, LOGI_Polizas_INFO oParam) en C:\CBrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\PD\Tablas\D365\LOGI_Polizas_PD.cs:línea 285. InnerException . Source: .Net SqlClient Data Provider. Data: System.Collections.ListDictionaryInternal. TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean, System.Action`1[System.Action])</descripcion>
+    <otros_datos>UPDATE lm_asientos_d365 SET recIdD365 = '5638956425' , estatus = 2 , idUsuarioEdita = 620 , fechaEdicion = GETDATE() WHERE FolioAsiento = 'LM.CP22023013131'</otros_datos>
+  </error>
+</errores>

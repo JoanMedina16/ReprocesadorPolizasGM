@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Historial-Dispersiones-Datos.aspx.cs" Inherits="LOGIWEB.Metodos.D365.Historial_Dispersiones_Datos" %>

@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<procesos>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnExecuteAsientos</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:45:44 a. m.</fecha>
+    <descripcion>Se han encontrado un total de 37 póliza(s) a procesar</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:45:44 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM.CP22024072931</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:45:53 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:45:53 a. m.</fecha>
+    <descripcion>f|Ya se ha cargado el xml de una factura con UUID E75B7339-E706-B04E-8CB4-E27F05CF9672.Error en el encabezado. Error al grabar la factura.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:45:53 a. m.</fecha>
+    <descripcion>f|Ya se ha cargado el xml de una factura con UUID E75B7339-E706-B04E-8CB4-E27F05CF9672.Error en el encabezado. Error al grabar la factura.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:45:54 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM.CP2202408169</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:48:11 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:48:11 a. m.</fecha>
+    <descripcion>f|El UUID ya fue utilizado   Error en asiento LOGFAX000001372No es posible notificar al proveedor Edenred Mexico, S.A. de C.V. que su factura no pudo ser registrada en el sistema debido a que no cuenta con un correo electronico registradoEl UUID 92A96802-76E6-024C-9228-79ACEF053EE1 ya fue utilizado. Error en el asiento LOGFAX000001372.Error al adjuntar el XML. Error al grabar la factura.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:48:11 a. m.</fecha>
+    <descripcion>f|El UUID ya fue utilizado   Error en asiento LOGFAX000001372No es posible notificar al proveedor Edenred Mexico, S.A. de C.V. que su factura no pudo ser registrada en el sistema debido a que no cuenta con un correo electronico registradoEl UUID 92A96802-76E6-024C-9228-79ACEF053EE1 ya fue utilizado. Error en el asiento LOGFAX000001372.Error al adjuntar el XML. Error al grabar la factura.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:48:11 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM.CP22024081613</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:48:17 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:48:17 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM.CP22024081613" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5639935605</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:48:17 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:48:17 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM.CP22024082719</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:50:10 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado False</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:50:10 a. m.</fecha>
+    <descripcion>f|El UUID ya fue utilizado   Error en asiento LOGFAX000001372No es posible notificar al proveedor Edenred Mexico, S.A. de C.V. que su factura no pudo ser registrada en el sistema debido a que no cuenta con un correo electronico registradoEl UUID 5A0BE218-769A-2B49-8EEE-B2A7BABCEAEC ya fue utilizado. Error en el asiento LOGFAX000001372.Error al adjuntar el XML. Error al grabar la factura.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:50:10 a. m.</fecha>
+    <descripcion>f|El UUID ya fue utilizado   Error en asiento LOGFAX000001372No es posible notificar al proveedor Edenred Mexico, S.A. de C.V. que su factura no pudo ser registrada en el sistema debido a que no cuenta con un correo electronico registradoEl UUID 5A0BE218-769A-2B49-8EEE-B2A7BABCEAEC ya fue utilizado. Error en el asiento LOGFAX000001372.Error al adjuntar el XML. Error al grabar la factura.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:50:11 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM.CP22024082926</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:50:11 a. m.</fecha>
+    <descripcion>Se han detectado una o varias líneas que no tienen configuradas las equivalencias. ERROR Error en equivalencias: Sucursales</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:50:11 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM.CP22024082928</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:50:32 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:50:32 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM.CP22024082928" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5639933262</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:50:32 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>OnExecuteAsientos</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:54:14 a. m.</fecha>
+    <descripcion>Se han encontrado un total de 32 póliza(s) a procesar</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Estatus True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:54:14 a. m.</fecha>
+    <descripcion>APLICANDO EL FOLIO LM.CP22024082926</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:56:36 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>Creado True</metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:56:36 a. m.</fecha>
+    <descripcion>El diario contable con folio "LM.CP22024082926" se ha creado con éxito en D365. Se asignó el siguiente folio REC ID t|5639930013|Factura creada.</descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+  <proceso>
+    <usuario_id>620</usuario_id>
+    <metodo>
+    </metodo>
+    <clase>LOGI_ConnectionService_D365.cs</clase>
+    <modulo>D365</modulo>
+    <fecha>29/08/2024 11:56:36 a. m.</fecha>
+    <descripcion>
+    </descripcion>
+    <otros_datos>
+    </otros_datos>
+  </proceso>
+</procesos>

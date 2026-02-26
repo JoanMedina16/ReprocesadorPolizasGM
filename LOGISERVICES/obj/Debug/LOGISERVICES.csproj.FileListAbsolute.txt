@@ -1,0 +1,146 @@
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\LOGISERVICES.exe.config
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\LOGISERVICES.pdb
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\D365.dll
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\INFO.dll
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\PD.dll
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\RestSharp.dll
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\Newtonsoft.Json.dll
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\AD.dll
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\EPPlus.dll
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\D365.pdb
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\INFO.pdb
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\PD.pdb
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\AD.pdb
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.AssemblyReference.cache
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.ProjectInstaller.resources
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.Service1.resources
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.GenerateResource.cache
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.CoreCompileInputs.cache
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERV.B733A8E8.Up2Date
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.exe
+C:\Cbrito\BITBUCKET\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.pdb
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\LOGISERVICES.exe.config
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\LOGISERVICES.pdb
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\D365.dll
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\INFO.dll
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\PD.dll
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\RestSharp.dll
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\Newtonsoft.Json.dll
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\AD.dll
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\EPPlus.dll
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\D365.pdb
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\D365.dll.config
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\INFO.pdb
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\PD.pdb
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\AD.pdb
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.AssemblyReference.cache
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.ProjectInstaller.resources
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.Service1.resources
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.GenerateResource.cache
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.CoreCompileInputs.cache
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.CopyComplete
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.exe
+C:\Users\racupulh\Desktop\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.pdb
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\LOGISERVICES.exe.config
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\LOGISERVICES.pdb
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\D365.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\INFO.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\PD.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\RestSharp.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\Newtonsoft.Json.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\AD.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\EPPlus.dll
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\D365.pdb
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\D365.dll.config
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\INFO.pdb
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\PD.pdb
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\bin\Debug\AD.pdb
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.AssemblyReference.cache
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.ProjectInstaller.resources
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.Service1.resources
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.GenerateResource.cache
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.CoreCompileInputs.cache
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERV.B733A8E8.Up2Date
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.exe
+C:\Users\casantiagob\Desktop\FUENTES _ TMP\IntegracionesD365_Desarrollo_dos\IntegracionesD365_Desarrollo_dos\LOGISERVICES\obj\Debug\LOGISERVICES.pdb
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe.config
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.pdb
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\bin\Debug\D365.dll
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\bin\Debug\INFO.dll
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\bin\Debug\Newtonsoft.Json.dll
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\bin\Debug\PD.dll
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\bin\Debug\RestSharp.dll
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\bin\Debug\AD.dll
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\bin\Debug\EPPlus.dll
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\bin\Debug\D365.pdb
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\bin\Debug\D365.dll.config
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\bin\Debug\INFO.pdb
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\bin\Debug\PD.pdb
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\bin\Debug\AD.pdb
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.AssemblyReference.cache
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.exe.config
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.ProjectInstaller.resources
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.Service1.resources
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.GenerateResource.cache
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.CoreCompileInputs.cache
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERV.B733A8E8.Up2Date
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.exe
+C:\Ftes\Logistica\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.pdb
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe.config
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe.manifest
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.application
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.pdb
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\D365.dll
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\INFO.dll
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\Newtonsoft.Json.dll
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\PD.dll
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\RestSharp.dll
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\AD.dll
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\EPPlus.dll
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\D365.pdb
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\D365.dll.config
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\INFO.pdb
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\PD.pdb
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\bin\Debug\AD.pdb
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.AssemblyReference.cache
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.ProjectInstaller.resources
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.Service1.resources
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.GenerateResource.cache
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.CoreCompileInputs.cache
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.exe.manifest
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.application
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERV.B733A8E8.Up2Date
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.exe
+C:\Ftes\logiservices\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.pdb
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe.config
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe.manifest
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.application
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.exe
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\LOGISERVICES.pdb
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\D365API.dll
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\INFO.dll
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\Newtonsoft.Json.dll
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\PD.dll
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\RestSharp.dll
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\AD.dll
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\EPPlus.dll
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\D365API.pdb
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\D365API.dll.config
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\INFO.pdb
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\PD.pdb
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\bin\Debug\AD.pdb
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.AssemblyReference.cache
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.ProjectInstaller.resources
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.Service1.resources
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.GenerateResource.cache
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.csproj.CoreCompileInputs.cache
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.exe.manifest
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.application
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\obj\Debug\LOGISERV.B733A8E8.Up2Date
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.exe
+C:\Repositorio\Logi\reprocesador\LOGISERVICES\obj\Debug\LOGISERVICES.pdb
